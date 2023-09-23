@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File V:\_tools\mikcpu-retrobat-master\lightgun\mikcpu_lightgun.ps1
