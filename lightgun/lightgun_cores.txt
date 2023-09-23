@@ -1,0 +1,20 @@
+﻿system|override|core
+3do|4DO|4do
+amiga|PUAE|puae
+arcade|FB Alpha 2012|fbalpha2012
+arcade|FinalBurn Neo|fbneo
+arcade|MAME|mame
+arcade|MAME 2003-Plus|mame2003_plus
+arcade|MAME 2016|mame2016
+atomiswave|Flycast|flycast
+dreamcast|Flycast|flycast
+genesis|Genesis Plus GX|genesis_plus_gx
+megadrive|Genesis Plus GX|genesis_plus_gx
+megacd|Genesis Plus GX|genesis_plus_gx
+segacd|Genesis Plus GX|genesis_plus_gx
+mastersystem|Genesis Plus GX|genesis_plus_gx
+naomi|Flycast|flycast
+nes|FCEUmm|fceumm
+psx|Beetle PSX HW|mednafen_psx_hw
+saturn|Beetle Saturn|mednafen_saturn
+snes|Snes9x|snes9x
