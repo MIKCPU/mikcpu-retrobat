@@ -1,0 +1,4 @@
+mame2003-plus_digital_joy_centering = "disabled"
+mame2003-plus_skip_disclaimer = "enabled"
+mame2003-plus_skip_warnings = "enabled"
+mame2003-plus_xy_device = "lightgun"

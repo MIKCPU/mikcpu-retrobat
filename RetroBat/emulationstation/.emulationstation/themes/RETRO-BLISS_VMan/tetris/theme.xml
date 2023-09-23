@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>0.999 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME COLLECTION</text>
+   <text lang="Pt">COLEÇÃO DE JOGOS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Tetris is a puzzle video game created by the Soviet software engineer Alexey Pajitnov in 1984. It has been published by several companies for multiple platforms, most prominently during a dispute over the appropriation of the rights in the late 1980s.</text>
+  <text lang="Pt">Tetris é um videogame de quebra-cabeça criado pelo engenheiro de software soviético Alexey Pajitnov em 1984. Foi publicado por várias empresas para várias plataformas, principalmente durante uma disputa sobre apropriação dos direitos no final dos anos 1980.</text>
+  </text>
+ </view>
+</theme>

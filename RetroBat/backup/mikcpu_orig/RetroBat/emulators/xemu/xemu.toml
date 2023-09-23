@@ -1,0 +1,31 @@
+[general]
+show_welcome = false
+skip_boot_anim = true
+last_viewed_menu_index = 2
+
+[general.updates]
+check = false
+
+[input.bindings]
+port1 = '030000005e040000e002000000007200'
+
+[display.quality]
+surface_scale = 2
+
+[display.window]
+fullscreen_on_startup = true
+
+[display.ui]
+fit = 'stretch'
+scale = 2
+
+[sys]
+mem_limit = '128'
+
+[sys.files]
+bootrom_path = 'V:\RetroBat\bios\mcpx_1.0.bin'
+flashrom_path = 'V:\RetroBat\bios\Complex_4627.bin'
+eeprom_path = 'V:\RetroBat\saves\xbox\eeprom.bin'
+hdd_path = 'V:\RetroBat\saves\xbox\xbox_hdd.qcow2'
+dvd_path = 'V:\RetroBat\roms\xbox\Blood Wake (USA).iso'
+

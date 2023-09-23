@@ -1,0 +1,34 @@
+{
+    "actions_player1": [
+        {
+            "trigger": "start",
+            "type": "key",
+            "target": "KEY_P"
+        },
+        {
+            "trigger": "select",
+            "type": "key",
+            "target": "KEY_M"
+        },
+        {
+            "trigger": "a",
+            "type": "key",
+            "target": "KEY_D"
+        },
+        {
+            "trigger": "b",
+            "type": "key",
+            "target": "KEY_C"
+        },
+        {
+            "trigger": "x",
+            "type": "key",
+            "target": "KEY_B"
+        },
+        {
+            "trigger": "y",
+            "type": "key",
+            "target": "KEY_A"
+        }
+    ]
+}

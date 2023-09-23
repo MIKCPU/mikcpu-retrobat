@@ -1,0 +1,23 @@
+[general]
+show_welcome = false
+skip_boot_anim = true
+last_viewed_menu_index = 6
+
+[input.bindings]
+port1 = '030000005e040000e002000000007200'
+
+[display.quality]
+surface_scale = 4
+
+[display.window]
+fullscreen_on_startup = true
+
+[display.ui]
+fit = 'scale_16_9'
+
+[sys.files]
+bootrom_path = 'V:\RetroBat\bios\mcpx_1.0.bin'
+flashrom_path = 'V:\RetroBat\bios\Complex_4627.bin'
+eeprom_path = 'V:\RetroBat\saves\xbox\eeprom.bin'
+hdd_path = 'V:\RetroBat\saves\xbox\xbox_hdd.qcow2'
+

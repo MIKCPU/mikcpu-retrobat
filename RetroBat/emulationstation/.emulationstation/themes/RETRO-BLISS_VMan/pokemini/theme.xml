@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>0.999 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  Haldheld</text>
+   <text lang="Pt">2001  ·  Portátil</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Pokémon Mini (ポケモンミニ) (stylized Pokémon mini) is a portable console designed and manufactured by Nintendo and whose theme is the multi-billionaire media franchise Pokémon. It is the smallest gaming system with an interchangeable cartridge ever produced by Nintendo, weighing just 70 grams.</text>
+  <text lang="Pt">Pokémon Mini (ポケモンミニ) (estilizado Pokémon mini) é uma consola portátil desenhada e fabricada pela Nintendo e cujo tema é o multi-bilionário media franchise Pokémon. É o menor sistema de jogos com cartucho intercambiável alguma vez produzido pela Nintendo, pesando apenas 70 gramas.</text>
+  </text>
+ </view>
+</theme>

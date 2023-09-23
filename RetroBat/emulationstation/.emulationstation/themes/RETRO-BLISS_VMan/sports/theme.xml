@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>1 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>35</zIndex>            
+</image>
+</view>	
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>Game Collection</text>
+   <text lang="Pt">Coleção de jogos</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The sports hall of fame honours all major sports from Virtualman (Baseball, Basketball, Bowling, Boxing, Fishing, Football, Golf, Hockey, Soccer, Tennis) collections.</text>
+  <text lang="Pt">
+O hall da fama dos esportes homenageia todos os principais esportes das coleções Virtualman (beisebol, basquete, boliche, boxe, pesca, futebol, golfe, hóquei, futebol, tênis).</text>
+  </text>
+ </view>
+</theme>

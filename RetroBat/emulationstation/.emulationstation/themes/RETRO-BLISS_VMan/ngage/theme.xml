@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>0.999 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2003  ·  32-BIT MOBILE</text>
+   <text lang="Pt">2003  ·  32-BIT MOBILE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The N-Gage is a smartphone combining features of a mobile phone and a handheld game system developed by Nokia, announced on 4 November 2002 and released on 7 October 2003. It runs the original Series 60 platform on Symbian OS v6.1.</text>
+  <text lang="Pt">O N-Gage é um smartphone que combina recursos de um telefone celular e um sistema de jogo portátil desenvolvido pela Nokia, anunciado em 4 de novembro de 2002 e lançado em 7 de outubro de 2003. Ele executa a plataforma original Série 60 no Symbian OS v6.1.</text>
+  </text>
+ </view>
+</theme>

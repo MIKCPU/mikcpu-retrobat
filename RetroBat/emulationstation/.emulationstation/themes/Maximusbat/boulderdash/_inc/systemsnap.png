@@ -1,0 +1,714 @@
+at\barbie
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\barbie\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\barbie\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\barbie\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\barbie\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\barbie\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\motocross\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ngp\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atarilynx\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\astrocade\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\arcade\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\videosystem\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gx4000\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\linux\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\segastv\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mugen\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gamecube\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballfx2\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spectravideo\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\o2em\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-verticalarcade\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\moonlight\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snesmsu1\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neshack\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tiger\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbahack\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos\_inc\sytemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\oricatmos\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rampage\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\auto-at4players\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\worldheroes\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaga\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mrboom\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\n64\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\digdug\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\progressbarbg.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\Proxima-Nova-Sbold.otf
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\white.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\background.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\progressbar.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\progressbg.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\.loading\bar-retro.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\flash\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amigacd32\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thekingoffighters\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\xbox360\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\silenthill\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\c64mini\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari2600\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\donkeykongcountry\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snowboarding\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sg-1000\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\residualvm\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo-classic\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings\_inc\systemsnap.webp
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lemmings\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sega32x\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\acclaim\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pinballarcade\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spaceinvaders\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cps1\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nintendobsx\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\trs-80\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\sailormoon\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\model3\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\centipede\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tic80\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\lynx\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boulderdash\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gbah\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\jamespond\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\rambo\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\msxturbor\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\vectrex\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\asteroids\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\teknoparrot\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\wonderswancolor\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\solarus\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\defender\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\roadrash\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\snescd\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\cavestory\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\psikyo\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\love\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\seibu\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\beatemup\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\spiderman\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\odyssey\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\fba_2\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\megacd\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\naomi2\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\samurai_worrior\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\_inc\.DS_Store
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\boxing\.DS_Store
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\addamsfamily\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\outrun\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeo\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\amiga4000\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atari5200\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\galaxian\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\triforce\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\mariokart\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\ggh\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\princeofpersia\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\nes\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\thomson\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\yoshi\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\gb2players\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\crash\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\openbor\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\64dd\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\pcenginemini\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\coleco\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\tombraider\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\dataeast\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\apple2gs\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\palm\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\retrobat\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd\Desktop.ini
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\neogeocd\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > creating dir: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave\_inc
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave\_inc\systemsnap.png
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\atomiswave\theme.xml
+14:57:49  0000000000004B94  INFO    : TNTFSVolumeItem > saveItem: D:\mikcpu-retrobat\RetroBat\emulationstation\.emulationstation\themes\Maximusbat\shinobi
+14:57:49  0000000000004B94 

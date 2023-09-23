@@ -1,0 +1,39 @@
+{
+    "actions_player1": [
+        {
+            "trigger": "select",
+            "type": "key",
+            "target": "KEY_7"
+        },
+        {
+            "trigger": "start",
+            "type": "key",
+            "target": "KEY_8"
+        },
+        {
+            "trigger": "a",
+            "type": "key",
+            "target": "KEY_2"
+        },
+        {
+            "trigger": "b",
+            "type": "key",
+            "target": "KEY_1"
+        },
+        {
+            "trigger": "x",
+            "type": "key",
+            "target": "KEY_4"
+        },
+        {
+            "trigger": "y",
+            "type": "key",
+            "target": "KEY_LEFTSHIFT"
+        },
+        {
+            "trigger": "r3",
+            "type": "key",
+            "target": "KEY_9"
+        }
+    ]
+}

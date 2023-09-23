@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>0.999 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME COLLECTION</text>
+   <text lang="Pt">COLEÇÃO DE JOGOS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A ninja (忍者) or shinobi, was a covert agent, mercenary, or guerrilla warfare expert in feudal Japan. The functions of a ninja included, reconnaissance, espionage, infiltration, deception, ambush, bodyguarding and their fighting skills in martial arts, including ninjutsu.</text>
+  <text lang="Pt">Um ninja (忍者) ou shinobi, era um agente secreto, mercenário ou especialista em guerrilha no Japão feudal. As funções de um ninja incluíam reconhecimento, espionagem, infiltração, engano, emboscada, guarda-costas e suas habilidades de luta em artes marciais, Incluindo ninjutsu.</text>
+  </text>
+ </view>
+</theme>

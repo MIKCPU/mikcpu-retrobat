@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>1 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>	
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  'Model 32bits' ARCADE</text>
+   <text lang="Pt">1992  ·  'Model 32bits' ARCADE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Sega Model 1 was an arcade board released by Sega in 1992. During the development of the system, Sega went to General Electric Aerospace (which would become part of Martin Marietta, later Lockheed Martin) looking for help to create the 3D rendering system</text>
+  <text lang="Pt">Sega Model 1 foi uma placa de arcade lançada pela Sega em 1992. Durante o desenvolvimento do sistema, a Sega foi à General Electric Aerospace (que se tornaria parte da Martin Marietta, mais tarde Lockheed Martin) em busca de auxílio para criar o sistema de renderização 3D</text>
+  </text>
+ </view>
+</theme>

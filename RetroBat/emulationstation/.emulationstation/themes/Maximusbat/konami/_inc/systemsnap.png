@@ -1,0 +1,1572 @@
+93487
+0923-15:00:57.153 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:00:57.154 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:00:57.154 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:00:57.154 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:00:57.154 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:00:57.213 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.213 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.216 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.216 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.220 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.220 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.457 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.460 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.460 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.462 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.465 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.465 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.469 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.469 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.472 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.474 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.474 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.479 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.479 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.483 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.483 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.487 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:00:57.487 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:00:57.492 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.496 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.501 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:00:57.501 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:00:57.501 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:00:57.501 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:00:57.501 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:00:57.501 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:00:57.501 498C[I]: Application Allow list reported to GST Plugin
+0923-15:01:57.517 498C[I]: OnActiveProcessCountChanged called
+0923-15:01:57.517 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:01:57.517 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:01:57.517 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:01:57.518 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:01:57.518 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:01:57.518 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:01:57.518 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:01:57.518 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:01:57.519 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:01:57.519 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:01:57.519 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:01:57.519 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:01:57.567 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.567 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.569 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.569 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.572 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.572 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.808 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.811 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.811 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.814 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.816 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.816 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.820 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.820 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.822 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.825 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.825 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.828 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.828 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.832 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.832 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.836 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:01:57.836 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:01:57.840 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.843 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.847 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:01:57.847 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:01:57.847 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:01:57.847 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:01:57.847 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:01:57.847 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:01:57.847 498C[I]: Application Allow list reported to GST Plugin
+0923-15:02:57.861 498C[I]: OnActiveProcessCountChanged called
+0923-15:02:57.861 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:02:57.862 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:02:57.862 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:02:57.863 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:02:57.863 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:02:57.863 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:02:57.863 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:02:57.863 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:02:57.864 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:02:57.864 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:02:57.864 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:02:57.864 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:02:57.925 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:57.925 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:57.927 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:57.927 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:57.932 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:57.932 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.155 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.158 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.158 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.160 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.163 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.163 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.167 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.167 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.170 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.172 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.172 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.176 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.176 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.180 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.180 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.184 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:02:58.184 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:02:58.188 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.192 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.197 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:02:58.197 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:02:58.197 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:02:58.197 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:02:58.197 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:02:58.197 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:02:58.197 498C[I]: Application Allow list reported to GST Plugin
+0923-15:03:15.548 31FC[D]: Checking 'VisualOPS' for application a_plague_tale_requiem
+0923-15:03:15.549 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/a_plague_tale_requiem
+0923-15:03:15.551 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: cdb52c67d40558547123b4bab8bcc6033958850d9c010ee4d1665e3fb97c5629
+0923-15:03:15.554 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:15.595 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:15.595 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:15.628 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:15.697 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:15.733 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:15 GMT
+Last-Modified: Wed, 30 Aug 2023 12:38:33 GMT
+Accept-Ranges: bytes
+Age: 2075081
+ETag: cdb52c67d40558547123b4bab8bcc6033958850d9c010ee4d1665e3fb97c5629
+Server: ECAcc (muc/3331)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:15.734 31FC[I]: Services response HTTP code: 304
+0923-15:03:15.734 31FC[I]: There are no metadata updates for : a_plague_tale_requiem, VisualOPS
+0923-15:03:15.735 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for a_plague_tale_requiem
+0923-15:03:15.735 31FC[D]: Checking 'VisualOPS' for application age_of_empires_iv
+0923-15:03:15.735 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/age_of_empires_iv
+0923-15:03:15.738 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 087a727de47075a84209135c170c49fe8bd0bbcc972d8910319bb90801b02776
+0923-15:03:15.739 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:15.740 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:15.740 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:15.777 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:15.853 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:15.890 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:15 GMT
+Last-Modified: Wed, 30 Aug 2023 12:38:33 GMT
+Accept-Ranges: bytes
+Age: 2075082
+ETag: 087a727de47075a84209135c170c49fe8bd0bbcc972d8910319bb90801b02776
+Server: ECAcc (muc/3327)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:15.890 31FC[I]: Services response HTTP code: 304
+0923-15:03:15.890 31FC[I]: There are no metadata updates for : age_of_empires_iv, VisualOPS
+0923-15:03:15.891 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for age_of_empires_iv
+0923-15:03:15.891 31FC[D]: Checking 'VisualOPS' for application assassins_creed_odyssey
+0923-15:03:15.892 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/assassins_creed_odyssey
+0923-15:03:15.894 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 25ba3274a4dd76f6830fd86e4151d23003ae5460754528084ece8fccf69894db
+0923-15:03:15.896 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:15.896 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:15.896 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:15.932 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:16.008 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:16.046 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:15 GMT
+Last-Modified: Mon, 31 Jul 2023 14:21:15 GMT
+Accept-Ranges: bytes
+Age: 2075090
+ETag: 25ba3274a4dd76f6830fd86e4151d23003ae5460754528084ece8fccf69894db
+Server: ECAcc (muc/331B)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:16.047 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.047 31FC[I]: There are no metadata updates for : assassins_creed_odyssey, VisualOPS
+0923-15:03:16.048 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for assassins_creed_odyssey
+0923-15:03:16.048 31FC[D]: Checking 'VisualOPS' for application baldurs_gate_3
+0923-15:03:16.049 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/baldurs_gate_3
+0923-15:03:16.051 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 837605b65aeb35904a1dd0023315e3a5eb1800a4b1f85cf4bf61876e68216c1f
+0923-15:03:16.053 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:16.053 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:16.053 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:16.085 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:16.157 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:16.192 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:28 GMT
+Accept-Ranges: bytes
+Age: 2075025
+ETag: 837605b65aeb35904a1dd0023315e3a5eb1800a4b1f85cf4bf61876e68216c1f
+Server: ECAcc (muc/3376)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:16.192 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.192 31FC[I]: There are no metadata updates for : baldurs_gate_3, VisualOPS
+0923-15:03:16.193 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for baldurs_gate_3
+0923-15:03:16.193 31FC[D]: Checking 'VisualOPS' for application bright_memory_infinite
+0923-15:03:16.194 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/bright_memory_infinite
+0923-15:03:16.196 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: a7c4298c4f4b260bdf851ddb04ef8d39bdf0f6c6bf5b7a41e30a1573be75ca54
+0923-15:03:16.198 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:16.198 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:16.198 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:16.235 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:16.311 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:16.349 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:30 GMT
+Accept-Ranges: bytes
+Age: 2075015
+ETag: a7c4298c4f4b260bdf851ddb04ef8d39bdf0f6c6bf5b7a41e30a1573be75ca54
+Server: ECAcc (muc/3322)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:16.349 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.350 31FC[I]: There are no metadata updates for : bright_memory_infinite, VisualOPS
+0923-15:03:16.350 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for bright_memory_infinite
+0923-15:03:16.350 31FC[D]: Checking 'VisualOPS' for application call_of_duty_black_ops_cold_war
+0923-15:03:16.351 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/call_of_duty_black_ops_cold_war
+0923-15:03:16.354 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 073f939a5b36c08f045a951a28e64a64b3017651da8077fa470b9477e4592cac
+0923-15:03:16.355 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:16.356 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:16.356 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:16.392 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:16.467 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:16.507 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:27 GMT
+Accept-Ranges: bytes
+Age: 2075026
+ETag: 073f939a5b36c08f045a951a28e64a64b3017651da8077fa470b9477e4592cac
+Server: ECAcc (muc/337E)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:16.507 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.508 31FC[I]: There are no metadata updates for : call_of_duty_black_ops_cold_war, VisualOPS
+0923-15:03:16.508 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for call_of_duty_black_ops_cold_war
+0923-15:03:16.508 31FC[D]: Checking 'VisualOPS' for application call_of_duty_modern_warfare_ii_2022
+0923-15:03:16.509 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/call_of_duty_modern_warfare_ii_2022
+0923-15:03:16.511 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 7dc447e39a214f7fd018e85dd1f7bfb67d16ec8be14301af4e3895cd7c0f452c
+0923-15:03:16.513 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:16.513 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:16.513 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:16.549 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:16.624 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:16.663 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:27 GMT
+Accept-Ranges: bytes
+Age: 2075024
+ETag: 7dc447e39a214f7fd018e85dd1f7bfb67d16ec8be14301af4e3895cd7c0f452c
+Server: ECAcc (muc/3305)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:16.663 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.664 31FC[I]: There are no metadata updates for : call_of_duty_modern_warfare_ii_2022, VisualOPS
+0923-15:03:16.664 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for call_of_duty_modern_warfare_ii_2022
+0923-15:03:16.664 31FC[D]: Checking 'VisualOPS' for application call_of_duty_vanguard
+0923-15:03:16.665 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/call_of_duty_vanguard
+0923-15:03:16.667 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 0a3376d07e4bcc95dd795453c2e820f6e8ec8434c6ff3e2059c2232e465189de
+0923-15:03:16.669 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:16.669 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:16.669 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:16.705 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:16.779 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:16.816 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:28 GMT
+Accept-Ranges: bytes
+Age: 2075020
+ETag: 0a3376d07e4bcc95dd795453c2e820f6e8ec8434c6ff3e2059c2232e465189de
+Server: ECAcc (muc/3321)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:16.817 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.817 31FC[I]: There are no metadata updates for : call_of_duty_vanguard, VisualOPS
+0923-15:03:16.817 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for call_of_duty_vanguard
+0923-15:03:16.817 31FC[D]: Checking 'VisualOPS' for application counter_strike_global_offensive
+0923-15:03:16.818 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/counter_strike_global_offensive
+0923-15:03:16.820 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 0ef414b5a5912233a84804ed03a4230a828405754e195fcbc89288f23d0b18f3
+0923-15:03:16.822 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:16.822 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:16.823 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:16.862 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:16.944 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:16.984 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:16 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:26 GMT
+Accept-Ranges: bytes
+Age: 2075028
+ETag: 0ef414b5a5912233a84804ed03a4230a828405754e195fcbc89288f23d0b18f3
+Server: ECAcc (muc/3361)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:16.985 31FC[I]: Services response HTTP code: 304
+0923-15:03:16.985 31FC[I]: There are no metadata updates for : counter_strike_global_offensive, VisualOPS
+0923-15:03:16.986 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for counter_strike_global_offensive
+0923-15:03:16.986 31FC[D]: Checking 'VisualOPS' for application cross_fire_rival_factions
+0923-15:03:16.986 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/cross_fire_rival_factions
+0923-15:03:16.989 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 93f9527ce563cc962e32a7e3e2efb1fc48123e5d47ea53d56e3c2986dac766e6
+0923-15:03:16.990 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:16.991 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:16.991 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:17.028 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:17.102 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:17.138 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:28 GMT
+Accept-Ranges: bytes
+Age: 2075014
+ETag: 93f9527ce563cc962e32a7e3e2efb1fc48123e5d47ea53d56e3c2986dac766e6
+Server: ECAcc (muc/3314)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:17.139 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.139 31FC[I]: There are no metadata updates for : cross_fire_rival_factions, VisualOPS
+0923-15:03:17.139 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for cross_fire_rival_factions
+0923-15:03:17.139 31FC[D]: Checking 'VisualOPS' for application cuphead
+0923-15:03:17.140 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/cuphead
+0923-15:03:17.143 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 4f9e8830859c2ef9a445fc90a5f97f79f443c56d787479032997a4189c5d2c7c
+0923-15:03:17.145 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:17.145 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:17.145 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:17.181 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:17.256 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:17.293 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:27 GMT
+Accept-Ranges: bytes
+Age: 2075025
+ETag: 4f9e8830859c2ef9a445fc90a5f97f79f443c56d787479032997a4189c5d2c7c
+Server: ECAcc (muc/336C)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:17.293 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.294 31FC[I]: There are no metadata updates for : cuphead, VisualOPS
+0923-15:03:17.294 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for cuphead
+0923-15:03:17.294 31FC[D]: Checking 'VisualOPS' for application cyberpunk_2077
+0923-15:03:17.295 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/cyberpunk_2077
+0923-15:03:17.297 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: bde39625196df9c03f685b9c7836c80b2b12e9eea19c4118e9dc578e8b555db3
+0923-15:03:17.299 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:17.299 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:17.299 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:17.336 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:17.414 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:17.451 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Thu, 21 Sep 2023 20:33:18 GMT
+Accept-Ranges: bytes
+Age: 145799
+ETag: bde39625196df9c03f685b9c7836c80b2b12e9eea19c4118e9dc578e8b555db3
+Server: ECAcc (muc/3308)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33286566.33286566
+
+
+0923-15:03:17.451 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.451 31FC[I]: There are no metadata updates for : cyberpunk_2077, VisualOPS
+0923-15:03:17.452 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for cyberpunk_2077
+0923-15:03:17.452 31FC[D]: Checking 'VisualOPS' for application dangerous_driving
+0923-15:03:17.453 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/dangerous_driving
+0923-15:03:17.455 31FC[D]: HTTP request 00000222779FDBB0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 85f79aa35d2ba8ae9bdff42cd0c71c21eddacd4ffc8bc0761332a5738bf9268b
+0923-15:03:17.457 31FC[D]: HTTP request 00000222779FDBB0: resolving name services.gfe.nvidia.com
+0923-15:03:17.457 31FC[D]: HTTP request 00000222779FDBB0: resolved address 152.199.20.80
+0923-15:03:17.458 31FC[D]: HTTP request 00000222779FDBB0: connecting to server 152.199.20.80
+0923-15:03:17.490 31FC[D]: HTTP request 00000222779FDBB0: connected to server 152.199.20.80
+0923-15:03:17.560 31FC[D]: HTTP request 00000222779FDBB0: request sent
+0923-15:03:17.597 31FC[D]: HTTP request 00000222779FDBB0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Wed, 30 Aug 2023 12:39:36 GMT
+Age: 2075022
+ETag: 85f79aa35d2ba8ae9bdff42cd0c71c21eddacd4ffc8bc0761332a5738bf9268b
+Server: ECAcc (muc/335E)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:17.598 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.598 31FC[I]: There are no metadata updates for : dangerous_driving, VisualOPS
+0923-15:03:17.599 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for dangerous_driving
+0923-15:03:17.599 31FC[D]: Checking 'VisualOPS' for application detroit_become_human
+0923-15:03:17.600 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/detroit_become_human
+0923-15:03:17.602 31FC[D]: HTTP request 00000222779FDFA0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 79d15ea65c56ec39909949526425385e85e190bd1ef9b8164a1e7d5e4b80e953
+0923-15:03:17.604 31FC[D]: HTTP request 00000222779FDFA0: resolving name services.gfe.nvidia.com
+0923-15:03:17.604 31FC[D]: HTTP request 00000222779FDFA0: resolved address 152.199.20.80
+0923-15:03:17.604 31FC[D]: HTTP request 00000222779FDFA0: connecting to server 152.199.20.80
+0923-15:03:17.640 31FC[D]: HTTP request 00000222779FDFA0: connected to server 152.199.20.80
+0923-15:03:17.716 31FC[D]: HTTP request 00000222779FDFA0: request sent
+0923-15:03:17.753 31FC[D]: HTTP request 00000222779FDFA0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Mon, 31 Jul 2023 14:22:19 GMT
+Accept-Ranges: bytes
+Age: 2074958
+ETag: 79d15ea65c56ec39909949526425385e85e190bd1ef9b8164a1e7d5e4b80e953
+Server: ECAcc (muc/3338)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:17.753 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.754 31FC[I]: There are no metadata updates for : detroit_become_human, VisualOPS
+0923-15:03:17.754 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for detroit_become_human
+0923-15:03:17.754 31FC[D]: Checking 'VisualOPS' for application diablo_4
+0923-15:03:17.755 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/diablo_4
+0923-15:03:17.757 31FC[D]: HTTP request 00000222779FDFA0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 5da11fdf5551b1066ec19e22ed0efcda7f7ff8950efede7361d47ab5d1c7e4ba
+0923-15:03:17.759 31FC[D]: HTTP request 00000222779FDFA0: resolving name services.gfe.nvidia.com
+0923-15:03:17.759 31FC[D]: HTTP request 00000222779FDFA0: resolved address 152.199.20.80
+0923-15:03:17.759 31FC[D]: HTTP request 00000222779FDFA0: connecting to server 152.199.20.80
+0923-15:03:17.792 31FC[D]: HTTP request 00000222779FDFA0: connected to server 152.199.20.80
+0923-15:03:17.863 31FC[D]: HTTP request 00000222779FDFA0: request sent
+0923-15:03:17.897 31FC[D]: HTTP request 00000222779FDFA0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Mon, 31 Jul 2023 20:09:43 GMT
+Accept-Ranges: bytes
+Age: 2074961
+ETag: 5da11fdf5551b1066ec19e22ed0efcda7f7ff8950efede7361d47ab5d1c7e4ba
+Server: ECAcc (muc/330D)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089653.33089653
+
+
+0923-15:03:17.898 31FC[I]: Services response HTTP code: 304
+0923-15:03:17.898 31FC[I]: There are no metadata updates for : diablo_4, VisualOPS
+0923-15:03:17.899 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for diablo_4
+0923-15:03:17.899 31FC[D]: Checking 'VisualOPS' for application for_honor
+0923-15:03:17.900 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/for_honor
+0923-15:03:17.902 31FC[D]: HTTP request 00000222779FDBB0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 38aaa2441fe11d061b18c8e65df60813fe4cd22b687b5649c30fcf0c29ffb8dc
+0923-15:03:17.904 31FC[D]: HTTP request 00000222779FDBB0: resolving name services.gfe.nvidia.com
+0923-15:03:17.904 31FC[D]: HTTP request 00000222779FDBB0: resolved address 152.199.20.80
+0923-15:03:17.904 31FC[D]: HTTP request 00000222779FDBB0: connecting to server 152.199.20.80
+0923-15:03:17.937 31FC[D]: HTTP request 00000222779FDBB0: connected to server 152.199.20.80
+0923-15:03:18.006 31FC[D]: HTTP request 00000222779FDBB0: request sent
+0923-15:03:18.041 31FC[D]: HTTP request 00000222779FDBB0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:17 GMT
+Last-Modified: Mon, 31 Jul 2023 14:23:39 GMT
+Accept-Ranges: bytes
+Age: 2074888
+ETag: 38aaa2441fe11d061b18c8e65df60813fe4cd22b687b5649c30fcf0c29ffb8dc
+Server: ECAcc (muc/3378)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:18.042 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.042 31FC[I]: There are no metadata updates for : for_honor, VisualOPS
+0923-15:03:18.042 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for for_honor
+0923-15:03:18.042 31FC[D]: Checking 'VisualOPS' for application god_of_war
+0923-15:03:18.043 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/god_of_war
+0923-15:03:18.045 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 4686c9ac282d421045168f3930c413436a7316be16154ebd487469075afa7d48
+0923-15:03:18.047 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:18.047 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:18.047 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:18.088 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:18.171 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:18.214 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Wed, 30 Aug 2023 12:41:56 GMT
+Accept-Ranges: bytes
+Age: 2074882
+ETag: 4686c9ac282d421045168f3930c413436a7316be16154ebd487469075afa7d48
+Server: ECAcc (muc/333F)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:18.215 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.215 31FC[I]: There are no metadata updates for : god_of_war, VisualOPS
+0923-15:03:18.216 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for god_of_war
+0923-15:03:18.216 31FC[D]: Checking 'VisualOPS' for application grand_theft_auto_v
+0923-15:03:18.217 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/grand_theft_auto_v
+0923-15:03:18.219 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 941aa59918a2ffde11b881f47a86cc66edf474564a064c8397c4ea3521214c1b
+0923-15:03:18.221 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:18.221 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:18.221 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:18.259 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:18.336 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:18.379 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Mon, 31 Jul 2023 14:23:35 GMT
+Accept-Ranges: bytes
+Age: 2074890
+ETag: 941aa59918a2ffde11b881f47a86cc66edf474564a064c8397c4ea3521214c1b
+Server: ECAcc (muc/3346)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:18.380 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.380 31FC[I]: There are no metadata updates for : grand_theft_auto_v, VisualOPS
+0923-15:03:18.381 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for grand_theft_auto_v
+0923-15:03:18.381 31FC[D]: Checking 'VisualOPS' for application kingdom_hearts_iii_re_mind
+0923-15:03:18.382 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/kingdom_hearts_iii_re_mind
+0923-15:03:18.384 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 28599540fccf95fb56373b5ff0ef6a211648f7617aa0ed341e536f9450a31d2b
+0923-15:03:18.386 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:18.386 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:18.386 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:18.422 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:18.500 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:18.543 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Wed, 30 Aug 2023 12:41:56 GMT
+Accept-Ranges: bytes
+Age: 2074830
+ETag: 28599540fccf95fb56373b5ff0ef6a211648f7617aa0ed341e536f9450a31d2b
+Server: ECAcc (muc/332D)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:18.543 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.544 31FC[I]: There are no metadata updates for : kingdom_hearts_iii_re_mind, VisualOPS
+0923-15:03:18.544 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for kingdom_hearts_iii_re_mind
+0923-15:03:18.544 31FC[D]: Checking 'VisualOPS' for application league_of_legends
+0923-15:03:18.545 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/league_of_legends
+0923-15:03:18.548 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: b8e19fe5f4f01a92333ba94848c1d17f86a86b52308c0a5b14e75eb89aff2bd1
+0923-15:03:18.549 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:18.550 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:18.550 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:18.589 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:18.671 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:18.712 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Fri, 04 Aug 2023 01:03:49 GMT
+Accept-Ranges: bytes
+Age: 2074888
+ETag: b8e19fe5f4f01a92333ba94848c1d17f86a86b52308c0a5b14e75eb89aff2bd1
+Server: ECAcc (muc/3360)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:18.712 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.713 31FC[I]: There are no metadata updates for : league_of_legends, VisualOPS
+0923-15:03:18.713 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for league_of_legends
+0923-15:03:18.713 31FC[D]: Checking 'VisualOPS' for application lost_ark
+0923-15:03:18.714 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/lost_ark
+0923-15:03:18.716 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 0c9e2ba903d8f9817d95ed2c87691d0ed6e245d59e882489ca9add708737809a
+0923-15:03:18.718 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:18.718 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:18.719 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:18.758 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:18.844 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:18.888 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Wed, 30 Aug 2023 12:42:56 GMT
+Accept-Ranges: bytes
+Age: 2074821
+ETag: 0c9e2ba903d8f9817d95ed2c87691d0ed6e245d59e882489ca9add708737809a
+Server: ECAcc (muc/3358)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:18.889 31FC[I]: Services response HTTP code: 304
+0923-15:03:18.889 31FC[I]: There are no metadata updates for : lost_ark, VisualOPS
+0923-15:03:18.890 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for lost_ark
+0923-15:03:18.890 31FC[D]: Checking 'VisualOPS' for application maneater
+0923-15:03:18.891 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/maneater
+0923-15:03:18.893 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: d041b65c35444cd94af462b97c21450bb012766fd14416c1330db3cfbb83fb1b
+0923-15:03:18.895 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:18.895 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:18.895 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:18.931 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:19.007 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:19.047 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:18 GMT
+Last-Modified: Wed, 30 Aug 2023 12:43:05 GMT
+Accept-Ranges: bytes
+Age: 2074813
+ETag: d041b65c35444cd94af462b97c21450bb012766fd14416c1330db3cfbb83fb1b
+Server: ECAcc (muc/3378)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:19.047 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.047 31FC[I]: There are no metadata updates for : maneater, VisualOPS
+0923-15:03:19.048 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for maneater
+0923-15:03:19.048 31FC[D]: Checking 'VisualOPS' for application marvels_spiderman_remastered
+0923-15:03:19.049 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/marvels_spiderman_remastered
+0923-15:03:19.051 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: cf3a8f151cf86466e4fe2923d26ad69d11998557cd6a5fc6ae92144a6069ae38
+0923-15:03:19.053 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:19.053 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:19.053 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:19.087 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:19.158 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:19.195 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Mon, 31 Jul 2023 14:24:48 GMT
+Accept-Ranges: bytes
+Age: 2074819
+ETag: cf3a8f151cf86466e4fe2923d26ad69d11998557cd6a5fc6ae92144a6069ae38
+Server: ECAcc (muc/335A)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:19.195 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.195 31FC[I]: There are no metadata updates for : marvels_spiderman_remastered, VisualOPS
+0923-15:03:19.196 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for marvels_spiderman_remastered
+0923-15:03:19.196 31FC[D]: Checking 'VisualOPS' for application mortal_kombat_xi
+0923-15:03:19.197 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/mortal_kombat_xi
+0923-15:03:19.199 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: bfe212957836c73a879c740b298ee413f65bbe26a60d37647fc42ed457888cdd
+0923-15:03:19.201 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:19.201 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:19.201 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:19.233 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:19.301 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:19.335 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Wed, 30 Aug 2023 12:43:04 GMT
+Accept-Ranges: bytes
+Age: 2074815
+ETag: bfe212957836c73a879c740b298ee413f65bbe26a60d37647fc42ed457888cdd
+Server: ECAcc (muc/333D)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089653.33089653
+
+
+0923-15:03:19.335 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.336 31FC[I]: There are no metadata updates for : mortal_kombat_xi, VisualOPS
+0923-15:03:19.336 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for mortal_kombat_xi
+0923-15:03:19.336 31FC[D]: Checking 'VisualOPS' for application nba_2k23
+0923-15:03:19.338 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/nba_2k23
+0923-15:03:19.340 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 55facf2f1b157339e3135fd34db306b327fd8199e9bb484fe526747ff6830341
+0923-15:03:19.342 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:19.342 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:19.342 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:19.381 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:19.464 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:19.507 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Wed, 30 Aug 2023 12:43:04 GMT
+Accept-Ranges: bytes
+Age: 2074813
+ETag: 55facf2f1b157339e3135fd34db306b327fd8199e9bb484fe526747ff6830341
+Server: ECAcc (muc/333B)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:19.508 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.508 31FC[I]: There are no metadata updates for : nba_2k23, VisualOPS
+0923-15:03:19.508 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for nba_2k23
+0923-15:03:19.508 31FC[D]: Checking 'VisualOPS' for application new_world
+0923-15:03:19.509 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/new_world
+0923-15:03:19.511 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 06184a73cfd97f093f6f764955c88cb227add86612400d142058d0ba9de33df2
+0923-15:03:19.513 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:19.513 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:19.514 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:19.547 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:19.615 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:19.651 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Wed, 30 Aug 2023 12:43:04 GMT
+Age: 2074815
+ETag: 06184a73cfd97f093f6f764955c88cb227add86612400d142058d0ba9de33df2
+Server: ECAcc (muc/332B)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:19.651 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.652 31FC[I]: There are no metadata updates for : new_world, VisualOPS
+0923-15:03:19.652 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for new_world
+0923-15:03:19.652 31FC[D]: Checking 'VisualOPS' for application obs_studio
+0923-15:03:19.653 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/obs_studio
+0923-15:03:19.655 31FC[D]: HTTP request 00000222779FDFA0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 68d54499fdae13545ce2124d9fe5c0b52efca81c81d3b490b8b9c0ccb6240033
+0923-15:03:19.657 31FC[D]: HTTP request 00000222779FDFA0: resolving name services.gfe.nvidia.com
+0923-15:03:19.657 31FC[D]: HTTP request 00000222779FDFA0: resolved address 152.199.20.80
+0923-15:03:19.657 31FC[D]: HTTP request 00000222779FDFA0: connecting to server 152.199.20.80
+0923-15:03:19.696 31FC[D]: HTTP request 00000222779FDFA0: connected to server 152.199.20.80
+0923-15:03:19.773 31FC[D]: HTTP request 00000222779FDFA0: request sent
+0923-15:03:19.811 31FC[D]: HTTP request 00000222779FDFA0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Mon, 31 Jul 2023 14:26:02 GMT
+Accept-Ranges: bytes
+Age: 2074822
+ETag: 68d54499fdae13545ce2124d9fe5c0b52efca81c81d3b490b8b9c0ccb6240033
+Server: ECAcc (muc/3318)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:19.812 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.812 31FC[I]: There are no metadata updates for : obs_studio, VisualOPS
+0923-15:03:19.812 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for obs_studio
+0923-15:03:19.812 31FC[D]: Checking 'VisualOPS' for application overwatch_2
+0923-15:03:19.814 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/overwatch_2
+0923-15:03:19.816 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 784e4145907d3dde65fe725eb75436d0d89692581137aaa5f474f2b8447e209f
+0923-15:03:19.818 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:19.818 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:19.818 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:19.854 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:19.933 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:19.973 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:19 GMT
+Last-Modified: Mon, 31 Jul 2023 14:26:04 GMT
+Accept-Ranges: bytes
+Age: 2074820
+ETag: 784e4145907d3dde65fe725eb75436d0d89692581137aaa5f474f2b8447e209f
+Server: ECAcc (muc/3364)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:19.973 31FC[I]: Services response HTTP code: 304
+0923-15:03:19.974 31FC[I]: There are no metadata updates for : overwatch_2, VisualOPS
+0923-15:03:19.974 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for overwatch_2
+0923-15:03:19.974 31FC[D]: Checking 'VisualOPS' for application raft
+0923-15:03:19.975 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/raft
+0923-15:03:19.977 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 08228cc1eea99bd21a8ae5d7b5baf6c76765646bada5013b63ba4b9b4ff96bf1
+0923-15:03:19.979 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:19.979 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:19.980 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:20.017 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:20.086 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:20.120 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:44:12 GMT
+Accept-Ranges: bytes
+Age: 2074740
+ETag: 08228cc1eea99bd21a8ae5d7b5baf6c76765646bada5013b63ba4b9b4ff96bf1
+Server: ECAcc (muc/332D)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:20.121 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.121 31FC[I]: There are no metadata updates for : raft, VisualOPS
+0923-15:03:20.121 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for raft
+0923-15:03:20.121 31FC[D]: Checking 'VisualOPS' for application red_dead_redemption_2
+0923-15:03:20.123 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/red_dead_redemption_2
+0923-15:03:20.125 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: da1717e54a7724fcb9e51b523b7a3ccedcc69c45e59e078d32adc1f6f93a90bd
+0923-15:03:20.126 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:20.127 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:20.127 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:20.160 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:20.230 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:20.263 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:44:12 GMT
+Accept-Ranges: bytes
+Age: 2074740
+ETag: da1717e54a7724fcb9e51b523b7a3ccedcc69c45e59e078d32adc1f6f93a90bd
+Server: ECAcc (muc/3329)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:20.264 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.264 31FC[I]: There are no metadata updates for : red_dead_redemption_2, VisualOPS
+0923-15:03:20.264 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for red_dead_redemption_2
+0923-15:03:20.265 31FC[D]: Checking 'VisualOPS' for application shank
+0923-15:03:20.265 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/shank
+0923-15:03:20.268 31FC[D]: HTTP request 00000222779FDBB0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 3b1e0ffa47d31cd9ac051de8613b0062ec8cfa2adb521ddfde11dfe6a793ab0d
+0923-15:03:20.269 31FC[D]: HTTP request 00000222779FDBB0: resolving name services.gfe.nvidia.com
+0923-15:03:20.272 31FC[D]: HTTP request 00000222779FDBB0: resolved address 152.199.20.80
+0923-15:03:20.272 31FC[D]: HTTP request 00000222779FDBB0: connecting to server 152.199.20.80
+0923-15:03:20.309 31FC[D]: HTTP request 00000222779FDBB0: connected to server 152.199.20.80
+0923-15:03:20.384 31FC[D]: HTTP request 00000222779FDBB0: request sent
+0923-15:03:20.422 31FC[D]: HTTP request 00000222779FDBB0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:44:13 GMT
+Accept-Ranges: bytes
+Age: 2074738
+ETag: 3b1e0ffa47d31cd9ac051de8613b0062ec8cfa2adb521ddfde11dfe6a793ab0d
+Server: ECAcc (muc/332C)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:20.423 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.423 31FC[I]: There are no metadata updates for : shank, VisualOPS
+0923-15:03:20.424 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for shank
+0923-15:03:20.424 31FC[D]: Checking 'VisualOPS' for application soulcalibur_vi
+0923-15:03:20.424 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/soulcalibur_vi
+0923-15:03:20.427 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 8fd9202da62b002269b32e53672609761bb41ff81abbf5df752ee22b656e87f8
+0923-15:03:20.428 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:20.429 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:20.429 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:20.465 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:20.540 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:20.577 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:44:13 GMT
+Accept-Ranges: bytes
+Age: 2074716
+ETag: 8fd9202da62b002269b32e53672609761bb41ff81abbf5df752ee22b656e87f8
+Server: ECAcc (muc/3369)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089653.33089653
+
+
+0923-15:03:20.578 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.578 31FC[I]: There are no metadata updates for : soulcalibur_vi, VisualOPS
+0923-15:03:20.578 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for soulcalibur_vi
+0923-15:03:20.578 31FC[D]: Checking 'VisualOPS' for application star_wars_the_old_republic
+0923-15:03:20.580 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/star_wars_the_old_republic
+0923-15:03:20.582 31FC[D]: HTTP request 00000222779FDFA0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 443634be0cee274cb878847c2f02424340b432719dc5445cdfbd7aee5a06c8da
+0923-15:03:20.584 31FC[D]: HTTP request 00000222779FDFA0: resolving name services.gfe.nvidia.com
+0923-15:03:20.584 31FC[D]: HTTP request 00000222779FDFA0: resolved address 152.199.20.80
+0923-15:03:20.584 31FC[D]: HTTP request 00000222779FDFA0: connecting to server 152.199.20.80
+0923-15:03:20.619 31FC[D]: HTTP request 00000222779FDFA0: connected to server 152.199.20.80
+0923-15:03:20.697 31FC[D]: HTTP request 00000222779FDFA0: request sent
+0923-15:03:20.736 31FC[D]: HTTP request 00000222779FDFA0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:16 GMT
+Accept-Ranges: bytes
+Age: 2074675
+ETag: 443634be0cee274cb878847c2f02424340b432719dc5445cdfbd7aee5a06c8da
+Server: ECAcc (muc/333B)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:20.736 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.737 31FC[I]: There are no metadata updates for : star_wars_the_old_republic, VisualOPS
+0923-15:03:20.737 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for star_wars_the_old_republic
+0923-15:03:20.737 31FC[D]: Checking 'VisualOPS' for application stray
+0923-15:03:20.738 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/stray
+0923-15:03:20.740 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 06b400ad0f04a2a51616a134daf7e90753bb82a68059ec98d732913a30a5357a
+0923-15:03:20.742 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:20.742 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:20.742 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:20.783 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:20.865 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:20.906 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:16 GMT
+Accept-Ranges: bytes
+Age: 2074678
+ETag: 06b400ad0f04a2a51616a134daf7e90753bb82a68059ec98d732913a30a5357a
+Server: ECAcc (muc/3309)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:20.907 31FC[I]: Services response HTTP code: 304
+0923-15:03:20.907 31FC[I]: There are no metadata updates for : stray, VisualOPS
+0923-15:03:20.908 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for stray
+0923-15:03:20.908 31FC[D]: Checking 'VisualOPS' for application streamlabs_obs
+0923-15:03:20.909 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/streamlabs_obs
+0923-15:03:20.911 31FC[D]: HTTP request 00000222779FDFA0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 8a96ac04bca74f348ca11f0e8f850e4d196e2966023301f6ee67f3aed435c7fd
+0923-15:03:20.913 31FC[D]: HTTP request 00000222779FDFA0: resolving name services.gfe.nvidia.com
+0923-15:03:20.913 31FC[D]: HTTP request 00000222779FDFA0: resolved address 152.199.20.80
+0923-15:03:20.913 31FC[D]: HTTP request 00000222779FDFA0: connecting to server 152.199.20.80
+0923-15:03:20.949 31FC[D]: HTTP request 00000222779FDFA0: connected to server 152.199.20.80
+0923-15:03:21.026 31FC[D]: HTTP request 00000222779FDFA0: request sent
+0923-15:03:21.062 31FC[D]: HTTP request 00000222779FDFA0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:20 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:15 GMT
+Accept-Ranges: bytes
+Age: 2074680
+ETag: 8a96ac04bca74f348ca11f0e8f850e4d196e2966023301f6ee67f3aed435c7fd
+Server: ECAcc (muc/3313)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:21.063 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.063 31FC[I]: There are no metadata updates for : streamlabs_obs, VisualOPS
+0923-15:03:21.063 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for streamlabs_obs
+0923-15:03:21.063 31FC[D]: Checking 'VisualOPS' for application street_fighter_v
+0923-15:03:21.064 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/street_fighter_v
+0923-15:03:21.067 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: e8f5b22b2ed673f2d91b95b4e22fa41a3bbe6aefb8aac12fe769a6c62c032185
+0923-15:03:21.068 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:21.069 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:21.069 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:21.108 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:21.190 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:21.230 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:16 GMT
+Accept-Ranges: bytes
+Age: 2074556
+ETag: e8f5b22b2ed673f2d91b95b4e22fa41a3bbe6aefb8aac12fe769a6c62c032185
+Server: ECAcc (muc/3336)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089776.33089653
+
+
+0923-15:03:21.231 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.231 31FC[I]: There are no metadata updates for : street_fighter_v, VisualOPS
+0923-15:03:21.232 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for street_fighter_v
+0923-15:03:21.232 31FC[D]: Checking 'VisualOPS' for application streets_of_rage_4
+0923-15:03:21.233 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/streets_of_rage_4
+0923-15:03:21.235 31FC[D]: HTTP request 00000222779FE390: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: b9f64bd37c02935104326cb94918d801759adaaf0a503ea1dc240115f4b400f9
+0923-15:03:21.237 31FC[D]: HTTP request 00000222779FE390: resolving name services.gfe.nvidia.com
+0923-15:03:21.237 31FC[D]: HTTP request 00000222779FE390: resolved address 152.199.20.80
+0923-15:03:21.237 31FC[D]: HTTP request 00000222779FE390: connecting to server 152.199.20.80
+0923-15:03:21.275 31FC[D]: HTTP request 00000222779FE390: connected to server 152.199.20.80
+0923-15:03:21.349 31FC[D]: HTTP request 00000222779FE390: request sent
+0923-15:03:21.389 31FC[D]: HTTP request 00000222779FE390: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:15 GMT
+Accept-Ranges: bytes
+Age: 2074556
+ETag: b9f64bd37c02935104326cb94918d801759adaaf0a503ea1dc240115f4b400f9
+Server: ECAcc (muc/3378)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:21.390 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.390 31FC[I]: There are no metadata updates for : streets_of_rage_4, VisualOPS
+0923-15:03:21.391 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for streets_of_rage_4
+0923-15:03:21.391 31FC[D]: Checking 'VisualOPS' for application tekken_7
+0923-15:03:21.392 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/tekken_7
+0923-15:03:21.394 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 797d8805b91d54ae74cc1c3286f6df3879cb3bd4767f6ded59a7e3a1f51ae5b0
+0923-15:03:21.395 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:21.396 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:21.396 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:21.432 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:21.511 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:21.549 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:15 GMT
+Accept-Ranges: bytes
+Age: 2074685
+ETag: 797d8805b91d54ae74cc1c3286f6df3879cb3bd4767f6ded59a7e3a1f51ae5b0
+Server: ECAcc (muc/3305)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:21.549 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.550 31FC[I]: There are no metadata updates for : tekken_7, VisualOPS
+0923-15:03:21.550 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for tekken_7
+0923-15:03:21.550 31FC[D]: Checking 'VisualOPS' for application vlc
+0923-15:03:21.551 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/vlc
+0923-15:03:21.553 31FC[D]: HTTP request 00000222779FD7C0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: c26f0edd7de5819673eda19bedd73e90eacb58b25f1eb4b7710d792ee55654bf
+0923-15:03:21.555 31FC[D]: HTTP request 00000222779FD7C0: resolving name services.gfe.nvidia.com
+0923-15:03:21.555 31FC[D]: HTTP request 00000222779FD7C0: resolved address 152.199.20.80
+0923-15:03:21.555 31FC[D]: HTTP request 00000222779FD7C0: connecting to server 152.199.20.80
+0923-15:03:21.591 31FC[D]: HTTP request 00000222779FD7C0: connected to server 152.199.20.80
+0923-15:03:21.668 31FC[D]: HTTP request 00000222779FD7C0: request sent
+0923-15:03:21.706 31FC[D]: HTTP request 00000222779FD7C0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:15 GMT
+Accept-Ranges: bytes
+Age: 2074686
+ETag: c26f0edd7de5819673eda19bedd73e90eacb58b25f1eb4b7710d792ee55654bf
+Server: ECAcc (muc/3321)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:21.707 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.707 31FC[I]: There are no metadata updates for : vlc, VisualOPS
+0923-15:03:21.707 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for vlc
+0923-15:03:21.707 31FC[D]: Checking 'VisualOPS' for application warcraft_3_reforged
+0923-15:03:21.708 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/warcraft_3_reforged
+0923-15:03:21.711 31FC[D]: HTTP request 00000222779FD3D0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 01635f123fe845e0ecc7f81bbf35ce3d32cbb6bdf9b3b87c59723f33fe696a95
+0923-15:03:21.712 31FC[D]: HTTP request 00000222779FD3D0: resolving name services.gfe.nvidia.com
+0923-15:03:21.713 31FC[D]: HTTP request 00000222779FD3D0: resolved address 152.199.20.80
+0923-15:03:21.713 31FC[D]: HTTP request 00000222779FD3D0: connecting to server 152.199.20.80
+0923-15:03:21.750 31FC[D]: HTTP request 00000222779FD3D0: connected to server 152.199.20.80
+0923-15:03:21.826 31FC[D]: HTTP request 00000222779FD3D0: request sent
+0923-15:03:21.863 31FC[D]: HTTP request 00000222779FD3D0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:45:15 GMT
+Accept-Ranges: bytes
+Age: 2074679
+ETag: 01635f123fe845e0ecc7f81bbf35ce3d32cbb6bdf9b3b87c59723f33fe696a95
+Server: ECAcc (muc/337E)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089992.33089653
+
+
+0923-15:03:21.864 31FC[I]: Services response HTTP code: 304
+0923-15:03:21.864 31FC[I]: There are no metadata updates for : warcraft_3_reforged, VisualOPS
+0923-15:03:21.865 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for warcraft_3_reforged
+0923-15:03:21.865 31FC[D]: Checking 'VisualOPS' for application wolfenstein_youngblood
+0923-15:03:21.866 31FC[I]: Going to call Services URL: https://services.gfe.nvidia.com/GFE/v1.0/vops/wolfenstein_youngblood
+0923-15:03:21.868 31FC[D]: HTTP request 00000222779FCBF0: request headers: accept-encoding: gzip
+connection: Close
+if-none-match: 8b610bcd95f2c1e3c7ebb8a62ebffdd7c2589701b443a3c4593a62b49de00dff
+0923-15:03:21.870 31FC[D]: HTTP request 00000222779FCBF0: resolving name services.gfe.nvidia.com
+0923-15:03:21.870 31FC[D]: HTTP request 00000222779FCBF0: resolved address 152.199.20.80
+0923-15:03:21.870 31FC[D]: HTTP request 00000222779FCBF0: connecting to server 152.199.20.80
+0923-15:03:21.904 31FC[D]: HTTP request 00000222779FCBF0: connected to server 152.199.20.80
+0923-15:03:21.972 31FC[D]: HTTP request 00000222779FCBF0: request sent
+0923-15:03:22.006 31FC[D]: HTTP request 00000222779FCBF0: response headers:
+HTTP/1.1 304 Not Modified
+Cache-Control: public
+Connection: close
+Date: Sat, 23 Sep 2023 13:03:21 GMT
+Last-Modified: Wed, 30 Aug 2023 12:46:16 GMT
+Accept-Ranges: bytes
+Age: 2074603
+ETag: 8b610bcd95f2c1e3c7ebb8a62ebffdd7c2589701b443a3c4593a62b49de00dff
+Server: ECAcc (muc/3360)
+Vary: Accept-Encoding
+X-Cache: HIT
+X-Server-Internal-Version: 33089653.33089653
+
+
+0923-15:03:22.006 31FC[I]: Services response HTTP code: 304
+0923-15:03:22.007 31FC[I]: There are no metadata updates for : wolfenstein_youngblood, VisualOPS
+0923-15:03:22.007 31FC[D]: GFE::Backend::StaticApplicationAssetManager::HandleApplication: VisualOPS is up to date for wolfenstein_youngblood
+0923-15:03:58.212 498C[I]: OnActiveProcessCountChanged called
+0923-15:03:58.212 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:03:58.213 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 1
+0923-15:03:58.213 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:03:58.214 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:03:58.214 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:03:58.214 498C[I]: No Inactive process are reported from NvAPI_GetAppStatisticsV2, fallback to read active session from NvAPI_GetAppStatisticsV2 whereas 1 are reported from NvAPI_GetAppStatistics
+0923-15:03:58.214 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:03:58.214 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 8492733608858753851
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 13432807879793178688
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:03:58.214 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:03:58.214 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:03:58.214 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:03:58.214 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:03:58.215 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:03:58.215 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:03:58.215 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:03:58.215 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:03:58.267 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.267 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.269 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.269 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.273 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.273 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.493 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.496 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.496 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.498 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.501 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.501 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.504 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.504 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.507 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.509 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.509 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.512 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.512 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.516 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.516 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.519 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.519 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.523 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.526 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.530 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:03:58.530 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:03:58.530 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:03:58.530 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:03:58.530 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:03:58.530 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:03:58.530 498C[I]: Application Allow list reported to GST Plugin
+0923-15:03:58.533 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.533 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.585 498C[D]: Installed driver type is not CRD
+0923-15:03:58.585 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:03:58.585 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:03:58.585 498C[I]: Skipping SendEvent
+0923-15:04:58.598 498C[I]: OnActiveProcessCountChanged called
+0923-15:04:58.599 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:04:58.599 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:04:58.599 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:04:58.600 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:04:58.600 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:04:58.600 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:04:58.600 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:04:58.600 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:04:58.601 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:04:58.601 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:04:58.601 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:04:58.601 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:04:58.647 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.647 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.649 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.649 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.653 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.653 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.881 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.884 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.884 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.886 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.889 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.889 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.892 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.892 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.895 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.897 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.897 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.901 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.901 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.905 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.905 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.908 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:04:58.908 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:04:58.912 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.916 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.920 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:04:58.920 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:04:58.920 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:04:58.920 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:04:58.920 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:04:58.920 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:04:58.920 498C[I]: Application Allow list reported to GST Plugin
+0923-15:05:58.933 498C[I]: OnActiveProcessCountChanged called
+0923-15:05:58.933 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:05:58.934 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:05:58.934 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:05:58.934 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:05:58.934 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:05:58.934 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:05:58.935 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:05:58.935 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:05:58.935 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:05:58.935 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:05:58.935 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:05:58.935 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:05:58.982 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:58.982 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:58.985 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:58.985 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:58.989 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:58.989 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.229 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.232 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.232 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.234 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.237 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.237 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.241 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.241 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.243 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.246 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.246 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.250 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.250 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.254 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.254 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.258 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:05:59.258 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:05:59.262 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.266 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.270 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:05:59.270 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:05:59.270 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:05:59.270 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:05:59.270 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:05:59.270 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:05:59.270 498C[I]: Application Allow list reported to GST Plugin
+0923-15:06:59.283 498C[I]: OnActiveProcessCountChanged called
+0923-15:06:59.283 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:06:59.283 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:06:59.283 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:06:59.284 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:06:59.284 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:06:59.284 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:06:59.284 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:06:59.284 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:06:59.284 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:06:59.284 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:06:59.284 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:06:59.284 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:06:59.333 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.333 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.335 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.335 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.339 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.339 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.537 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.540 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.540 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.542 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.545 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.545 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.549 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.549 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.551 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.553 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.553 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.557 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.557 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.561 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.561 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.565 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:06:59.565 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:06:59.568 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.572 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.576 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:06:59.576 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:06:59.576 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:06:59.576 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:06:59.576 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:06:59.576 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:06:59.576 498C[I]: Application Allow list reported to GST Plugin
+0923-15:07:59.588 498C[I]: OnActiveProcessCountChanged called
+0923-15:07:59.588 498C[I]: Calling NvAPI_GetAppStatistics with flag : 3
+0923-15:07:59.589 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 3 reported entries : 0
+0923-15:07:59.589 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 3
+0923-15:07:59.590 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 3 reported UniqueID : 0
+0923-15:07:59.590 498C[I]: NvAPI_GetAppStatisticsV2 reported 0 Unique ID
+0923-15:07:59.590 498C[I]: Calling NvAPI_GetAppStatistics with flag : 2
+0923-15:07:59.590 498C[I]: NvAPI_GetAppStatistics returned NvAPI_Status = 0 flag : 2 reported entries : 16
+0923-15:07:59.590 498C[I]: Calling NvAPI_GetAppStatisticsV2 with flag : 2
+0923-15:07:59.590 498C[I]: NvAPI_GetAppStatisticsV2 returned NvAPI_Status = 0 flag : 2 reported UniqueID : 9
+0923-15:07:59.590 498C[I]: Process powertoys.peek.ui.exe Unique ID: 8492733608858753851
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 9971856745157766905
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 10654805474693502925
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 13177271934925593487
+0923-15:07:59.590 498C[I]: Process powertoys.fancyzones.exe Unique ID: 13432807879793178688
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 14206506959693846609
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 14258342128938335544
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 16932748905863939667
+0923-15:07:59.590 498C[I]: Process Poll Info not found for : 18370608146085598858
+0923-15:07:59.640 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.640 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.643 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.643 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.646 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.646 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.881 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.884 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.884 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.886 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.889 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.889 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.893 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.893 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.895 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.897 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.897 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.901 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.901 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.905 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.905 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.909 498C[I]: ChooseClassificationResult: r.application is NULL
+0923-15:07:59.909 498C[I]: ChooseClassificationResult: cr=StatsShouldNotBeReported
+0923-15:07:59.913 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.917 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.921 498C[E]: Error when attempting to associate image with GFE: GetSettingFromProfile(profile, settingId, setting) failed with status = -160 at [C:\dvs\p4\build\sw\rel\gfclient\rel_03_27\backend\NvAPI_Support\src\drssupport.cpp:355]
+0923-15:07:59.921 498C[I]: App Record for GST Plugin : powertoys.fancyzones.exe AppSessionId : 13432807879793178688 allowTelemetry : 0
+0923-15:07:59.921 498C[I]: App Record for GST Plugin : powertoys.peek.ui.exe AppSessionId : 8492733608858753851 allowTelemetry : 0
+0923-15:07:59.921 498C[D]: UniqueID: 13432807879793178688 : 0
+0923-15:07:59.921 498C[D]: UniqueID: 8492733608858753851 : 0
+0923-15:07:59.921 498C[I]: NvAPI_SetTelemetryAllowList returned NvAPI_Status = 0 numEntries: 2
+0923-15:07:59.921 498C[I]: Application Allow list reported to GST Plugin
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     7Ç -‚       {¬A=ëêƒ‹(≈éX°.p      {¬A=ëêƒŒê«ŒüD
+ È≈‚Ü±¬3^
+Q
+(	=‚—ñjSÈ6∞6Á¬                                                                                                                                                                                                                                                                                                                                                                                                                                                       Åf	   É60ujnfnbsltÄ ÒˇX ˇˇ  Ä ˇˇexperiments$  ¿ñŒ´xB `available server 0¸ ¨xB ping –b+÷´xB
+ romotions   P8  	N(s  –ï
+¨xBÄGA Rare dailyRetention    	5T™xB:( @smartSettingsUseD8/8pô´xB     ˇˇ£e	(  «,0tfswfstPckfduÿò ÒˇP ˇˇ	  Ä ˇˇcountries   at   `timezoneOffset  x    ˇˇ Xpremium_servers     ˇÄ(P 0hosj <at11.prmsrvs.com(por(ª	pH X. ¿ u"	ÿ^¿ X	P^¿  ö¿ @au2ø   ~¿ ! nX 2.ÇX  -ò!! à1pX 3≤X APñ∞  4≤X  ¢∞  5≤X  ¢X  6≤X  ¢X  7≤X  ¢X  8≤X AN(be	A(^(~Ë ö(qËbe52)Q†^Ë~(X2)~X ~(X2)~X ~(X2)~X ~(X2)~X ~(X2)~X ~(X2)~X ~(X2)~X °n‡X 9.Å~X  	zÿX60ÆX  
+¶X ≤p ¶X ≤p ¶X ≤p ¶X ≤p    $	$  00xfcsudCmpdl<     Òˇ    ˇˇN	<  l0wjfxfe!qfstpobm!cboofst0 $Òˇ    ˇˇl ˇˇ  Ä ˇˇNY2023       ˇˇÅ]	  É(0vtfsQbd∏ ÒˇP ˇˇ  Ä ˇˇmode     direct   country us.0broken	 ˇˇ8$filters  L ˇx  (~` format  †omain  	êproxyM≈   pà  valu· Hfitgirl-repacks.sit †, ˇˇ     ˇˇà !  00'	*  00usbggjdDpvoufs<'	*  00usbggjdDpvoufs<     Òˇ  ¿?¯+‡A)	"  <0qspnpujpot Òˇ, ˇˇ     ˇˇ	 (  00usbggjdDpvoufs<     Òˇ  ¿?¯+‡A1	>  00vtfs!qspqfsujft!pctfswfs<     Òˇ     ˇˇp	:  Å00poBvuiSfrvjsfe!epnbjotX $Òˇ    ˇˇP ˇˇ	  Ä ˇˇsidoo.org         \prmsrvs.com          ˇˇÇ	"  Ñ0tubujtujdt Òˇp ˇˇ  Ä ˇˇdaysLiveÓ   ˇˇ(installDate3   †ò’∑∫wB ,userLogined  ˇˇ@DcountryChanges  
+ 	` 
+ $iconClicks	> V   <locationPageShow'H  ¿proxied'#√	h® yErrorË @yOn Ä¿‡ C…  8 8 language<it           ˇˇ+	2  00tubsuvq!ujqt!tipxo<     Òˇ    ˇˇK	&  |0tipxfePggfst8 $Òˇ    ˇˇå ˇˇ  Ä ˇˇsmart settings       ˇˇZ	*  Å0sftfswfEpnbjotX Òˇ< ˇˇ  Ä ˇˇfree ˇ  ˇˇ premium2       ˇˇÅi	<  É 0qspnpujpotOpujgjdbujpot $Òˇ    ˇˇX ˇˇ  Ä ˇˇBN2021     1111 0 F,HCM	 >  S	  ` Christmas	    NY2022¥6h  B∞2  : EE	0 	: ∞2  
+: ∞2  >  S	H >  H	 : ®(3       ˇˇ(	,  00qspnpujpotCmpdl<     Òˇ    ˇˇÅ6	6  Ç@0qspnpujpotBdujwbujpoê $Òˇ
+    ˇˇX ˇˇ  Ä ˇˇBN2021    6  F	 : CM	XH H Christmas	 :8  NY2022  :  BÄ2  > Ä 2¥6ò Ä2  >  H	` 	: x(3       ˇˇT *  <0qspnpujpot Òˇ, ˇˇ     ˇˇÅ	  Ç
+0qsjdftË $Òˇ    ˇˇ P ˇˇ  Ä ˇˇcurrencyUSD+ <value   è¬ı(\ˇQ@8(duration  X ˇˇnh RUBRh 	P~h      ˇˇêk	  °B0qjohtSbxàÄ $Òˇ∫    ˇˇ < ˇˇ  Ä ˇˇhost @at11.prmsrvs.comvalid)   H ˇˇ  rX  @au7.W   ~X  ¢X  6≤X !n∞2Ç∞  ¢∞  2≤∞  zX 1∏be52Y ~` ¢X  62π~X  ¢X  5≤X  ¶X  8.a~∞  	¢X  6≤` 
+¶X  3Æ∞  ¢X 54ÆX  ¶X ≤∞  ¢X  6≤∏ zX q»bg2Ç» ¢X ∂  ûX  r2_Ç∞  öX ca2øÇX  ûX  h∂X  ûX  l∂` ûX  z∂0 öX de∂∞  zX ±ÿde10Æ» zX qde∂h ¢X  9.Ø Çh zX =2i~ÿ zX 9∂  ûX k5≤ zX 5 k∂ ¶X ≤Ä ¶X 2i~∏ zX 5∏ k∂∏  zX =`2!~∞  !zX    ÅS	  É0qjohò $Òˇ    ˇˇ P ˇˇ  Ä ˇˇcountry nl*4	 premium ˇˇdelay( X mark- 	 ˇˇnÄ sg2  †~Ä  ÚZÄ  p ˇˇ. nÄ  uæ  ¢Ä  <ZÄ > . rÄ  s∂  ›ZÄ . , ˇˇ     ˇˇÅL	  É0qbd® ÒˇD ˇˇ  Ä ˇˇbroken   ˇˇ country uk	$ 8filters     ˇX `(>H nl	HÄformat  domain  	x proxyMode	7 ®  valuPorg.ru	- 	ò 0 mK0<direct       ˇˇ   q  Å00poBvuiSfrvjsfe!epnbjotX $Òˇ    ˇˇP ˇˇ	  Ä ˇˇsidoo.org         \prmsrvs.com          ˇˇ:	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>0.999 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>GAME COLLECTION</text>
+   <text lang="Pt">COLEÇÃO DE JOGOS</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Wrestling is a martial art that uses grappling techniques such as clinch fighting, throws and takedowns, locks, pins and other grappling moves. Wrestling is a physical competition between two (sometimes more) competitors or sparring partners.</text>
+  <text lang="Pt">Wrestling é uma arte marcial que utiliza técnicas de agarramento como a luta em clinch, arremessos e derrubadas, chaves, pinos e outros golpes do grappling. O Wrestling é uma competição física entre dois (às vezes mais) competidores ou parceiros de sparring.</text>
+  </text>
+ </view>
+</theme>

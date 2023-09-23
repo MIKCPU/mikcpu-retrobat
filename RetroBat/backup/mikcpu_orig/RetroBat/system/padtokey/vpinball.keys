@@ -1,0 +1,87 @@
+{
+    "actions_player1": [
+        {
+            "trigger": "up",
+            "type": "key",
+            "target": "KEY_SPACE"
+        },
+        {
+            "trigger": "down",
+            "type": "key",
+            "target": "KEY_TAB"
+        },
+        {
+            "trigger": "right",
+            "type": "key",
+            "target": "KEY_SLASH"
+        },
+        {
+            "trigger": "left",
+            "type": "key",
+            "target": "KEY_Z"
+        },
+        {
+            "trigger": "select",
+            "type": "key",
+            "target": "KEY_5"
+        },
+        {
+            "trigger": "a",
+            "type": "key",
+            "target": "KEY_ENTER"
+        },
+        {
+            "trigger": "start",
+            "type": "key",
+            "target": "KEY_1"
+        },
+        {
+            "trigger": "x",
+            "type": "key",
+            "target": "KEY_PAUSE"
+        },
+        {
+            "trigger": [
+                "hotkey",
+                "start"
+            ],
+            "type": "key",
+            "target": "KEY_Q"
+        },
+        {
+            "trigger": "y",
+            "type": "key",
+            "target": "KEY_RIGHTBRACE"
+        },
+        {
+            "trigger": "pageup",
+            "type": "key",
+            "target": "KEY_LEFTSHIFT"
+        },
+        {
+            "trigger": "pagedown",
+            "type": "key",
+            "target": "KEY_RIGHTSHIFT"
+        },
+        {
+            "trigger": "l3",
+            "type": "key",
+            "target": "KEY_D"
+        },
+        {
+            "trigger": "r3",
+            "type": "key",
+            "target": "KEY_C"
+        },
+        {
+            "trigger": "l2",
+            "type": "key",
+            "target": "KEY_O"
+        },
+        {
+            "trigger": "r2",
+            "type": "key",
+            "target": "KEY_RIGHTCTRL"
+        }
+    ]
+}

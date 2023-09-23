@@ -1,0 +1,4 @@
+reicast_allow_service_buttons = "disabled"
+reicast_internal_resolution = "1440x1080"
+reicast_render_to_texture_upscaling = "4x"
+reicast_texupscale = "4"
