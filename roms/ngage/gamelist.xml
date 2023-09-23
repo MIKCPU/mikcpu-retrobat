@@ -1,0 +1,847 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Nokia N-Gage</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="14399" source="ScreenScraper.fr">
+		<path>./FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).cmd</path>
+		<name>FIFA 2004</name>
+		<desc>For true soccer fans who demand official licenses, in-depth game modes, and true-to-life gameplay, FIFA Soccer 2004 is the most complete and authentic soccer experience. The action is deep with advanced levels of player detail and responsiveness.</desc>
+		<rating>0.7</rating>
+		<releasedate>20031224T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>2</players>
+		<image>./mixart/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).png</image>
+		<marquee>./wheel/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).png</marquee>
+		<video>./snap/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).mp4</video>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14442" source="ScreenScraper.fr">
+		<path>./Rifts - Promise Of Power.cmd</path>
+		<name>Rifts : Promise of Power</name>
+		<desc>Rifts is a classic 15-year old pen and paper roleplaying game from Palladium Books Inc. that's been hugely successful among millions of gamers for more than a decade. We're immensely proud to present the exclusive digital debut of the title, co-developed by the author of the series, Kevin Siembieda. Rifts: Promise of Power features over 40 hours of immersive gameplay, dedicated to staying true to the original characteristics of the game.</desc>
+		<rating>0.85</rating>
+		<releasedate>20050919T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<publisher>Nokia</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<players>1-4</players>
+		<image>./mixart/Rifts - Promise Of Power.png</image>
+		<marquee>./wheel/Rifts - Promise Of Power.png</marquee>
+		<video>./snap/Rifts - Promise Of Power.mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14422" source="ScreenScraper.fr">
+		<path>./Tony Hawk's Pro Skater.cmd</path>
+		<name>Tony Hawk's Pro Skater</name>
+		<desc>Master signature pro moves. Engage in head-to-head competition. Explore fully skateable worlds while you practice and master your moves. Show off or admire your expertise over and over again with instant replay mode. And the killer soundtrack will inspire you to create some signature moves of your own.</desc>
+		<rating>0.6</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>2</players>
+		<image>./mixart/Tony Hawk's Pro Skater.png</image>
+		<marquee>./wheel/Tony Hawk's Pro Skater.png</marquee>
+		<video>./snap/Tony Hawk's Pro Skater.mp4</video>
+		<hidden>true</hidden>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14437" source="ScreenScraper.fr">
+		<path>./Atari Masterpieces Vol. 1.cmd</path>
+		<name>Atari Masterpieces Vol. I</name>
+		<desc>Volume one consists of eight Atari best-sellers from back in the day: Asteroids, Battlezone, Black Widow, Millipede, Missile Command, Red Baron, Lunar Lander and Super Breakout. The collection also includes four unlockable Atari 2600 games, and interesting interviews with Nolan Bushnell, one of the world's early video game revolutionaries and the founder of Atari.</desc>
+		<image>./mixart/Atari Masterpieces Vol. 1.png</image>
+		<video>./snap/Atari Masterpieces Vol. 1.mp4</video>
+		<marquee>./wheel/Atari Masterpieces Vol. 1.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>20051013T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<publisher>Atari</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>3840</genreid>
+	</game>
+	<game id="14421" source="ScreenScraper.fr">
+		<path>./Atari Masterpieces Vol. 2.cmd</path>
+		<name>Atari Masterpieces Vol. II</name>
+		<desc>Atari Masterpieces Vol. 2 is a collection of games for N-Gage. It contains Asteroids Deluxe, Centipede, Crystal Castles, Liberator, Pong, Space Duel, Tempest and Warlords. It's also possible to unlock Atari 2600 games: 2600 Air-Sea Battle, 2600 Canyon Bomber, 2600 Minigolf und 2600 Video Checkers.</desc>
+		<image>./mixart/Atari Masterpieces Vol. 2.png</image>
+		<video>./snap/Atari Masterpieces Vol. 2.mp4</video>
+		<marquee>./wheel/Atari Masterpieces Vol. 2.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20060201T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>3840</genreid>
+	</game>
+	<game id="14399" source="ScreenScraper.fr">
+		<path>./FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).cmd</path>
+		<name>Fifa Soccer 2004</name>
+		<desc>For true soccer fans who demand official licenses, in-depth game modes, and true-to-life gameplay, FIFA Soccer 2004 is the most complete and authentic soccer experience. The action is deep with advanced levels of player detail and responsiveness.</desc>
+		<image>./mixart/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).png</image>
+		<video>./snap/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).mp4</video>
+		<marquee>./wheel/FIFA Football 2004 (USA, Europe) (En,Fr,De,Es,It) (v1.1).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20031224T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>1538</genreid>
+	</game>
+	<game id="251287" source="ScreenScraper.fr">
+		<path>./FIFA Football 2005 (USA, Europe) (En,Fr,De,Es,It) (04.10.2004).cmd</path>
+		<name>FIFA 2005</name>
+		<desc>For true soccer fans who demand official licenses, in-depth game modes, and true-to-life gameplay, FIFA Soccer 2005 is the most complete and authentic soccer experience. The action is deep with advanced levels of player detail and responsiveness.</desc>
+		<image>./mixart/FIFA Football 2005 (USA, Europe) (En,Fr,De,Es,It) (04.10.2004).png</image>
+		<video>./snap/FIFA Football 2005 (USA, Europe) (En,Fr,De,Es,It) (04.10.2004).mp4</video>
+		<marquee>./wheel/FIFA Football 2005 (USA, Europe) (En,Fr,De,Es,It) (04.10.2004).png</marquee>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
+	<game id="14425" source="ScreenScraper.fr">
+		<path>./King of Fighters, The - Extreme (USA, Europe) (En,Fr,De,Es,It) (v1.0.24).cmd</path>
+		<name>The King of Fighters Extreme</name>
+		<desc>King of Fighters EXTREME is a highly anticipated title for obvious reasons. It's the first ever fighting game designed especially for the N-Gage, bringing you all the beat'em up action of the legendary series. The worldwide phenomena that's had fighting games fanatics hooked for years is now available in the palm of your hand! 
+ 
+Accept the challenge of the annual King of Fighters tournament, where the world's most brutal fighter will be crowned. It's all about three-on-three tag team mayhem! When one of your team is down, the next one steps in and keeps going until the opposition is taken out. The story of the game is defined by the team you create, taking you through the legendary environments of eight eclectic levels.</desc>
+		<image>./mixart/King of Fighters, The - Extreme (USA, Europe) (En,Fr,De,Es,It) (v1.0.24).png</image>
+		<video>./snap/King of Fighters, The - Extreme (USA, Europe) (En,Fr,De,Es,It) (v1.0.24).mp4</video>
+		<marquee>./wheel/King of Fighters, The - Extreme (USA, Europe) (En,Fr,De,Es,It) (v1.0.24).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050112T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nokia</publisher>
+		<genre>Beat'em Up-Fight</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>263</genreid>
+	</game>
+	<game id="14444" source="ScreenScraper.fr">
+		<path>./Marcel Desailly Pro Soccer.cmd</path>
+		<name>Marcel Desailly Pro Soccer</name>
+		<desc>Endorsed by the World Cup-winning Chelsea defender, this football game has everything, including multiplayer functionality via Bluetooth wireless technology, the world's top stadiums, and no-compromise gameplay. Astonishing graphics leave you feeling totally immersed in the football experience. This game's a champion, just like Desailly himself.</desc>
+		<image>./mixart/Marcel Desailly Pro Soccer.png</image>
+		<video>./snap/Marcel Desailly Pro Soccer.mp4</video>
+		<marquee>./wheel/Marcel Desailly Pro Soccer.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20040428T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14415" source="ScreenScraper.fr">
+		<path>./Mile High Pinball.cmd</path>
+		<name>Mile High Pinball</name>
+		<desc>Bounce through more than 80 different playfields of challenging obstacles, loops, kickers, and spinners. Speed up your journey by collecting power-ups that give you amazing abilities. You'll need them to destroy all the devious alien enemies, not to mention the humongous bosses! Make progress by solving intense action puzzles to open the gates to each new level, and hunt for medallions to attain the Ultimate Ranking. You can also earn money, and spend it at the Mile High Store. Discovering secret hidden rooms can make you filthy rich!</desc>
+		<image>./mixart/Mile High Pinball.png</image>
+		<video>./snap/Mile High Pinball.mp4</video>
+		<marquee>./wheel/Mile High Pinball.png</marquee>
+		<releasedate>20051110T000000</releasedate>
+		<developer>Bonus.com</developer>
+		<publisher>Nokia</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>1792</genreid>
+	</game>
+	<game id="124416" source="ScreenScraper.fr">
+		<path>./NCAA Football 2004.cmd</path>
+		<name>NCAA Football 2004</name>
+		<desc>Emotional Upsets, Legendary Rivalries! No other football game delivers the spirit, atmosphere, and emotion of college football like NCAA Football 2004. Celebrate the history of college football with classic teams like the 1924 Notre Dame Fighting Irish, or replay one of the 20 greatest college football games from the last two decades.</desc>
+		<image>./mixart/NCAA Football 2004.png</image>
+		<video>./snap/NCAA Football 2004.mp4</video>
+		<marquee>./wheel/NCAA Football 2004.png</marquee>
+		<releasedate>20031210T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Sports / Football</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14448" source="ScreenScraper.fr">
+		<path>./Pathway To Glory Ikusa Islands.cmd</path>
+		<name>Pathway to Glory : Ikusa Islands</name>
+		<desc>Commanded by an old Navy veteran, your soldiers are used to combat. Most of them already have experience from the European Theatre of World War II. Although well prepared for imminent combat, the real horrors of the Pacific Theatre will change them forever. Only their strong ties to each other and to the seasoned veteran Commander Mc Douglas can keep them together. Prepare for some intense action in the Pacific!</desc>
+		<image>./mixart/Pathway To Glory Ikusa Islands.png</image>
+		<video>./snap/Pathway To Glory Ikusa Islands.mp4</video>
+		<marquee>./wheel/Pathway To Glory Ikusa Islands.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20051110T000000</releasedate>
+		<developer>RedLynx</developer>
+		<publisher>Nokia</publisher>
+		<genre>Strategy</genre>
+		<players>6</players>
+		<lang>en</lang>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14423" source="ScreenScraper.fr">
+		<path>./Pathway To Glory.cmd</path>
+		<name>Pathway To Glory</name>
+		<desc>Pathway to Glory is a strategy game available on N-Gage. Relive the excesses of World War II. Engage entire patrols in combat missions. With N-Gage Arena, experience the online gameplay experience as you compete in real time against a multitude of players from all over the world.</desc>
+		<image>./mixart/Pathway To Glory.png</image>
+		<video>./snap/Pathway To Glory.mp4</video>
+		<marquee>./wheel/Pathway To Glory.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20041217T000000</releasedate>
+		<developer>Nokia</developer>
+		<publisher>Nokia</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14457" source="ScreenScraper.fr">
+		<path>./Payload.cmd</path>
+		<name>Payload</name>
+		<desc>Enter the future and take on the most dangerous job on the planet! Payload is the first ever combat racing game on the N-Gage, taking you to a 3D world of futuristic high speed vehicles, deadly weapons and even deadlier enemies. Whatever you do, don't lose the cargo!</desc>
+		<image>./mixart/Payload.png</image>
+		<video>./snap/Payload.mp4</video>
+		<marquee>./wheel/Payload.png</marquee>
+		<releasedate>20060406T000000</releasedate>
+		<developer>Tantalus Software</developer>
+		<publisher>Nokia</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14432" source="ScreenScraper.fr">
+		<path>./Pocket Kingdom - Own the World.cmd</path>
+		<name>Pocket Kingdom : Own the World</name>
+		<desc>With Pocket Kingdom, massively multiplayer online (MMO) games are going mobile! MMO game worlds constantly grow and change, even when you're not playing. Just imagine your hard-earned kingdom sitting there, an irresistible temptation for some enterprising player halfway across the world. Pocket Kingdom gives you the best kind of enemies there are: real ones! And now you don't have to chain yourself to a desktop computer to get in on the action.</desc>
+		<image>./mixart/Pocket Kingdom - Own the World.png</image>
+		<video>./snap/Pocket Kingdom - Own the World.mp4</video>
+		<marquee>./wheel/Pocket Kingdom - Own the World.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20041126T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games-Massive Multiplayer Online RPG-Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>768</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Pool Friction.cmd</path>
+		<name>Pool Friction</name>
+		<desc>Pool Friction is a Billiards game released exclusively in Spanish-speaking countries.</desc>
+		<image>./mixart/Pool Friction.png</image>
+		<video>./snap/Pool Friction.mp4</video>
+		<marquee>./wheel/Pool Friction.png</marquee>
+		<releasedate />
+		<developer>StormBASIC Games</developer>
+		<publisher>Technobubble Entertainment</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
+	</game>
+	<game id="14439" source="ScreenScraper.fr">
+		<path>./Puyo Pop.cmd</path>
+		<name>Puyo Pop</name>
+		<desc>What exactly are puyos? Aside from being cute gobs of goo, they are the stars of the addictive game Puyo Pop from Sega. The classic blob-dropping puzzler is back, now on the hottest new gaming platform – the Nokia N-Gage™ game deck. It's raining puyos, and your job is to line up each one with its matching color. Link four or more of the same puyos together, and watch them disappear as your score increases. Go for big-scoring chains and combos, and foil your opponent's grouping strategies by dropping nasty Ojama puyos onto his pile. Four frenetic gameplay modes will challenge even the most talented puzzle champ.</desc>
+		<image>./mixart/Puyo Pop.png</image>
+		<video>./snap/Puyo Pop.mp4</video>
+		<marquee>./wheel/Puyo Pop.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sango.cmd</path>
+		<name>Sango: Romance of the Three Kingdoms</name>
+		<desc>Chinese exclusive translated to English via fan patch</desc>
+		<image>./mixart/Sango.png</image>
+		<video>./snap/Sango.mp4</video>
+		<marquee>./wheel/Sango.png</marquee>
+		<releasedate />
+		<genre>Action, RPG</genre>
+		<lang>en</lang>
+	</game>
+	<game id="14447" source="ScreenScraper.fr">
+		<path>./Sega Rally Championship (USA, Europe) (En,Fr,De,Es,It) (v1.4).cmd</path>
+		<name>Sega Rally Championship</name>
+		<desc>The rally reference from Sega now also for the N-Gage! As with the console and arcade models, Sega Rally can be played on the N-Gage immediately and without long "manual study". Both fans of the series and beginners will not be disappointed with this pocket-sized rally game. Sega's 3D engine is convincing across the board and has survived the "move" to the N-Gage brilliantly.</desc>
+		<image>./mixart/Sega Rally Championship (USA, Europe) (En,Fr,De,Es,It) (v1.4).png</image>
+		<video>./snap/Sega Rally Championship (USA, Europe) (En,Fr,De,Es,It) (v1.4).mp4</video>
+		<marquee>./wheel/Sega Rally Championship (USA, Europe) (En,Fr,De,Es,It) (v1.4).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040326T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="251287" source="ScreenScraper.fr">
+		<path>./Snakes (USA, Europe) (En,Fr,De,Es,It) (v0.2.1.9).cmd</path>
+		<name>Snakes</name>
+		<image>./mixart/Snakes (USA, Europe) (En,Fr,De,Es,It) (v0.2.1.9).png</image>
+		<video>./snap/Snakes (USA, Europe) (En,Fr,De,Es,It) (v0.2.1.9).mp4</video>
+		<marquee>./wheel/Snakes (USA, Europe) (En,Fr,De,Es,It) (v0.2.1.9).png</marquee>
+		<releasedate />
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Space Impact Evolution X.cmd</path>
+		<name>Space Impact Evolution X</name>
+		<image>./mixart/Space Impact Evolution X.png</image>
+		<video>./snap/Space Impact Evolution X.mp4</video>
+		<marquee>./wheel/Space Impact Evolution X.png</marquee>
+		<releasedate />
+		<developer>Nokia</developer>
+		<publisher>Nokia</publisher>
+		<genre>Shoot 'em Up</genre>
+		<lang>en</lang>
+	</game>
+	<game id="14398" source="ScreenScraper.fr">
+		<path>./Spider-Man 2.cmd</path>
+		<name>Spider-Man 2</name>
+		<desc>As night descends over New York City, Peter Parker is reminded of his great responsibility to help his fellow citizens. But while it's one thing for a man with "spider sense" to thwart petty criminals -- it's another story to take on a sinister villain bent on your destruction! After a failed experiment turns Dr. Otto Octavius (aka Doc Ock) into a monster, the egomaniacal scientist will stop at nothing until he exacts the ultimate revenge on the one he holds responsible for humiliating him: Spider-Man. Join Spidey, Aunt May, Harry Osborne, and Mary Jane in this action-packed title that blends 2D and 3D gaming in brilliant cinematic detail.</desc>
+		<image>./mixart/Spider-Man 2.png</image>
+		<video>./snap/Spider-Man 2.mp4</video>
+		<marquee>./wheel/Spider-Man 2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+	</game>
+	<game id="14392" source="ScreenScraper.fr">
+		<path>./Splinter Cell - Chaos Theory.cmd</path>
+		<name>Tom Clancy's Splinter Cell: Chaos Theory</name>
+		<desc>Tom Clancy's Splinter Cell Chaos Theory for the N-Gage game deck is the first mobile game in the series set in an immersive 3D world. Go head to head with a friend or play against each other in teams of two over the wireless Bluetooth connection. You can also take on co-operative multiplayer infiltration missions, where teamwork is the ultimate weapon.</desc>
+		<image>./mixart/Splinter Cell - Chaos Theory.png</image>
+		<video>./snap/Splinter Cell - Chaos Theory.mp4</video>
+		<marquee>./wheel/Splinter Cell - Chaos Theory.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050323T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Action / Adventure-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="14424" source="ScreenScraper.fr">
+		<path>./SSX Out Of Bounds.cmd</path>
+		<name>SSX: Out of Bounds</name>
+		<desc>It's you against the mountain! SSX: Out of Bounds puts you in the boots of a flamboyant character that pulls all the sickest stunts on a snowboard! Take on the challenge of a game that pushes the limits of reality to create a gaming experience unlike any other.</desc>
+		<image>./mixart/SSX Out Of Bounds.png</image>
+		<video>./snap/SSX Out Of Bounds.mp4</video>
+		<marquee>./wheel/SSX Out Of Bounds.png</marquee>
+		<releasedate>20050121T000000</releasedate>
+		<developer>Exient</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports / Skiing-Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Stuntcar Extreme.cmd</path>
+		<name>Stuntcar Extreme</name>
+		<image>./mixart/Stuntcar Extreme.png</image>
+		<video>./snap/Stuntcar Extreme.mp4</video>
+		<marquee>./wheel/Stuntcar Extreme.png</marquee>
+		<releasedate />
+		<genre>Racing</genre>
+		<lang>en</lang>
+	</game>
+	<game id="14434" source="ScreenScraper.fr">
+		<path>./Super Monkey Ball.cmd</path>
+		<name>Super Monkey Ball</name>
+		<desc>Much has been written about the purity and simplicity of Super Monkey Ball's gameplay. You must guide your cute, cheeky little monkey in his transparent ball through a fiendish selection of levels which tilt as you manipulate the direction pad. Make progress and you will open up the glorious mini-games Monkey Target, Monkey Race, and Monkey Fight. An acknowledged modern classic running without a hint of compromise on the Nokia N-Gage™ game decks.</desc>
+		<image>./mixart/Super Monkey Ball.png</image>
+		<video>./snap/Super Monkey Ball.mp4</video>
+		<marquee>./wheel/Super Monkey Ball.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>258</genreid>
+	</game>
+	<game id="14446" source="ScreenScraper.fr">
+		<path>./The Roots - Gates Of Chaos.cmd</path>
+		<name>The Roots : Gates of Chaos</name>
+		<desc>The Roots: Gates of Chaos is a fantasy action role-playing game with extensive multiplayer features. Choose your character and become the hero of an epic quest. Explore the diverse 3D world to develope your abilities and defeat the challenging enemies. Your friends can join you in multiplayer mode to either help you reach your goal or beat you to it!</desc>
+		<image>./mixart/The Roots - Gates Of Chaos.png</image>
+		<video>./snap/The Roots - Gates Of Chaos.mp4</video>
+		<marquee>./wheel/The Roots - Gates Of Chaos.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20050815T000000</releasedate>
+		<developer>Tannhauser Gate</developer>
+		<publisher>Cenega</publisher>
+		<genre>Action RPG-Role playing games</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>768</genreid>
+	</game>
+	<game id="14436" source="ScreenScraper.fr">
+		<path>./Tiger Woods PGA Tour 2004.cmd</path>
+		<name>Tiger Woods PGA Tour 2004</name>
+		<desc>Only one game gives you the chance to take on the best in the world, no matter where you are - Tiger Woods PGA® Tour 2004. What's different about the N-Gage version? One word: multiplayer! Get your friends in on the game over a Bluetooth wireless connection, or, for the first time ever, pit up to 4 people against each other for live and mobile multiplayer action in the N-Gage Arena! Tiger Woods PGA Tour 2004 is the must-have for any sports gamer.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 2004.png</image>
+		<video>./snap/Tiger Woods PGA Tour 2004.mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 2004.png</marquee>
+		<releasedate>20040624T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Golf-Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14450" source="ScreenScraper.fr">
+		<path>./Virtua Cop.cmd</path>
+		<name>Virtua Cop</name>
+		<desc>A month ago, a shrewd detective from the Virtua City Police Department exposed the illegal arms smuggling activities of a criminal syndicate in the middle of the city. Unfortunately, the only trace he left was evidence that found its way back to headquarters. A special task force takes over its work and you are to lead it.</desc>
+		<image>./mixart/Virtua Cop.png</image>
+		<video>./snap/Virtua Cop.mp4</video>
+		<marquee>./wheel/Virtua Cop.png</marquee>
+		<releasedate>20050502T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>261</genreid>
+	</game>
+	<game id="14417" source="ScreenScraper.fr">
+		<path>./Virtua Tennis.cmd</path>
+		<name>Virtua Tennis</name>
+		<desc>Sega's Virtua Tennis is the most revered tennis game in the history of the games industry. Famous for the way in which it lets you play stylish shots without having an unnecessarily complicated control system, it will make tennis fanatics who own Nokia N-Gage™ game decks very happy. With two game modes – Arcade and World Circuit – plus up to four-player multiplay via Bluetooth wireless technology, Virtua Tennis is feature-packed and addictive.</desc>
+		<image>./mixart/Virtua Tennis.png</image>
+		<video>./snap/Virtua Tennis.mp4</video>
+		<marquee>./wheel/Virtua Tennis.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20031214T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Tennis-Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="14405" source="ScreenScraper.fr">
+		<path>./Worms World Party.cmd</path>
+		<name>Worms: World Party</name>
+		<desc>One of the world's wackiest, addictive, and enjoyable games hits the N-Gage in its most multiplayer online-focused form to date! Worms World Party features globally appealing humor, habit-forming multiplayer match-ups, and a myriad of game options to keep you coming back for more. Do you want to get your hands dirty in a quick firefight or exercise your generalship in a long, thought-out wormfest? We put control in your hands. Why? Because worms don't have hands, silly!</desc>
+		<image>./mixart/Worms World Party.png</image>
+		<video>./snap/Worms World Party.mp4</video>
+		<marquee>./wheel/Worms World Party.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050419T000000</releasedate>
+		<developer>Paragon 5</developer>
+		<publisher>THQ</publisher>
+		<genre>Strategy-Puzzle-Game</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14420" source="ScreenScraper.fr">
+		<path>./WWE Aftershock.cmd</path>
+		<name>WWE : Aftershock</name>
+		<desc>Get ready for some hardcore wrestling action as WWE Aftershock invades the N-Gage platform! Featuring today's top WWE Superstars and their arsenal of signature moves, WWE Aftershock pushes the unparalleled capabilities of the N-Gage to bring on the big hurt in a real-time 3D environment. 
+WWE Aftershock brings you drama, action and Superstar personalities – rough and rugged, ugly and uncensored. Multiple cinematic camera angles, exceptional animation and a wide variety of single and multiplayer modes make this game the main event.</desc>
+		<image>./mixart/WWE Aftershock.png</image>
+		<video>./snap/WWE Aftershock.mp4</video>
+		<marquee>./wheel/WWE Aftershock.png</marquee>
+		<rating>0.05</rating>
+		<releasedate>20050520T000000</releasedate>
+		<developer>Exient</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports / Wrestling-Sports-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>262</genreid>
+	</game>
+	<game id="14412" source="ScreenScraper.fr">
+		<path>./X-Men Legends II - Rise of Apocalypse (USA, Europe) (En,Fr,De,Es,It) (v0.76).cmd</path>
+		<name>X-Men Legends II: Rise of Apocalypse</name>
+		<desc>Form a team of mutants, battle against many groups of enemies and level up to form the ultimate team of superheroes.</desc>
+		<image>./mixart/X-Men Legends II - Rise of Apocalypse (USA, Europe) (En,Fr,De,Es,It) (v0.76).png</image>
+		<video>./snap/X-Men Legends II - Rise of Apocalypse (USA, Europe) (En,Fr,De,Es,It) (v0.76).mp4</video>
+		<marquee>./wheel/X-Men Legends II - Rise of Apocalypse (USA, Europe) (En,Fr,De,Es,It) (v0.76).png</marquee>
+		<releasedate>20051031T000000</releasedate>
+		<developer>Barking Lizards</developer>
+		<publisher>Activision</publisher>
+		<genre>Action-Action / Adventure-Role playing games</genre>
+		<players>4</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>256</genreid>
+	</game>
+	<game id="14418" source="ScreenScraper.fr">
+		<path>./X-Men Legends.cmd</path>
+		<name>X-Men Legends</name>
+		<desc>X-Men Legends follows the exploits of the well-known Marvel heroes in their ongoing battle to protect humanity from the ravages of evil mutants. Combining the action of a fighting game and the strategy, depth, and story of a role-playing game, gamers and comic fans can command a team of heroes selected from a list of more characters than ever before.</desc>
+		<image>./mixart/X-Men Legends.png</image>
+		<video>./snap/X-Men Legends.mp4</video>
+		<marquee>./wheel/X-Men Legends.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050408T000000</releasedate>
+		<developer>Barking Lizards</developer>
+		<publisher>Activision</publisher>
+		<genre>Role playing games</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>768</genreid>
+	</game>
+	<game id="14428" source="ScreenScraper.fr">
+		<path>./Xanadu Next (USA, Europe) (En,Fr,De,Es,It) (v1.0.35).cmd</path>
+		<name>Xanadu Next</name>
+		<desc>Take on one of the most essential role-playing adventures of the year as Xanadu NEXT hits the N-Gage! Created by Falcom – one of the most acclaimed developers of RPG's – the classic Xanadu franchise brings you a unique blend of action and role-playing game elements.</desc>
+		<image>./mixart/Xanadu Next (USA, Europe) (En,Fr,De,Es,It) (v1.0.35).png</image>
+		<video>./snap/Xanadu Next (USA, Europe) (En,Fr,De,Es,It) (v1.0.35).mp4</video>
+		<marquee>./wheel/Xanadu Next (USA, Europe) (En,Fr,De,Es,It) (v1.0.35).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20050620T000000</releasedate>
+		<developer>Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Action RPG-Role playing games</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>768</genreid>
+	</game>
+	<game id="14454" source="ScreenScraper.fr">
+		<path>./System Rush.cmd</path>
+		<name>System Rush</name>
+		<desc>System Rush is a futuristic racing game set in an amazing 3D world of virtual race tracks, competing hackers, and high security networks. Speed your way through the system to infiltrate the security levels one by one and take back what is rightfully yours!</desc>
+		<image>./mixart/System Rush.png</image>
+		<video>./snap/System Rush.mp4</video>
+		<marquee>./wheel/System Rush.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Ideaworks3D</developer>
+		<publisher>Nokia</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14404" source="ScreenScraper.fr">
+		<path>./Colin McRae Rally 2005.cmd</path>
+		<name>Colin McRae Rally 2005</name>
+		<desc>In Colin McRae Rally 2005 you grab a seat behind the steering wheel of the rally car of your choice. Explore racing locations around the world: race on the roads of 64 stages in eight different countries and work your way towards the championship. Tune up your car to match the conditions and beat the clock! The realistic simulations of road types, weather conditions, and physics of car handling create an authentic rally experience. The locations and the cars are real as well, your job is to provide the real driving!</desc>
+		<image>./mixart/Colin McRae Rally 2005.png</image>
+		<video>./snap/Colin McRae Rally 2005.mp4</video>
+		<marquee>./wheel/Colin McRae Rally 2005.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Ideaworks3D</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./FreeStyle.cmd</path>
+		<name>FreeStyle</name>
+		<desc>Freestyle is a Racing released exclusively in Spanish-speaking countries.</desc>
+		<image>./mixart/FreeStyle.png</image>
+		<video>./snap/FreeStyle.mp4</video>
+		<marquee>./wheel/FreeStyle.png</marquee>
+		<releasedate />
+		<developer>StormBASIC Games</developer>
+		<publisher>Technobubble Entertainment</publisher>
+		<genre>Racing</genre>
+		<lang>en</lang>
+	</game>
+	<game id="14433" source="ScreenScraper.fr">
+		<path>./MotoGP.cmd</path>
+		<name>MotoGP</name>
+		<desc>With a heritage of 50 years, MotoGP™ is a supreme combination of man and machine, featuring the world's most advanced technology. Featuring 10 of the world's most exotic racing bikes, plus some of the world's top racing circuits, Moto GP brings the adrenaline of motorbike racing to the Nokia N-Gage™ game deck. Bluetooth wireless technology allows up to four people to take each other on at speeds of up to 200 miles per hour. 
+ 
+    Officially licensed MotoGP™ tracks and racers 
+    Select your official team and rider and compete on world-class tracks in either a single race or championship to become the MotoGP™ champion. 
+    Race to unlock new riders and tracks. 
+    Four exciting game modes including, Grand Prix and multiplay (4 players via Bluetooth™). 
+    The new, track editor mode, allows you to create up to three custom tracks to race on. 
+    Amazing 3D graphics with detailed environments and animations.</desc>
+		<image>./mixart/MotoGP.png</image>
+		<video>./snap/MotoGP.mp4</video>
+		<marquee>./wheel/MotoGP.png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20031114T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving / Motorcycle-Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14413" source="ScreenScraper.fr">
+		<path>./Pandemonium.cmd</path>
+		<name>Pandemonium!</name>
+		<desc>The young sorceress Nikki, the court jester Fargus, and his side-kick Sid the puppet are the three main protagonists of this 3D platform game. While attending a "Wizards in Training" seminar, Nikki accidentally casts a powerful magic spell, which results in a giant monsters swallowing the whole village. The three friends must now travel to a place called "Wishing Engine", and be granted a wish to revert the world back to normal. 
+ 
+The characters each have a special movement to kill enemies with. The game uses floating camera angles through a vast Prince of Persia-style world. The goal of the game is to clear the various levels, avoiding spikes and enemies and collecting coins for extra lives. 
+ 
+Unlike most 3D platformers, Pandemonium offers only two-dimensional movement, rather than complete freedom of movement. The characters move along a curving 2D course within a 3D environment.</desc>
+		<image>./mixart/Pandemonium.png</image>
+		<video>./snap/Pandemonium.mp4</video>
+		<marquee>./wheel/Pandemonium.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>Ideaworks3D</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+	</game>
+	<game id="14403" source="ScreenScraper.fr">
+		<path>./Red Faction.cmd</path>
+		<name>Red Faction</name>
+		<desc>As Parker, a miner working in appalling conditions beneath the surface of Mars, you become caught up in a rebellion triggered by inhuman working conditions and a deadly plague. During the course of 12 levels, set across land, sea and air environments, you fight overwhelming odds in your quest to free Mars from the evil Ultor's grip. 
+ 
+The first 3D first-person shoot-em-up for the Nokia N-Gage™ game deck, Red Faction was developed by Monkeystone Software, run by Doom and Quake legend John Romero.</desc>
+		<image>./mixart/Red Faction.png</image>
+		<video>./snap/Red Faction.mp4</video>
+		<marquee>./wheel/Red Faction.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20031210T000000</releasedate>
+		<developer>Monkeystone Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Shooter-Shooter / 1st person-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>259</genreid>
+	</game>
+	<game id="14430" source="ScreenScraper.fr">
+		<path>./Requiem Of Hell.cmd</path>
+		<name>Requiem Of Hell</name>
+		<desc>You're Troy, a hero who has returned to a peaceful village life after traversing deep into the belly of Hell, risking your soul to extinguish the fires for good. What nobody told you is that for the last three years, the good sorceress Linda had been using those fires to imprison Dalu, the most evil fiend in existence. Now that he's free, his strength has increased a hundredfold and he has re-awakened the Dragon Tree – Hell's own power source.</desc>
+		<image>./mixart/Requiem Of Hell.png</image>
+		<video>./snap/Requiem Of Hell.mp4</video>
+		<marquee>./wheel/Requiem Of Hell.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20041122T000000</releasedate>
+		<developer>Digital Red</developer>
+		<publisher>Nokia</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>768</genreid>
+	</game>
+	<game id="14419" source="ScreenScraper.fr">
+		<path>./Ashen.cmd</path>
+		<name>Ashen</name>
+		<desc>Ashen is a supernatural horror-themed FPS developed exclusively for the N-Gage platform. When Seven River City is plunged into chaos, stricken by storms and overcome with supernatural phenomena, Jacob Ward is filled with dread and despair, like most others. Yet Ward knows more about this catastrophe than most, and as its citizens flee, he must return to Seven River City and work to save it. Somewhere in that half-ruined darkness is his sister, a woman Ward believes is responsible for this disaster; a woman who warned him this would happen…</desc>
+		<image>./mixart/Ashen.png</image>
+		<video>./snap/Ashen.mp4</video>
+		<marquee>./wheel/Ashen.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040525T000000</releasedate>
+		<developer>Taurus Games</developer>
+		<publisher>Nokia</publisher>
+		<genre>Shooter-Shooter / 1st person-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>259</genreid>
+	</game>
+	<game id="14416" source="ScreenScraper.fr">
+		<path>./Asphalt Urban GT.cmd</path>
+		<name>Asphalt : Urban GT</name>
+		<desc>Asphalt: Urban GT™ brings the freshest rides to the N-Gage platform. Choose your favourite from a wide variety of real brands and models, including Lamborghini, Audi and Morgan. Customize the appearance and fine-tune the engine, then show your opponents what you've got on unique tracks based on actual locations around the world. Compete to earn money, more cars and access to new locations, or just race against your friends with the Bluetooth connection. You can even drive a police car and catch your opponents!</desc>
+		<image>./mixart/Asphalt Urban GT.png</image>
+		<video>./snap/Asphalt Urban GT.mp4</video>
+		<marquee>./wheel/Asphalt Urban GT.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14410" source="ScreenScraper.fr">
+		<path>./Bomberman.cmd</path>
+		<name>Bomberman</name>
+		<desc>Bomberman is a game of action and quick reflexes for the N-Gage. The golden statue, the pride of Bomberman Village, has been stolen. The heroes followed the suspect through the vortex and landed into a new dimension. The adventure includes 8 worlds with a total of 40 stages. Five arenas are available for players to compete in a multiplayer battle.</desc>
+		<image>./mixart/Bomberman.png</image>
+		<video>./snap/Bomberman.mp4</video>
+		<marquee>./wheel/Bomberman.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20040723T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+	</game>
+	<game id="14394" source="ScreenScraper.fr">
+		<path>./Call Of Duty.cmd</path>
+		<name>Call Of Duty</name>
+		<desc>Call of Duty for N-Gage is a first foray of the hugely popular FPS series into the handheld world. It's not a straightforward port of an original 2003 game, as the set of levels and the engine used are different, accommodated for the restrictions of the mobile device. The basic idea is still the same: alone or with the help of your comrades shoot Nazis and complete objectives in a war-torn Europe during World War 2. As in the original campaign, here you can also partake in the action as U.S., British or a Russian soldiers during various missions. 
+ 
+The game follows the basic concepts of a 3D Shooter, just as the "bigger" Call of Duty: players can run, look up and down, use ironsights, array of WW2 weaponry and help of their squadmates to an extent. Plus, in Call of Duty fashion you sometimes take up a role of a tank commander. There are eleven maps in total, plus some that are used in multiplayer games that could support up to four players via Bluetooth connection.</desc>
+		<image>./mixart/Call Of Duty.png</image>
+		<video>./snap/Call Of Duty.mp4</video>
+		<marquee>./wheel/Call Of Duty.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20041123T000000</releasedate>
+		<developer>Nokia</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="14443" source="ScreenScraper.fr">
+		<path>./Operation Shadow.cmd</path>
+		<name>Operation Shadow</name>
+		<desc>Factional conflict in the region around Solano's home country Arawas have increased over the last decade. In the rocky political environment brought on by the destablised global economy and the disintegration of key political groups, extremist organisations have flourished. Team Shadow has been established to prevent the worst of these regimes from further threatening global security.</desc>
+		<image>./mixart/Operation Shadow.png</image>
+		<video>./snap/Operation Shadow.mp4</video>
+		<marquee>./wheel/Operation Shadow.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20040929T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Nokia</publisher>
+		<genre>Action-Action / Adventure</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="14408" source="ScreenScraper.fr">
+		<path>./SonicN.cmd</path>
+		<name>Sonic N</name>
+		<desc>Sonic N is a platform game on the N-Gage. With Sonic, Knuckles, Tails, or Amy, discover new levels, secret areas of puzzles and traps in a race against time to recover Chaos emeralds and end Dr. Eggman's evil plans. Each character has his own abilities, such as flying, climbing, hammering, or doing a super attack.</desc>
+		<image>./mixart/SonicN.png</image>
+		<video>./snap/SonicN.mp4</video>
+		<marquee>./wheel/SonicN.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031007T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+	</game>
+	<game id="14402" source="ScreenScraper.fr">
+		<path>./The Elder Scrolls Travels - Shadowkey.cmd</path>
+		<name>The Elder Scrolls Travels : Shadowkey</name>
+		<desc>Your village has safely remained just out of reach of The War of the Bend'r-mahk, but now danger strikes from another direction. You must save your village from marauders who are but pawns in the struggle to capture Shadowmage Skelos Undriel, who himself is but one more piece in a darker and more sinister game. You'll journey through rugged terrain, despoiled temples, bandit lairs, and murderous caverns. You'll fight many foes in your search for the power of the Shadowkeys and the Star Teeth, and your journey will lead you to the ultimate test, deep in the Crypt of the Heart.</desc>
+		<image>./mixart/The Elder Scrolls Travels - Shadowkey.png</image>
+		<video>./snap/The Elder Scrolls Travels - Shadowkey.mp4</video>
+		<marquee>./wheel/The Elder Scrolls Travels - Shadowkey.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20041111T000000</releasedate>
+		<developer>Vir2L Studios</developer>
+		<publisher>TKO Software</publisher>
+		<genre>Role playing games</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>768</genreid>
+	</game>
+	<game id="14396" source="ScreenScraper.fr">
+		<path>./Tom Clancy's Splinter Cell - Team Stealth Action (USA, Europe) (En,Fr,De,Es,It) (v1.2.8).cmd</path>
+		<name>Tom Clancy's Splinter Cell: Team Stealth Action</name>
+		<desc>Tom Clancy's Splinter Cell brought new levels of sophistication to stealth-action gaming. You play NSA Black Ops operative Sam Fisher, a so-called Splinter Cell, undertaking fearsomely dangerous missions on your own. Except this time around, Fisher is not entirely on his own: the game deck's unique Bluetooth wireless technology has enabled two unique multiplayer modes, Sniper and cooperative. In the latter, you will have to work together with a friend to overcome the enemy.</desc>
+		<image>./mixart/Tom Clancy's Splinter Cell - Team Stealth Action (USA, Europe) (En,Fr,De,Es,It) (v1.2.8).png</image>
+		<video>./snap/Tom Clancy's Splinter Cell - Team Stealth Action (USA, Europe) (En,Fr,De,Es,It) (v1.2.8).mp4</video>
+		<marquee>./wheel/Tom Clancy's Splinter Cell - Team Stealth Action (USA, Europe) (En,Fr,De,Es,It) (v1.2.8).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20031202T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Action / Adventure-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>256</genreid>
+	</game>
+	<game id="14395" source="ScreenScraper.fr">
+		<path>./Tomb Raider.cmd</path>
+		<name>Tomb Raider: Starring Lara Croft</name>
+		<desc>What more could you ask for than the delectable Lara Croft in the palm of your hand? Classic monster-shooting, exploration, and puzzle-solving action is on offer here, as Lara seeks the Scion, a relic from Atlantis. With 15 huge levels (set in South America, Greece, Egypt and Atlantis) and, even though it runs on a handheld device, full 3D graphics, this is, simply, the best portable version of Tomb Raider ever. Factor in a downloadable Assault Course which lets you compete against a ghost image of your friend's effort, and you have a winner.</desc>
+		<image>./mixart/Tomb Raider.png</image>
+		<video>./snap/Tomb Raider.mp4</video>
+		<marquee>./wheel/Tomb Raider.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031006T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action-Action / Adventure-Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="14406" source="ScreenScraper.fr">
+		<path>./Asphalt Urban GT 2.cmd</path>
+		<name>Asphalt : Urban GT 2</name>
+		<desc>Asphalt has never been so hot! The next level of the ultimate racing game is here with more cars, new tracks, insane crashes, and roaring engines tuned to their limits.</desc>
+		<image>./mixart/Asphalt Urban GT 2.png</image>
+		<video>./snap/Asphalt Urban GT 2.mp4</video>
+		<marquee>./wheel/Asphalt Urban GT 2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051206T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14409" source="ScreenScraper.fr">
+		<path>./Rayman 3.cmd</path>
+		<name>Rayman 3</name>
+		<desc>He may appear to have no body to connecting his limbs and head, but Rayman should not be underestimated. In this cartoon-style action-platform game, Rayman must extract the Dark Lum lord, who has been swallowed by his rather dumb friend Globox. 
+With over 50 maps spread across eight universes, plus an N-Gage exclusive four-player Capture The Flag mode, Rayman 3 provides a feast of action-platform gameplay.</desc>
+		<image>./mixart/Rayman 3.png</image>
+		<video>./snap/Rayman 3.mp4</video>
+		<marquee>./wheel/Rayman 3.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20031211T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>257</genreid>
+	</game>
+</gameList>

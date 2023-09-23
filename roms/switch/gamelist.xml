@@ -1,0 +1,1175 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="195745">
+		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</desc>
+		<image>./mixart/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
+		<marquee>./wheel/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000007/61c5e2bbf9ab8c546ba590f9637a0ca8.nca</path>
+		<name>61c5e2bbf9ab8c546ba590f9637a0ca8</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000018/942d67edcb9c39f05d6be064a928aa34.nca</path>
+		<name>942d67edcb9c39f05d6be064a928aa34</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000090/b201291d3e099872debd1c1870572cc3.nca</path>
+		<name>b201291d3e099872debd1c1870572cc3</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000001/ef0070f28bf75663939e467ca422d6b6.nca</path>
+		<name>ef0070f28bf75663939e467ca422d6b6</name>
+		<md5>c00d7a6cb1bc92b0a8b79af4203996c2</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000003/2e689d1bdcf80fd341d33eb30601b854.nca</path>
+		<name>2e689d1bdcf80fd341d33eb30601b854</name>
+		<md5>1e86edb69cb735d2340cd0c394bfc148</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000003/bc2dbc3ea38ae10374511406eb03c6a0.nca</path>
+		<name>bc2dbc3ea38ae10374511406eb03c6a0</name>
+		<md5>b1feda8e91c7a96751a5e262478d0a4a</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000000E/e2c511a2d1ab00550a48be100100d340.nca</path>
+		<name>e2c511a2d1ab00550a48be100100d340</name>
+		<md5>09058122bc2550e492cc9f8d3ff12a08</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000023/09ea55ca36f2afe456bb6acb0267ab95.nca</path>
+		<name>09ea55ca36f2afe456bb6acb0267ab95</name>
+		<md5>466f870019472fbf301eb4459c62cbff</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000027/ef0ced9f715e2a89aca48017aa34b771.nca</path>
+		<name>ef0ced9f715e2a89aca48017aa34b771</name>
+		<md5>e54a345514eb69835b9a07ef3e8bfb13</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000028/bbea5b906208418e22e23d5c446e8a8f.nca</path>
+		<name>bbea5b906208418e22e23d5c446e8a8f</name>
+		<md5>49b159eeceaa9721b888c8a810ffaa4d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000002B/d48a3bfc2fad024a98e5584e6e0ec22f.nca</path>
+		<name>d48a3bfc2fad024a98e5584e6e0ec22f</name>
+		<md5>e3aad051d30e102f6e48bfc34b7cba09</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000002C/05a9073b925dca401493f8860d218a02.nca</path>
+		<name>05a9073b925dca401493f8860d218a02</name>
+		<md5>998cf98b2057bee4f44c80b80edba258</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000034/20b52065db773b29755f3b0fbe45cbd4.nca</path>
+		<name>20b52065db773b29755f3b0fbe45cbd4</name>
+		<md5>aa8e88b9cd957750b2b35328c203e3cb</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000035/a6ee60de4f804ac979f18fb68ced5857.nca</path>
+		<name>a6ee60de4f804ac979f18fb68ced5857</name>
+		<md5>dd2cb32ddc645567c88a8416a7f319fa</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000039/91339efa65328c44fda33ecba22508df.nca</path>
+		<name>91339efa65328c44fda33ecba22508df</name>
+		<md5>2c53caf706219bcf4150e3fc93096c80</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000003B/f0ed28849b8449a38e174ed40305dde8.nca</path>
+		<name>f0ed28849b8449a38e174ed40305dde8</name>
+		<md5>9c502df3a7ccdf52f46026d432e46c34</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000003E/53e6a1f9359591dd9f4ae7209d590121.nca</path>
+		<name>53e6a1f9359591dd9f4ae7209d590121</name>
+		<md5>7d565d0f528c0488ba89dda5c08b248f</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000043/bdae0d8f78560643b4183104450620ce.nca</path>
+		<name>bdae0d8f78560643b4183104450620ce</name>
+		<md5>7cfdb6cf15b3ea25713cb71ad45e307b</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000046/350de6a2affa2d788ec288e0e2d7b682.nca</path>
+		<name>350de6a2affa2d788ec288e0e2d7b682</name>
+		<md5>afe5fc07fa6e64c12d16842901367766</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000051/7126616edc8f3353ddaa68f4c7632fde.nca</path>
+		<name>7126616edc8f3353ddaa68f4c7632fde</name>
+		<md5>96d744392d917a93b7366d435a9a1a13</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000054/4388e225d9a0be8580eeeddbf2033adc.nca</path>
+		<name>4388e225d9a0be8580eeeddbf2033adc</name>
+		<md5>1331c17d4cc7a6e0494b07aed9a7718b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000055/095101b9ba30652c1a32c96d815de280.nca</path>
+		<name>095101b9ba30652c1a32c96d815de280</name>
+		<md5>0aa2427efcc40450194beedab335c0f0</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000055/3443356ea567f49078d08097ae034983.nca</path>
+		<name>3443356ea567f49078d08097ae034983</name>
+		<md5>f4024deaf057091887ab6230b91d7fa8</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000057/951a60545218d3c0d903755f06ea0cab.nca</path>
+		<name>951a60545218d3c0d903755f06ea0cab</name>
+		<md5>b64345642f78fc0e7e934cba131350d1</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000076/8e795e0e52aea3360ac743505cc479f5.nca</path>
+		<name>8e795e0e52aea3360ac743505cc479f5</name>
+		<md5>08ca8119397590c9179ba3332084a8cf</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000081/568c0adb3d6f6d1d24637f2d26959dbf.nca</path>
+		<name>568c0adb3d6f6d1d24637f2d26959dbf</name>
+		<md5>809068990e29e1c82f49385525482dd3</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000081/be154a922d126fda2d7d64a5f01806b6.nca</path>
+		<name>be154a922d126fda2d7d64a5f01806b6</name>
+		<md5>defb3a1f28749ac7e83ec525127b964b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000083/af9fae56b5c01e1b5765c16f80e4b02a.nca</path>
+		<name>af9fae56b5c01e1b5765c16f80e4b02a</name>
+		<md5>d46872585c6cfcb5a0341676af44660c</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000093/e2a35578a71aa55d5ef397ba93d60d16.nca</path>
+		<name>e2a35578a71aa55d5ef397ba93d60d16</name>
+		<md5>e26eb2eb58e85fb0d7ba766eddbec0d4</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000094/a9d3c9d62ec0ca557a5543f869cea2f4.nca</path>
+		<name>a9d3c9d62ec0ca557a5543f869cea2f4</name>
+		<md5>84e4581292186c71769588492e7a64e1</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000098/0958ce1d5d65a6a57ee2ef62c3dc4f1a.nca</path>
+		<name>0958ce1d5d65a6a57ee2ef62c3dc4f1a</name>
+		<md5>d2bc1b1998121c9dd76473c913987e0c</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A0/079923558d285c105ba08afddded9b24.nca</path>
+		<name>079923558d285c105ba08afddded9b24</name>
+		<md5>238d5ac7712e5865819a96a843970722</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A1/f18281e65da58311e6fd7185a9fd10d0.nca</path>
+		<name>f18281e65da58311e6fd7185a9fd10d0</name>
+		<md5>fe4be1c842620c8ac93ce61820706417</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A2/481f67bae20163dfef064a5768fb96f7.nca</path>
+		<name>481f67bae20163dfef064a5768fb96f7</name>
+		<md5>5289132cf66ede5022c2af27663f1386</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000AA/d3ea239a8157c1bfccb571cd7df404cb.nca</path>
+		<name>d3ea239a8157c1bfccb571cd7df404cb</name>
+		<md5>d25b1d4c459eeb4aa872c90b58b378d0</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000BD/5b0b5c95d5ec8e123bd6eb8a5c4e1a1c.nca</path>
+		<name>5b0b5c95d5ec8e123bd6eb8a5c4e1a1c</name>
+		<md5>fc8fe80325e7637213ba295e48cc107c</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000BD/a29d8d0c04bb75da302890f5d1ff455c.nca</path>
+		<name>a29d8d0c04bb75da302890f5d1ff455c</name>
+		<md5>678fe61b357f39b885657063977e5b0d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000C1/1fc0d3321d67371474f03f4796d59bfa.nca</path>
+		<name>1fc0d3321d67371474f03f4796d59bfa</name>
+		<md5>f45edaa34813f9f29a1a9ecacfdfe0f1</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000CC/eb2e571fb091ab4add499d5a0fa56785.nca</path>
+		<name>eb2e571fb091ab4add499d5a0fa56785</name>
+		<md5>27dcf93247cfdd17dbea08a7171eabe6</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D0/e246ce53284d61df9f9af4d51223f277.nca</path>
+		<name>e246ce53284d61df9f9af4d51223f277</name>
+		<md5>4186bdfdcc75b14a117a91a8c1271228</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D2/1bcc7e4b20fed14f4f56142b29fb8d01.nca</path>
+		<name>1bcc7e4b20fed14f4f56142b29fb8d01</name>
+		<md5>a2c5461bce26ecb17dc446181a8172c6</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D2/eb02d229cad0bbd9d7e60979fb5e544b.nca</path>
+		<name>eb02d229cad0bbd9d7e60979fb5e544b</name>
+		<md5>100300de8054b6ca98b11b676d168d17</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D4/9d687f8eeaae37c148666daaafb40e30.nca</path>
+		<name>9d687f8eeaae37c148666daaafb40e30</name>
+		<md5>c29824441a2cdf49faebb944058d315d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D8/922be0b458799142078a27f745d57d49.nca</path>
+		<name>922be0b458799142078a27f745d57d49</name>
+		<md5>51c30034143e9e4c927cd937de28d762</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DA/e432b3e063596ace5cf35409d8befe1a.nca</path>
+		<name>e432b3e063596ace5cf35409d8befe1a</name>
+		<md5>4ab4595a9850973c77dcfdbd17e29105</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DB/ba05d593b4ccb6f9e86a5a094daacae4.nca</path>
+		<name>ba05d593b4ccb6f9e86a5a094daacae4</name>
+		<md5>5ebcbdec7ebb4173e6a79e61f16aafb3</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DD/d85a5cea6714d5ccd0a3392a3db31e1d.nca</path>
+		<name>d85a5cea6714d5ccd0a3392a3db31e1d</name>
+		<md5>a7c5f7591611804de51b74f24d36e7e7</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E3/5a14155adeaa9fff325d13d535f35b6b.nca</path>
+		<name>5a14155adeaa9fff325d13d535f35b6b</name>
+		<md5>fef67d8ad704b2a756b94cb7756a62bc</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E5/525f97b51a1b4386e27cee53c68df832.nca</path>
+		<name>525f97b51a1b4386e27cee53c68df832</name>
+		<md5>e5ffa58332e04f6b0bb29ce72d213523</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E6/c833853cc494c95d7135903c6c4b6309.nca</path>
+		<name>c833853cc494c95d7135903c6c4b6309</name>
+		<md5>5e94754e50750f241648d39877a03895</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000EA/133d5f3f1d2e1bba8d086975578e19cb.nca</path>
+		<name>133d5f3f1d2e1bba8d086975578e19cb</name>
+		<md5>a26d7f118295151d86956999e43633be</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000FD/7aec3973a45b4e5c307e98232f8c48ea.nca</path>
+		<name>7aec3973a45b4e5c307e98232f8c48ea</name>
+		<md5>e4f4a0ce7cac363baa51221b8c8c88f4</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000FE/ef01415c3c4d7c4115e1808b9ece8524.nca</path>
+		<name>ef01415c3c4d7c4115e1808b9ece8524</name>
+		<md5>36fbfd73960c62447c635d4c3e4faaf6</md5>
+		<lang>en</lang>
+	</game>
+	<game id="196015">
+		<path>./content/updates/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536].nsp</path>
+		<name>Hyrule Warriors - Definitive Edition</name>
+		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
+Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
+		<image>./mixart/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-image.png</image>
+		<marquee>./wheel/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>20180518T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<hidden>true</hidden>
+		<md5>17c21aafbb1510185ff2940f84198768</md5>
+		<lang>en</lang>
+	</game>
+	<game id="195855">
+		<path>./content/updates/Rayman Legends Definitive Edition [01005FF002E2A800][v131072].nsp</path>
+		<name>Rayman Legends - Definitive Edition</name>
+		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
+		<image>./mixart/Rayman Legends Definitive Edition [01005FF002E2A800][v131072]-image.png</image>
+		<rating>0</rating>
+		<releasedate>20170912T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<hidden>true</hidden>
+		<md5>a83003844d975dc4a7a5a59316647662</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/updates/sxs-kirby_star_allies_v327680.nsp</path>
+		<name>sxs-kirby_star_allies_v327680</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-bb4f_v196608.nsp</path>
+		<name>v-bb4f_v196608</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_electron_skins_dlc.nsp</path>
+		<name>v-ctrnf_electron_skins_dlc</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>e1f864393e01d6ccf138a05f0ca2c901</md5>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_nitros_oxide_dlc.nsp</path>
+		<name>v-ctrnf_nitros_oxide_dlc</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>c75573a8e0a02b2bb81b3f244dc9f05a</md5>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_v983040.nsp</path>
+		<name>v-ctrnf_v983040</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-sega_ages_virtua_racing_v65536.nsp</path>
+		<name>v-sega_ages_virtua_racing_v65536</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>efd26ca07536ea926033a41282de30eb</md5>
+	</game>
+	<game>
+		<path>./New_Super_Mario_Bros._U_Deluxe.xci</path>
+		<name>New Super Mario Bros. U Deluxe</name>
+		<desc>Two Super Mario Bros. games in one, for double the fun!
+
+Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!
+
+Two games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content—like a Hints gallery and helpful reference videos**—make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con™ controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii™ character: Challenges, Boost Rush, and Coin Battle!</desc>
+		<image>./mixart/New_Super_Mario_Bros._U_Deluxe-image.jpg</image>
+		<releasedate>20190111T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./content/updates/Diablo_III_Eternal_Collection_Update_v2.6.10.72837.nsp</path>
+		<name>Diablo_III_Eternal_Collection_Update_v2.6.10.72837</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Mario Kart 8 Deluxe [0100152000022800][v393216].nsp</path>
+		<name>Mario Kart 8 Deluxe [0100152000022800][v393216]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Mario Kart 8 Deluxe [0100152000022800][v524288].nsp</path>
+		<name>Mario Kart 8 Deluxe [0100152000022800][v524288]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Scott_Pilgrim_vs_The_World_The_Game_Update_v1.0.1.nsp</path>
+		<name>Scott_Pilgrim_vs_The_World_The_Game_Update_v1.0.1</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Super_Mario_3D_World_plus_Bowsers_Fury_Update_v1.1.0.nsp</path>
+		<name>Super_Mario_3D_World_plus_Bowsers_Fury_Update_v1.1.0</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/The Legend of Zelda Breath of the Wild [01007EF00011E800][v720896].nsp</path>
+		<name>The Legend of Zelda Breath of the Wild [01007EF00011E800][v720896]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/The_Legend_of_Zelda_Links_Awakening_Update_v1.0.1.nsp</path>
+		<name>The_Legend_of_Zelda_Links_Awakening_Update_v1.0.1</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
+		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
+		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
+• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
+• Full-color instruction booklet
+• Reversible cover sheet
+• Deluxe plastic clamshell case with reversible coversheet
+• Sticker sheet featuring art from the game
+• Physical soundtrack CD featuring music by Anamanaguchi.
+• The Clash at Demonhead commemorative concert ticket
+• Overworld map
+
+Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
+
+This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
+
+Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
+
+Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
+		<image>./mixart/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
+		<video>./snap/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
+		<marquee>./wheel/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210115T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Limited Run Games, Ubisoft</publisher>
+		<genre>Action, Adventure, Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
+		<name>Crash Team Racing: Nitro-Fueled</name>
+		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
+
+Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
+Power slide to glory in additional karts and tracks from beyond the original game
+Race online with friends and Crash the competition with online leaderboards
+
+With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
+		<image>./mixart/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
+		<video>./snap/Crash_Team_Racing_Nitro_Fueled.mp4</video>
+		<marquee>./wheel/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20190621T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="196015">
+		<path>./Hyrule_Warriors_Definitive_Edition.xci</path>
+		<name>Hyrule Warriors - Definitive Edition</name>
+		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
+Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
+		<image>./mixart/Hyrule_Warriors_Definitive_Edition-image.png</image>
+		<video>./snap/Hyrule_Warriors_Definitive_Edition.mp4</video>
+		<marquee>./wheel/Hyrule_Warriors_Definitive_Edition-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180518T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="195955">
+		<path>./Kirby_Star_Allies.xci</path>
+		<name>Kirby Star Allies</name>
+		<desc>When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!</desc>
+		<image>./mixart/Kirby_Star_Allies-image.png</image>
+		<video>./snap/Kirby_Star_Allies.mp4</video>
+		<marquee>./wheel/Kirby_Star_Allies-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180316T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="195855">
+		<path>./Rayman_Legends_Definitive_Edition.xci</path>
+		<name>Rayman Legends - Definitive Edition</name>
+		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
+		<image>./mixart/Rayman_Legends_Definitive_Edition-image.png</image>
+		<video>./snap/Rayman_Legends_Definitive_Edition.mp4</video>
+		<marquee>./wheel/Rayman_Legends_Definitive_Edition-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20170912T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Speedway Heroes.xci</path>
+		<name>Speedway Heroes</name>
+		<desc>Are you a speedway fan?
+
+Do you like the roar of the engine and side by side competition?
+
+You will be excited when you’ll try Speedway Heroes – fresh speedway game from Simplicity Games, delivered for this ‘black sport’ fans (and not only for them!).
+
+Start now your speedway adventure through countries like every speedway-fan should know – Great Britain, Germany, Poland, Australia, Sweden, Russian, and many others soon.</desc>
+		<image>./mixart/Speedway Heroes.jpg</image>
+		<video>./snap/Speedway Heroes.mp4</video>
+		<marquee>./wheel/Speedway Heroes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Simplicity Games</developer>
+		<publisher>Simplicity Games</publisher>
+		<genre>Raceing, Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Axiom Verge 2.xci</path>
+		<name>Axiom Verge 2</name>
+		<desc>Life. Afterlife. Real. Virtual. Dream. Nightmare. It’s a thin line. It’s Axiom Verge 2. The long awaited sequel to Axiom Verge, Axiom Verge 2 expands on the universe with completely new characters, abilities, and gameplay.</desc>
+		<image>./mixart/Axiom Verge 2.jpg</image>
+		<video>./snap/Axiom Verge 2.mp4</video>
+		<marquee>./wheel/Axiom Verge 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Thomas Happ Games</developer>
+		<publisher>Thomas Happ Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Rush Rally Origins.xci</path>
+		<name>Rush Rally Origins</name>
+		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
+		<image>./mixart/Rush Rally Origins.jpg</image>
+		<video>./snap/Rush Rally Origins.mp4</video>
+		<marquee>./wheel/Rush Rally Origins.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Brownmonster Ltd</developer>
+		<publisher>Brownmonster</publisher>
+		<genre>Action, Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Bubble_Bobble_4_Friends.xci</path>
+		<name>Bubble Bobble 4 Friends</name>
+		<desc>Bubble Bobble 4 Friends is the latest game in the legendary Bubble Bobble series from Taito. Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through 100 levels to defy the wicked magician Bonner and his henchmen.</desc>
+		<image>./mixart/Bubble_Bobble_4_Friends-image.jpg</image>
+		<video>./snap/Bubble_Bobble_4_Friends.mp4</video>
+		<marquee>./wheel/Bubble_Bobble_4_Friends-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20191119T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>United Independent Entertainment GmbH</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BurgerTime Party!.nsp</path>
+		<name>BurgerTime Party!</name>
+		<desc>Sizzle it up on Nintendo Switch! Welcome to Peter Pepper's grill, where the party never ends! Make massive burgers while avoiding edible enemies across over 100 stages stuffed with platforming puzzles and arcade action. Dining solo? We have a carefully curated menu of single-player stages to enjoy. If you're looking for a cooperative challenge, then we invite you to join forces with up to three friends and form the ultimate munch squad! But if you'd rather battle it out for control of the kitchen, choose to play as a pepper-slinging Chef or a menacing Food Foe in Battle Burger mode for 2-4 players!</desc>
+		<image>./mixart/BurgerTime Party!.jpg</image>
+		<video>./snap/BurgerTime Party!.mp4</video>
+		<marquee>./wheel/BurgerTime Party!.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>G-Mode</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Kirby Fighters 2.nsp</path>
+		<name>Kirby Fighters 2</name>
+		<desc>Kirby Fighters 2 is a battle-action Kirby game developed by HAL Laboratory and published by Nintendo for the Nintendo Switch. It was released worldwide on September 23, 2020. A sequel to Kirby Fighters Deluxe and a stand-alone upgrade of the Kirby: Triple Deluxe sub-game Kirby Fighters, Kirby Fighters 2 features more Copy Abilities, stages and playable characters alongside a new Story Mode</desc>
+		<image>./mixart/Kirby Fighters 2.jpg</image>
+		<video>./snap/Kirby Fighters 2.mp4</video>
+		<marquee>./wheel/Kirby Fighters 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Oceanhorn 2 Knights of the Lost Realm.nsp</path>
+		<name>Oceanhorn 2: Knights of the Lost Realm</name>
+		<desc>Oceanhorn 2: Knights of the Lost Realm, set a thousand years before the events of the first chapter, takes you on a magical journey across the vast world of Gaia, brimming with mythology and lore. A young Knight faces an impossible challenge, as Warlock Mesmeroth has returned with a formidable Dark Army. Will our hero be able to unite the Owrus, Gillfolk, and men in a fight for the fate of the world? You will not be taking this journey alone. Trin, the granddaughter of Arcadia's leader Archimedes, and Gen, a mysterious robot wielding an old samurai weapon, will join forces with you, and fight at your side against Mesmeroth's Dark Army. Contextual commands will allow you to direct these allies into battle, or have them help you with the solution of the game's most clever puzzles! Bigger, better, and packed with new features – Oceanhorn 2 is not only one of the best-looking adventure games out there, but it also builds a unique experience on the shoulder of classic video games. Collect powerful items, wield the Caster Gun, solve the mysterious puzzles of the ancients, and discover all that Arcadia and its neighboring kingdoms have to offer! Accept the challenge and become a true hero.</desc>
+		<image>./mixart/Oceanhorn 2 Knights of the Lost Realm.jpg</image>
+		<video>./snap/Oceanhorn 2 Knights of the Lost Realm.mp4</video>
+		<marquee>./wheel/Oceanhorn 2 Knights of the Lost Realm.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>Cornfox/Bros</developer>
+		<publisher>Cornfox/Bros</publisher>
+		<genre>Adventure, Role-Playing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retro Highway.nsp</path>
+		<name>Retro Highway</name>
+		<desc>Pure arcade fun! Hit the Retro Highway and return to the days of 16-bit blast processing and pure arcade fun! Retro Highway is a throwback game aiming to combine the accessibility of modern titles with the high-skill challenge and charming aesthetics of old. • Experience high octane old school action on your console in 60 fps • Complete daring challenges and compete with your friends or the whole world for the highest scores • Explore six unique environments ranging from a hot desert freeway to a futuristic moon base • Customize your playstyle by choosing from a diverse garage of 10+ bikes and by upgrading various powerups • Embrace the nostalgia rush caused by stylish pixel art visuals and chiptune soundtrack</desc>
+		<image>./mixart/Retro Highway.jpg</image>
+		<video>./snap/Retro Highway.mp4</video>
+		<marquee>./wheel/Retro Highway.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Gearhead Games</developer>
+		<publisher>Gearhead Games</publisher>
+		<genre>Action, Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SNIPER Hunter Scope.nsp</path>
+		<name>SNIPER Hunter Scope</name>
+		<desc>BECOME THE ULTIMATE HUNTER! In S.N.I.P.E.R.: Hunter Scope you will shoot, you will fight, and you will win! Play S.N.I.P.E.R., the latest sniping game where you aim, fight and destroy virtual enemies. Try different types of missions, inspired both by classic rail shooters and modern cover shooters. Fight your way out during day and night, destroy evil forces and unlock new weapons and power-ups. Game includes: 15+ STAGES 30+ WEAPONS 30+ GALLERY ITEMS 60+ SPECIAL ACHIEVEMENTS Become a hunter, mount your scope, and fight for our freedom!</desc>
+		<image>./mixart/SNIPER Hunter Scope.jpg</image>
+		<video>./snap/SNIPER Hunter Scope.mp4</video>
+		<marquee>./wheel/SNIPER Hunter Scope.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>Baltoro Games</developer>
+		<publisher>Baltoro Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Invaders Invincible Collection.nsp</path>
+		<name>Space Invaders: Invincible Collection</name>
+		<desc>Space Invaders is a founding block of video game history that filled the arcades. It is said that the game made 100 Yen coins scarce and defined the visuals and mechanics in the first decade of video games. Until this day, Space Invaders remains highly successful in the gaming industry as well as it is highly prominent in pop culture. Now the most complete collection on cart ever, the Space Invaders Invincible Collection, is heading to the West. It combines all titles from the Japanese standard and special releases on one cartridge, the limited Western collection even has the console port of the game Arkanoid vs. Space Invaders on cartridge, a unique title which was only available as a download code in the Japanese version! Includes: Space Invaders (1978, Arcade) – b/w Space Invaders (1978, Arcade) – colour Space Invaders Part II (1979, Arcade) Majestic Twelve: The Space Invaders Part IV (1990, Arcade) Super Space Invaders ’91 (1990, Arcade) Space Invaders Extreme (2018) Space Invaders Gigamax 4 SE (2018) Arkanoid vs. Space Invaders (2017) Space Invaders DX (1994, Arcade) Space Cyclone (1980, Arcade) Lunar Rescue (1979, Arcade)</desc>
+		<image>./mixart/Space Invaders Invincible Collection.jpg</image>
+		<video>./snap/Space Invaders Invincible Collection.mp4</video>
+		<marquee>./wheel/Space Invaders Invincible Collection.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Strickly Games</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The_Legend_of_Zelda_-_Skyward_Sword_HD.nsp</path>
+		<name>The Legend of Zelda - Skyward Sword HD</name>
+		<desc>The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch! Take to the skies, draw your sword, and experience the earliest story in the Legend of Zelda series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of the Legend of Zelda: Skyward Sword. Master realistic swordplay that matches your movements Swing your sword and angle your slashes to uncover and break through opponents’ defenses using intuitive motion controls. Link will match the angle of each strike you make with the Joy-Con controller, creating immersive swordplay that relies on strategy and accuracy. Movements feel smoother and more immediate thanks to the Nintendo Switch system’s increased processing power and HD graphics. Take advantage of the newly-added button only control scheme—perfect for playing in handheld mode or on the Nintendo Switch Lite system.</desc>
+		<image>./mixart/The Legend of Zelda - Skyward Sword HD.jpg</image>
+		<video>./snap/The Legend of Zelda - Skyward Sword HD.mp4</video>
+		<marquee>./wheel/The Legend of Zelda - Skyward Sword HD.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NASCAR Heat Ultimate Edition.nsp</path>
+		<name>NASCAR Heat Ultimate Edition</name>
+		<desc>NASCAR Heat Ultimate Edition+, the official video game of the 2020 season, the world’s most popular stockcar racing series puts you behind the wheel and challenges you to become the NASCAR Cup Series champion. Features the 2020 official teams, drivers, cars and schedule from the three NASCAR National Series as well as the Xtreme Dirt Tour, racing on 39 authentic tracks. Ultimate Edition+ includes everything in NASCAR Heat 5 Ultimate Edition, plus the 2021 NASCAR Cup Series Cars Roster and 2021 primary paint schemes. Featured content includes 2020 Throwback and Playoff paint schemes, Tony Stewart as a playable character, plus more! FEATURES: • Career Mode – Progress through the feeder series (Xtreme Dirt, Gander Trucks and Xfinity Series) to reach the NASCAR Cup Series or jump right in and start at the top. • Improved Stats – Track your progress through the Career with more detailed and improved statistics offering far more insight.</desc>
+		<image>./mixart/NASCAR Heat Ultimate Edition.jpg</image>
+		<video>./snap/NASCAR Heat Ultimate Edition.mp4</video>
+		<marquee>./wheel/NASCAR Heat Ultimate Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>704Games</developer>
+		<publisher>Motorsport Games</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Popeye.nsp</path>
+		<name>Popeye</name>
+		<desc>The official Popeye game in which you play the spinach eating sailor in this modernized adaptation of the classic arcade game. The objective of the game is to get the highest score by completing as many levels as you can by collecting hearts and letters thrown down by Olive all while trying to avoid the dangers of the witch, vulture and Popeye's rival Brutus. Find and eat the spinach and get the special powers needed to punch your enemies into the sea and become faster at collecting the items before they return. Popeye is a simple, pick up and play, fast action, fun game which anyone can play, but be warned winning a high score won't come easy.</desc>
+		<image>./mixart/Popeye.jpg</image>
+		<video>./snap/Popeye.mp4</video>
+		<marquee>./wheel/Popeye.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Sabec Limited</developer>
+		<publisher>Sabec Limited</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retrograde Arena.xci</path>
+		<name>Retrograde Arena</name>
+		<desc>Use weapons, physics, and your Drone to push, pull, and blast your foes into deadly surroundings in skill-based multiplayer physics focused action title, Retrograde Arena Retrograde Arena is a multiplayer twin stick shooter where bullets don’t kill, but the environment does! Weapons are your ultimate tools, not just for blasting enemies, but for propelling your customizable Drone around the maps at great speed! Mastering Retrograde Arena’s recoil propulsion and the impact of the various weapons is essential for victory in the neon soaked world of Retrograde Arena. Battle against friends, strangers, or deadly AI with up to 6 players in three different game modes that will demand different skills and styles of play! Physics Based Use physics to your advantage! Use your weapon’s recoil to evade or propel yourself at great speeds. Deflect an enemy’s attack with a well-placed shot, propel yourself and body slam a troublesome foe, or even blast pieces of the scenery into an unsuspecting foe! Skill Focused Multiplayer Retrograde Arena features online &amp; local multiplayer! Play with friends on the same console with multiple controllers.</desc>
+		<image>./mixart/Retrograde Arena.jpg</image>
+		<video>./snap/Retrograde Arena.mp4</video>
+		<marquee>./wheel/Retrograde Arena.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Freemergency Studio</developer>
+		<publisher>Neon Doctrine</publisher>
+		<genre>Action, Party</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Impossible Road.nsp</path>
+		<name>Super Impossible Road</name>
+		<desc>In the future, you’ve got to play a little dirty if you want to win races. Master hairpin turns across dangerous courses that twist and coil-over beautiful galactic backdrops, knocking opponents into the void of space. Kick into hyperdrive with temporary speed boosts and use every opportunity to jump off the paths of the rollercoaster-like tracks. Bypass gates and checkpoints and roll over competitors on the way to first place!</desc>
+		<image>./mixart/Super Impossible Road.jpg</image>
+		<video>./snap/Super Impossible Road.mp4</video>
+		<marquee>./wheel/Super Impossible Road.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Gunstone Studios</developer>
+		<publisher>Wonderful Lasers</publisher>
+		<genre>Racing, Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pure Chase 80s.nsp</path>
+		<name>Pure Chase 80's</name>
+		<desc>You'll feel the essence of arcade racing oozing out of your pores and your adrenaline pumping non-stop.
+
+Mission: « A car bomb under your feet » If you don't want to see chunks of your vehicle flying off, maintain your concentration in the race of your life. Escape to the border as fast as you can, and before the countdown reaches «(00:00)».
+
+With 3 levels of difficulty including longer routes and new scenarios.
+
+Travel through different locations around the world with "no loading times". From the Egyptian desert to the snowy Alps, through cities, The american west, caves... and many more locations for you to discover on your adventure.
+
+Real-time weather changes. You'll go from day to night and back again, while going full throttle in harsh weather conditions such as fog, rain, snow, thunder, etc.</desc>
+		<image>./mixart/Pure Chase 80s.jpg</image>
+		<video>./snap/Pure Chase 80s.mp4</video>
+		<marquee>./wheel/Pure Chase 80s.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>FuriouSoftPhoenix</developer>
+		<publisher>FuriouSoftPhoenix</publisher>
+		<genre>Arcade, Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Kirby and the Forgotten Land.nsp</path>
+		<name>Kirby and the Forgotten Land</name>
+		<desc>Float off on an all-new adventure as the powerful puffball, Kirby. Explore in 3D stages as you discover a mysterious world with abandoned structures from a past civilization - like a shopping mall?! Copy enemies’ abilities like the new Drill and Ranger and use them to attack, explore your surroundings, and save the kidnapped Waddle Dees from the ferocious Beast Pack alongside the mysterious Elfilin. Hope you’re hungry for an unforgettable adventure! Feeling hungry? Kirby can inhale real-world objects and transform using Mouthful Mode! Why get one drink from a vending machine when you can swallow the whole thing? Then, use your boxy body to shoot out cans at baddies. Consume a car to gain some wheels and slam through walls. Sit back and take it all in...literally. Pass a Joy-Con controller to a buddy to play as the spear-wielding Bandana Waddle Dee and help each other explore and battle through this colorful world. While Kirby can float and inhale enemies, Bandana Waddle Dee can spin and stab with his sturdy spear. Find friendship in this forgotten world and save the Waddle Dees! Float over obstacles and fight through enemies on your way to each stage’s goal as you slash, poke, freeze, and hammer using Kirby’s copy abilities.</desc>
+		<image>./mixart/Kirby and the Forgotten Land.jpg</image>
+		<video>./snap/Kirby and the Forgotten Land.mp4</video>
+		<marquee>./wheel/Kirby and the Forgotten Land.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20221106T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="196587" source="ScreenScraper.fr">
+		<path>./Golf_Story.nsp</path>
+		<name>Golf Story</name>
+		<desc>Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams. 
+ 
+But all is not so simple in the world of golf. To best today's players you have to be able to keep up with them both on and off the course.</desc>
+		<image>./mixart/Golf_Story.png</image>
+		<video>./snap/Golf_Story.mp4</video>
+		<marquee>./wheel/Golf_Story.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170928T000000</releasedate>
+		<developer>Sidebar Games</developer>
+		<publisher>Sidebar Games</publisher>
+		<genre>Sports-Sports / Golf-Adventure</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1538</genreid>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./mixart/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./snap/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./wheel/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="13282">
+		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
+		<image>./mixart/SEGA_AGES_Virtua_Racing-image.png</image>
+		<video>./snap/SEGA_AGES_Virtua_Racing-video.mp4</video>
+		<marquee>./wheel/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Startide.xci</path>
+		<name>Startide</name>
+		<desc>Play as an elite pilot driving the Interstellar Recon Mecha geared with a unique set of weapons and special abilities. Choose your favorite fighter and face the procedurally generated enemy fleet.</desc>
+		<image>./mixart/Startide.jpg</image>
+		<video>./snap/Startide.mp4</video>
+		<marquee>./wheel/Startide.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Forever Entertainment</developer>
+		<publisher>Forever Entertainment</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wild and Horror Pinball.nsp</path>
+		<name>Wild and Horror Pinball</name>
+		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
+		<image>./mixart/Wild and Horror Pinball.jpg</image>
+		<video>./snap/Wild and Horror Pinball.mp4</video>
+		<marquee>./wheel/Wild and Horror Pinball.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Super PowerUp</developer>
+		<publisher>Super PowerUp</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gunlord X.xci</path>
+		<name>Gunlord X</name>
+		<desc>This game features 11 stages of exciting 2D game play with over 60 unique enemy types. Blast yourself through giant landscapes, explore caverns and reveal all secrets! The critically acclaimed platform action game Gunlord developed by NGDEV in 2012 comes back to the Switch in 2019. The game received an intense "Hi-Bit" overhaul for modern game consoles in a widescreen format. Additionally new boss enemies and extended stages were added. Here’s a quick overview feature list: • Significantly increased level size of the later levels offering new secrets and challenges. • 4 new boss enemies • Added a completely new horizontal jet pack stage • Permanent continue and shortcut/level warp unlocks by collecting all big diamonds in stage.  • Auto save and level select features (you can revisit already beat stages at any time) • Accomplishments screens and statistics screens for speedrunners • Limited enemy respawns to essential enemies. • Added Newgame+ (for speedrunning and new secrets) • Increased the viewport to widescreen • Improved viewport scrolling • Scanline/RGB CRT TV shader • Increased sprite/particle effects • Added alpha blending special FX (Hi-Bit "32-bit" style) • Added parallax scrolling elements • Added new music tracks • Improved controls (direct control over the 360° snake beam with R Stick) • Optional modern twin stick controls (control movement and shooting direction independently) • Fully customizable controls • Improved difficulty curve especially on bosses • Rebalanced weapon powerlevels • Added a new power shot weapon</desc>
+		<image>./mixart/Gunlord X.jpg</image>
+		<video>./snap/Gunlord X.mp4</video>
+		<marquee>./wheel/Gunlord X.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191106T000000</releasedate>
+		<developer>NGDEV</developer>
+		<publisher>NGDEV</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./mixart/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./snap/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./wheel/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Galaxy Shooter.nsp</path>
+		<name>Galaxy Shooter</name>
+		<desc>Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot ’em up!</desc>
+		<image>./mixart/Galaxy Shooter.jpg</image>
+		<video>./snap/Galaxy Shooter.mp4</video>
+		<marquee>./wheel/Galaxy Shooter.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Fantastico Studio</developer>
+		<publisher>Fantastico Studio</publisher>
+		<genre>Action, Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./30-in-1 Game Collection Volume 1.xci</path>
+		<name>30-in-1 Game Collection Volume 1</name>
+		<desc>MASTER 30 GAMES THAT WILL TEST REFLEX, MEMORY &amp; WITS! Defense your village against Vikings, climb to the top of the tower and overcome obstacles, play a round of hockey, switch colors and pass safely through gates, or play the classics such as snake, memory or cup game! In this abundance of pick-up-and-play games, you can play solo, or get the party started, as over half of games have support for up to 4 players. This is the best and most diverse collection of challenging games available on Nintendo Switch™ for the price of just one game! Anyone, regardless of age or skill level, will have an absolute blast playing any of the 30 party games, 18 of which can be played with up to 4 players for some friendly cooperative or competitive play. And with the portability of Nintendo Switch, players can turn just about any location into their own personal party for friends and family.</desc>
+		<image>./mixart/30-in-1 Game Collection Volume 1.jpg</image>
+		<video>./snap/30-in-1 Game Collection Volume 1.mp4</video>
+		<marquee>./wheel/30-in-1 Game Collection Volume 1.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Digital Bards</developer>
+		<publisher>Mastiff</publisher>
+		<genre>Action, Puzzle</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./30-in-1 Game Collection Volume 2.xci</path>
+		<name>30-in-1 Game Collection Volume 2</name>
+		<desc>MASTER 30 GAMES THAT WILL TEST REFLEX, MEMORY &amp; WITS! Defense your village against Vikings, climb to the top of the tower and overcome obstacles, play a round of hockey, switch colors and pass safely through gates, or play the classics such as snake, memory or cup game! In this abundance of pick-up-and-play games, you can play solo, or get the party started, as over half of games have support for up to 4 players. This is the best and most diverse collection of challenging games available on Nintendo Switch™ for the price of just one game! Anyone, regardless of age or skill level, will have an absolute blast playing any of the 30 party games, 18 of which can be played with up to 4 players for some friendly cooperative or competitive play. And with the portability of Nintendo Switch, players can turn just about any location into their own personal party for friends and family.</desc>
+		<image>./mixart/30-in-1 Game Collection Volume 2.jpg</image>
+		<video>./snap/30-in-1 Game Collection Volume 2.mp4</video>
+		<marquee>./wheel/30-in-1 Game Collection Volume 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Digital Bards</developer>
+		<publisher>Mastiff</publisher>
+		<genre>Action, Puzzle</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Thunderflash.nsp</path>
+		<name>Thunderflash</name>
+		<desc>Play as two soldiers and get immersed in a war-torn Kashmir, transformed in a war zone by a terrorist organization which deploys ruthless mercenaries and devastating military technologies. Take on the mission alone or with a friend, use all of your available firepower to complete the five missions the game offers. Taste again the run 'n gun styled game experience in this tribute to the old school arcade style of the 80s.</desc>
+		<image>./mixart/Thunderflash.jpg</image>
+		<video>./snap/Thunderflash.mp4</video>
+		<marquee>./wheel/Thunderflash.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>Seep</developer>
+		<publisher>Seep</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Chocobo_GP.nsp</path>
+		<name>Chocobo GP</name>
+		<desc>Chocobo GP racing classic originally on PS1 now in HD for the Nintendo Switch! Join Chocobo and friends as they hit the track in a variety of wacky vehicles! Learn the basics in story mode, then take on all-comers in the game mode of your choice! Use classic magic spells like fire and aero to blast the competition, or even turn the tables in a miracle comeback with each character’s unique abilities! Numerous ways to play, including time attack challenges and tournament-style survival races.</desc>
+		<image>./mixart/Chocobo_GP.jpg</image>
+		<video>./snap/Chocobo_GP.mp4</video>
+		<marquee>./wheel/Chocobo_GP.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20221106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sports and Adventure Pinball.nsp</path>
+		<name>Sports and Adventure Pinball</name>
+		<desc>This pack includes the games: World Soccer Pinball, Touchdown Pinball, Basketball Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.</desc>
+		<image>./mixart/Sports and Adventure Pinball.jpg</image>
+		<video>./snap/Sports and Adventure Pinball.mp4</video>
+		<marquee>./wheel/Sports and Adventure Pinball.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Super PowerUp</developer>
+		<publisher>Super PowerUp</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goblin Sword.xci</path>
+		<name>Goblin Sword</name>
+		<desc>Goblin Sword is a retro-inspired action platformer with light rpg elements. An army of monsters led by an evil wizard have invaded your hometown. Slay as many monsters as you can, collect loot, avoid dangerous traps and defeat menacing bosses, before facing the evil wizard himself. Features: • 89 levels • 13 bosses • 30 weapons with unique special attacks • 30 relics that grant you abilities • 14 costumes • 8 guardians that follow you around and assist you • 5 secret very hard levels • Decorate your home with souvenirs</desc>
+		<image>./mixart/Goblin Sword.jpg</image>
+		<video>./snap/Goblin Sword.mp4</video>
+		<marquee>./wheel/Goblin Sword.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201106T000000</releasedate>
+		<developer>Gelato Games</developer>
+		<publisher>Gelato Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Smash Bros. Ultimate.xci</path>
+		<name>Super Smash Bros. Ultimate + DLC</name>
+		<desc>New characters and stages join the entire legacy roster! Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</desc>
+		<image>./mixart/Super Smash Bros. Ultimate.jpg</image>
+		<video>./snap/Super Smash Bros. Ultimate.mp4</video>
+		<marquee>./wheel/Super Smash Bros. Ultimate.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Dread.xci</path>
+		<name>Metroid Dread</name>
+		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
+		<image>./mixart/Metroid Dread.jpg</image>
+		<video>./snap/Metroid Dread.mp4</video>
+		<marquee>./wheel/Metroid Dread.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>MercuryStream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN 99.xci</path>
+		<name>PAC-MAN 99</name>
+		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
+		<image>./mixart/PAC-MAN 99.jpg</image>
+		<video>./snap/PAC-MAN 99.mp4</video>
+		<marquee>./wheel/PAC-MAN 99.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Arcade</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
+		<name>Super Mario 3D World + Bowser's Fury</name>
+		<desc>Enjoy two Mario adventures solo or with friends!
+
+Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally or online to reach the goal and see who can get a high score.
+
+Explore a seamless feline world in the new Bowser’s Fury adventure
+
+Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.
+
+The Super Mario 3D World + Bowser’s Fury game features the same great co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!
+
+In Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.
+
+Collect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.
+
+In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.
+
+Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
+		<image>./mixart/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
+		<video>./snap/Super_Mario_3D_World_plus_Bowsers_Fury.mp4</video>
+		<marquee>./wheel/Super_Mario_3D_World_plus_Bowsers_Fury-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20210212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Cruisn_Blast.nsp</path>
+		<name>CRUIS’N BLAST</name>
+		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
+		<image>./mixart/CRUIS’N BLAST.jpg</image>
+		<video>./snap/CRUIS’N BLAST.mp4</video>
+		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Prime Remastered.nsp</path>
+		<name>Metroid Prime Remastered</name>
+		<desc>Suit up for an iconic adventure Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon. Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Metroid Prime Remastered.jpg</image>
+		<video>./snap/Metroid Prime Remastered.mp4</video>
+		<marquee>./wheel/Metroid Prime Remastered.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20231106T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario_Golf_Super_Rush.nsp</path>
+		<name>Mario Golf: Super Rush</name>
+		<desc>Golf with a Mushroom Kingdom twist! Hit the green with up to four players locally and golf with friends from the Super Mario series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt. Choose from one of 16 characters from the Super Mario series and hit the green in several modes! Take it slow in Standard Golf and choose from 3-18 holes across 6 different courses that range from lush scenery to windy wilds. Intuitive controls and a shot gauge that adapts to the curve of the course make it easy for both new players and seasoned pros to drive and putt. Characters include Mario Golf veterans like Mario, Luigi, and Peach. Characters like Pauline and Chargin’ Chuck are also here to make their debut on the green. In addition to the frenetic Speed Golf, you can also enjoy simultaneously swinging in Battle Golf. The neon-soaked Super Golf Stadium has 9 open holes—first player to get 3 flags wins! Use obstacles, including Thwomps, Chain Chomps, Bob-ombs, and banana peels to your advantage. Up to four players** can join the fast and flashy fun.</desc>
+		<image>./mixart/Mario_Golf_Super_Rush.jpg</image>
+		<video>./snap/Mario_Golf_Super_Rush.mp4</video>
+		<marquee>./wheel/Mario_Golf_Super_Rush.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Camelot</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf-Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+</gameList>

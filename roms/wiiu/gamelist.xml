@@ -1,0 +1,1641 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Nintendo WII-U</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game>
+		<path>./A World Of Keflings [WKLEWH]/code/cheese.rpx</path>
+		<name>A World Of Keflings</name>
+		<desc>Play as a giant to help the tiny Keflings build up and beautify their Kingdom. Start out small, unlocking new blueprints, buildings and tasks as you work towards designing and building a Kefling castle. Create your own private world, or construct a kingdom with your friends online!</desc>
+		<rating>0.70</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/A World of Keflings-02.png</image>
+		<marquee>./wheel/A World of Keflings-01.png</marquee>
+		<video>./snap/A World of Keflings.mp4</video>
+	</game>
+	<game>
+		<path>./Bayonetta/code/BayonetLoader.rpx</path>
+		<name>Bayonetta</name>
+		<desc>Bayonetta is a cinematic and stylish action game from the creative mind of Hideki Kamiya. As a gun-wielding witch with powers beyond the comprehension of mere mortals, Bayonetta faces-off against countless enemies in a game of 100% pure all-out action. Outlandish finishing moves are performed with acrobatic grace as Bayonetta flows from one fight to another. Bayonetta pushes the limits of the action genre with magnificent over-the-top action and fast-paced, dynamic climax combat.</desc>
+		<rating>0.9</rating>
+		<releasedate>20141024T000000</releasedate>
+		<developer>Platinum Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Bayonetta.png</image>
+		<marquee>./wheel/Bayonetta-01.png</marquee>
+		<video>./snap/Bayonetta.mp4</video>
+	</game>
+	<game>
+		<path>./Child of Light/code/cafe_ITF_AppFramework_rt.rpx</path>
+		<name>Child of Light</name>
+		<desc>The kingdom of Lemuria is in despair The Black Queen has stolen the Sun, the Moon and the Stars. You play as Aurora, a young princess with a pure heart whose soul is brought to the kingdom of Lemuria. Embark on a quest to recapture the three sources of light, defeat the Black Queen and restore the kingdom of Lemuria.</desc>
+		<rating>0.85</rating>
+		<releasedate>20140501T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
+		<image>./mixart/Child of Light.png</image>
+		<marquee>./wheel/Child of Light-02.png</marquee>
+		<video>./snap/Child of Light.mp4</video>
+	</game>
+	<game>
+		<path>./Citizens of Earth/code/CitizensOfEarth.rpx</path>
+		<name>Citizens of Earth</name>
+		<desc>Citizens of Earth est un RPG sur Wii U. Dans la peau du vice-président d'un monde en perdition, vous vous éveillez le lendemain de votre élection avec la lourde tâche de sauver la planète. Mais entre les manifestants et les créatures hybrides sorties d'on ne sait où, votre mission ne sera pas de tout repos. Pas moins de 40 citoyens pourront heureusement rejoindre vos rangs pour vous permettre de constituer une équipe aussi insolite qu'efficace.</desc>
+		<rating>0.55</rating>
+		<releasedate>20150120T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Eden Industries</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Citizens of Earth-01.png</image>
+		<marquee>./wheel/Citizens of Earth-02.png</marquee>
+		<video>./snap/Citizens of Earth.mp4</video>
+	</game>
+	<game>
+		<path>./Darksiders II/code/Darksiders2.rpx</path>
+		<name>Darksiders II</name>
+		<desc>Awakened by the End of Days, Death, the most feared of the legendary Four Horsemen, embarks on a quest to undo Armageddon. Along the way, Death discovers that there are far worse things than an earthly Apocalypse, and that an ancient grudge may threaten all of Creation. Become the terrifying force which everything fears but nothing can escape. Death Lives, in Darksiders II.</desc>
+		<rating>0.85</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>Vigil Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Darksiders II.png</image>
+		<marquee>./wheel/Darksiders II-03.png</marquee>
+		<video>./snap/Darksiders II.mp4</video>
+	</game>
+	<game>
+		<path>./Meme Run [BFBE1Y]/code/Unity_nonetwork.master.rpx</path>
+		<name>Meme Run</name>
+		<desc>Have enough swag to join the illuminati?
+
+Stop reading if you are not a member of the illuminati. This is an encrypted message for illuminati members only:
+
+Introducing Meme Run! The only game in the world where you can go on an infinite running experience while dodging 360 noscopes and dank memes. The longer you stay alive, the more swag points you will earn. Collect illuminatis and wombo combo's to gain a multiplier to your swag points. Terrain is randomly generated which makes every experience danker. So m8, what are you waiting for? Tyrone rated the game 8/8 which means its not b8 so come play m8.
+
+Features:
+-Funny Memes
+-Extremely Difficult Gameplay
+-Much Swag Very Wow
+-Awesome Original Air Horn Soundtrack
+-Tyrone Rates Meme Run 8/8</desc>
+		<rating>0.38</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/Meme Run-01.png</image>
+		<marquee>./wheel/Meme Run-01.png</marquee>
+		<video>./snap/Meme Run.mp4</video>
+	</game>
+	<game>
+		<path>./Minecraft Wii U Edition [AUMEDUDU]/code/Minecraft.Client.rpx</path>
+		<name>Minecraft Wii U Edition</name>
+		<desc>The game involves players creating and destroying various types of blocks in a three dimensional environment. The player takes an avatar that can destroy or create blocks, forming fantastic structures, creations and artwork across the various multiplayer servers in multiple game modes.</desc>
+		<rating>0.77</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/Minecraft_ Wii U Edition-02.png</image>
+		<marquee>./wheel/Minecraft_ Wii U Edition-02.png</marquee>
+		<video>./snap/Minecraft Wii U Edition [AUMEDUDU].mp4</video>
+	</game>
+	<game>
+		<path>./NINJA GAIDEN 3 Razor's Edge [ANGE0101]/code/sigma3_cafe.rpx</path>
+		<name>NINJA GAIDEN 3 Razor's Edge</name>
+		<desc>Ninja Gaiden 3: Razor's Edge is an update of Ninja Gaiden 3. It includes all the downloadable content made available on other platforms as well as some new changes. A new playable character is available, Ayane from the Dead or Alive series, with her own story mode chapters. An online co-operative mode has been added where both Ryu and Ayane are playable. The controls make use of the Wii U Game Pad for tasks such as executing Ninpo, as well as displaying the combo chart. The Karma functionality from previous games in the series is reintroduced in this version, allowing players to upgrade weapons, Ninpo, character health and move set. There have been other changes to aspects such as AI, as well as additional weapon and attack types, enemies and battle arenas.</desc>
+		<rating>0.85</rating>
+		<releasedate>20130111T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<image>./mixart/Ninja Gaiden 3_ Razor_s Edge-01.png</image>
+		<marquee>./wheel/Ninja Gaiden 3_ Razor_s Edge-01.png</marquee>
+		<video>./snap/Ninja Gaiden 3_ Razor_s Edge.mp4</video>
+	</game>
+	<game>
+		<path>./Oddworld New 'n' Tasty [ANWE85]/code/Unity_nonetwork.master.rpx</path>
+		<name>Oddworld New 'n' Tasty</name>
+		<desc>Rescue your fellow meat factory slaves in this nostalgic, classic platformer with the latest immersive graphics and design.
+
+Find your destiny
+
+Once a happy floor waxer in Oddworld's biggest meat processing plant, Abe stumbled across his boss's secret plan to turn the factory's slave labour force into the latest in the RuptureFarms Tasty Treats line of novelty meat snacks.
+
+Abe now has to save his own skin from the grinders even if simply escaping the flesh farm is only the start of his Oddysee. Trigger-happy hunting parties, carnivorous sacred beasts, ancient temple traps and even a return to his former workplace await Abe on his journey to discover his people's heritage.</desc>
+		<rating>0.81</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/Oddworld_ New n Tasty-01.png</image>
+		<marquee>./wheel/Oddworld_ New n Tasty-01.png</marquee>
+		<video>./snap/Oddworld_ New _n_ Tasty!-01.mp4</video>
+	</game>
+	<game>
+		<path>./Rayman Legends/code/cafe_ITF_AppFramework_f.rpx</path>
+		<name>Rayman Legends</name>
+		<desc>Developed by Ubisoft Montpellier, Rayman Legends is the follow-up to last year's highly-acclaimed Rayman Origins. Rayman Legends takes full advantage of the Wii U controller to bring players innovative multiplayer interactions that go beyond those found in traditional platform games. Players can use the Wii U controller's touch screen to take out enemies or clear paths and use the gyroscope technology to manipulate and rotate platforms on the TV screen. The Wii U controller also allows players to continue the adventure of Rayman and his friends on the controller's screen even while the television is off.</desc>
+		<rating>0.9</rating>
+		<releasedate />
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>5</players>
+		<image>./mixart/Rayman Legends.png</image>
+		<marquee>./wheel/Rayman Legends-01.png</marquee>
+		<video>./snap/Rayman Legends.mp4</video>
+	</game>
+	<game>
+		<path>./Shovel Knight [WKNEAYAY]/code/ShovelKnight.rpx</path>
+		<name>Shovel Knight</name>
+		<desc>Shovel Knight is a sweeping classic action adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small knight with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!
+
+But, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, crazy bosses, humor and levity, and real heart? Shovel Knight is for you!</desc>
+		<rating>0.9</rating>
+		<releasedate>20140626T000000</releasedate>
+		<developer>Yacht Club Games</developer>
+		<publisher>Yacht Club Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Shovel Knight_ Treasure Trove-01.png</image>
+		<marquee>./wheel/Shovel Knight_ Treasure Trove-01.png</marquee>
+		<video>./snap/Shovel Knight Treasure Trove.mp4</video>
+	</game>
+	<game>
+		<path>./Slender The Arrival [BSAE7X]/code/Unity_nonetwork.master.rpx</path>
+		<name>Slender The Arrival</name>
+		<desc>Slender: The Arrival is the official continuation of Slender: The Eight Pages. A combined effort from the writers behind the Marble Hornets series and the development team at Blue Isle Studios, Slender: The Arrival features a brand new storyline and improved visuals.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/Slender_ The Arrival-01.png</image>
+		<marquee>./wheel/Slender_ The Arrival-01.png</marquee>
+		<video>./snap/Slender The Arrival.mp4</video>
+	</game>
+	<game>
+		<path>./The Wonderful 101/code/ProjectK.rpx</path>
+		<name>The Wonderful 101</name>
+		<desc>Earth is under attack from an invasion of enormous aliens, and the only thing that can protect the planet is a group of unlikely, yet mighty, heroes with special abilities. Unfortunately, the aliens are too powerful for the heroes to fight individually. They must join forces and work together to defeat their common enemy. These uniquely different heroes can morph into powerful weapons to crush the invaders or turn into objects like a giant fist or bridge to interact with and traverse the environments.</desc>
+		<rating>0.9</rating>
+		<releasedate>20130823T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/The Wonderful 101.png</image>
+		<marquee>./wheel/The Wonderful 101-01.png</marquee>
+		<video>./snap/The Wonderful 101.mp4</video>
+	</game>
+	<game>
+		<path>./Tokyo Mirage Sessions #FE [ASEE0101]/code/Stainless.rpx</path>
+		<name>Tokyo Mirage Sessions #FE</name>
+		<desc>An Atlus-developed RPG for Wii U set in a modern-day world of music and art featuring characters and gameplay elements from Intelligent System's Fire Emblem franchise mixed with elements from the Shin Megami Tensei franchise.</desc>
+		<rating>0.8</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/Tokyo Mirage Sessions #FE-01.png</image>
+		<marquee>./wheel/Tokyo Mirage Sessions #FE-01.png</marquee>
+		<video>./snap/Tokyo Mirage Sessions #FE.mp4</video>
+	</game>
+	<game>
+		<path>./Wii Sports Club [AWSE0101]/code/RequestPatch.rpx</path>
+		<name>Wii Sports Club</name>
+		<desc>Play your favorite Wii Sports games on the Wii U console! With Wii Sports Club, you can now take the competition online with tennis, bowling and golf - baseball and boxing are coming soon. Join a club, compete against other clubs from around your region, or play online multiplayer with your friends. You can also use all-new training modes to improve your skills and support your club.</desc>
+		<rating>0.45</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<image>./mixart/Wii Sports Club.png</image>
+		<marquee>./wheel/Wii Sports Club-01.png</marquee>
+		<video>./snap/Wii Sports Club.mp4</video>
+	</game>
+	<game>
+		<path>./Xenoblade Chronicles X [AX5E0101]/code/spaceTravel.rpx</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<rating>0.84</rating>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Monolith Soft</publisher>
+		<genre>Role playing games-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Xenoblade Chronicles X.png</image>
+		<marquee>./wheel/Xenoblade Chronicles X-01.png</marquee>
+		<video>./snap/Xenoblade Chronicles X.mp4</video>
+	</game>
+	<game>
+		<path>./ZombiU [AZUE41]/code/LyN-Standalone_f.rpx</path>
+		<name>ZombiU</name>
+		<desc>Developed by Ubisoft Montpellier, the studio behind critically acclaimed titles like From Dust, Beyond Good &amp; Evil and, Ghost Recon Advanced Warfighter, ZombiU puts players in the middle of London circa 2012, where an outbreak has infected the population, destroying their humanity and turning them into mindless monsters preying on the flesh of the few remaining survivors. This fear-fueled first-person shooter invites takes all the horror, chaos and tension found in the best of the horror genre and adds original interactive elements, including a unique death mechanic that puts players in the body of a different survivor each time they die, allowing them to track and take down their old, infected characters, recover their equipment and see if they can stay alive just a little bit longer this time.</desc>
+		<rating>0.85</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./mixart/ZombiU.png</image>
+		<marquee>./wheel/ZombiU-01.png</marquee>
+		<video>./snap/ZombiU.mp4</video>
+	</game>
+	<game>
+		<path>./Funky Barn (USA).wux</path>
+		<name>Funky Barn</name>
+		<desc>Its farming! but not as you know it...
+
+Slap on your straw hat and grubbiest coveralls and take hold of your Wii U GamePad - it's time to get your hands dirty! Devote yourself to your own slice of lush countryside and take up the challenge of creating a beautiful farmland full of animals, crops, trees and more then develop it into the craziest, most offbeat farm imaginable, overflowing with the whackiest contraptions and goofiest gizmos you and your animals have ever seen! This is not your ordinary farm...
+
+It's your farm - and it's like no farm you've seen before!</desc>
+		<rating>0.75</rating>
+		<releasedate>20121206T000000</releasedate>
+		<developer>505 Games</developer>
+		<publisher>Tantalus Media</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Funky Barn-01.png</image>
+		<marquee>./wheel/Funky Barn-01.png</marquee>
+		<video>./snap/Funky Barn-01.mp4</video>
+	</game>
+	<game>
+		<path>./Monster High - 13 Wishes (USA).wux</path>
+		<name>Monster High - 13 Wishes</name>
+		<desc>Go a on monstrous adventure inside the lantern.nnnnIt's up to YOU to help Frankie Stein and her ghoulfriends track down the 13 magical mirror shards needed to set things right -before it's too late!</desc>
+		<rating>0.55</rating>
+		<releasedate>20131205T000000</releasedate>
+		<developer>Game Machine Studios</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Platform</genre>
+		<image>./mixart/Monster High_ 13 Wishes-01.png</image>
+		<marquee>./wheel/Monster High_ 13 Wishes-01.png</marquee>
+		<video>./snap/Monster High_ 13 Wishes-01.mp4</video>
+	</game>
+	<game>
+		<path>./Monster High - New Ghoul In School (USA).wux</path>
+		<name>Monster High - New Ghoul In School</name>
+		<desc>Welcome, new ghoul!nnCome roam the halls of Monster High and get to know your new classmates. Join clubs, make friends and dress up in fierce fashions. But be aware, there's something strange going on at Monster High! Cleo's new amulet has been cursed by the spirit of Spookenhamen, and the student body is falling under his spell. Use your skills and savvy to help save the school and all your new classmates from the mummy's curse! Be Yourself. Be Unique. Be a Monster.</desc>
+		<rating>0.44</rating>
+		<releasedate />
+		<image>./mixart/Monster High_ New Ghoul in School-01.png</image>
+		<marquee>./wheel/Monster High_ New Ghoul in School-01.png</marquee>
+		<video>./snap/Monster High_ New Ghoul in School-01.mp4</video>
+	</game>
+	<game>
+		<path>./Penguins of Madagascar (USA).wux</path>
+		<name>Penguins of Madagascar</name>
+		<desc>THE ELITEST OF THE ELITE
+
+Help Skipper, Kowalski, Rico and Private defeat Dr. Octavius Brines plan for world domination!
+
+Game Features :
+-Go on stealth operations in top-secret locations from the movie and beyond.
+-Master each Penguins unique skill, like Ricos Explosive Slide and Skippers Stun Slap.
+-Solve puzzles, crack codes and hunt for Cheezy Dibbles!</desc>
+		<rating>0.52</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<image>./mixart/The Penguins of Madagascar-01.png</image>
+		<marquee>./wheel/The Penguins of Madagascar-02.png</marquee>
+		<video>./snap/The Penguins of Madagascar-01.mp4</video>
+	</game>
+	<game>
+		<path>./Rodea The Sky Soldier (USA).wux</path>
+		<name>Rodea The Sky Soldier</name>
+		<desc>A thousand years ago, Emperor Geardo of the Naga Empire sent an army of machine soldiers to invade the sky kingdom of Garuda. Thanks to the efforts of Princess Cecilia and Rodea, a machine soldier who promised to protect Garuda, Emperor Geardo's assault was thwarted. In present day, a spirited inventor named Ion discovers an abandoned robot that has fallen into disrepair in the heart of a scorching desert. Upon completing her repairs, the robot stirs to life and reveals itself to be none other than Rodea. Stunned to find himself in the future, Rodea learns that the Naga Empire is no more and that Garuda has known peace for a thousand years. But this peace was not meant to last, for the forces of Naga have returned to wage war against Garuda. Remembering the promise he made 1,000 years ago, Rodea takes to the skies to defend Garuda from the Naga Empire once again.</desc>
+		<rating>0.45</rating>
+		<releasedate>20151110T000000</releasedate>
+		<developer>Prope </developer>
+		<publisher>NIS America</publisher>
+		<genre>Platform-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Rodea The Sky Soldier (USA).png</image>
+		<marquee>./wheel/Rodea The Sky Soldier-01.png</marquee>
+		<video>./snap/Rodea The Sky Soldier-01.mp4</video>
+	</game>
+	<game id="12138">
+		<path>./Super Mario 3D/code/RedCarpet.rpx</path>
+		<name>Super Mario 3d World</name>
+		<desc>Whilst exploring the Mushroom Kingdom, Mario, Luigi, Princess Peach, and Toad come across a strange clear pipe, which a curious green fairy-like creature, called a Sprixie, pops out of. Suddenly, Bowser appears and captures the fairy before escaping through the pipe. Thus, Mario and friends enter the pipe to pursue Bowser, and find themselves in the strange new Sprixie Kingdom as they search for the Sprixie, along with some of her other companions.</desc>
+		<image>./mixart/Super Mario 3D World-01.png</image>
+		<video>./snap/Super Mario 3D World.mp4</video>
+		<marquee>./wheel/Super Mario 3D World-01.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20131122T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4+</players>
+		<playcount />
+		<lastplayed />
+		<md5>208529f71394ad86274e0abdcc4955cb</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+	<game id="241512">
+		<path>./The Legend of Zelda Breath of the Wild/code/U-King.rpx</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<hidden>true</hidden>
+		<md5>f9f6f4f47bdcc98ba764c0e9960ae03f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario Party 10/code/tenst.rpx</path>
+		<name>Mario Party 10</name>
+		<desc>Mario Party 10 is a 2015 party video game for the Nintendo Wii U. Developed by Nd Cube and published by Nintendo, it is the tenth "main" game in the Mario Party series, the fourteenth in the franchise, and the first game in the series for the Wii U. The game was released worldwide in March 2015.</desc>
+		<image>./mixart/Mario Party 10.png</image>
+		<video>./snap/Mario Party 10.mp4</video>
+		<marquee>./wheel/Mario Party 10-01.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150320T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Board game-Casual Game</genre>
+		<players>5</players>
+		<md5>f863462808f2324bab0258dbf9b40045</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario vs. Donkey Kong Tipping Stars [WAFE01]/code/WiiULauncher.rpx</path>
+		<name>Mario vs. Donkey Kong Tipping Stars</name>
+		<desc>The Mario vs. Donkey Kong series makes its way to Wii U with the newest game in the charming puzzle series. This HD entry takes full advantage of the touch screen on the GamePad controller and features a near-limitless puzzle-creation mode.</desc>
+		<image>./mixart/Mario vs. Donkey Kong_ Tipping Stars-01.png</image>
+		<video>./snap/Mario vs. Donkey Kong_ Tipping Stars.mp4</video>
+		<marquee>./wheel/Mario vs. Donkey Kong_ Tipping Stars-01.png</marquee>
+		<rating>0.70</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<md5>5b8b3a2647384ac1f36fbcc02debe13d</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Minecraft Story Mode [BMTETL]/code/GameApp.rpx</path>
+		<name>Minecraft Story Mode</name>
+		<desc>Be The Hero Of A Grand Adventure In The Minecraft Universe!
+
+Embark on a perilous quest across the Overworld, to the End, and beyond. With a team of friends at your side, and a troubled land in need of heroes, your decisions - what you say and do - drive the story around you, so choose wisely!
+
+Features fan favorites Stampycat, Dantom, Captainsparklez, Stacyplays and Loshadowlady.
+
+Developed in partnership with Mojang, the creators of MineCraft.</desc>
+		<image>./mixart/Minecraft_ Story Mode-01.png</image>
+		<video>./snap/Minecraft_ Story Mode.mp4</video>
+		<marquee>./wheel/Minecraft_ Story Mode-02.png</marquee>
+		<rating>0.86</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<md5>c86809e431e0d9be9c9d8abe23a70326</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NES REMIX 2 [WF2E01]/code/WUP-P-WF2E.rpx</path>
+		<name>WUP-P-WF2E</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>97adef7f82aa6ae9a15b062cb3502515</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NES REMIX [WMGE0101]/code/WUP-P-WMGE.rpx</path>
+		<name>WUP-P-WMGE</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>df9c1c0254ad0374bb0dd933370a6cf2</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nintendo Land/code/Lunch.rpx</path>
+		<name>Nintendo Land</name>
+		<desc>Nintendo Land is a fun and lively theme park filled with 12 different attractions, each with its own take on a Nintendo franchise. Each attraction features unique and innovative game-play experiences made possible by the Wii U GamePad controller. Depending on the attraction, players can compete solo or against other players, or even team up to play cooperatively. Up to five players can participate in dynamic multiplayer modes in select attractions.* The experiences change every time, depending on whether players are using the GamePad, holding a Wii Remote or just watching others play on the TV screen.</desc>
+		<image>./mixart/Nintendo Land.png</image>
+		<video>./snap/Nintendo Land.mp4</video>
+		<marquee>./wheel/Nintendo Land-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<players>5</players>
+		<md5>3549ee50b21b55be1cb6934419cd5b3b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ONE PIECE Unlimited World Red [AUNEAF]/code/OPU3.rpx</path>
+		<name>ONE PIECE Unlimited World Red</name>
+		<desc>One Piece: Unlimited World R is an action game based on the Japanese anime and manga series One Piece by Eiichiro Oda. It follows Monkey D. Luffy and his Strawhat pirate crew as they take on a new adventure unique to the game, all the while facing off against familiar faces from the anime and manga. These include Dracule Mihawk and Boa Hancock of the Shichibukai, Smoker and Tashigi of the Marines, and mysterious newcomer Patrick Redfield. Additionally, some allies to the Strawhats also make playable appearances, such as Portgas D. Ace and Trafalgar Law.</desc>
+		<image>./mixart/One Piece_ Unlimited World Red-01.png</image>
+		<video>./snap/One Piece_ Unlimited World Red.mp4</video>
+		<marquee>./wheel/One Piece_ Unlimited World Red-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140612T000000</releasedate>
+		<developer>Ganbarion</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<md5>71d3376072bc4532615b3dfc51741557</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN and the Ghostly Adventures 2 [BPMEAFAF]/code/Game-dvd.rpx</path>
+		<name>PAC-MAN and the Ghostly Adventures 2</name>
+		<desc>Pac-Man and the Ghostly Adventures 2 is a 3D platform game based on the cartoon TV series of same name and it is the sequel to Pac-Man and the Ghostly Adventures. Betrayus, lord of the ghosts, and his servants come up with a plan to let Pac-Man steal the repository holding the Pac world bodies of all the ghosts in the Netherworld. It is now up to you to thwart this evil plan. 
+ 
+Pac-Man can enter two new modes: 
+PacKong: transforms you in to a ape like creature with great strength; 
+PacZilla: this transforms you into a giant.</desc>
+		<image>./mixart/PAC-MAN and the Ghostly Adventures 2-01.png</image>
+		<video>./snap/PAC-MAN and the Ghostly Adventures 2.mp4</video>
+		<marquee>./wheel/PAC-MAN and the Ghostly Adventures 2-01.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20141014T000000</releasedate>
+		<developer>Monkey Bar Games</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Platform</genre>
+		<md5>25e2bdbb017dff458720d212fee7304b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PIKMIN 3/code/carrot.rpx</path>
+		<name>PIKMIN 3</name>
+		<desc>Pikmin 3 is a fully reimagined, mass-action strategy title from the critically acclaimed Pikmin series. Players will discover a beautiful world filled with strange creatures and take command of a swarm of ant-like Pikmin trying to survive. The world is densely packed with treasures and enemies, which makes the game much more action focused and fills it with layers of potential strategies and paths, adding greater replayability to challenge modes.</desc>
+		<image>./mixart/Pikmin 3.png</image>
+		<video>./snap/Pikmin 3.mp4</video>
+		<marquee>./wheel/Pikmin 3-02.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20130713T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<md5>007fc8dad26c2da0f9b16ce0eaeac9b0</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./POKKÉN TOURNAMENT/code/ferrum_app.rpx</path>
+		<name>POKKÉN TOURNAMENT</name>
+		<desc>Pokkén Tournament est un jeu de combat dans l'univers Pokémon. Utilisant les éléments de gameplay de la série de combat Tekken, il permet aux joueurs d'incarner différents pokémon dans des batailles dynamiques.</desc>
+		<image>./mixart/Pokkén Tournament.png</image>
+		<video>./snap/POKKÉN TOURNAMENT.mp4</video>
+		<marquee>./wheel/Pokkén Tournament-01.png</marquee>
+		<rating>0.76</rating>
+		<releasedate>20150716T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>The Pokémon Company</publisher>
+		<genre>Fight</genre>
+		<md5>a6b80c5cb6cc90a526bfc33408b8f9e0</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shiftlings [ALGE52]/code/Unity_nonetwork.master.rpx</path>
+		<name>Shiftlings</name>
+		<desc>Rock Pocket Games' Shiftlings, a platform puzzler, which can be played both alone or with a friend, revolves around two Alien Twins who are attached to each other through a cable. In single player mode the player can switch the controls between the two aliens on top of switching the size of the two, while in co-op mode, each player controls one of the two twins. Switching size between the two characters is an important part of getting through the tricky puzzles. The smaller size enables higher jumps while the bigger Twin can't jump but instead is able to push boxes and can be used as a trampoline by the smaller counterpart. The Cable, that connects to two Twins, provides both challenges but also solutions to get the two through the puzzles and to the end goal of each level.</desc>
+		<image>./mixart/Shiftlings-01.png</image>
+		<video>./snap/Shiftlings.mp4</video>
+		<marquee>./wheel/Shiftlings-01.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150303T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Rock Pocket Games</publisher>
+		<genre>Platform-Puzzle-Game</genre>
+		<md5>c73ef65a35320012b8fa6adfe9d83ab9</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Boom Rise of Lyric [BSSE8P8P]/code/WiiULauncher.rpx</path>
+		<name>Sonic Boom Rise of Lyric</name>
+		<desc>In Sonic Boom: Rise of Lyric, Sonic, Tails, Knuckles, and Amy must work together as they face the deadly snake-like ancient villain, Lyric and his army of war mongering robots as they rise from deep within their home island. Sonic and his team will navigate the world like never before; racing across ancient ruins, through the depths of the ocean and even back in time to save the world from Lyric’s evil plan. With an emphasis on collaboration, the roles of Tails, Knuckles and Amy, will be elevated in gameplay that capitalizes on each character’s unique talents and abilities.</desc>
+		<image>./mixart/Sonic Boom_ Rise of Lyric-01.png</image>
+		<video>./snap/Sonic Boom_ Rise of Lyric.mp4</video>
+		<marquee>./wheel/Sonic Boom_ Rise of Lyric-01.png</marquee>
+		<rating>0.32</rating>
+		<releasedate />
+		<playcount />
+		<lastplayed />
+		<md5>6c9a8da812354f3a8f85cb4f6e7e356b</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SONIC LOST WORLD [ASNE8P8P]/code/sonic2013.rpx</path>
+		<name>SONIC LOST WORLD</name>
+		<desc>Dr. Eggman has harnessed the power of six menacing creatures known as the Deadly Six, but when the Deadly Six rise up against their master, Sonic has to unite with his arch nemesis in order to take on the new enemies head-to-head. Using his dynamic new parkour moves and improved Colour Powers, Sonic must run, jump and race through a variety of ever changing terrains in order to defeat the Deadly Six.</desc>
+		<image>./mixart/Sonic Lost World.png</image>
+		<video>./snap/SONIC LOST WORLD [ASNE8P8P].mp4</video>
+		<marquee>./wheel/Sonic Lost World-01.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20131018T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>7c2f239ae93ece5c93ce7fcea720e926</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Fox Guard/code/PRJ_031.rpx</path>
+		<name>Star Fox Guard</name>
+		<desc>Star Fox Guard est un jeu de type "Tower Defense" en 3D dans lequel les joueurs doivent protéger diverses bases appartenant à l'oncle de Slippy Toad, Grippy. en surveillant les caméras de sécurité. L'écran de télévision affiche des images de toutes les caméras de sécurité disponibles tandis que le GamePad Wii U offre une vue aérienne de la base. Pour défendre le noyau de la base, les joueurs doivent surveiller attentivement les moniteurs pour détecter tout attaquant venant en sens inverse et basculer le contrôle sur l'une des caméras disponibles afin de tirer avec son arme. Les ennemis sont divisés en deux classes; Les robots de combat, qui doivent tous être vaincus pour progresser, et les robots du Chaos, qui gênent le joueur en altérant les caméras, comme en obscurcissant la vue ou en montrant de fausses images. Le jeu propose 100 missions et un mode éditeur qui permet aux joueurs de modifier le comportement des ennemis dans les niveaux et de les partager en ligne.</desc>
+		<image>./mixart/Star Fox Guard.png</image>
+		<video>./snap/Star Fox Guard.mp4</video>
+		<marquee>./wheel/Star Fox Guard-01.png</marquee>
+		<rating>0.74</rating>
+		<releasedate>20160422T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<md5>63d6f3e909ea8a610331cc5931407da9</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SteamWorld Dig [000500001018F100]/code/SteamWorldDig.rpx</path>
+		<name>SteamWorld Dig</name>
+		<desc>SteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below.</desc>
+		<image>./mixart/SteamWorldDig.jpg</image>
+		<marquee>./wheel/SteamWorldDig.png</marquee>
+		<video>./snap/SteamWorldDig.mp4</video>
+		<releasedate>20140828T000000</releasedate>
+		<developer>Image &amp; Form</developer>
+		<publisher>Image &amp; Form</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<md5>ee4007d7f733be4392e034c5c6672a4f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The LEGO® Movie Videogame/code/LEGOEmmet.master.rpx</path>
+		<name>The LEGO Movie Videogame</name>
+		<desc>The LEGO Movie Videogame is a third-person action-adventure game based on the 2014 animated film The Lego Movie. Just like the previous LEGO games by Tt Games it offers a world where the characters are built entirely using LEGO bricks. For this title all the environments are also made out of LEGO bricks, a first for the series, and LEGO itself is also the primary source material instead of adapting a different franchise to the LEGO style. The game follows the plot of the film closely and contains fragments from the film as cut-scenes. It starts with the player controlling the wizard Vitruvius as he attempts to defend his super weapon The Kragle against Lord Business and his robot minions. He is unsuccessful but tells Lord Business about the prophecy that one day the special one, a master builder, will stand up with the piece of resistance that holds the power to disarm The Kragle. The game then moves forward more than eight years to the protagonist Emmet Brickowski, an ordinary construction worker who will accidentally find the piece of resistance.</desc>
+		<image>./mixart/The LEGO Movie Videogame-01.png</image>
+		<video>./snap/The LEGO Movie Videogame.mp4</video>
+		<marquee>./wheel/The LEGO Movie Videogame-02.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20140219T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<md5>642a8dcf1240b637dbcfed28b50a422c</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WARRIORS OROCHI 3 Hyper(NA) [AHBEC8C8]/code/OROCHI2_WiiU_EngRelease.rpx</path>
+		<name>WARRIORS OROCHI 3 Hyper</name>
+		<desc>Years after the battle against Orochi, the Serpent King, the heroes of the Three Kingdoms and the Warring States struggle to seize control of the new universe they were thrown into when a new threat arises. A terrible and colossal monster, resembling a serpent with eight heads, casts its shadow across the land and defeats most of the brave warriors. The ones that survived, assisted by the mysterious Kaguya, travel back through time to save fallen warriors and forge new alliances, collect powerful weapons and build an army so they can have a chance to defeat the terrible Hydra. But that is not all the help they'll get this time, as the vortex created by Orochi drags a few more allies to their universe. Dragon Ninja Ryu Hayabusa, Achilles, Jeanne d'Arc, Nemea and Ayane are only a few of the new additions to the 120 plus playable character roster!</desc>
+		<image>./mixart/Warriors Orochi 3_ Hyper-01.png</image>
+		<video>./snap/Warriors Orochi 3_ Hyper.mp4</video>
+		<marquee>./wheel/Warriors Orochi 3_ Hyper-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>ae680a12af362c8d28951fc34b0eb6fc</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Xenoblade.Chronicles.X.USA.wux</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.
+
+Also Available
+Xenoblade Chronicles X: Special Edition
+Special Edition includes a 100 page book of concept art, USB drive modeled after the game’s “Lifehold Unit” pre-loaded with a selection of 10 music tracks from the game’s soundtrack, a limited-edition matted 5×7 art card of a painting done for the game by illustrator Takashi Kojo and a special edition box.</desc>
+		<image>./mixart/Xenoblade.Chronicles.X.USA.jpg</image>
+		<marquee>./wheel/Xenoblade.Chronicles.X.USA.png</marquee>
+		<video>./snap/Xenoblade Chronicles X.mp4</video>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Software, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="246413">
+		<path>./Paper Mario Color Splash (USA).wux</path>
+		<name>Paper Mario: Color Splash</name>
+		<image>./mixart/Paper Mario_ Color Splash-01.png</image>
+		<video>./snap/Paper Mario_ Color Splash.mp4</video>
+		<marquee>./wheel/Paper Mario_ Color Splash-02.png</marquee>
+		<rating>0.76</rating>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="246443">
+		<path>./Phineas and Ferb - Quest for Cool Stuff (USA).wux</path>
+		<name>Phineas and Ferb: Quest for Cool Stuff</name>
+		<image>./mixart/Phineas and Ferb_ Quest for Cool Stuff-01.png</image>
+		<video>./snap/Phineas and Ferb_ Quest for Cool Stuff-01.mp4</video>
+		<marquee>./wheel/Phineas and Ferb_ Quest for Cool Stuff-01.png</marquee>
+		<rating>0.54</rating>
+		<playcount />
+		<lastplayed />
+		<gametime />
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Batman™ Arkham Origins/code/BmGame-Gusto-Shipping.rpx</path>
+		<name>Batman Arkham Origins</name>
+		<desc>Batman: Arkham Origins is a prequel to Batman: Arkham Asylum and is set about one year after Bruce Wayne became Batman. The main villain is the drug lord Black Mask who assigns eight powerful villains - e.g. Bane or Firefly - to assassinate Batman once and for all. During the course of the story, Batman also has to deal with Joker for the first time. It is also long before Arkham City was established and therefore Batman can explore the whole city; the new city part has about the same size as the known area. However, the different setting does not make a whole lot of difference - because of a curfew there are no civilians to be found. Batman can use the Batwing for fast traveling (there is no active flying involved) and visit his Batcave.</desc>
+		<image>./mixart/Batman_ Arkham Origins-01.png</image>
+		<video>./snap/Batman_ Arkham Origins.mp4</video>
+		<marquee>./wheel/Batman_ Arkham Origins-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131025T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<md5>83f1105df942216eceee454a2244ab1a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BIT.TRIP Presents... Runner2 Future Legend of Rhythm Alien [WBTEXYXY]/code/runner2.rpx</path>
+		<name>BIT.TRIP Presents... Runner2 Future Legend of Rhythm Alien</name>
+		<desc>Runner 2 - Future Legend of Rhythm Alien is inspired by the Bit.Trip series originally released on Nintendo platforms.</desc>
+		<image>./mixart/BIT.TRIP Presents... Runner2_ Future Legend of Rhythm Alien-02.png</image>
+		<video>./snap/BIT.TRIP Presents... Runner2 Future Legend of Rhythm Alien [WBTEXYXY].mp4</video>
+		<marquee>./wheel/BIT.TRIP Presents... Runner2_ Future Legend of Rhythm Alien-02.png</marquee>
+		<rating>0.84</rating>
+		<releasedate />
+		<md5>a74462a3397d2a41558007302d346a5e</md5>
+		<gametime />
+		<lang>en</lang>
+	</game>
+	<game id="12591">
+		<path>./Cocoto Magic Circus 2 (EUR).wux</path>
+		<name>Cocoto Magic Circus 2</name>
+		<image>./mixart/Cocoto Magic Circus 2-01.png</image>
+		<video>./snap/Cocoto Magic Circus 2-01.mp4</video>
+		<marquee>./wheel/Cocoto Magic Circus 2-01.png</marquee>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>5</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Devil's Third/code/DevilsThirdGame-WiiU-Shipping.rpx</path>
+		<name>Devil's Third</name>
+		<desc>Devil's Third sur Wii U est un jeu d'action à la troisième personne créé par le talentueux Tomonobu Itagaki. Comme à son habitude, Itagaki nous propose un jeu nerveux et sanglant dans lequel les armes à feu côtoient les sabres et autres jouets coupants. De quoi s'adonner à des démembrements en règle dans un environnement urbain propice aux acrobaties de toutes sortes.</desc>
+		<image>./mixart/Devil's Third.png</image>
+		<video>./snap/Devil_s Third.mp4</video>
+		<marquee>./wheel/Devil_s Third-01.png</marquee>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer>Valhalla Game Studios</developer>
+		<publisher>Valhalla Game Studios</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>de6249e3df956e1c9fad3bb2dba06819</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Disney Planes [APAE4Q4Q]/code/engine.rpx</path>
+		<name>Disney Planes</name>
+		<desc>Disney Planes est un jeu de course disponible sur Nintendo Wii U. Incarnez Dusty, un avion amoureux de la vitesse afin de poursuivre l?histoire au-delà du film éponyme. Avec d?autres personnages, tels que Ishani, Echo et Bravo, envolez-vous pour des missions et des courses dans les airs. 10 avions différents sont jouables dans 10 environnements, comme la Chine. 4 modes de jeu vous attendent : Air Rallies, Story, Free Flight et Balloon Popping, ainsi que la possibilité de jouer à plusieurs.</desc>
+		<image>./mixart/Planes-02.png</image>
+		<video>./snap/Planes.mp4</video>
+		<marquee>./wheel/Planes-02.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20131003T000000</releasedate>
+		<developer>Behaviour Interactive</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<md5>91d299bcc6d93b8e7ceb4478ea48ee1f</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12149">
+		<path>./Donkey Kong Country Tropical Freeze/code/rs10_production.rpx</path>
+		<name>Donkey Kong Country : Tropical Freeze</name>
+		<desc>Donkey Kong Country: Tropical Freeze is the fifth game in the Donkey Kong Country series and was released exclusively for Nintendo Wii U and later ported to the Nintendo Switch.
+
+While celebrating Donkey Kong's birthday the Kong family witnesses how an invasion fleet of arctic creatures (Snowmad) arrives. The island is frozen over and their flagship takes position on top of the island. This can't go unpunished so the Kong family is off to take back the island.</desc>
+		<image>./mixart/Donkey Kong Country Tropical Freeze.png</image>
+		<video>./snap/Donkey Kong Country Tropical Freeze.mp4</video>
+		<marquee>./wheel/Donkey Kong Country_ Tropical Freeze-02.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20140221T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<family>Donkey Kong</family>
+		<players>2</players>
+		<md5>236ba24c45c026beb1f04edb3e39c407</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12293">
+		<path>./Family Party - 30 Great Games Obstacle Arcade (USA).wux</path>
+		<name>Family Party : 30 Great Games Obstacle Arcade</name>
+		<desc>Family Party: 30 Great Games Obstacle Arcade brings home wacky and wild competitions for kids of all ages.
+
+Exclusively for the Wii U™ system from Nintendo, Obstacle Arcade lets players participate in over 30 party games specifically designed for multiplayer. Delivering an unmatched combination of variety and value, it features dozens of hysterical obstacle courses, popular sporting events, and arcade and brain challenges.
+
+Family Party: 30 Great Games Obstacle Arcade takes players to “Family Party Land”, a magical island loaded with a combination of familiar games and over-the-top challenges. Dodge barrels, ride horses, skydive, shoot rockets, kick goals, and more. Rule the island by earning medals and high scores, and unlocking new games.
+
+Features
+
+• Over 30 fun party games that highlight the all-new Wii U™ system!
+–Use the all-new Wii U™ GamePad in special 1-on-3 multiplayer challenges
+–Aim and shoot with the Wii U™ GamePad to kick soccer balls or to act as a game master in hidden card games and obstacle course challenges.
+–Tilt the Wii U™ GamePad to roll giant balls, to fly through space in zero gravity, or to block projectiles as a shield
+–Track high scores and game progress on the Wii U™ GamePad's display
+
+• Loaded with fun games custom made for family play, including tons of extreme obstacle courses, sports, and arcade game challenges
+–Over the top obstacles: Giant bouncing balls, alligator jumping, crazy hurdles, jetpacks vs. rocket launchers, and other thrills!
+–Sports: Everything from air hockey to eating contests to rodeo
+–Fun for the whole family: Arcade games, card games, and more
+• An unmatched combination of variety and value!
+–All games designed for 4-player multiplayer and all-ages family competition –Win trophies and achieve high scores to unlock new games and characters
+–Less than $1 a game for over 30 fun party games that showcase the all-new Wii U™ system.</desc>
+		<image>./mixart/Family Party_ 30 Great Games Obstacle Arcade-01.png</image>
+		<video>./snap/Family Party_ 30 Great Games Obstacle Arcade-01.mp4</video>
+		<marquee>./wheel/Family Party_ 30 Great Games Obstacle Arcade-01.png</marquee>
+		<rating>0.15</rating>
+		<developer>Art Co. Ltd.</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Casual Game</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12260">
+		<path>./Fast And Furious Showdown (USA).wux</path>
+		<name>Fast and Furious : Showdown</name>
+		<desc>Fast &amp; Furious: Showdown is a racing game runs you through the entire Fast and Furious movie series in one game. It employs familiar characters from the movies, including Paul Walker and Ludacris among others. Released as a tie-in to the movie Fast &amp; Furious 6, it also bridges the events of the story's movie and those of its predecessor Fast Five. The game includes 30 missions where you can either play alone with an AI partner, or together with a friend cooperatively, where each player has a specific role. Jobs include heists, hijacks, and much more. The game allows travel around the globe, some locations being Rio, Miami, and Hong Kong among many others. In addition, cars are highly customizable with more than 50 upgrades and perks.</desc>
+		<image>./mixart/Fast &amp; Furious_ Showdown-01.png</image>
+		<video>./snap/Fast &amp; Furious_ Showdown-01.mp4</video>
+		<marquee>./wheel/Fast &amp; Furious_ Showdown-01.png</marquee>
+		<rating>0.19</rating>
+		<developer>Firebrand Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Fatal Frame  Maiden of Black Water [AL5E01]/code/lens5_cafe.rpx</path>
+		<name>Fatal Frame  Maiden of Black Water</name>
+		<desc>Fatal Frame/Project Zero: Maiden of Black Water consists of 3 interconnected stories that converge to uncover the truth behind a recent group of tragic deaths in a forest marred by a history of suicides. As one of 3 people with the power of the Camera Obscura and the ability to see the shadows of those spirited away, you will explore the ruins of an eerie inn, a shrine filled with life-size dolls, and a lake full of dead priestesses. Each shadowy location is connected by a stream of water flowing throughout the mountain, and this once holy water is tied to the darkest mystery of all—the history of death and darkness on Mt. Hikami.</desc>
+		<image>./mixart/Fatal Frame_ Maiden of Black Water-02.png</image>
+		<video>./snap/Fatal Frame Maiden of Black Water.mp4</video>
+		<marquee>./wheel/Fatal Frame_ Maiden of Black Water-02.png</marquee>
+		<rating>0.67</rating>
+		<releasedate />
+		<md5>bb3bcc144ee53320387b498d7edf1ac9</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12245">
+		<path>./Game &amp; Wario (USA).wux</path>
+		<name>Game &amp; Wario</name>
+		<desc>Wario has gotten into the business of designing games. With the help of his development crew at WarioWare, Inc., he has set out to make the greatest collection of games Diamond City has ever seen. Game &amp; Wario features these fun and refreshingly unusual games that are played exclusively with the Wii U GamePad controller.</desc>
+		<image>./mixart/Game &amp; Wario (USA).png</image>
+		<video>./snap/Game &amp; Wario-01.mp4</video>
+		<marquee>./wheel/Game &amp; Wario-01.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20130623T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Hyrule Warriors/code/ProjectZ.rpx</path>
+		<name>Hyrule Warriors</name>
+		<desc>The delicate balance of the Triforce has been disrupted, and Hyrule Kingdom is once again being torn apart by a dark power, this time lead by Sorceress Cia. Now its up to the legendary hero Link to face hordes of enemies and find the missing Princess Zelda. Advance the story to unlock new playable characters with unique moves and weapon types. Collect Rupees and other useful items to upgrade weapons and craft badges, which you can use to bolster each warriors abilities. Then unleash the full power of your attacks with intense combos to clear wave after wave of Bokoblin hordes. Youll have to get your gloves dirty to save Hyrule this time.
+
+* Play as fan-favorite characters like Link and Impa for the first time in the series!
+* Battle the fiercest Legend of Zelda enemies across Hyrules most famous locales.
+* Lay waste to your opponents with brutally efficient attacks and intense combos
+* Think tactically and complete missions in the most efficient way possible</desc>
+		<image>./mixart/Hyrule Warriors.png</image>
+		<video>./snap/Hyrule Warriors.mp4</video>
+		<marquee>./wheel/Hyrule Warriors-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140926T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<md5>fad6a4884c0c918c2835bd1afb9a69b1</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12515">
+		<path>./Jeopardy (USA).wux</path>
+		<name>Jeopardy!</name>
+		<desc>Join Alex Trebek and play as a contestant on Americas Favorite Quiz Show!"
+
+Test your knowledge to make it to Final Jeopardy! and the coveted Winners Circle!
+
+-Use your quick wit to play 3,000 clues in Jeopardy!, Double Jeopardy! and Final Jeopardy!
+-The complete Jeopardy! Clue Crew of Jimmy, Kelly and Sarah bring the clues to life the first time in a game format
+-Vibrant HD graphics, improved menu interface and fresh in-game features!
+-Play in single player mode with the Wii U GamePad or connect your Wii U to the TV and play as a family</desc>
+		<image>./mixart/Jeopardy!-01.png</image>
+		<video>./snap/Jeopardy!-01.mp4</video>
+		<marquee>./wheel/Jeopardy!-01.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>20121220T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Jeopardy</family>
+		<players>4+</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12571">
+		<path>./Legend of Kay Anniversary (USA).wux</path>
+		<name>Legend Of Kay Anniversary</name>
+		<desc>Experience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving.
+
+10 years after its initial release, Legend of Kay Anniversary is a thoroughly remastered version of the original game with high resolution textures, new &amp; more detailed character models, modern rendering techniques and crystal-clear surround sound which give this great classic a new shine.
+
+Full of fond allusions to old martial arts films and pop culture quotes, Legend of Kay Anniversary is both an incredibly funny game and a challenging action-adventure for young and old alike.</desc>
+		<image>./mixart/Legend of Kay Anniversary (USA).png</image>
+		<video>./snap/Legend of Kay Anniversary-01.mp4</video>
+		<marquee>./wheel/Legend of Kay Anniversary-01.png</marquee>
+		<rating>0.67</rating>
+		<developer>Unit 4 Games</developer>
+		<publisher>Nordic Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./LEGO Batman 3 - Beyond Gotham/code/projectblack.master.rpx</path>
+		<name>LEGO Batman 3 - Beyond Gotham</name>
+		<desc>LEGO Batman 3: Beyond Gotham is the third LEGO game based on DC Comics characters. While it prominently features Batman and his supporting cast, as indicated by the subtitle it moves beyond Gotham City into all corners of the DC universe, featuring the Justice League, the Legion of Doom and several Lantern Corps, with all sorts of heroes and villains making an appearance, and the story moving from Earth to outer space and several other planets.</desc>
+		<image>./mixart/LEGO Batman 3_ Beyond Gotham-02.png</image>
+		<video>./snap/LEGO Batman 3_ Beyond Gotham.mp4</video>
+		<marquee>./wheel/LEGO Batman 3_ Beyond Gotham-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20141112T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<md5>993942824d9f5480291648d314cf37d7</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO Marvel Super Heroes/code/Marvel.master.rpx</path>
+		<name>LEGO Marvel Super Heroes</name>
+		<desc>Lego Marvel Super Heroes is an action game, reuniting about one hundred and a half Marvel heroes and villains coming from several Marvel franchises, having the player control the good ones in order to save the Earth from a team of the vicious (headed by Galactus, also named as The Devourer of the Worlds); all in the fashion of LEGO adventures blocky cartoonish visual style and gameplay.</desc>
+		<image>./mixart/LEGO Marvel Super Heroes-01.png</image>
+		<video>./snap/LEGO Marvel Super Heroes.mp4</video>
+		<marquee>./wheel/LEGO Marvel Super Heroes-01.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20131115T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<md5>42ac60ae5e12060aa75a000e59559264</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO Star Wars - The Force Awakens/code/douglas.master.rpx</path>
+		<name>LEGO Star Wars - The Force Awakens</name>
+		<desc>Experience untold adventures set before Star Wars: The Force Awakens through exclusive new story levels that takes place between Star Wars: Return of the Jedi and the new film. Play as all of the heroic characters from the movie, including Rey, Finn, Poe Dameron, Han Solo, Chewbacca, C-3PO, and BB-8, as well as Kylo Ren, General Hux and Captain Phasma, while exploring classic Star Wars locales, such as Jakku and Starkiller Base, and utilizing a multitude of vehicles along the way.</desc>
+		<image>./mixart/LEGO Star Wars_ The Force Awakens-01.png</image>
+		<video>./snap/LEGO Star Wars_ The Force Awakens.mp4</video>
+		<marquee>./wheel/LEGO Star Wars_ The Force Awakens-01.png</marquee>
+		<rating>0.74</rating>
+		<releasedate />
+		<md5>135eace10cffa7bc85332bef664e8d44</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO® Jurassic World™/code/amber.master.rpx</path>
+		<name>LEGO Jurassic World</name>
+		<desc>LEGO Jurassic World is an action game based on the four Jurassic Park movies and released alongside the 2015 movie Jurassic World. As with many other Tt Games titles it adapts a licensed franchise to a world built up out of LEGO bricks. The game consists of 20 levels, five for each of the movies, played in succession. The game borrows many iconic moments from the films using the original audio clips and often adds a humorous twist.</desc>
+		<image>./mixart/LEGO Jurassic World-01.png</image>
+		<video>./snap/LEGO Jurassic World.mp4</video>
+		<marquee>./wheel/LEGO Jurassic World-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20150612T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Travellers Tales</publisher>
+		<md5>4de5d9c6b824f0f1a09648b509c5a5ce</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO® MARVEL's Avengers [ALREWRWR]/code/projectsilver.master.rpx</path>
+		<name>LEGO MARVEL's Avengers</name>
+		<desc>LEGO Marvel Avengers is a spin-off of the successful LEGO Marvel Super Heroes focusing on the story of the films of the Marvel Cinematic Universe. The game covers the events of the cinematic universe up to 'Avengers: Age of Ultron' and covers content seen in 'Captain America: The First Avenger', 'Avengers Assemble', 'Iron Man 3', 'Thor 2', and 'Avengers: Age of Ultron' with DLC packs available for other entries within the Marvel Cinematic Universe such as 'Ant-Man' and 'Marvel's Agents of SHIELD'.nn</desc>
+		<image>./mixart/LEGO Marvel_s Avengers-01.png</image>
+		<video>./snap/LEGO Marvel_s Avengers.mp4</video>
+		<marquee>./wheel/LEGO Marvel_s Avengers-01.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20160127T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Travellers Tales</publisher>
+		<genre>Action</genre>
+		<md5>8bc27227165380938ab46312e9264fca</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LOST REAVERS [APHEAF]/code/PhantomGame-WiiU-Shipping.rpx</path>
+		<name>LOST REAVERS</name>
+		<desc>The humid dust filled air and the remainders of the intruders who failed before you are stoic reminders of the dangers that lie in seeking lost and forgotten treasure. But all grievances can't compare with the overwhelming satisfaction that one gains from gazing at a priceless artifact. BANDAI NAMCO Studios is proud to present their latest Free-to-play online co-op action game, LOST REAVERS.
+
+The lost treasures of the world lie scattered throughout various corners of the Earth. But rare fortunes are never easily acquired. To recover these riches, it's going to take more than just a fortunate expedition. You'll need the wits to solve puzzles, the expertise to disarm traps, and the armaments to fight legions of undead guardians. But that's not enough; you're going to need a team of cunning explorers at your side. Team up with other voyagers online as you fight zombies, kill bosses, and discover valuable relics in the most diverse locations on the planet. Acquire the treasure and successfully return with the cargo to divvy up the prizes and receive your share of the spoils!</desc>
+		<image>./mixart/Lost Reavers-01.png</image>
+		<video>./snap/Lost Reavers.mp4</video>
+		<marquee>./wheel/Lost Reavers-02.png</marquee>
+		<rating>0.46</rating>
+		<releasedate />
+		<md5>11fe8f7c9303ead57e51d66b792ffce0</md5>
+		<lang>en</lang>
+	</game>
+	<game id="245372">
+		<path>./Rise of the Guardians (USA).wux</path>
+		<name>DreamWorks Rise of the Guardians</name>
+		<image>./mixart/Rise of the Guardians (USA).png</image>
+		<video>./snap/Rise of the Guardians-01.mp4</video>
+		<marquee>./wheel/Rise of the Guardians-01.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>20121123T000000</releasedate>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action / Adventure</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./M &amp; S at the Rio 2016 Olympic Games/code/unison.rpx</path>
+		<name>Mario &amp; Sonic at the Rio 2016 Olympic Games</name>
+		<desc>Compete On-the-go with Mario and Sonic. Many of your Mario and Sonic characters are ready to join the fun in Rio de Janeiro, host of the Olympic Games in 2016. Then take the rivalry on the road with this portable collection of supercharged events like Soccer, Table Tennis, or test your skills in a challenging game of Golf.
+
+Features:
+-Take on fun and exciting events set throughout host city Rio de Janeiro.
+-Join Mario, Sonic and your favorite characters to take on new challenging events like Soccer and Beach Volleyball.
+-Soccer is a popular sport in Brazil where the Rio 2016 Olympic Games are set.
+-Golf returns to the Olympic Games for the first time in 112 years; enjoy the event exclusively in the Nintendo 3DS version of Mario &amp; Sonic at the Rio 2016 Olympic Games.</desc>
+		<image>./mixart/Mario &amp; Sonic at the Rio 2016 Olympic Games-01.png</image>
+		<video>./snap/Mario &amp; Sonic at the Rio 2016 Olympic Games.mp4</video>
+		<marquee>./wheel/Mario &amp; Sonic at the Rio 2016 Olympic Games-01.png</marquee>
+		<rating>0.65</rating>
+		<releasedate />
+		<md5>de423da49cea93c44dee0ad6b22371e2</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Yoshi's Woolly World/code/pj023.rpx</path>
+		<name>Yoshi's Woolly World</name>
+		<desc>Yoshi's Woolly World is a platform game in which the player assumes the role of Yoshi. Similar to developer Good-Feel's previous title Kirby's Epic Yarn, the game is set in a world where the characters and environment are composed of yarn and cloth. Yoshi retains much of his moveset from the Yoshi's Island series of games, including using his tongue to swallow enemies and using his flutter jump to reach hard areas, and many elements such as flowers and mystery clouds return. However, unlike other games where swallowing enemies would produce eggs which Yoshi could then throw, Yoshi instead produces balls of yarn.</desc>
+		<image>./mixart/Yoshi's Woolly World.png</image>
+		<video>./snap/Yoshi_s Woolly World.mp4</video>
+		<marquee>./wheel/Yoshi_s Woolly World-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20150626T000000</releasedate>
+		<developer>Good Feel</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4+</players>
+		<favorite>true</favorite>
+		<md5>992d0288dd746aabd53803216ab5b75e</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hyrule Warriors [0005000E1017D800] [UPDATE v208]/code/ProjectZ.rpx</path>
+		<name>ProjectZ</name>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game id="12223">
+		<path>./007 Legends (USA).wux</path>
+		<name>007 Legends</name>
+		<desc>Taking place after the opening but prior to the events of Skyfall, James Bond is shot and left for dead during a botched assignment in Istanbul. As his life hangs in the balance, he begins to remember his previous adventures ? foiling Operation Grand Slam, the assault on Piz Gloria, his vendetta against drug kingpin Franz Sanchez, his encounter with Gustav Graves, and thwarting billionaire industrialist Hugo Drax's plot to kill the entire human race. 
+
+Straight after his return to the present day, Bond realizes that he's still alive. He tracks down Patrice, whom he was after in the very beginning of the game, to Shanghai where he stops an assassination plot and eliminates the hitman. The game presents a What if? scenario where all of the "classic" Bond adventures have taken place during the six-year gap between the storylines of Quantum of Solace and Skyfall.</desc>
+		<image>./mixart/007 Legends (USA).png</image>
+		<video>./snap/007 Legends-01.mp4</video>
+		<marquee>./wheel/007 Legends-01.png</marquee>
+		<rating>0.6</rating>
+		<developer>Eurocom</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<family>James Bond 007</family>
+		<players>2-12</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Splatoon/code/Gambit.rpx</path>
+		<name>Splatoon</name>
+		<desc>Splatter enemies and claim your turf as the ink-spewing, squid-like characters called Inklings in Nintendo's third-person action shooter game. Challenge your friends in chaotic four-on-four matches, in which the goal is to get your ink on as many places as possible and claim your turf, all while strategically submerging yourself in your team's colors and blasting your enemies.</desc>
+		<image>./mixart/Splatoon.png</image>
+		<video>./snap/Splatoon.mp4</video>
+		<marquee>./wheel/Splatoon-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20150521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>4+</players>
+		<md5>2b2c7016ebae7ff96af0f66397a4e87b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super_Mario_Maker_USA.wux</path>
+		<name>Super Mario Maker</name>
+		<desc>Super Mario Maker lets people’s imaginations run wild. For the first time ever, friends can have fun playing through levels they create for one another. The Wii U GamePad controller makes it so easy for anyone to create levels; it may feel like simply sketching out ideas on paper. Players can enjoy a seemingly endless supply of inventive Mario levels from players around the world.</desc>
+		<image>./mixart/Super_Mario_Maker_USA.jpg</image>
+		<video>./snap/Super_Mario_Maker_USA.mp4</video>
+		<marquee>./wheel/Super_Mario_Maker_USA.png</marquee>
+		<releasedate>20150911T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sandbox, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TEKKEN TAG TOURNAMENT 2 Wii U EDITION/code/Tekken.rpx</path>
+		<name>TEKKEN TAG TOURNAMENT 2 Wii U EDITION</name>
+		<desc>Tekken Tag Tournament 2 came with exclusive features for the Wii U:nnMushroom Battle mode - Players can pick up power-ups (which have their inspiration from the Super Mario series) during a fight.nnNintendo inspired costumes for each fighter.nnTekken Ball - Making its return from Tekken 3, this mode is a beach volleyball variant where characters are hurt by the ball.</desc>
+		<image>./mixart/Tekken Tag Tournament 2_ Wii U Edition-01.png</image>
+		<video>./snap/Tekken Tag Tournament 2_ Wii U Edition.mp4</video>
+		<marquee>./wheel/Tekken Tag Tournament 2_ Wii U Edition-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<md5>c5e12a607a0ae630a58fd041bb90f13b</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12508">
+		<path>./Fast Racing Neo (EUR).wux</path>
+		<name>Fast Racing Neo</name>
+		<image>./mixart/Fast Racing Neo (EUR).png</image>
+		<video>./snap/FAST Racing NEO-01.mp4</video>
+		<marquee>./wheel/FAST Racing NEO-01.png</marquee>
+		<rating>0.81</rating>
+		<releasedate>20160930T000000</releasedate>
+		<developer>Shin'en Multimedia</developer>
+		<publisher>Shin'en Multimedia</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Kirby and the Rainbow Curse [AXYE0101]/code/seven.rpx</path>
+		<name>Kirby and the Rainbow Curse</name>
+		<desc>(Also known as "Kirby and the Rainbow Paintbrush" in the UK/EU.) Do you have the magic touch? Then guide Kirby as he sets off on grand adventures in a hand-sculpted clay world. Draw lines on the touch screen of the Wii U GamePad controller to create rainbow-colored clay ropes to move Kirby around freely, or tap him to attack enemies or blast through obstacles. Transformations include a submarine, rocket and tank. In underwater levels, Kirby dons a swim mask. If his power level gets too low, a clay bandage appears on his head.</desc>
+		<image>./mixart/Kirby and the Rainbow Curse-01.png</image>
+		<video>./snap/Kirby and the Rainbow Curse.mp4</video>
+		<marquee>./wheel/Kirby and the Rainbow Curse-01.png</marquee>
+		<rating>0.73</rating>
+		<releasedate />
+		<md5>dcacaa8c0371f94939edb5f198f2433c</md5>
+		<lang>en</lang>
+	</game>
+	<game id="245936">
+		<path>./Kung Fu Panda Showdown of Legendary Legends (USA).wux</path>
+		<name>Kung Fu Panda: Showdown of Legendary Legends</name>
+		<image>./mixart/Kung Fu Panda_ Showdown of Legendary Legends-01.png</image>
+		<video>./snap/Kung Fu Panda_ Showdown of Legendary Legends-01.mp4</video>
+		<marquee>./wheel/Kung Fu Panda_ Showdown of Legendary Legends-01.png</marquee>
+		<rating>0.61</rating>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Twilight Princess HD/code/Zelda.rpx</path>
+		<name>The Legend of Zelda: Twilight Princess HD</name>
+		<desc>A dark force, shrouded in twilight, has invaded the vast land of Hyrule.
+
+A dark force, shrouded in twilight, has invaded the vast land of Hyrule. To restore light to the world, team up with the mysterious creature Midna and embrace the darkness to transform into a divine wolf. Fight through labyrinthine dungeons, survive puzzling traps and meet a cast of characters you’ll never forget in this legendary Zelda adventure.
+
+The Legend of Zelda: Twilight Princess is a critically acclaimed masterpiece, set in a massive world bursting with life—but also shadow. A dark figure from the Twilight Realm has invaded the world of light. As Link, a farmhand turned cursed beast, join forces with the impish Midna and trusted (albeit unusual) allies to survive a quest that'll take you to the farthest corners of Hyrule and beyond… to the Twilight Realm. This emotional adventure is now on the Wii U console with improved visuals and controls—and new challenges. Choose Hero Mode to take 2x normal damage, or tap the Wolf Link amiibo™ figure to unlock the tough Cave of Shadows.
+
+* The Legend of Zelda: Twilight Princess HD is the best way to experience this critically acclaimed game
+
+* Explore a vast Hyrule, a mysterious Twilight Realm, and masterfully-designed dungeons
+
+* Restore balance to the world with the aid of the impish Midna and your divine wolf powers
+
+* Meet a cast of friendly folk and interesting characters, like the entrepreneurial baby Malo and even a yeti couple
+
+* Enhanced visuals, additional controls, bonus challenges, and Miiverse™ functionality make the game feel fresh again
+
+* Play in Hero Mode to take 2x the normal amount of damage—and do it without any heart drops to refill your health!
+
+* Tap any of the other Legend of Zelda amiibo figures from the Super Smash series to unlock other bonuses, like extra arrows or even more challenging gameplay
+
+Also Available
+The Legend of Zelda: Twilight Princess HD Limited Edition
+The Legend of Zelda: Twilight Princess HD Special Edition</desc>
+		<image>./mixart/The Legend of Zelda_ Twilight Princess HD.jpg</image>
+		<video>./snap/The Legend of Zelda_ Twilight Princess HD.mp4</video>
+		<marquee>./wheel/The Legend of Zelda_ Twilight Princess HD.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20160304T000000</releasedate>
+		<developer>Tantalus Media, Nintendo EPD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Role-Playing, Puzzle, Platform</genre>
+		<players>1</players>
+		<md5>a2b30ebe49dedd34971d3aadbf01cb43</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games/code/urals.rpx</path>
+		<name>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games</name>
+		<desc>Join Mario and Sonic and the rest of your favorite characters as they team up and compete in events at the Sochi 2014 Olympic Winter Games.</desc>
+		<image>./mixart/mario and sonic 2014.png</image>
+		<video>./snap/Mario Sonic at the Sochi 2014 Olympic Winter Games.MP4</video>
+		<marquee>./wheel/Mario Sonic at the Sochi 2014 Olympic Winter Games.png</marquee>
+		<rating>0.55</rating>
+		<releasedate />
+		<md5>3fbbc99b9c9c30ce9a6c34a77ab2c114</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Need for Speed™ Most Wanted U [ANSE6969]/code/Hawaii.rpx</path>
+		<name>Need for Speed Most Wanted U</name>
+		<desc>Need for Speed: Most Wanted is an open world Racing game. The game is the 19th release in the long-running Need for Speed franchise, but hearkens back to the earliest games in the series as players compete in races with police unified against them. Races have a set beginning and end point, with the open world game design allowing players to complete each using whatever path they can find. Additional features include a unique blend of Simulation and Arcade gameplay, social play options through the Autolog 2 feature, exciting multiplayer support, and a large selection of performance vehicles.</desc>
+		<image>./mixart/Need for Speed_ Most Wanted U-01.png</image>
+		<video>./snap/Need for Speed_ Most Wanted U.mp4</video>
+		<marquee>./wheel/Need for Speed_ Most Wanted U-01.png</marquee>
+		<rating>0.86</rating>
+		<releasedate />
+		<md5>6c2a178a87e73115442456e9b274e280</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN and the Ghostly Adventures [APCEAFAF]/code/Game-dvd.rpx</path>
+		<name>PAC-MAN and the Ghostly Adventures</name>
+		<desc>Pac-Man and the Ghostly Adventures is a 3D platform game based on the cartoon TV series of same name. Pac, Cylindria and Spiral are called to the lab of Sir C. He shows them three golden globes he found and explains that they need to be recharged with Globe energy orbs. And asks if you can help him with collecting the energy orbs. At this point four ghosts appear to warn them that Betrayus, lord of the ghosts, and his army have invaded the city of Pacoplis. Betrayus seems to have stolen some kind of freeze machine from the science center. It's up to you to stop him and his army and collecting the energy orbs needed to power the globes of Sir C along the way. 
+ 
+Pac-Man can enter several modes to help him defeat enemies and overcome obstacles. The modes are: Chameleon Pac, Fire Pac, Granite ball Pac, Ice Pack, Metal Pac, Spin Pac. 
+ 
+The game offers a multiplayer mode of up to four players.</desc>
+		<image>./mixart/Pac-Man and the Ghostly Adventures-01.png</image>
+		<video>./snap/Pac-Man and the Ghostly Adventures.mp4</video>
+		<marquee>./wheel/Pac-Man and the Ghostly Adventures-01.png</marquee>
+		<rating>0.58</rating>
+		<releasedate>20131029T000000</releasedate>
+		<developer>Monkey Bar Games</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<md5>3c011353f02f882d62260a88c7f0f504</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RESIDENT EVIL REVELATIONS [ABHE0808]/code/BioRevHD.rpx</path>
+		<name>RESIDENT EVIL REVELATIONS</name>
+		<desc>Resident Evil: Revelations on Wii U is a survival horror. The player must face monsters who are victims of a variant of the T Virus while trying to get out alive from a gigantic liner. In addition to the Campaign mode, there is also a Commando mode playable in cooperative.</desc>
+		<image>./mixart/Resident Evil_ Revelations-01.png</image>
+		<video>./snap/Resident Evil_ Revelations.mp4</video>
+		<marquee>./wheel/Resident Evil_ Revelations-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20130524T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<md5>cb8fa95c18b8020ba01daa17a2fd9b44</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Captain Toad Treasure Tracker/code/Kinopio.rpx</path>
+		<name>Captain Toad Treasure Tracker</name>
+		<desc>Captain Toad Treasure Tracker est un jeu de réflexion et de plates-formes sur Wii U. Toad se lance dans sa première aventure solo inspirée des stages spéciaux de Super Mario 3D World. L'objectif est de déjouer les pièges de l'environnement en modifiant les perspectives à l'aide de la caméra pour atteindre la sortie des niveaux avec un maximum de pièces et de gemmes cachées.</desc>
+		<image>./mixart/Captain Toad Treasure Tracker.png</image>
+		<video>./snap/Captain Toad Treasure Tracker.mp4</video>
+		<marquee>./wheel/Captain Toad.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20141113T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Puzzle-Game</genre>
+		<players>2</players>
+		<md5>7849babcbab8eda24121e3e4bc5c16a4</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO® The Hobbit™ [ALHEWRWR]/code/Hobbit.master.rpx</path>
+		<name>LEGO The Hobbit</name>
+		<desc>LEGO The Hobbit is based on the first two films in The Hobbit movie trilogy: The Hobbit: An Unexpected Journey and The Hobbit: Desolation of Smaug. Like the other LEGO Tt games it is an adaptation of the franchise to the LEGO universe. It allows players to play through different scenes from the films and follow Bilbo Baggins as he is recruited by Gandalf to aid Thorin Oakenshield and his Company of Dwarves. Bilbo leaves the comforts of the Shire on a journey to help the Dwarves reclaim their lost Kingdom of Erebor within the Lonely Mountain. Many dangers and adventures await and unexpected discovery of a certain ring.</desc>
+		<image>./mixart/LEGO The Hobbit-01.png</image>
+		<video>./snap/LEGO The Hobbit.mp4</video>
+		<marquee>./wheel/LEGO The Hobbit-01.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20140411T000000</releasedate>
+		<developer>TT Games</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<md5>aac47e5209579fa14f3faa3a61c77d9c</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Guacamelee! Super Turbo Championship Edition [0005000010176800]/code/Guacamelee.rpx</path>
+		<name>Guacamelee! Super Turbo Championship Edition</name>
+		<desc>Evil chose the wrong day to double-dip. Carlos Calaca has kidnapped El Presidente's Daughter, and he plans to sacrifice her in order to merge the World of the Living with the World of the Dead. Juan Aguacate, an agave farmer who stumbles upon a Legendary Luchador mask, must find the strength and courage to become the Hero he's always dreamed of being and put a stop to this. Guacamelee! STCE is a Metroidvania-style action-platformer set in a magical world inspired by traditional Mexican culture and folklore. The game features melee combat, parallel dimensions and same-screen co-op. The Super Turbo Championship Edition also includes extra abilities, new level content and enhanced graphics. Also chickens.</desc>
+		<image>./mixart/Guacamelee.jpg</image>
+		<video>./snap/Guacamelee.mp4</video>
+		<marquee>./wheel/Guacamelee.png</marquee>
+		<releasedate>20140702T000000</releasedate>
+		<developer>DrinkBox Studios</developer>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+		<md5>f5d349e7c7f881e782397c4184a6e821</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DuckTales - Remastered/code/DuckTales.rpx</path>
+		<name>DuckTales - Remastered</name>
+		<desc>DuckTales Remastered has seen the development team take the levels and layout from the original 1989 release as a foundation before expanding upon them to significantly enhance the gameplay experience but where this update truly impresses is its graphics and sound. All of the visuals from the 8-bit game have been beautifully re-created as hand-drawn and animated sprites, across a backdrop of luscious, re-envisioned level backgrounds. Furthermore, original Disney Character Voices talent, including some from the cartoon TV series, bring in-game characters to life with charm and wit, while the classic melodies of the original soundtrack are given a modern twist.</desc>
+		<image>./mixart/Disney DuckTales_ Remastered-01.png</image>
+		<video>./snap/Disney DuckTales_ Remastered.mp4</video>
+		<marquee>./wheel/Disney DuckTales_ Remastered-01.png</marquee>
+		<rating>0.76</rating>
+		<releasedate />
+		<md5>72c56a67e3c80816b25fccc8d13d3b5e</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Darksiders Warmastered Edition/code/darksiders1.rpx</path>
+		<name>Darksiders Warmastered Edition</name>
+		<desc>Deceived by the forces of evil into prematurely bringing about the end of the world, War the first Horseman of the Apocalypse stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth.</desc>
+		<image>./mixart/Darksiders_ Warmastered Edition-02.png</image>
+		<video>./snap/Darksiders Warmastered Edition.mp4</video>
+		<marquee>./wheel/Darksiders_ Warmastered Edition-02.png</marquee>
+		<rating>0.77</rating>
+		<releasedate />
+		<md5>1dfd9509461a651af08906a97530a3ff</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mighty Switch Force!™ Hyper Drive Edition [000500001011B100]/code/Mighty3_WiiU.rpx</path>
+		<name>Mighty Switch Force! Hyper Drive Edition</name>
+		<desc>Space Hooligans have escaped custody and are wreaking havoc all over Planet Land! HQ calls on cybernetic peace-keeper Patricia Wagon to bring these renegades to justice! With the help of Corporal Gendarmor and her trusty Pellet Gun, there's nothing she can't handle. When the going gets tough, Wagon activates her Helmet Siren, altering the world around her in 3D space! Even the third dimension can't hide criminal ne'er-do-wells from the long arm of the law! Enter the mechanical shape-shifting, dimension switching world of Mighty Switch Force and blow crime away!</desc>
+		<image>./mixart/Mighty3_WiiU.jpg</image>
+		<video>./snap/Mighty3_WiiU.mp4</video>
+		<marquee>./wheel/Mighty3_WiiU.png</marquee>
+		<releasedate>20121118T000000</releasedate>
+		<developer>WayForward Technologies</developer>
+		<publisher>WayForward Technologies</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>2bfa1c674bc53eb871210ae4e3837375</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12117">
+		<path>./Hyrule Warriors [000500001017D800]/code/ProjectZ.rpx</path>
+		<name>Hyrule Warriors</name>
+		<desc>Hyrule Warriors, known in Japan as Zelda Mus, is a hack and slash action video game released in Japan on August 14, 2014, and scheduled to be released in the West in September. Developed by Omega Force and Team Ninja for the Wii U video game console, the game is a collaboration between Koei Tecmo and Nintendo, and contains elements of Nintendo's The Legend of Zelda series and Koei Tecmo's Dynasty Warriors series.</desc>
+		<image>./mixart/Hyrule Warriors.png</image>
+		<video>./snap/Hyrule Warriors.mp4</video>
+		<marquee>./wheel/Hyrule Warriors.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140926T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>fad6a4884c0c918c2835bd1afb9a69b1</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dr. Luigi [WAQE01]/code/rgm012.rpx</path>
+		<name>Dr. Luigi</name>
+		<desc>Dr. Luigi est un puzzle-game disponible sur Wii U. Reprenant le principe des Dr. Mario, Cet opus met en scène Luig qui doit lutter contre les virus à grands coups de pilules colorées. Quatre modes de jeu différents sont disponibles, du plus classique au plus complexe, en passant par le mode multijoueur en ligne.</desc>
+		<image>./mixart/Dr. Luigi-01.png</image>
+		<video>./snap/Dr. Luigi.mp4</video>
+		<marquee>./wheel/Dr. Luigi-02.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20140116T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>22ff114797f17322c846e6e016a1ffcd</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hot Wheels - World's Best Driver (USA).wux</path>
+		<name>Hot Wheels - World's Best Driver</name>
+		<desc>Do you have what it takes to be the World's Best Driver?
+
+Gear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?</desc>
+		<image>./mixart/Hot Wheels World_s Best Driver-01.png</image>
+		<video>./snap/Hot Wheels World_s Best Driver-01.mp4</video>
+		<marquee>./wheel/Hot Wheels World_s Best Driver-01.png</marquee>
+		<rating>0.46</rating>
+		<releasedate />
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12121">
+		<path>./Bayonetta 2/code/PRJ_010.rpx</path>
+		<name>Bayonetta 2</name>
+		<desc>Bayonetta 2 is the sequel to Bayonetta. You play as Bayonetta, an Umbran Witch who is out to rescue her friend Jeanne from the depths of Inferno. The game is set a few months after the events of the first game. Along the way she has to battle a host of angels and demons who are out to stop her. This is a 3rd-person action game in the mold of Devil May Cry or God of War, fighting multiple enemies and combining different moves based on melee combat and gunplay. The game is all about pulling off fantastic combos with precise timing as you face a number of memorable battles in a variety of locations.</desc>
+		<image>./mixart/Bayonetta 2.png</image>
+		<video>./snap/Bayonetta 2.mp4</video>
+		<marquee>./wheel/Bayonetta 2-01.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20160218T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<md5>97f64e73426fe55969678e76516ff1cb</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MONSTER HUNTER 3 ULTIMATE/code/MH3G_Cafe_EU.rpx</path>
+		<name>Monster Hunter 3 Ultimate</name>
+		<desc>The popular fantasy action franchise Monster Hunter is now one of the most iconic gaming series in the world selling over 21 million copies worldwide since the series began in 2004. Players take on the role of a hunter and are sent to explore a settlement within the Monster Hunter universe, completing quests on their journey to seek and slay monsters whilst improving their skills and earning equipment upgrades. With many challenging monsters and over 200 quests the latest edition to the series is set to be the most expansive offering to date. Monster Hunter 3 Ultimate utilizes the functionalities of the Nintendo 3DS system to provide players with a truly intuitive hunting experience. The touch screen feature allows players to quickly access in-game books, weapons, field maps and mini games whilst the high quality graphics 3D visuals of Nintendo 3DS powered by the latest iteration of Capcom's MT Framework deliver a unique and stunning world for players to explore. Taking advantage of the portability of Nintendo 3DS, players can exchange their guild card that contains all their hunter's information with other players via StreetPass. Players can experience the world of Monster Hunter alone or in four player local play using Nintendo 3DS. Finding nearby hunters to adventure on quests with is now even easier via the local Nintendo 3DS search feature. Wii U players will be able to enjoy the hunt with Nintendo 3DS players via a local wireless connection. Gamers that own both a Wii U and Nintendo 3DS can take advantage of the inter compatibility of save data between the two consoles, taking the hunt from the living room wherever they go.</desc>
+		<image>./mixart/Monster Hunter 3 Ultimate.png</image>
+		<video>./snap/Monster Hunter 3 Ultimate.mp4</video>
+		<marquee>./wheel/Monster Hunter 3 Ultimate-03.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20130302T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>73dda82f0565143b4d57f16f7c601c1f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Fox Zero/code/PRJ_030.rpx</path>
+		<name>Star Fox Zero</name>
+		<desc>An evil empire has risen and the Lylat system is in danger.
+ 
+As legendary space pilot Fox McCloud, blast through an onslaught of enemy forces to bring peace to the galaxy. In this white-knuckle space shooter, it'll take more than luck to master the Arwing jet, the Gyrowing flight drone, and the Landmaster tank! You have what it takes. Now prove it.
+
+General Pepper needs your help! Use your TV's cinematic view to fly and identify targets and see through the eyes of Fox with the Wii U™ GamePad's screen as you lock onto enemies and fire. You'll also have to use advanced flight techniques like boosting and barrel rolls to survive the relentless assault. With the help of the rest of Team Star Fox , tackle missions in the air and on the ground in a variety of planets teeming with enemies. Then engage vast armadas of powerful ships in outer space dogfights. Master your craft, defy the odds, and earn your face-to-face meeting with Andross. Only you can restore peace to the galaxy!
+
+* Take down an intergalactic onslaught of enemy forces
+
+* Pilot a variety of vehicles in the air and on the ground
+
+* Hone your skills as the legendary pilot, Fox McCloud
+
+* See your surroundings on your TV, and get a different view on the GamePad by tilting it to aim</desc>
+		<image>./mixart/Star Fox Zero.jpg</image>
+		<video>./snap/Star Fox Zero.mp4</video>
+		<marquee>./wheel/Star Fox Zero.png</marquee>
+		<rating>0.69</rating>
+		<releasedate>20160422T000000</releasedate>
+		<developer>PlatinumGames, Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<md5>1dc3101411103564c24e81379de60883</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12248">
+		<path>./The Cave [000500001010FA00]/code/Cave.rpx</path>
+		<name>The Cave</name>
+		<desc>The Cave is a platform adventure game that tells the story of seven characters who descend into an ancient, self-aware cave to pursue their deepest desires: the Adventurer, the Time Traveler, the Knight, the Twins, the Hillbilly, the Scientist, and the Monk. Alone or with up to two local co-op partners, the player chooses three of these seven flawed, obsessive treasure-seekers to surmount obstacles, challenges, and choices of dubious moral value. Characters feature their own unique abilities, such as teleportation, temporary invulnerability, telekinesis, and more. Each one also encounters an entirely unique environment designed to expose their motivations and force them to confront their own checkered pasts.</desc>
+		<image>./mixart/The Cave.png</image>
+		<video>./snap/The Cave.mp4</video>
+		<marquee>./wheel/The Cave.png</marquee>
+		<rating>0.85</rating>
+		<developer>Double Fine Productions</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<md5>bd448ed91eb9bfeaa489b52a50c3f58f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Peanuts® Movie Snoopy's Grand Adventure [00050000101C4200]/code/Unity_nonetwork.master.rpx</path>
+		<name>The Peanuts Movie: Snoopy's Grand Adventure</name>
+		<desc>From Wikipedia:
+
+The Peanuts Movie: Snoopy's Grand Adventure is a side-scrolling platform video game based on The Peanuts Movie. The game launched on November 3, 2015 in North America, and November 6, 2015 in Europe for the Nintendo 3DS, PlayStation 4, Wii U, Xbox 360, and Xbox One. It was distributed by Fox Digital Entertainment, published by Activision and developed by Behaviour Interactive.</desc>
+		<image>./mixart/The Peanuts Movie - Snoopy's Grand Adventure.png</image>
+		<video>./snap/The Peanuts Movie - Snoopy's Grand Adventure.mp4</video>
+		<marquee>./wheel/The Peanuts Movie - Snoopy's Grand Adventure.png</marquee>
+		<releasedate>20151103T000000</releasedate>
+		<developer>Behavior Interactive</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>43c3289b339a94588297e16cad8eb07d</md5>
+		<lang>en</lang>
+	</game>
+	<game id="241512">
+		<path>./The Legend of Zelda Breath of the Wild/code/The Legend of Zelda Breath of the Wild.rpx</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure.</desc>
+		<image>./mixart/The Legend of Zelda_ Breath of the Wild-01.png</image>
+		<video>./snap/The Legend of Zelda_ Breath of the Wild.mp4</video>
+		<marquee>./wheel/The Legend of Zelda_ Breath of the Wild-01.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>f9f6f4f47bdcc98ba764c0e9960ae03f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic &amp; All-Stars Racing Transformed [AS2E8P8P]/code/SART.rpx</path>
+		<name>Sonic &amp; All-Stars Racing Transformed</name>
+		<desc>Sonic and the All-Stars cast battle for supremacy across land, water and air in transforming vehicles that change from cars to boats to planes mid-race.</desc>
+		<image>./mixart/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</image>
+		<video>./snap/Sonic &amp; All-Stars Racing Transformed Bonus Edition.mp4</video>
+		<marquee>./wheel/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</marquee>
+		<rating>0.78</rating>
+		<releasedate />
+		<md5>3fe1c45d3bb1dcbe7739d8421b261ae1</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BADLAND Game of the year edition [000500001019A600]/code/Badland.rpx</path>
+		<name>BADLAND: Game of the Year Edition</name>
+		<desc>(stylized ) is a mobile video game developed by Frogmind Games and released on the iOS and Android platforms. It was released on Windows Phone 8 in June 2014. There is also a  that was released in May 2015 for PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One, Wii U and Steam for Linux, Microsoft Windows and OS X. In December 2015, its sequel named  2 was released on iOS.
+The player flies around a little black creature called a Clone through the woods of the game. Beginning in Day I, the game progresses through four stages which consist of Dawn, Noon, Dusk, and Night, each with a separate color scheme and new theme of traps. As the player goes through Day I, egg-shaped machines begin to come out of the water of the background. Heading into the night, the machines begin to turn on and the game becomes harder as the machines become part of the dangers of the forest. Eventually, the character succeeds in disabling the machines and the machines become dormant once again until Day II begins it all over. Most of Day II is similar in plot structure, but smaller octopus-like machines begin to make themselves known and the animals in the forest begin to disappear. The last level includes saving a rabbit that was hanging by its foot and eventually coming to fly in front of a giant eye of one of the machines, leaving a cliffhanger into possible future updates. Also included in the game are possible in-app purchases that continue the story with some of Clony's friends, including ones nicknamed Snorf and Fury, featured in their own level packs. In early 2014, level pack Doomsday was released, featuring Fury and his escape from the machine infested woods. Also included is the Daydream level pack in which Snorf escapes finding the magic of the forest makes the woods not all as it seems to be. In 2015 a new multiplayer feature was released which allowed up to 4 players to play at the same time.</desc>
+		<image>./mixart/Badland.jpg</image>
+		<video>./snap/Badland.mp4</video>
+		<marquee>./wheel/Badland.png</marquee>
+		<wheel>./wheel/Badland.png</wheel>
+		<rating>0</rating>
+		<releasedate>20150730T000000</releasedate>
+		<developer>Frogmind</developer>
+		<genre>Action, Adventure, Platform, Puzzle-Game</genre>
+		<players>4</players>
+		<md5>4191bfffa08bb682b88bfe0aa754461e</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12281">
+		<path>./The Smurfs™ 2 [0005000010113300]/code/Smurfs.rpx</path>
+		<name>The Smurfs 2</name>
+		<desc>The highly anticipated family comedy The Smurfs? 2 is now a video game! The evil wizard Gargamel has created the Naughties, who kidnap Smurfette from Smurfs Village and imprison her in Paris. It's now up to the Smurfs to travel from the Enchanted Forest, through the busy streets of New York, into Paris, and everywhere in between to save the day and bring Smurfette home safe!</desc>
+		<image>./mixart/The Smurfs 2.jpg</image>
+		<video>./snap/The Smurfs 2.mp4</video>
+		<marquee>./wheel/The Smurfs 2.png</marquee>
+		<rating>0.15</rating>
+		<releasedate>20130723T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<family>Les Schtroumpfs</family>
+		<md5>01fcbf7d0c2f36603cfaf035fb8d004f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
+		<name>New Super Mario Bros. U + New Super Luigi U</name>
+		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
+		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
+		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20131101T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fist of the North Star  Ken's Rage 2/code/HMusou2_EU.rpx</path>
+		<name>Fist of the North Star  Ken's Rage 2</name>
+		<desc>La Terre est ravagée par la guerre nucléaire. Les océans et la végétation ont disparu. L'humanité a survécu mais traverse une époque où la loi du plus fort prévaut. L'espoir renaît lorsque Ken, héritier de l'art martial ancestral Hokuto Shinken, libère un village de la menace d'un gang de pillards sans pitié</desc>
+		<image>./mixart/Fist of the North Star_ Ken_s Rage 2-02.png</image>
+		<video>./snap/Fist of the North Star Ken's Rage 2.mp4</video>
+		<marquee>./wheel/Fist of the North Star_ Ken_s Rage 2-02.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130131T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+		<md5>d3044d85bd45aa5ca3ad77ee6dd61796</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nano Assault Neo [WASEJXJX]/code/project.rpx</path>
+		<name>Nano Assault Neo</name>
+		<desc>Nano Assault Neo is a shoot'em up on Wii U. Drive a nano-ship and go explore cells to fight a powerful virus. A panoply of weapons is obviously at your disposal to exterminate the vermin.</desc>
+		<image>./mixart/Nano Assault Neo.png</image>
+		<video>./snap/Nano Assault Neo.mp4</video>
+		<marquee>./wheel/Nano Assault Neo-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Shin'en</developer>
+		<publisher>Majesco</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<md5>69030628e509473ac39b8fe84c6f42a9</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Smash Bros. for Wii U/code/cross_f.rpx</path>
+		<name>Super Smash Bros. for Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<image>./mixart/Super Smash Bros. for Wii U.png</image>
+		<video>./snap/Super Smash Bros. for Wii U.mp4</video>
+		<marquee>./wheel/Super Smash Bros. for Wii U-01.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Sora Ltd.</publisher>
+		<genre>Fight</genre>
+		<players>4+</players>
+		<md5>29c8d640c9ef8807ce3942da1d4b3421</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12634">
+		<path>./Mario Tennis Ultra Smash [AVXP0101]/code/main.rpx</path>
+		<name>Mario Tennis Ultra Smash</name>
+		<desc>Compete with friends in the multiplayer Mario Tennis: Ultra Smash game on the Wii U system. Along with the fun and dynamic gameplay known to the franchise, surprise your opponents with a new move to the series, the Jumpshot, which sends the ball flying down the court. Change the sport up with new Mega Battles, using the Mega Mushroom to gain an advantage over the competition. Claim your spot in Mario Tennis lore in singles (1v1) or doubles (2v2) as you play with and against family, friends or the CPU using returning and new characters to the series.</desc>
+		<image>./mixart/Mario Tennis Ultra Smash.png</image>
+		<video>./snap/Mario Tennis Ultra Smash [AVXP0101].mp4</video>
+		<marquee>./wheel/Mario Tennis_ Ultra Smash-02.png</marquee>
+		<rating>0.58</rating>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<favorite>true</favorite>
+		<md5>0ca011f2947aefd907421607a98652bf</md5>
+		<lang>en</lang>
+	</game>
+	<game id="246311">
+		<path>./NES Remix Pack (USA).wux</path>
+		<name>NES Remix Pack</name>
+		<image>./mixart/NES Remix Pack-01.png</image>
+		<video>./snap/NES Remix.mp4</video>
+		<marquee>./wheel/NES Remix Pack-01.png</marquee>
+		<rating>0.86</rating>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12119">
+		<path>./MARIO KART 8/code/Turbo.rpx</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<image>./mixart/Mario Kart 8.png</image>
+		<video>./snap/Mario Kart 8.mp4</video>
+		<marquee>./wheel/Mario Kart 8-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>4+</players>
+		<favorite>true</favorite>
+		<md5>1357c833acd98ec03218eb773296824a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - The Wind Waker HD/code/cking.rpx</path>
+		<name>The Legend of Zelda - The Wind Waker HD</name>
+		<desc>As the purported definitive version of the game, The Legend of Zelda: The Wind Waker HD is remastered and presented in 1080p graphics. Gamers can experience high-definition cell-shaded presentation on their TVs or entirely on the Wii U GamePad controller. The streamlined interface lets gamers easily manage your inventory—simply slide an item onto any button. Instantly view maps and zoom in on the GamePad controller's touch screen. Enjoy a breezy cruise with the original sail, or switch to the brand-new Swift Sail that lets you gather the wind and speed across the waves. With the new Tingle Bottle feature, you can connect with others over Miiverse. Comments or screenshots others have posted on Miiverse may wash up on the shore or appear in other locations, tucked into bottles. Whenever you want, move around the world in first-person mode, using the GamePad gyroscope to look around you and aim your bow, hookshot, Picto Box, or telescope. You can store more pictographs with your improved Picto Box—handy for creating figurines—and share them with other players on Miiverse. Your pictures, game tips, and messages may also appear in another player's game. Take the adventure to new levels with Hero Mode, available from the moment you start the game. In this mode, you only regain health when you earn a new heart piece or container, use a red potion, or visit a fairy fountain. Also, your enemies do double the damage.</desc>
+		<image>./mixart/The Legend of Zelda_ The Wind Waker HD-01.png</image>
+		<video>./snap/The Legend of Zelda_ The Wind Waker HD.mp4</video>
+		<marquee>./wheel/The Legend of Zelda_ The Wind Waker HD-03.png</marquee>
+		<rating>0.9</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<md5>f7282e218b94437057b30132e24c404b</md5>
+		<lang>en</lang>
+	</game>
+</gameList>

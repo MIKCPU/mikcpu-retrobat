@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Jaguar CD</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="14202" source="ScreenScraper.fr">
+		<path>./baldies.cdi</path>
+		<name>Baldies</name>
+		<desc>The premise of Baldies is similar to many real-time strategy games. You start with a limited number of Baldies with which you construct buildings, increase your population, and create the necessary instruments of war. There are four classes of Baldies--builders, scientists, soldiers, and workers/breeders. Structures include small, medium, large, and huge houses as well as science labs and barracks. Each building has specific properties that assist in your destruction of the enemy.</desc>
+		<image>./mixart/baldies.png</image>
+		<video>./snap/baldies.mp4</video>
+		<marquee>./wheel/baldies.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Creative Edge Software</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14147" source="ScreenScraper.fr">
+		<path>./dragons_lair.cdi</path>
+		<name>Dragon's Lair</name>
+		<desc>A conversion of the 1983 Don Bluth coin op cartoon game.  Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne.  With limited movement allowed, the game's main emphasis is on its heart-stopping graphics.</desc>
+		<image>./mixart/dragons_lair.png</image>
+		<video>./snap/dragons_lair.mp4</video>
+		<marquee>./wheel/dragons_lair.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="14191" source="ScreenScraper.fr">
+		<path>./hover_strike.cdi</path>
+		<name>Hover Strike</name>
+		<desc>Terrakian Pirates have taken over a colonized planet under Federation control.  They've set up an atmospheric cannon, making invasion impossible.  Your job, as a hovercraft pilot, is to launch a pre-emptive strike on the planet's surface.
+
+Hover Strike for the Jaguar is a mission-based tank game.  In each mission, you will drop to the surface of the planet, destroy some targets, and then return to your ship in orbit.  The hovercraft you pilot is heavily armored and includes various weapons systems to take out enemies and targets.</desc>
+		<image>./mixart/hover_strike.png</image>
+		<video>./snap/hover_strike.mp4</video>
+		<marquee>./wheel/hover_strike.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>260</genreid>
+	</game>
+	<game id="14138" source="ScreenScraper.fr">
+		<path>./myst.cdi</path>
+		<name>Myst</name>
+		<desc>Myst on Jaguar is a first-person adventure game in which the player finds himself immersed in a world he does not know. By traveling through several environments, you will have to discover little by little how this world works and especially why two brothers were locked up in prison books. The strange world of Myst is waiting for you.</desc>
+		<image>./mixart/myst.png</image>
+		<video>./snap/myst.mp4</video>
+		<marquee>./wheel/myst.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure-Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>512</genreid>
+	</game>
+	<game id="14169" source="ScreenScraper.fr">
+		<path>./space_ace.cdi</path>
+		<name>Space Ace</name>
+		<desc>Following the successful gameplay of Dragon's Lair, Don Bluth released this second conversion of his Laserdisc games series.
+
+You're playing Dexter, a guy fighting the evil madman Borf who has kidnapped your girlfriend Kimberly and is now threatening the world with his dreaded weapon, the "Infanto Ray" which turns adults into small children.
+
+The game plays like a comic strip - visuals are similar to many cartoon movies. In each scene you only have to decide which direction of the keyboard has to be hit in order to avoid one of the countless death screens and to advance to the next screen...</desc>
+		<image>./mixart/space_ace.png</image>
+		<video>./snap/space_ace.mp4</video>
+		<marquee>./wheel/space_ace.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>512</genreid>
+	</game>
+	<game id="14196" source="ScreenScraper.fr">
+		<path>./battle_morph.cdi</path>
+		<name>Battlemorph</name>
+		<desc>Battlemorph is the Jaguar CD sequel to the first Jaguar cartridge, Cybermorph.  This game takes place 30 years after the original.  The Pernitian empire, long thought to be extinct, is back with a vengeance.  Your new War Griffon craft must travel to 8 different star clusters so that your star ship can find the plasma it needs to make it's way to the Pernish cluster.  Once you take out the Pernish home world, the galaxy may be safe from the Pernitians once and for all.
+
+Battlemorph plays similarly to Cybermorph, except with some new gameplay features.  Now, some missions require you to travel underground into caves and tunnels.  It is also possible to dive under the oceans on the planet's surface.  There are also many new objects, weapons, and enemies to interact with.</desc>
+		<image>./mixart/battle_morph.png</image>
+		<video>./snap/battle_morph.mp4</video>
+		<marquee>./wheel/battle_morph.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Attention To Detail</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./blue_lightening.cdi</path>
+		<name>Blue Lightning</name>
+		<desc>A top U.N. General named Drako has gone renegade. As a member of the U.N's Blue Lightning squad, you must stop him from organizing a global crime empire and holding the world for ransom. Use a multi-national selection of deadly fighter and attack aircraft to stop Drako's military forces. Only you stand between Drako and world domination!</desc>
+		<image>./mixart/blue_lightening.png</image>
+		<video>./snap/blue_lightening.mp4</video>
+		<marquee>./wheel/blue_lightening.png</marquee>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20230211T064528" />
+	</game>
+	<game id="14157" source="ScreenScraper.fr">
+		<path>./brain_dead_13.cdi</path>
+		<name>Brain Dead 13</name>
+		<desc>In Braindead 13, the player takes on the role of a young computer expert who one day is called to fix a computer at some scary castle and in no time flat, finds himself in trouble.
+
+It is up to the player to use the complex moves of an interactive movie to escape from the castle. This animated adventure is basically based on the player's judgment on which direction you think the character might go, and if the player guesses wrong, death.</desc>
+		<image>./mixart/brain_dead_13.png</image>
+		<video>./snap/brain_dead_13.mp4</video>
+		<marquee>./wheel/brain_dead_13.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>512</genreid>
+	</game>
+	<game id="14164" source="ScreenScraper.fr">
+		<path>./highlander.cdi</path>
+		<name>Highlander : The Last of the MacLeods</name>
+		<desc>Highlander: The Last of the MacLeods is an adventure game where you play as Quentin MacLeod, an immortal. The environments have the particularity of being in 3D pre-rendering and are visible from different angles. The story is of course adapted from the eponym television series.</desc>
+		<image>./mixart/highlander.png</image>
+		<video>./snap/highlander.mp4</video>
+		<marquee>./wheel/highlander.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Lore Design Limited</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230211T064615" />
+	</game>
+	<game id="189003" source="ScreenScraper.fr">
+		<path>./ironsoldier2/ironsoldier2.cue</path>
+		<name>Iron Soldier 2</name>
+		<desc>Iron Soldier 2 is a first-person 3D giant mech game. Players must pilot their building-sized robots in a variety of missions ranging from search-and-destroy to surgical attacks to defending objectives. Starting with a limited set of weapons, players can collect more armaments throughout the game. Each weapon can be mounted on a certain part of the robot's body, but once mounted, no other weapons can be placed there. So, while there is a wide range of weapon configurations, not every weapon can be combined with others. Players can destroy buildings in levels to find crates containing new weapons and extra ammunition for current weapons.</desc>
+		<image>./mixart/ironsoldier2.png</image>
+		<video>./snap/ironsoldier2.mp4</video>
+		<marquee>./wheel/ironsoldier2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971230T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<genre>Shooter / Vehicle, 1st person-Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>1028</genreid>
+	</game>
+	<game id="14200" source="ScreenScraper.fr">
+		<path>./vidgrid/vidgrid.cue</path>
+		<name>Vid Grid</name>
+		<desc>Vid Grid is a simple puzzle game that takes place on music video backdrops.  Your goal is to re-arrange the jumbled up tiles of the video so that they are in the correct spots and the video can be viewed clearly.
+
+The videos in Vid Grid are mostly from mid 90's hard rock bands. They are:
+
+1. Aerosmith, "Cryin'"
+2. Peter Gabriel, "Sledgehammer"
+3. Guns N' Roses, "November Rain" 
+4. Jimi Hendrix, "Are You Experienced?"
+5. Metallica, "Enter Sandman"
+6. Soundgarden, "Spoonman"
+7. Van Halen, "Right Now"
+8. Ozzy Osbourne, "No More Tears"
+9. Red Hot Chili Peppers, "Give It Away"</desc>
+		<image>./mixart/vidgrid.png</image>
+		<video>./snap/vidgrid.mp4</video>
+		<marquee>./wheel/vidgrid.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>High Voltage</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+	</game>
+	<game id="14188" source="ScreenScraper.fr">
+		<path>./worldtourracing/worldtourracing.cue</path>
+		<name>World Tour Racing</name>
+		<desc>World Tour Racing is an F1-style racing game for the Jaguar CD system.  You guide a very fast car on road courses based on countries around the world.  
+
+The graphics in World Tour Racing feature fully 3D environments constructed with texture-mapped polygons.
+
+The various game modes include a championship, single race, and arcade mode.  Championship mode consists of a 16 race season.  Single race is self-explanatory, and arcade mode is similar to championship mode, except that advancement to the next race is based whether or not you finish high enough in each race..</desc>
+		<image>./mixart/worldtourracing.png</image>
+		<video>./snap/worldtourracing.mp4</video>
+		<marquee>./wheel/worldtourracing.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970602T000000</releasedate>
+		<developer>Teque</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14156" source="ScreenScraper.fr">
+		<path>./primal_rage.cdi</path>
+		<name>Primal Rage</name>
+		<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
+
+Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
+		<image>./mixart/primal_rage.png</image>
+		<video>./snap/primal_rage.mp4</video>
+		<marquee>./wheel/primal_rage.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Atari</publisher>
+		<genre>Fight-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>262</genreid>
+	</game>
+</gameList>

@@ -1,0 +1,5052 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Phantom Of The Opera ULTIMATE 1.04.fpt</path>
+		<name>Phantom Of The Opera ULTIMATE 1.04</name>
+		<desc>Flipper Phantom Of The Opera ULTIMATE 1.04</desc>
+		<image>./mixart/Phantom Of The Opera ULTIMATE 1.04.jpg</image>
+		<video>./snap/Phantom Of The Opera ULTIMATE 1.04.mp4</video>
+		<marquee>./wheel/Phantom Of The Opera ULTIMATE 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Johnny Test (1.0).fpt</path>
+		<name>Johnny Test (1.0)</name>
+		<desc>Flipper Johnny Test</desc>
+		<image>./mixart/Johnny Test (1.0).png</image>
+		<video>./snap/Johnny Test (1.0).mp4</video>
+		<marquee>./wheel/Johnny Test (1.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mickey and Pluto (2.0 EZ).fpt</path>
+		<name>Mickey and Pluto (2.0 EZ)</name>
+		<desc>Flipper Mickey and Pluto</desc>
+		<image>./mixart/Mickey and Pluto (2.0 EZ).png</image>
+		<video>./snap/Mickey and Pluto (2.0 EZ).mp4</video>
+		<marquee>./wheel/Mickey and Pluto (2.0 EZ).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mickey Mouse (SE).fpt</path>
+		<name>Mickey Mouse (SE)</name>
+		<desc>Flipper Mickey Mouse</desc>
+		<image>./mixart/Mickey Mouse (SE).png</image>
+		<video>./snap/Mickey Mouse (SE).mp4</video>
+		<marquee>./wheel/Mickey Mouse (SE).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>sw</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Money (3.0).fpt</path>
+		<name>Money (3.0)</name>
+		<desc>Flipper Money</desc>
+		<image>./mixart/Money (3.0).png</image>
+		<video>./snap/Money (3.0).mp4</video>
+		<marquee>./wheel/Money (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Motown (2.0).fpt</path>
+		<name>Motown (2.0)</name>
+		<desc>Flipper Motown</desc>
+		<image>./mixart/Motown (2.0).png</image>
+		<video>./snap/Motown (2.0).mp4</video>
+		<marquee>./wheel/Motown (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pheaneas and Ferb.fpt</path>
+		<name>Pheaneas and Ferb</name>
+		<desc>Flipper Pheaneas and Ferb</desc>
+		<image>./mixart/Pheaneas and Ferb.png</image>
+		<video>./snap/Pheaneas and Ferb.mp4</video>
+		<marquee>./wheel/Pheaneas and Ferb.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Porky Pig (2.0).fpt</path>
+		<name>Porky Pig (2.0)</name>
+		<desc>Flipper Porky Pig</desc>
+		<image>./mixart/Porky Pig (2.0).png</image>
+		<video>./snap/Porky Pig (2.0).mp4</video>
+		<marquee>./wheel/Porky Pig (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rock and roll over(2.0).fpt</path>
+		<name>Rock and roll over(2.0)</name>
+		<desc>Flipper Rock and roll over</desc>
+		<image>./mixart/Rock and roll over(2.0).png</image>
+		<video>./snap/Rock and roll over(2.0).mp4</video>
+		<marquee>./wheel/Rock and roll over(2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Romulans.fpt</path>
+		<name>Romulans</name>
+		<desc>Flipper Romulans</desc>
+		<image>./mixart/Romulans.png</image>
+		<video>./snap/Romulans.mp4</video>
+		<marquee>./wheel/Romulans.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Satisfaction (2.0).fpt</path>
+		<name>Satisfaction (2.0)</name>
+		<desc>Flipper Satisfaction</desc>
+		<image>./mixart/Satisfaction (2.0).png</image>
+		<video>./snap/Satisfaction (2.0).mp4</video>
+		<marquee>./wheel/Satisfaction (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Batman Joker Edition ULTIMATUM 1.04.fpt</path>
+		<name>Batman Joker Edition ULTIMATUM  1.04</name>
+		<desc>Flipper Batman Joker Edition ULTIMATUM</desc>
+		<image>./mixart/Batman Joker Edition ULTIMATUM 1.04.png</image>
+		<video>./snap/Batman Joker Edition ULTIMATUM 1.04.mp4</video>
+		<marquee>./wheel/Batman Joker Edition ULTIMATUM 1.04.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DieHard 0.2.fpt</path>
+		<name>DieHard 0.2</name>
+		<desc>Flipper DieHard</desc>
+		<image>./mixart/DieHard 0.2.png</image>
+		<video>./snap/DieHard 0.2.mp4</video>
+		<marquee>./wheel/DieHard 0.2.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Iron Man GOLD 1.07.fpt</path>
+		<name>Iron Man GOLD 1.07</name>
+		<desc>Flipper Iron Man GOLD</desc>
+		<image>./mixart/Iron Man GOLD 1.07.png</image>
+		<video>./snap/Iron Man GOLD 1.07.mp4</video>
+		<marquee>./wheel/Iron Man GOLD 1.07.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./JAWS 1.05.fpt</path>
+		<name>JAWS 1.05</name>
+		<desc>Flipper JAWS</desc>
+		<image>./mixart/JAWS 1.05.png</image>
+		<video>./snap/JAWS 1.05.mp4</video>
+		<marquee>./wheel/JAWS 1.05.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metal Slug (Pinwizkid) (2.0).fpt</path>
+		<name>Metal Slug (Pinwizkid) (2.0)</name>
+		<desc>Flipper Metal Slug</desc>
+		<image>./mixart/Metal Slug (Pinwizkid) (2.0).png</image>
+		<video>./snap/Metal Slug (Pinwizkid) (2.0).mp4</video>
+		<marquee>./wheel/Metal Slug (Pinwizkid) (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0).fpt</path>
+		<name>Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0)</name>
+		<desc>Flipper Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0)</desc>
+		<image>./mixart/Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0).jpg</image>
+		<video>./snap/Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0).mp4</video>
+		<marquee>./wheel/Pinky and the Brain (Original) (2015) (Special Edition 2) (3.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinky and the Brain (SE2).fpt</path>
+		<name>Pinky and the Brain (SE2)</name>
+		<desc>Flipper Pinky and the Brain</desc>
+		<image>./mixart/Pinky and the Brain (SE2).png</image>
+		<video>./snap/Pinky and the Brain (SE2).mp4</video>
+		<marquee>./wheel/Pinky and the Brain (SE2).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ROBOCOP Phys 2_5.fpt</path>
+		<name>ROBOCOP Phys 2_5</name>
+		<desc>Flipper ROBOCOP</desc>
+		<image>./mixart/ROBOCOP Phys 2_5.png</image>
+		<video>./snap/ROBOCOP Phys 2_5.mp4</video>
+		<marquee>./wheel/ROBOCOP Phys 2_5.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Trek (Stern) Ultimate (1.01).fpt</path>
+		<name>Star Trek (Stern) Ultimate (1.01)</name>
+		<desc>Flipper Star Trek (Stern) Ultimate</desc>
+		<image>./mixart/Star Trek (Stern) Ultimate (1.01).png</image>
+		<video>./snap/Star Trek (Stern) Ultimate (1.01).mp4</video>
+		<marquee>./wheel/Star Trek (Stern) Ultimate (1.01).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Van Halen (3.0).fpt</path>
+		<name>Van Halen (3.0)</name>
+		<desc>Flipper Van Halen</desc>
+		<image>./mixart/Van Halen (3.0).png</image>
+		<video>./snap/Van Halen (3.0).mp4</video>
+		<marquee>./wheel/Van Halen (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Planes (2.0).fpt</path>
+		<name>Planes (2.0)</name>
+		<desc>Flipper Planes</desc>
+		<image>./mixart/Planes (2.0).png</image>
+		<video>./snap/Planes (2.0).mp4</video>
+		<marquee>./wheel/Planes (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Queen (2.0).fpt</path>
+		<name>Queen (2.0)</name>
+		<desc>Flipper Queen</desc>
+		<image>./mixart/Queen (2.0).png</image>
+		<video>./snap/Queen (2.0).mp4</video>
+		<marquee>./wheel/Queen (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rush (3.0).fpt</path>
+		<name>Rush (3.0)</name>
+		<desc>Flipper Rush</desc>
+		<image>./mixart/Rush (3.0).png</image>
+		<video>./snap/Rush (3.0).mp4</video>
+		<marquee>./wheel/Rush (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./21st Century Rock.fpt</path>
+		<name>21st Century Rock</name>
+		<desc>Flipper 21st Century Rock</desc>
+		<image>./mixart/21st Century Rock.png</image>
+		<video>./snap/21st Century Rock.mp4</video>
+		<marquee>./wheel/21st Century Rock.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Abacab (2.5).fpt</path>
+		<name>Abacab</name>
+		<desc>Flipper Abacab</desc>
+		<image>./mixart/Abacab (2.5).png</image>
+		<video>./snap/Abacab (2.5).mp4</video>
+		<marquee>./wheel/Abacab (2.5).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Abra Ca Dabra ULTRA 1.1.fpt</path>
+		<name>Abra Ca Dabra ULTRA</name>
+		<desc>Flipper Abra Ca Dabra ULTRA</desc>
+		<image>./mixart/Abra Ca Dabra ULTRA 1.1.png</image>
+		<video>./snap/Abra Ca Dabra ULTRA 1.1.mp4</video>
+		<marquee>./wheel/Abra Ca Dabra ULTRA 1.1.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aerosmith (2.0).fpt</path>
+		<name>Aerosmith</name>
+		<desc>Flipper Aerosmith</desc>
+		<image>./mixart/Aerosmith (2.0).png</image>
+		<video>./snap/Aerosmith (2.0).mp4</video>
+		<marquee>./wheel/Aerosmith (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy Pinball.fpt</path>
+		<name>Aliens Legacy Pinball</name>
+		<desc>Flipper Aliens Legacy Pinball</desc>
+		<image>./mixart/Aliens Legacy Pinball.png</image>
+		<video>./snap/Aliens Legacy Pinball.mp4</video>
+		<marquee>./wheel/Aliens Legacy Pinball.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alone In The Dark.fpt</path>
+		<name>Alone In The Dark</name>
+		<desc>Flipper Alone In The Dark</desc>
+		<image>./mixart/Alone In The Dark.png</image>
+		<video>./snap/Alone In The Dark.mp4</video>
+		<marquee>./wheel/Alone In The Dark.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Animaniacs (2.0 SE).fpt</path>
+		<name>Animaniacs (2.0 SE)</name>
+		<desc>Flipper Animaniacs</desc>
+		<image>./mixart/Animaniacs (2.0 SE).png</image>
+		<video>./snap/Animaniacs (2.0 SE).mp4</video>
+		<marquee>./wheel/Animaniacs (2.0 SE).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>sw</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Bart and Homer (3.0).fpt</path>
+		<name>Bart and Homer (3.0)</name>
+		<desc>Flipper Bart and Homer</desc>
+		<image>./mixart/Bart and Homer (3.0).png</image>
+		<video>./snap/Bart and Homer (3.0).mp4</video>
+		<marquee>./wheel/Bart and Homer (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ben Ten (2.0).fpt</path>
+		<name>Ben Ten (2.0)</name>
+		<desc>Flipper Ben Ten</desc>
+		<image>./mixart/Ben Ten (2.0).png</image>
+		<video>./snap/Ben Ten (2.0).mp4</video>
+		<marquee>./wheel/Ben Ten (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Black and White (2.0).fpt</path>
+		<name>Black and White (2.0)</name>
+		<desc>Flipper Black and White</desc>
+		<image>./mixart/Black and White (2.0).png</image>
+		<video>./snap/Black and White (2.0).mp4</video>
+		<marquee>./wheel/Black and White (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bowie (2.0).fpt</path>
+		<name>Bowie (2.0)</name>
+		<desc>Flipper Bowie</desc>
+		<image>./mixart/Bowie (2.0).png</image>
+		<video>./snap/Bowie (2.0).mp4</video>
+		<marquee>./wheel/Bowie (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cartoons (3.0).fpt</path>
+		<name>Cartoons (3.0)</name>
+		<desc>Flipper Cartoons</desc>
+		<image>./mixart/Cartoons (3.0).png</image>
+		<video>./snap/Cartoons (3.0).mp4</video>
+		<marquee>./wheel/Cartoons (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Commander Keen (2.0).fpt</path>
+		<name>Commander Keen (2.0)</name>
+		<desc>Flipper Commander Keen</desc>
+		<image>./mixart/Commander Keen (2.0).png</image>
+		<video>./snap/Commander Keen (2.0).mp4</video>
+		<marquee>./wheel/Commander Keen (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dark side of the Moon.fpt</path>
+		<name>Dark side of the Moon</name>
+		<desc>Flipper Dark side of the Moon</desc>
+		<image>./mixart/Dark side of the Moon.png</image>
+		<video>./snap/Dark side of the Moon.mp4</video>
+		<marquee>./wheel/Dark side of the Moon.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DawnoftheDeadv1.0.fpt</path>
+		<name>DawnoftheDeadv1.0</name>
+		<desc>Flipper Dawn of the Dead</desc>
+		<image>./mixart/DawnoftheDeadv1.0.png</image>
+		<video>./snap/DawnoftheDeadv1.0.mp4</video>
+		<marquee>./wheel/DawnoftheDeadv1.0.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Deadpool (DOFLinx) Cabinet.fpt</path>
+		<name>Deadpool (DOFLinx) Cabinet</name>
+		<desc>Flipper Deadpool (DOFLinx) Cabinet</desc>
+		<image>./mixart/Deadpool (DOFLinx) Cabinet.jpg</image>
+		<video>./snap/Deadpool (DOFLinx) Cabinet.mp4</video>
+		<marquee>./wheel/Deadpool (DOFLinx) Cabinet.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elton (3.0).fpt</path>
+		<name>Elton (3.0)</name>
+		<desc>Flipper Elton</desc>
+		<image>./mixart/Elton (3.0).png</image>
+		<video>./snap/Elton (3.0).mp4</video>
+		<marquee>./wheel/Elton (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ever After High.fpt</path>
+		<name>Ever After High</name>
+		<desc>Flipper Ever After High</desc>
+		<image>./mixart/Ever After High.png</image>
+		<video>./snap/Ever After High.mp4</video>
+		<marquee>./wheel/Ever After High.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FamilyGuy2.fpt</path>
+		<name>FamilyGuy2</name>
+		<desc>Flipper FamilyGuy2</desc>
+		<image>./mixart/FamilyGuy2.jpg</image>
+		<video>./snap/FamilyGuy2.mp4</video>
+		<marquee>./wheel/FamilyGuy2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Frankenstein.fpt</path>
+		<name>Frankenstein</name>
+		<desc>Flipper Frankenstein</desc>
+		<image>./mixart/Frankenstein.png</image>
+		<video>./snap/Frankenstein.mp4</video>
+		<marquee>./wheel/Frankenstein.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Frozen.fpt</path>
+		<name>Frozen</name>
+		<desc>Flipper Frozen</desc>
+		<image>./mixart/Frozen.png</image>
+		<video>./snap/Frozen.mp4</video>
+		<marquee>./wheel/Frozen.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GodzillaUnleashed.fpt</path>
+		<name>GodzillaUnleashed</name>
+		<desc>Flipper Godzilla Unleashed</desc>
+		<image>./mixart/GodzillaUnleashed.png</image>
+		<video>./snap/GodzillaUnleashed.mp4</video>
+		<marquee>./wheel/GodzillaUnleashed.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gone in 60 Seconds.fpt</path>
+		<name>Gone in 60 Seconds</name>
+		<desc>Flipper Gone in 60 Seconds</desc>
+		<image>./mixart/Gone in 60 Seconds.jpg</image>
+		<video>./snap/Gone in 60 Seconds.mp4</video>
+		<marquee>./wheel/Gone in 60 Seconds.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gorgon (2.0).fpt</path>
+		<name>Gorgon (2.0)</name>
+		<desc>Flipper Gorgon</desc>
+		<image>./mixart/Gorgon (2.0).png</image>
+		<video>./snap/Gorgon (2.0).mp4</video>
+		<marquee>./wheel/Gorgon (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gottilieb Buccaner.fpt</path>
+		<name>Gottilieb Buccaner</name>
+		<desc>Flipper Gottilieb Buccaner</desc>
+		<image>./mixart/Gottilieb Buccaner.png</image>
+		<video>./snap/Gottilieb Buccaner.mp4</video>
+		<marquee>./wheel/Gottilieb Buccaner.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Grievous (2.0).fpt</path>
+		<name>Grievous (2.0)</name>
+		<desc>Flipper Grievous</desc>
+		<image>./mixart/Grievous (2.0).png</image>
+		<video>./snap/Grievous (2.0).mp4</video>
+		<marquee>./wheel/Grievous (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween_ULTIMATE Pro 1.02.fpt</path>
+		<name>Halloween_ULTIMATE Pro 1.02</name>
+		<desc>Flipper Halloween_ULTIMATE Pro 1.02</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jedi (Star Wars)H.fpt</path>
+		<name>Jedi (Star Wars)H</name>
+		<desc>Flipper Jedi</desc>
+		<image>./mixart/Jedi (Star Wars)H.png</image>
+		<video>./snap/Jedi (Star Wars)H.mp4</video>
+		<marquee>./wheel/Jedi (Star Wars)H.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jipar-I,ROBOT-1.1.fpt</path>
+		<name>Jipar-I,ROBOT-1.1</name>
+		<desc>Flipper I ROBOT</desc>
+		<image>./mixart/Jipar-I,ROBOT-1.1.png</image>
+		<video>./snap/Jipar-I,ROBOT-1.1.mp4</video>
+		<marquee>./wheel/Jipar-I,ROBOT-1.1.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jipar-JUMANJI.fpt</path>
+		<name>Jipar-JUMANJI</name>
+		<desc>Flipper JUMANJI</desc>
+		<image>./mixart/Jipar-JUMANJI.png</image>
+		<video>./snap/Jipar-JUMANJI.mp4</video>
+		<marquee>./wheel/Jipar-JUMANJI.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Johnny Dangerously (1.0).fpt</path>
+		<name>Johnny Dangerously (1.0)</name>
+		<desc>Flipper Johnny Dangerously</desc>
+		<image>./mixart/Johnny Dangerously (1.0).png</image>
+		<video>./snap/Johnny Dangerously (1.0).mp4</video>
+		<marquee>./wheel/Johnny Dangerously (1.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Klingons (2.0).fpt</path>
+		<name>Klingons (2.0)</name>
+		<desc>Flipper Klingons</desc>
+		<image>./mixart/Klingons (2.0).png</image>
+		<video>./snap/Klingons (2.0).mp4</video>
+		<marquee>./wheel/Klingons (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LostWorldV1.0.fpt</path>
+		<name>LostWorldV1.0</name>
+		<desc>Flipper Lost World</desc>
+		<image>./mixart/LostWorldV1.0.png</image>
+		<video>./snap/LostWorldV1.0.mp4</video>
+		<marquee>./wheel/LostWorldV1.0.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Madonna (3.0).fpt</path>
+		<name>Madonna (3.0)</name>
+		<desc>Flipper Madonna</desc>
+		<image>./mixart/Madonna (3.0).png</image>
+		<video>./snap/Madonna (3.0).mp4</video>
+		<marquee>./wheel/Madonna (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Martians (2.0).fpt</path>
+		<name>Martians (2.0)</name>
+		<desc>Flipper Martians</desc>
+		<image>./mixart/Martians (2.0).png</image>
+		<video>./snap/Martians (2.0).mp4</video>
+		<marquee>./wheel/Martians (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./McBain (3.0).fpt</path>
+		<name>McBain (3.0)</name>
+		<desc>Flipper McBain</desc>
+		<image>./mixart/McBain (3.0).png</image>
+		<video>./snap/McBain (3.0).mp4</video>
+		<marquee>./wheel/McBain (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sons Of Anarchy - Jipar.fpt</path>
+		<name>Sons Of Anarchy - Jipar</name>
+		<desc>Flipper Sons Of Anarchy</desc>
+		<image>./mixart/Sons Of Anarchy - Jipar.png</image>
+		<video>./snap/Sons Of Anarchy - Jipar.mp4</video>
+		<marquee>./wheel/Sons Of Anarchy - Jipar.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars Battle Of Hoth (Original) (1.2).fpt</path>
+		<name>Star Wars Battle Of Hoth (Original) (1.2)</name>
+		<desc>Flipper Star Wars Battle Of Hoth (Original) (1.2)</desc>
+		<image>./mixart/Star Wars Battle Of Hoth (Original) (1.2).jpg</image>
+		<video>./snap/Star Wars Battle Of Hoth (Original) (1.2).mp4</video>
+		<marquee>./wheel/Star Wars Battle Of Hoth (Original) (1.2).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars Empire Edition (Original) (2013) (VIP) (1.02).fpt</path>
+		<name>Star Wars Empire Edition (Original) (2013) (VIP) (1.02)</name>
+		<desc>Flipper Star Wars Empire Edition (Original) (2013) (VIP) (1.02)</desc>
+		<image>./mixart/Star Wars Empire Edition (Original) (2013) (VIP) (1.02).jpg</image>
+		<video>./snap/Star Wars Empire Edition (Original) (2013) (VIP) (1.02).mp4</video>
+		<marquee>./wheel/Star Wars Empire Edition (Original) (2013) (VIP) (1.02).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stargate.fpt</path>
+		<name>Stargate</name>
+		<desc>Flipper Stargate</desc>
+		<image>./mixart/Stargate.png</image>
+		<video>./snap/Stargate.mp4</video>
+		<marquee>./wheel/Stargate.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Strikes &amp; Spares ULTIMATE Pro 1.01.fpt</path>
+		<name>Strikes &amp; Spares ULTIMATE Pro 1.01</name>
+		<desc>Flipper Strikes &amp; Spares ULTIMATE Pro 1.01</desc>
+		<image>./mixart/Strikes &amp; Spares ULTIMATE Pro 1.01.jpg</image>
+		<video>./snap/Strikes &amp; Spares ULTIMATE Pro 1.01.mp4</video>
+		<marquee>./wheel/Strikes &amp; Spares ULTIMATE Pro 1.01.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The 70s (2.0).fpt</path>
+		<name>The 70s (2.0)</name>
+		<desc>Flipper The 70s</desc>
+		<image>./mixart/The 70s (2.0).png</image>
+		<video>./snap/The 70s (2.0).mp4</video>
+		<marquee>./wheel/The 70s (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The 90's.fpt</path>
+		<name>The 90's</name>
+		<desc>Flipper The 90's</desc>
+		<image>./mixart/The 90's.png</image>
+		<video>./snap/The 90's.mp4</video>
+		<marquee>./wheel/The 90's.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Beatles (SE2).fpt</path>
+		<name>The Beatles (SE2)</name>
+		<desc>Flipper The Beatles</desc>
+		<image>./mixart/The Beatles (SE2).png</image>
+		<video>./snap/The Beatles (SE2).mp4</video>
+		<marquee>./wheel/The Beatles (SE2).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Borg (2.0).fpt</path>
+		<name>The Borg (2.0)</name>
+		<desc>Flipper The Borg</desc>
+		<image>./mixart/The Borg (2.0).png</image>
+		<video>./snap/The Borg (2.0).mp4</video>
+		<marquee>./wheel/The Borg (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Good Dinosaur.fpt</path>
+		<name>The Good Dinosaur</name>
+		<desc>Flipper The Good Dinosaur</desc>
+		<image>./mixart/The Good Dinosaur.png</image>
+		<video>./snap/The Good Dinosaur.mp4</video>
+		<marquee>./wheel/The Good Dinosaur.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Van Halen (Original) (2015) (3.0).fpt</path>
+		<name>Van Halen (Original) (2015) (3.0)</name>
+		<desc>Flipper Van Halen (Original) (2015) (3.0)</desc>
+		<image>./mixart/Van Halen (Original) (2015) (3.0).jpg</image>
+		<video>./snap/Van Halen (Original) (2015) (3.0).mp4</video>
+		<marquee>./wheel/Van Halen (Original) (2015) (3.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Kiss ULTIMATE Pro 1.03.fpt</path>
+		<name>Kiss ULTIMATE Pro 1.03</name>
+		<desc>Flipper Kiss ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Kiss ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Kiss ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Kiss ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mortal Kombat Pinball.fpt</path>
+		<name>Mortal Kombat Pinball</name>
+		<desc>Flipper Mortal Kombat Pinball</desc>
+		<image>./mixart/Mortal Kombat Pinball.png</image>
+		<video>./snap/Mortal Kombat Pinball.mp4</video>
+		<marquee>./wheel/Mortal Kombat Pinball.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CSI MOD 2.0.fpt</path>
+		<name>C.S.I.</name>
+		<desc>Flipper C.S.I. MOD 2.0</desc>
+		<image>./mixart/CSI MOD 2.0.png</image>
+		<video>./snap/CSI MOD 2.0.mp4</video>
+		<marquee>./wheel/CSI MOD 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dead Hunters ULTRA (DOFLinx).fpt</path>
+		<name>Dead Hunters ULTRA (DOFLinx)</name>
+		<desc>Flipper Dead Hunters ULTRA (DOFLinx)</desc>
+		<image>./mixart/Dead Hunters ULTRA (DOFLinx).png</image>
+		<video>./snap/Dead Hunters ULTRA (DOFLinx).mp4</video>
+		<marquee>./wheel/Dead Hunters ULTRA (DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Formula 1 Team.fpt</path>
+		<name>Formula 1 Team</name>
+		<desc>Flipper Formula 1 Team</desc>
+		<image>./mixart/Formula 1 Team.png</image>
+		<video>./snap/Formula 1 Team.mp4</video>
+		<marquee>./wheel/Formula 1 Team.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metal Slug (Original) (2.0).fpt</path>
+		<name>Metal Slug (Original) (2.0)</name>
+		<desc>Flipper Metal Slug (Original) (2.0)</desc>
+		<image>./mixart/Metal Slug (Original) (2.0).jpg</image>
+		<video>./snap/Metal Slug (Original) (2.0).mp4</video>
+		<marquee>./wheel/Metal Slug (Original) (2.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alice Cooper.fpt</path>
+		<name>Alice Cooper</name>
+		<desc>Flipper Alice Cooper</desc>
+		<image>./mixart/Alice Cooper.png</image>
+		<video>./snap/Alice Cooper.mp4</video>
+		<marquee>./wheel/Alice Cooper.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragons Keep 3.0.fpt</path>
+		<name>Dragons Keep</name>
+		<desc>Flipper Dragons Keep 3.0</desc>
+		<image>./mixart/Dragons Keep 3.0.jpg</image>
+		<video>./snap/Dragons Keep 3.0.mp4</video>
+		<marquee>./wheel/Dragons Keep 3.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flash Gordon ULTIMATE Pro 1.02.fpt</path>
+		<name>Flash Gordon ULTIMATE Pro 1.02</name>
+		<desc>Flipper Flash Gordon ULTIMATE Pro 1.02</desc>
+		<image>./mixart/Flash Gordon ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Flash Gordon ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Flash Gordon ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bubble Bobble (v1.0) (DOFLinx).fpt</path>
+		<name>Bubble Bobble (v1.0) (DOFLinx)</name>
+		<desc>Flipper Bubble Bobble (v1.0) (DOFLinx)</desc>
+		<image>./mixart/Bubble Bobble (v1.0) (DOFLinx).jpg</image>
+		<video>./snap/Bubble Bobble (v1.0) (DOFLinx).mp4</video>
+		<marquee>./wheel/Bubble Bobble (v1.0) (DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Futurama (DOFLinx) Cabinet.fpt</path>
+		<name>Futurama (DOFLinx) Cabinet</name>
+		<desc>Flipper Futurama (DOFLinx) Cabinet</desc>
+		<image>./mixart/Futurama (DOFLinx) Cabinet.jpg</image>
+		<video>./snap/Futurama (DOFLinx) Cabinet.mp4</video>
+		<marquee>./wheel/Futurama (DOFLinx) Cabinet.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dredd.fpt</path>
+		<name>Dredd</name>
+		<desc>Flipper Dredd</desc>
+		<image>./mixart/Dredd.png</image>
+		<video>./snap/Dredd.mp4</video>
+		<marquee>./wheel/Dredd.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nightmare on Elm Street ULTIMATE Pro 1.03.fpt</path>
+		<name>Nightmare on Elm Street ULTIMATE Pro 1.03</name>
+		<desc>Flipper Nightmare on Elm Street ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Nightmare on Elm Street ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Nightmare on Elm Street ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Nightmare on Elm Street ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Trek (STERN) ULTIMATE Pro 1.05.fpt</path>
+		<name>Star Trek (STERN) ULTIMATE Pro 1.05</name>
+		<desc>Flipper Star Trek (STERN) ULTIMATE Pro 1.05</desc>
+		<image>./mixart/Star Trek (STERN) ULTIMATE Pro 1.05.jpg</image>
+		<video>./snap/Star Trek (STERN) ULTIMATE Pro 1.05.mp4</video>
+		<marquee>./wheel/Star Trek (STERN) ULTIMATE Pro 1.05.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Striker.fpt</path>
+		<name>Striker</name>
+		<desc>Flipper Striker</desc>
+		<image>./mixart/Striker.png</image>
+		<video>./snap/Striker.mp4</video>
+		<marquee>./wheel/Striker.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./C3PO (3.0).fpt</path>
+		<name>C3PO (3.0)</name>
+		<desc>Flipper C3PO</desc>
+		<image>./mixart/C3PO (3.0).png</image>
+		<video>./snap/C3PO (3.0).mp4</video>
+		<marquee>./wheel/C3PO (3.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Black Knight ULTIMATE 1.01.fpt</path>
+		<name>Black Knight ULTIMATE 1.01</name>
+		<desc>Flipper Black Knight ULTIMATE</desc>
+		<image>./mixart/Black Knight ULTIMATE 1.01.png</image>
+		<video>./snap/Black Knight ULTIMATE 1.01.mp4</video>
+		<marquee>./wheel/Black Knight ULTIMATE 1.01.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fifth Element, The (Original) (2.2).fpt</path>
+		<name>Fifth Element, The (Original) (2.2) (FizX)</name>
+		<desc>Flipper Fifth Element, The (Original) (2.2) FizX</desc>
+		<image>./mixart/Fifth Element, The (Original) (2.2).jpg</image>
+		<video>./snap/Fifth Element, The (Original) (2.2).mp4</video>
+		<marquee>./wheel/Fifth Element, The (Original) (2.2).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Addams Family, The ULTIMATE Pro 1.05.fpt</path>
+		<name>Addams Family, The ULTIMATE Pro 1.05</name>
+		<desc>Flipper Addams Family, The ULTIMATE Pro 1.05</desc>
+		<image>./mixart/Addams Family, The ULTIMATE Pro 1.05.jpg</image>
+		<video>./snap/Addams Family, The ULTIMATE Pro 1.05.mp4</video>
+		<marquee>./wheel/Addams Family, The ULTIMATE Pro 1.05.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Duck Tales (Special Edition).fpt</path>
+		<name>Duck Tales (Special Edition)</name>
+		<desc>Flipper Duck Tales</desc>
+		<image>./mixart/Duck Tales (Special Edition).png</image>
+		<video>./snap/Duck Tales (Special Edition).mp4</video>
+		<marquee>./wheel/Duck Tales (Special Edition).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./R2D2.fpt</path>
+		<name>R2D2</name>
+		<desc>Flipper R2D2</desc>
+		<image>./mixart/R2D2.png</image>
+		<video>./snap/R2D2.mp4</video>
+		<marquee>./wheel/R2D2.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mano Mars.fpt</path>
+		<name>Mano Mars</name>
+		<desc>Flipper Mano Mars</desc>
+		<image>./mixart/Mano Mars.png</image>
+		<video>./snap/Mano Mars.mp4</video>
+		<marquee>./wheel/Mano Mars.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jipar-TINTIN.fpt</path>
+		<name>Jipar-TINTIN</name>
+		<desc>Flipper TINTIN</desc>
+		<image>./mixart/Jipar-TINTIN.png</image>
+		<video>./snap/Jipar-TINTIN.mp4</video>
+		<marquee>./wheel/Jipar-TINTIN.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Three Angels (Original) (2006) (Ultimate) (1.02).fpt</path>
+		<name>Three Angels (Original) (2006) (Ultimate) (1.02)</name>
+		<desc>Flipper Three Angels (Original) (2006) (Ultimate) (1.02)</desc>
+		<image>./mixart/Three Angels (Original) (2006) (Ultimate) (1.02).jpg</image>
+		<video>./snap/Three Angels (Original) (2006) (Ultimate) (1.02).mp4</video>
+		<marquee>./wheel/Three Angels (Original) (2006) (Ultimate) (1.02).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hulk_1_0.fpt</path>
+		<name>Hulk_1_0</name>
+		<desc>Flipper Hulk</desc>
+		<image>./mixart/Hulk_1_0.png</image>
+		<video>./snap/Hulk_1_0.mp4</video>
+		<marquee>./wheel/Hulk_1_0.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spectrum (Bally).fpt</path>
+		<name>Spectrum (Bally)</name>
+		<desc>Flipper Spectrum (Bally)</desc>
+		<image>./mixart/Spectrum (Bally).png</image>
+		<video>./snap/Spectrum (Bally).mp4</video>
+		<marquee>./wheel/Spectrum (Bally).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Big Spender 2000.fpt</path>
+		<name>Big Spender 2000</name>
+		<desc>Flipper Big Spender 2000</desc>
+		<image>./mixart/Big Spender 2000.png</image>
+		<video>./snap/Big Spender 2000.mp4</video>
+		<marquee>./wheel/Big Spender 2000.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Indiana Jones (STERN) ULTIMATE Pro 1.06.fpt</path>
+		<name>Indiana Jones (STERN) ULTIMATE Pro 1.06</name>
+		<desc>Flipper Indiana Jones (STERN) ULTIMATE Pro 1.06</desc>
+		<image>./mixart/Indiana Jones (STERN) ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Indiana Jones (STERN) ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Indiana Jones (STERN) ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Trek ULTIMATE Pro 1.04.fpt</path>
+		<name>Star Trek ULTIMATE Pro 1.04</name>
+		<desc>Flipper Star Trek ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Star Trek ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Star Trek ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Star Trek ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BIG LEBOWSKI.fpt</path>
+		<name>The BIG LEBOWSKI</name>
+		<desc>Flipper BIG LEBOWSKI</desc>
+		<image>./mixart/BIG LEBOWSKI.png</image>
+		<video>./snap/BIG LEBOWSKI.mp4</video>
+		<marquee>./wheel/BIG LEBOWSKI.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink V1.0(DOFLinx).fpt</path>
+		<name>Blue Vs Pink V1.0(DOFLinx)</name>
+		<desc>Flipper Blue Vs Pink V1.0(DOFLinx)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FAT ALBERT MOD 2.0.fpt</path>
+		<name>Fat Albert</name>
+		<desc>Flipper FAT ALBERT MOD 2.0</desc>
+		<image>./mixart/FAT ALBERT MOD 2.0.png</image>
+		<video>./snap/FAT ALBERT MOD 2.0.mp4</video>
+		<marquee>./wheel/FAT ALBERT MOD 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flame Reaper 2010 - First Responders Unit.fpt</path>
+		<name>Flame Reaper 2010 - First Responders Unit</name>
+		<desc>Flipper Flame Reaper 2010 - First Responders Unit</desc>
+		<image>./mixart/Flame Reaper 2010 - First Responders Unit.png</image>
+		<video>./snap/Flame Reaper 2010 - First Responders Unit.mp4</video>
+		<marquee>./wheel/Flame Reaper 2010 - First Responders Unit.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GalaGa Pinball (1.1).fpt</path>
+		<name>GalaGa Pinball</name>
+		<desc>Flipper GalaGa Pinball (1.1)</desc>
+		<image>./mixart/GalaGa Pinball (1.1).jpg</image>
+		<video>./snap/GalaGa Pinball (1.1).mp4</video>
+		<marquee>./wheel/GalaGa Pinball (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GARFIELD MOD 2.0.fpt</path>
+		<name>Garfield</name>
+		<desc>Flipper GARFIELD MOD 2.0</desc>
+		<image>./mixart/GARFIELD MOD 2.0.png</image>
+		<video>./snap/GARFIELD MOD 2.0.mp4</video>
+		<marquee>./wheel/GARFIELD MOD 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goonies, The CAB.fpt</path>
+		<name>Goonies, The CAB</name>
+		<desc>Flipper Goonies, The CAB</desc>
+		<image>./mixart/Goonies, The CAB.jpg</image>
+		<video>./snap/Goonies, The CAB.mp4</video>
+		<marquee>./wheel/Goonies, The CAB.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Harlem Globetrotters MOD 2.0.fpt</path>
+		<name>Harlem Globetrotters</name>
+		<desc>Flipper Harlem Globetrotters MOD 2.0</desc>
+		<image>./mixart/Harlem Globetrotters MOD 2.0.png</image>
+		<video>./snap/Harlem Globetrotters MOD 2.0.mp4</video>
+		<marquee>./wheel/Harlem Globetrotters MOD 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./jungle_girl_fpx_v1.fpt</path>
+		<name>Jungle Girl</name>
+		<desc>Flipper jungle_girl_fpx_v1.1</desc>
+		<image>./mixart/jungle_girl_fpx_v1.jpg</image>
+		<video>./snap/jungle_girl_fpx_v1.mp4</video>
+		<marquee>./wheel/jungle_girl_fpx_v1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Medieval Madness.fpt</path>
+		<name>Medieval Madness</name>
+		<desc>Flipper Medieval Madness</desc>
+		<image>./mixart/Medieval Madness.png</image>
+		<video>./snap/Medieval Madness.mp4</video>
+		<marquee>./wheel/Medieval Madness.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metalica Platinum 1.02.fpt</path>
+		<name>Metalica Platinum 1.02</name>
+		<desc>Flipper Metalica Platinum</desc>
+		<image>./mixart/Metalica Platinum 1.02.png</image>
+		<video>./snap/Metalica Platinum 1.02.mp4</video>
+		<marquee>./wheel/Metalica Platinum 1.02.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Michael Jackson Bam 1.0.fpt</path>
+		<name>King of Pop - Michael Jackson</name>
+		<desc>Flipper Michael Jackson Bam 1.0</desc>
+		<image>./mixart/Michael Jackson Bam 1.0.png</image>
+		<video>./snap/Michael Jackson Bam 1.0.mp4</video>
+		<marquee>./wheel/Michael Jackson Bam 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pink Panther (Gottlieb, 1981) v2.0.fpt</path>
+		<name>Pink Panther (Gottlieb, 1981) v2.0</name>
+		<desc>Flipper Pink Panther (Gottlieb, 1981) v2.0</desc>
+		<image>./mixart/Pink Panther (Gottlieb, 1981) v2.0.png</image>
+		<video>./snap/Pink Panther (Gottlieb, 1981) v2.0.mp4</video>
+		<marquee>./wheel/Pink Panther (Gottlieb, 1981) v2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SilverSurfer_0.20.fpt</path>
+		<name>SilverSurfer_0.20</name>
+		<desc>Flipper SilverSurfer_0.20</desc>
+		<image>./mixart/SilverSurfer_0.20.png</image>
+		<video>./snap/SilverSurfer_0.20.mp4</video>
+		<marquee>./wheel/SilverSurfer_0.20.png</marquee>
+		<rating>4</rating>
+		<releasedate>unkown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spyro.fpt</path>
+		<name>Spyro</name>
+		<desc>Flipper Spyro</desc>
+		<image>./mixart/Spyro.jpg</image>
+		<video>./snap/Spyro.mp4</video>
+		<marquee>./wheel/Spyro.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Fox.fpt</path>
+		<name>Star Fox</name>
+		<desc>Flipper Star Fox</desc>
+		<image>./mixart/Star Fox.jpg</image>
+		<video>./snap/Star Fox.mp4</video>
+		<marquee>./wheel/Star Fox.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20210101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA ULTIMATE Pro 1.06.fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro 1.06</name>
+		<desc>Flipper Star Wars DSA ULTIMATE Pro 1.06</desc>
+		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./StargateAll (2.0).fpt</path>
+		<name>StargateAll (2.0)</name>
+		<desc>Flipper StargateAll</desc>
+		<emulator>fpinball</emulator>
+		<core>fpinball</core>
+		<image>./mixart/StargateAll (2.0).png</image>
+		<video>./snap/StargateAll (2.0).mp4</video>
+		<marquee>./wheel/StargateAll (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets_of_Fire_V2_0.fpt</path>
+		<name>Streets of Fire</name>
+		<desc>Flipper Streets_of_Fire_V2_0</desc>
+		<image>./mixart/Streets_of_Fire_V2_0.jpg</image>
+		<video>./snap/Streets_of_Fire_V2_0.mp4</video>
+		<marquee>./wheel/Streets_of_Fire_V2_0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Ramones.fpt</path>
+		<name>The Ramones</name>
+		<desc>Flipper The Ramones</desc>
+		<image>./mixart/The Ramones.png</image>
+		<video>./snap/The Ramones.mp4</video>
+		<marquee>./wheel/The Ramones.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Who (2.0).fpt</path>
+		<name>The Who (2.0)</name>
+		<desc>Flipper The Who</desc>
+		<image>./mixart/The Who (2.0).png</image>
+		<video>./snap/The Who (2.0).mp4</video>
+		<marquee>./wheel/The Who (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TheMoodyBlues.fpt</path>
+		<name>TheMoodyBlues</name>
+		<desc>Flipper The Moody Blues</desc>
+		<image>./mixart/TheMoodyBlues.png</image>
+		<video>./snap/TheMoodyBlues.mp4</video>
+		<marquee>./wheel/TheMoodyBlues.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tigger (2.0).fpt</path>
+		<name>Tigger (2.0)</name>
+		<desc>Flipper Tigger</desc>
+		<image>./mixart/Tigger (2.0).png</image>
+		<video>./snap/Tigger (2.0).mp4</video>
+		<marquee>./wheel/Tigger (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tomorrowland (2.0).fpt</path>
+		<name>Tomorrowland</name>
+		<desc>Flipper Tomorrowland (2.0)</desc>
+		<image>./mixart/Tomorrowland (2.0).jpg</image>
+		<video>./snap/Tomorrowland (2.0).mp4</video>
+		<marquee>./wheel/Tomorrowland (2.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Toy Story (3.0SE).fpt</path>
+		<name>Toy Story (3.0SE)</name>
+		<desc>Flipper Toy Story</desc>
+		<image>./mixart/Toy Story (3.0SE).png</image>
+		<video>./snap/Toy Story (3.0SE).mp4</video>
+		<marquee>./wheel/Toy Story (3.0SE).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TutenKham (Polygame, Shvmr)(V1).fpt</path>
+		<name>TutenKham (Polygame, Shvmr)(V1)</name>
+		<desc>Flipper TutenKham (Polygame, Shvmr)(V1)</desc>
+		<image>./mixart/TutenKham (Polygame, Shvmr)(V1).png</image>
+		<video>./snap/TutenKham (Polygame, Shvmr)(V1).mp4</video>
+		<marquee>./wheel/TutenKham (Polygame, Shvmr)(V1).png</marquee>
+		<rating>4</rating>
+		<releasedate>unkown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WildWest.fpt</path>
+		<name>WildWest</name>
+		<desc>Flipper WildWest</desc>
+		<image>./mixart/WildWest.png</image>
+		<video>./snap/WildWest.mp4</video>
+		<marquee>./wheel/WildWest.png</marquee>
+		<rating>4</rating>
+		<releasedate>unkown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wings (2.0).fpt</path>
+		<name>Wings (2.0)</name>
+		<desc>Flipper Wings</desc>
+		<image>./mixart/Wings (2.0).png</image>
+		<video>./snap/Wings (2.0).mp4</video>
+		<marquee>./wheel/Wings (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Zooropa (2.0).fpt</path>
+		<name>Zooropa (2.0)</name>
+		<desc>Flipper Zooropa</desc>
+		<image>./mixart/Zooropa (2.0).png</image>
+		<video>./snap/Zooropa (2.0).mp4</video>
+		<marquee>./wheel/Zooropa (2.0).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bond 50 (Anniversary Edition) (1.0).fpt</path>
+		<name>Bond 50 (Anniversary Edition) (1.0)</name>
+		<desc>Flipper Bond 50 (Anniversary Edition) (1.0)</desc>
+		<image>./mixart/Bond 50 (Anniversary Edition) (1.0).jpg</image>
+		<video>./snap/Bond 50 (Anniversary Edition) (1.0).mp4</video>
+		<marquee>./wheel/Bond 50 (Anniversary Edition) (1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MAD MAX.fpt</path>
+		<name>MAD MAX</name>
+		<desc>Flipper MAD MAX</desc>
+		<image>./mixart/MAD MAX.png</image>
+		<video>./snap/MAD MAX.mp4</video>
+		<marquee>./wheel/MAD MAX.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania (1.0).fpt</path>
+		<name>Sonic Pinball Mania</name>
+		<desc>Flipper Sonic Pinball Mania (1.0) TerryRed BAM Mods</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Shuttle.fpt</path>
+		<name>Space Shuttle</name>
+		<desc>Flipper Space Shuttle</desc>
+		<image>./mixart/Space Shuttle 1.3.png</image>
+		<video>./snap/Space Shuttle 1.3.mp4</video>
+		<marquee>./wheel/Space Shuttle 1.3.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wipeout (DOFLinx MX).fpt</path>
+		<name>Wipeout (DOFLinx MX)</name>
+		<desc>Flipper Wipeout</desc>
+		<image>./mixart/Wipeout (DOFLinx MX).jpg</image>
+		<video>./snap/Wipeout (DOFLinx MX).mp4</video>
+		<marquee>./wheel/Wipeout (DOFLinx MX).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BUGS BUNNYS BIRTHDAY BALL.fpt</path>
+		<name>BUGS BUNNYS BIRTHDAY BALL</name>
+		<desc>Flipper BUGS BUNNYS BIRTHDAY BALL</desc>
+		<image>./mixart/BUGS BUNNYS BIRTHDAY BALL.png</image>
+		<video>./snap/BUGS BUNNYS BIRTHDAY BALL.mp4</video>
+		<marquee>./wheel/BUGS BUNNYS BIRTHDAY BALL.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Junkyard Cats - Bam Edition 1.1.fpt</path>
+		<name>Junkyard Cats - Bam Edition 1.1</name>
+		<desc>Flipper Junkyard Cats - Bam Edition 1.1</desc>
+		<image>./mixart/Junkyard Cats - Bam Edition 1.1.jpg</image>
+		<video>./snap/Junkyard Cats - Bam Edition 1.1.mp4</video>
+		<marquee>./wheel/Junkyard Cats - Bam Edition 1.1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Robots Invasion Dr.Mod(DOFLinx).fpt</path>
+		<name>Robots Invasion Dr.Mod(DOFLinx)</name>
+		<desc>Flipper Robots Invasion Dr.Mod(DOFLinx)</desc>
+		<image>./mixart/Robots Invasion Dr.Mod(DOFLinx).png</image>
+		<video>./snap/Robots Invasion Dr.Mod(DOFLinx).mp4</video>
+		<marquee>./wheel/Robots Invasion Dr.Mod(DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Close Encounters of the Third Kind.fpt</path>
+		<name>Close Encounters of the Third Kind</name>
+		<desc>Flipper Close Encounters of the Third Kind</desc>
+		<image>./mixart/Close Encounters of the Third Kind.png</image>
+		<video>./snap/Close Encounters of the Third Kind.mp4</video>
+		<marquee>./wheel/Close Encounters of the Third Kind.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Darius.fpt</path>
+		<name>Darius</name>
+		<desc>Flipper DARIUS</desc>
+		<image>./mixart/DARIUS.png</image>
+		<video>./snap/DARIUS.mp4</video>
+		<marquee>./wheel/DARIUS.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DarkQuest 1.1.fpt</path>
+		<name>DarkQuest</name>
+		<desc>Flipper DarkQuest 1.1</desc>
+		<image>./mixart/DarkQuest 1.1.png</image>
+		<video>./snap/DarkQuest 1.1.mp4</video>
+		<marquee>./wheel/DarkQuest 1.1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DodgeBall 1.0.fpt</path>
+		<name>DodgeBall</name>
+		<desc>Flipper DodgeBall 1.0</desc>
+		<image>./mixart/DodgeBall 1.0.png</image>
+		<video>./snap/DodgeBall 1.0.mp4</video>
+		<marquee>./wheel/DodgeBall 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Eight Ball Champ (Bally) (1985).fpt</path>
+		<name>Eight Ball Champ (Bally 1985)</name>
+		<desc>Flipper Eight Ball Champ (Bally) (1985)</desc>
+		<image>./mixart/Eight Ball Champ (Bally) (1985).png</image>
+		<video>./snap/Eight Ball Champ (Bally) (1985).mp4</video>
+		<marquee>./wheel/Eight Ball Champ (Bally) (1985).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fairground 1.0.1b.fpt</path>
+		<name>Fairground</name>
+		<desc>Flipper Fairground 1.0.1b</desc>
+		<image>./mixart/Fairground 1.0.1b.png</image>
+		<video>./snap/Fairground 1.0.1b.mp4</video>
+		<marquee>./wheel/Fairground 1.0.1b.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Foundation Saga (Original EM - SF series).fpt</path>
+		<name>Foundation Saga</name>
+		<desc>Flipper Foundation Saga (Original EM - SF series)</desc>
+		<image>./mixart/Foundation Saga (Original EM - SF series).png</image>
+		<video>./snap/Foundation Saga (Original EM - SF series).mp4</video>
+		<marquee>./wheel/Foundation Saga (Original EM - SF series).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HeavyMetal.fpt</path>
+		<name>Heavy Metal (1983)</name>
+		<desc>Flipper Heavy Metal (1983)</desc>
+		<image>./mixart/HeavyMetal.png</image>
+		<video>./snap/HeavyMetal.mp4</video>
+		<marquee>./wheel/HeavyMetal.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ice Fever (Gottlieb 1985).fpt</path>
+		<name>Ice Fever (Gottlieb 1985)</name>
+		<desc>Flipper Ice Fever (Gottlieb 1985)</desc>
+		<image>./mixart/Ice Fever (Gottlieb 1985).png</image>
+		<video>./snap/Ice Fever (Gottlieb 1985).mp4</video>
+		<marquee>./wheel/Ice Fever (Gottlieb 1985).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./klownv1.5.fpt</path>
+		<name>Killer Klown</name>
+		<desc>Flipper Killer Klown 1.5</desc>
+		<image>./mixart/klownv1.5.png</image>
+		<video>./snap/klownv1.5.mp4</video>
+		<marquee>./wheel/klownv1.5.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mad Race.fpt</path>
+		<name>Mad Race</name>
+		<desc>Flipper Mad Race</desc>
+		<image>./mixart/Mad Race.png</image>
+		<video>./snap/Mad Race.mp4</video>
+		<marquee>./wheel/Mad Race.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Magic Girl 1.0.fpt</path>
+		<name>Magic Girl</name>
+		<desc>Flipper Magic Girl 1.0</desc>
+		<image>./mixart/Magic Girl 1.0.png</image>
+		<video>./snap/Magic Girl 1.0.mp4</video>
+		<marquee>./wheel/Magic Girl 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MonsterLand 1.2 BAM Edition.fpt</path>
+		<name>MonsterLand</name>
+		<desc>Flipper MonsterLand 1.2 BAM Edition</desc>
+		<image>./mixart/MonsterLand 1.2 BAM Edition.png</image>
+		<video>./snap/MonsterLand 1.2 BAM Edition.mp4</video>
+		<marquee>./wheel/MonsterLand 1.2 BAM Edition.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mystic (Bally 1980).fpt</path>
+		<name>Mystic (Bally 1980)</name>
+		<desc>Flipper Mystic (Bally 1980)</desc>
+		<image>./mixart/Mystic (Bally 1980).png</image>
+		<video>./snap/Mystic (Bally 1980).mp4</video>
+		<marquee>./wheel/Mystic (Bally 1980).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./outbackpub BAM Edition.fpt</path>
+		<name>Outback Pub</name>
+		<desc>Flipper Outback Pub BAM Edition</desc>
+		<image>./mixart/outbackpub BAM Edition.png</image>
+		<video>./snap/outbackpub BAM Edition.mp4</video>
+		<marquee>./wheel/outbackpub BAM Edition.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Penthouse.fpt</path>
+		<name>Penthouse</name>
+		<desc>Flipper Penthouse</desc>
+		<image>./mixart/Penthouse.jpg</image>
+		<video>./snap/Penthouse.mp4</video>
+		<marquee>./wheel/Penthouse.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Playboy_xse.fpt</path>
+		<name>Playboy XSE</name>
+		<desc>Flipper Playboy XSE</desc>
+		<image>./mixart/Playboy_xse.png</image>
+		<video>./snap/Playboy_xse.mp4</video>
+		<marquee>./wheel/Playboy_xse.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Popeye.fpt</path>
+		<name>Popeye</name>
+		<desc>Flipper Popeye</desc>
+		<image>./mixart/Popeye.png</image>
+		<video>./snap/Popeye.mp4</video>
+		<marquee>./wheel/Popeye.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pro Wrestling.fpt</path>
+		<name>Pro Wrestling</name>
+		<desc>Flipper Pro Wrestling</desc>
+		<image>./mixart/Pro Wrestling.png</image>
+		<video>./snap/Pro Wrestling.mp4</video>
+		<marquee>./wheel/Pro Wrestling.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./quantum leap.fpt</path>
+		<name>Quantum Leap</name>
+		<desc>Flipper Quantum Leap 1.0</desc>
+		<image>./mixart/quantum leap.png</image>
+		<video>./snap/quantum leap.mp4</video>
+		<marquee>./wheel/quantum leap.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Seawitch_v422.fpt</path>
+		<name>Seawitch (Stern 1980)</name>
+		<desc>Flipper Seawitch (Stern 1980)</desc>
+		<image>./mixart/Seawitch_v422.png</image>
+		<video>./snap/Seawitch_v422.mp4</video>
+		<marquee>./wheel/Seawitch_v422.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./thehungrydeadv1.fpt</path>
+		<name>The Hungry Dead</name>
+		<desc>Flipper the hungry dead v1</desc>
+		<image>./mixart/thehungrydeadv1.png</image>
+		<video>./snap/thehungrydeadv1.mp4</video>
+		<marquee>./wheel/thehungrydeadv1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WorldTour.fpt</path>
+		<name>World Tour</name>
+		<desc>Flipper World Tour</desc>
+		<image>./mixart/WorldTour.png</image>
+		<video>./snap/WorldTour.mp4</video>
+		<marquee>./wheel/WorldTour.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./x-wingV100.fpt</path>
+		<name>X-Wing Star Wars (FizX)</name>
+		<desc>Flipper Star Wars x-wingV1.10 FizX</desc>
+		<image>./mixart/x-wingV100.png</image>
+		<video>./snap/x-wingV100.mp4</video>
+		<marquee>./wheel/x-wingV100.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Akira_v0.9.fpt</path>
+		<name>Akira</name>
+		<desc>Flipper Akira</desc>
+		<image>./mixart/Akira_v0.9.png</image>
+		<video>./snap/Akira_v0.9.mp4</video>
+		<marquee>./wheel/Akira_v0.9.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BATTLE TOADS.fpt</path>
+		<name>BATTLE TOADS</name>
+		<desc>Flipper BATTLE TOADS</desc>
+		<image>./mixart/BATTLE TOADS.png</image>
+		<video>./snap/BATTLE TOADS.mp4</video>
+		<marquee>./wheel/BATTLE TOADS.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BloodRayne.fpt</path>
+		<name>BloodRayne</name>
+		<desc>Flipper BloodRayne</desc>
+		<image>./mixart/BloodRayne.png</image>
+		<video>./snap/BloodRayne.mp4</video>
+		<marquee>./wheel/BloodRayne.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BloodRayne.fpt</path>
+		<name>BloodRayne</name>
+		<desc>Flipper BloodRayne</desc>
+		<image>./mixart/BloodRayne.png</image>
+		<video>./snap/BloodRayne.mp4</video>
+		<marquee>./wheel/BloodRayne.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Eight Ball Deluxe 200.fpt</path>
+		<name>Eight Ball Deluxe</name>
+		<desc>Flipper Eight Ball Deluxe 200</desc>
+		<image>./mixart/Eight Ball Deluxe 200.png</image>
+		<video>./snap/Eight Ball Deluxe 200.mp4</video>
+		<marquee>./wheel/Eight Ball Deluxe 200.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ESCAPE FROM HAUNTED CITY.fpt</path>
+		<name>ESCAPE FROM HAUNTED CITY</name>
+		<desc>Flipper ESCAPE FROM HAUNTED CITY</desc>
+		<image>./mixart/ESCAPE FROM HAUNTED CITY.png</image>
+		<video>./snap/ESCAPE FROM HAUNTED CITY.mp4</video>
+		<marquee>./wheel/ESCAPE FROM HAUNTED CITY.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./EvelKnievel_(ss)_v1.02.fpt</path>
+		<name>Evel Knievel</name>
+		<desc>Flipper EvelKnievel_(ss)_v1.02</desc>
+		<image>./mixart/EvelKnievel_(ss)_v1.02.png</image>
+		<video>./snap/EvelKnievel_(ss)_v1.02.mp4</video>
+		<marquee>./wheel/EvelKnievel_(ss)_v1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FINAL FANTASY.fpt</path>
+		<name>FINAL FANTASY</name>
+		<desc>Flipper FINAL FANTASY</desc>
+		<image>./mixart/FINAL FANTASY.png</image>
+		<video>./snap/FINAL FANTASY.mp4</video>
+		<marquee>./wheel/FINAL FANTASY.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flight510.fpt</path>
+		<name>Flight 2000</name>
+		<desc>Flipper Flight 2000</desc>
+		<image>./mixart/Flight510.png</image>
+		<video>./snap/Flight510.mp4</video>
+		<marquee>./wheel/Flight510.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Galaxy510.fpt</path>
+		<name>Galaxy</name>
+		<desc>Flipper Galaxy</desc>
+		<image>./mixart/Galaxy510.png</image>
+		<video>./snap/Galaxy510.mp4</video>
+		<marquee>./wheel/Galaxy510.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GARGOYLES.fpt</path>
+		<name>GARGOYLES</name>
+		<desc>Flipper GARGOYLES</desc>
+		<image>./mixart/GARGOYLES.png</image>
+		<video>./snap/GARGOYLES.mp4</video>
+		<marquee>./wheel/GARGOYLES.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GOLDORAK HQ.fpt</path>
+		<name>GOLDORAK HQ</name>
+		<desc>Flipper GOLDORAK HQ</desc>
+		<image>./mixart/GOLDORAK HQ.png</image>
+		<video>./snap/GOLDORAK HQ.mp4</video>
+		<marquee>./wheel/GOLDORAK HQ.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./KoS.fpt</path>
+		<name>King of Spades</name>
+		<desc>Flipper King of Spades</desc>
+		<image>./mixart/KoS.png</image>
+		<video>./snap/KoS.mp4</video>
+		<marquee>./wheel/KoS.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Meteor410.fpt</path>
+		<name>Meteor</name>
+		<desc>Flipper Meteor410</desc>
+		<image>./mixart/Meteor410.png</image>
+		<video>./snap/Meteor410.mp4</video>
+		<marquee>./wheel/Meteor410.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mission Alpha 1.2.fpt</path>
+		<name>Mission Alpha</name>
+		<desc>Flipper Mission Alpha 1.2</desc>
+		<image>./mixart/Mission Alpha 1.2.png</image>
+		<video>./snap/Mission Alpha 1.2.mp4</video>
+		<marquee>./wheel/Mission Alpha 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./OldChicago.fpt</path>
+		<name>Old Chicago</name>
+		<desc>Flipper OldChicago</desc>
+		<image>./mixart/OldChicago.png</image>
+		<video>./snap/OldChicago.mp4</video>
+		<marquee>./wheel/OldChicago.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PARAGON 2.2.fpt</path>
+		<name>PARAGON 2.2</name>
+		<desc>Flipper PARAGON 2.2</desc>
+		<image>./mixart/PARAGON 2.2.png</image>
+		<video>./snap/PARAGON 2.2.mp4</video>
+		<marquee>./wheel/PARAGON 2.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ProFootBall_V100.fpt</path>
+		<name>Pro FootBall</name>
+		<desc>Flipper ProFootBall_V100</desc>
+		<image>./mixart/ProFootBall_V100.png</image>
+		<video>./snap/ProFootBall_V100.mp4</video>
+		<marquee>./wheel/ProFootBall_V100.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./rat_fink_1.0_hd.fpt</path>
+		<name>Rat Fink HD</name>
+		<desc>Flipper rat_fink_1.0_hd</desc>
+		<image>./mixart/rat_fink_1.0_hd.png</image>
+		<video>./snap/rat_fink_1.0_hd.mp4</video>
+		<marquee>./wheel/rat_fink_1.0_hd.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RollingStones_v120.fpt</path>
+		<name>RollingStones_v120</name>
+		<desc>Flipper RollingStones_v120</desc>
+		<image>./mixart/RollingStones_v120.png</image>
+		<video>./snap/RollingStones_v120.mp4</video>
+		<marquee>./wheel/RollingStones_v120.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SAMURAI.fpt</path>
+		<name>SAMURAI</name>
+		<desc>Flipper SAMURAI</desc>
+		<image>./mixart/SAMURAI.png</image>
+		<video>./snap/SAMURAI.mp4</video>
+		<marquee>./wheel/SAMURAI.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SixMillonDollarMan_V0.99.fpt</path>
+		<name>Six Millon Dollar Man</name>
+		<desc>Flipper SixMillonDollarMan_V0.99</desc>
+		<image>./mixart/SixMillonDollarMan_V0.99.png</image>
+		<video>./snap/SixMillonDollarMan_V0.99.mp4</video>
+		<marquee>./wheel/SixMillonDollarMan_V0.99.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Skateball1.1.fpt</path>
+		<name>Skateball</name>
+		<desc>Flipper Skateball1.1</desc>
+		<image>./mixart/Skateball1.1.png</image>
+		<video>./snap/Skateball1.1.mp4</video>
+		<marquee>./wheel/Skateball1.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SorcererSE.fpt</path>
+		<name>Sorcerer SE</name>
+		<desc>Flipper SorcererSE</desc>
+		<image>./mixart/SorcererSE.png</image>
+		<video>./snap/SorcererSE.mp4</video>
+		<marquee>./wheel/SorcererSE.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpaceStation2.0.fpt</path>
+		<name>Space Station</name>
+		<desc>Flipper SpaceStation2.0</desc>
+		<image>./mixart/SpaceStation2.0.png</image>
+		<video>./snap/SpaceStation2.0.mp4</video>
+		<marquee>./wheel/SpaceStation2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./StarMan.fpt</path>
+		<name>StarMan</name>
+		<desc>Flipper StarMan</desc>
+		<image>./mixart/StarMan.png</image>
+		<video>./snap/StarMan.mp4</video>
+		<marquee>./wheel/StarMan.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./StartlingComics.fpt</path>
+		<name>Startling Comics</name>
+		<desc>Flipper StartlingComics</desc>
+		<image>./mixart/StartlingComics.png</image>
+		<video>./snap/StartlingComics.mp4</video>
+		<marquee>./wheel/StartlingComics.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Strip Joker Poker (ULTIMATE 1.02) (p2.6) (DOFLinx).fpt</path>
+		<name>Strip Joker Poker (ULTIMATE)</name>
+		<desc>Flipper Strip Joker Poker (ULTIMATE 1.02) (p2.6) (DOFLinx)</desc>
+		<image>./mixart/Strip Joker Poker (ULTIMATE 1.02) (p2.6) (DOFLinx).png</image>
+		<video>./snap/Strip Joker Poker (ULTIMATE 1.02) (p2.6) (DOFLinx).mp4</video>
+		<marquee>./wheel/Strip Joker Poker (ULTIMATE 1.02) (p2.6) (DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Surgical_RC_011.fpt</path>
+		<name>Surgical</name>
+		<desc>Flipper Surgical_RC_011</desc>
+		<image>./mixart/Surgical_RC_011.png</image>
+		<video>./snap/Surgical_RC_011.mp4</video>
+		<marquee>./wheel/Surgical_RC_011.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./svs6.2.6.fpt</path>
+		<name>Spy vs Spy</name>
+		<desc>Flipper svs6.2.6</desc>
+		<image>./mixart/svs6.2.6.png</image>
+		<video>./snap/svs6.2.6.mp4</video>
+		<marquee>./wheel/svs6.2.6.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Good The Bad The Ugly (DOFLINX) Cabinet v2.fpt</path>
+		<name>The Good The Bad The Ugly</name>
+		<desc>Flipper The Good The Bad The Ugly (DOFLINX) Cabinet v2</desc>
+		<image>./mixart/The Good The Bad The Ugly (DOFLINX) Cabinet v2.png</image>
+		<video>./snap/The Good The Bad The Ugly (DOFLINX) Cabinet v2.mp4</video>
+		<marquee>./wheel/The Good The Bad The Ugly (DOFLINX) Cabinet v2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ultimate Spiderman FP 2010.fpt</path>
+		<name>Ultimate Spiderman</name>
+		<desc>Flipper Ultimate Spiderman FP 2010</desc>
+		<image>./mixart/Ultimate Spiderman FP 2010.png</image>
+		<video>./snap/Ultimate Spiderman FP 2010.mp4</video>
+		<marquee>./wheel/Ultimate Spiderman FP 2010.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WCSnooker.fpt</path>
+		<name>World Cup Snooker</name>
+		<desc>Flipper WCSnooker</desc>
+		<image>./mixart/WCSnooker.png</image>
+		<video>./snap/WCSnooker.mp4</video>
+		<marquee>./wheel/WCSnooker.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wizards and Warlocks.fpt</path>
+		<name>Wizards and Warlocks</name>
+		<desc>Flipper Wizards and Warlocks</desc>
+		<image>./mixart/Wizards and Warlocks.png</image>
+		<video>./snap/Wizards and Warlocks.mp4</video>
+		<marquee>./wheel/Wizards and Warlocks.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Xenon (Bally, 1980).fpt</path>
+		<name>Xenon (Bally)</name>
+		<desc>Flipper Xenon (Bally, 1980)</desc>
+		<image>./mixart/Xenon (Bally, 1980).png</image>
+		<video>./snap/Xenon (Bally, 1980).mp4</video>
+		<marquee>./wheel/Xenon (Bally, 1980).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Junkyard Cats - Bam Edition (1.2 - PinEvent V2).fpt</path>
+		<name>Junkyard Cats - Bam Edition</name>
+		<desc>Flipper Junkyard Cats - Bam Edition 1.2</desc>
+		<image>./mixart/Junkyard Cats - Bam Edition 1.1.jpg</image>
+		<video>./snap/Junkyard Cats - Bam Edition 1.1.mp4</video>
+		<marquee>./wheel/Junkyard Cats - Bam Edition 1.1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink - BAM Edition (1.3 - PinEvent V2).fpt</path>
+		<name>Blue Vs Pink - BAM Edition 1.3</name>
+		<desc>Flipper Blue Vs Pink - BAM Edition (1.3 - PinEvent V2)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Centaur ULTIMATE1.03 (Physics 2.7 DOFLinx).fpt</path>
+		<name>Centaur ULTIMATE</name>
+		<desc>Flipper Centaur ULTIMATE1.03 (Physics 2.7 DOFLinx)</desc>
+		<image>./mixart/Centaur ULTIMATE1.03 (Physics 2.7 DOFLinx).png</image>
+		<video>./snap/Centaur ULTIMATE1.03 (Physics 2.7 DOFLinx).mp4</video>
+		<marquee>./wheel/Centaur ULTIMATE1.03 (Physics 2.7 DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DukesOfHazzard.fpt</path>
+		<name>Dukes Of Hazzard</name>
+		<desc>Flipper DukesOfHazzard</desc>
+		<image>./mixart/DukesOfHazzard.png</image>
+		<video>./snap/DukesOfHazzard.mp4</video>
+		<marquee>./wheel/DukesOfHazzard.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LadyDeath2000se.fpt</path>
+		<name>Lady Death 2000</name>
+		<desc>Flipper LadyDeath2000se</desc>
+		<image>./mixart/LadyDeath2000se.png</image>
+		<video>./snap/LadyDeath2000se.mp4</video>
+		<marquee>./wheel/LadyDeath2000se.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PPPD-V0.9.3.fpt</path>
+		<name>PPPD-V0.9.3</name>
+		<desc>Flipper PPPD-V0.9.3</desc>
+		<image>./mixart/PPPD-V0.9.3.png</image>
+		<video>./snap/PPPD-V0.9.3.mp4</video>
+		<marquee>./wheel/PPPD-V0.9.3.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpaceHarrier_v1.0.fpt</path>
+		<name>Space Harrier</name>
+		<desc>Flipper SpaceHarrier_v1.0</desc>
+		<image>./mixart/SpaceHarrier_v1.0.png</image>
+		<video>./snap/SpaceHarrier_v1.0.mp4</video>
+		<marquee>./wheel/SpaceHarrier_v1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The house of the dead 3.fpt</path>
+		<name>The House of the Dead 3</name>
+		<desc>Flipper The House of the Dead 3</desc>
+		<image>./mixart/The house of the dead 3.png</image>
+		<video>./snap/The house of the dead 3.mp4</video>
+		<marquee>./wheel/The house of the dead 3.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./viper_v100FINAL.fpt</path>
+		<name>Viper</name>
+		<desc>Flipper viper_v100FINAL</desc>
+		<image>./mixart/viper_v100FINAL.png</image>
+		<video>./snap/viper_v100FINAL.mp4</video>
+		<marquee>./wheel/viper_v100FINAL.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CueT.fpt</path>
+		<name>Cue-T</name>
+		<desc>Flipper CueT</desc>
+		<image>./mixart/CueT.png</image>
+		<video>./snap/CueT.mp4</video>
+		<marquee>./wheel/CueT.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DoodleBug_Second_V120.fpt</path>
+		<name>Doodle Bug Second</name>
+		<desc>Flipper DoodleBug_Second_V120</desc>
+		<image>./mixart/DoodleBug_Second_V120.png</image>
+		<video>./snap/DoodleBug_Second_V120.mp4</video>
+		<marquee>./wheel/DoodleBug_Second_V120.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./El Dorado_V100.fpt</path>
+		<name>El Dorado</name>
+		<desc>Flipper El Dorado_V100</desc>
+		<image>./mixart/El Dorado_V100.png</image>
+		<video>./snap/El Dorado_V100.mp4</video>
+		<marquee>./wheel/El Dorado_V100.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Expo_V100.fpt</path>
+		<name>Expo</name>
+		<desc>Flipper Expo_V100</desc>
+		<image>./mixart/Expo_V100.png</image>
+		<video>./snap/Expo_V100.mp4</video>
+		<marquee>./wheel/Expo_V100.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FastDraw_V110.fpt</path>
+		<name>Fast Draw</name>
+		<desc>Flipper FastDraw_V110</desc>
+		<image>./mixart/FastDraw_V110.png</image>
+		<video>./snap/FastDraw_V110.mp4</video>
+		<marquee>./wheel/FastDraw_V110.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Full_V110.fpt</path>
+		<name>Full</name>
+		<desc>Flipper Full_V110</desc>
+		<image>./mixart/Full_V110.png</image>
+		<video>./snap/Full_V110.mp4</video>
+		<marquee>./wheel/Full_V110.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GoldStrike_V200.fpt</path>
+		<name>Gold Strike</name>
+		<desc>Flipper GoldStrike_V200</desc>
+		<image>./mixart/GoldStrike_V200.png</image>
+		<video>./snap/GoldStrike_V200.mp4</video>
+		<marquee>./wheel/GoldStrike_V200.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GrandPrix_V120.fpt</path>
+		<name>Grand Prix</name>
+		<desc>Flipper GrandPrix_V120</desc>
+		<image>./mixart/GrandPrix_V120.png</image>
+		<video>./snap/GrandPrix_V120.mp4</video>
+		<marquee>./wheel/GrandPrix_V120.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gulfstream_V110.fpt</path>
+		<name>Gulfstream</name>
+		<desc>Flipper Gulfstream_V110</desc>
+		<image>./mixart/Gulfstream_V110.png</image>
+		<video>./snap/Gulfstream_V110.mp4</video>
+		<marquee>./wheel/Gulfstream_V110.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MissO_V100.fpt</path>
+		<name>Miss O</name>
+		<desc>Flipper MissO_V100</desc>
+		<image>./mixart/MissO_V100.png</image>
+		<video>./snap/MissO_V100.mp4</video>
+		<marquee>./wheel/MissO_V100.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RocketIII.fpt</path>
+		<name>Rocket III</name>
+		<desc>Flipper RocketIII</desc>
+		<image>./mixart/RocketIII.png</image>
+		<video>./snap/RocketIII.mp4</video>
+		<marquee>./wheel/RocketIII.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpanishEyes_V110.fpt</path>
+		<name>Spanish Eyes</name>
+		<desc>Flipper SpanishEyes_V110</desc>
+		<image>./mixart/SpanishEyes_V110.png</image>
+		<video>./snap/SpanishEyes_V110.mp4</video>
+		<marquee>./wheel/SpanishEyes_V110.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TeachersPet_V100.fpt</path>
+		<name>Teachers Pet</name>
+		<desc>Flipper TeachersPet_V100</desc>
+		<image>./mixart/TeachersPet_V100.png</image>
+		<video>./snap/TeachersPet_V100.mp4</video>
+		<marquee>./wheel/TeachersPet_V100.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TimeTunnel.fpt</path>
+		<name>Time Tunnel</name>
+		<desc>Flipper TimeTunnel</desc>
+		<image>./mixart/TimeTunnel.png</image>
+		<video>./snap/TimeTunnel.mp4</video>
+		<marquee>./wheel/TimeTunnel.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AirAces_V100.fpt</path>
+		<name>Air Aces</name>
+		<desc>Flipper AirAces_V100</desc>
+		<image>./mixart/AirAces_V100.png</image>
+		<video>./snap/AirAces_V100.mp4</video>
+		<marquee>./wheel/AirAces_V100.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lara_v09.fpt</path>
+		<name>Lara Croft</name>
+		<desc>Flipper Lara Croft Tomb Raider</desc>
+		<image>./mixart/Lara_v09.png</image>
+		<video>./snap/Lara_v09.mp4</video>
+		<marquee>./wheel/Lara_v09.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./castlevania VAMPIRE RISING.fpt</path>
+		<name>castlevania VAMPIRE RISING</name>
+		<desc>Flipper Castlevania VAMPIRE RISING</desc>
+		<image>./mixart/castlevania VAMPIRE RISING.png</image>
+		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
+		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Road Girls 1.2.fpt</path>
+		<name>Road Girls 1.2</name>
+		<desc>Flipper Road Girls 1.2</desc>
+		<image>./mixart/Road Girls 1.2.jpg</image>
+		<video>./snap/Road Girls 1.2.mp4</video>
+		<marquee>./wheel/Road Girls 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic the HedgeHog ULTIMATE 1.02.fpt</path>
+		<name>Sonic the HedgeHog ULTIMATE 1.02</name>
+		<desc>Flipper Sonic the HedgeHog ULTIMATE 1.02</desc>
+		<image>./mixart/Sonic the HedgeHog ULTIMATE 1.02.jpg</image>
+		<video>./snap/Sonic the HedgeHog ULTIMATE 1.02.mp4</video>
+		<marquee>./wheel/Sonic the HedgeHog ULTIMATE 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tales from the Crypt ULTIMATE 1.06.fpt</path>
+		<name>Tales from the Crypt ULTIMATE 1.06</name>
+		<desc>Flipper Tales from the Crypt ULTIMATE 1.06</desc>
+		<image>./mixart/Tales from the Crypt ULTIMATE 1.06.jpg</image>
+		<video>./snap/Tales from the Crypt ULTIMATE 1.06.mp4</video>
+		<marquee>./wheel/Tales from the Crypt ULTIMATE 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Twilight Zone 1.03.fpt</path>
+		<name>Twilight Zone</name>
+		<desc>Flipper Twilight Zone 1.03</desc>
+		<image>./mixart/Twilight Zone 1.03.png</image>
+		<video>./snap/Twilight Zone 1.03.mp4</video>
+		<marquee>./wheel/Twilight Zone 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bowling Champ (Gottlieb 1949).fpt</path>
+		<name>Bowling Champ (Gottlieb 1949)</name>
+		<desc>Flipper Bowling Champ (Gottlieb 1949)</desc>
+		<image>./mixart/Bowling Champ (Gottlieb 1949).png</image>
+		<video>./snap/Bowling Champ (Gottlieb 1949).mp4</video>
+		<marquee>./wheel/Bowling Champ (Gottlieb 1949).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./the_dark_knight_ultramatum-tdk_ultramatum_1_04.fpt</path>
+		<name>The Dark Knight Ultra</name>
+		<desc>Flipper The Dark Knight</desc>
+		<image>./mixart/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</image>
+		<video>./snap/the_dark_knight_ultramatum-tdk_ultramatum_1_04.mp4</video>
+		<marquee>./wheel/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars Jedi Version (Original) (2012) (1.2).fpt</path>
+		<name>Star Wars Jedi Version (Original) (2012) (1.2)</name>
+		<desc>Flipper Star Wars Jedi Version (Original) (2012) (1.2)</desc>
+		<image>./mixart/Star Wars Jedi Version (Original) (2012) (1.2).jpg</image>
+		<video>./snap/Star Wars Jedi Version (Original) (2012) (1.2).mp4</video>
+		<marquee>./wheel/Star Wars Jedi Version (Original) (2012) (1.2).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PUPPET MASTER.fpt</path>
+		<name>PUPPET MASTER</name>
+		<desc>Flipper PUPPET MASTER</desc>
+		<image>./mixart/PUPPET MASTER.png</image>
+		<video>./snap/PUPPET MASTER.mp4</video>
+		<marquee>./wheel/PUPPET MASTER.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tombstone (CryptDoctor21) Desktop.fpt</path>
+		<name>Tombstone</name>
+		<desc>Flipper Tombstone (CryptDoctor21) Desktop</desc>
+		<image>./mixart/Tombstone (CryptDoctor21) Desktop.png</image>
+		<video>./snap/Tombstone (CryptDoctor21) Desktop.mp4</video>
+		<marquee>./wheel/Tombstone (CryptDoctor21) Desktop.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Conan1.1.fpt</path>
+		<name>Conan1.1</name>
+		<desc>Flipper Conan</desc>
+		<image>./mixart/Conan.png</image>
+		<video>./snap/Conan.mp4</video>
+		<marquee>./wheel/Conan.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jurassic Park ULTIMATE Pro 1.05.fpt</path>
+		<name>Jurassic Park ULTIMATE Pro 1.05</name>
+		<desc>Flipper Jurassic Park ULTIMATE Pro 1.05</desc>
+		<image>./mixart/Jurassic Park ULTIMATE Pro 1.05.jpg</image>
+		<video>./snap/Jurassic Park ULTIMATE Pro 1.05.mp4</video>
+		<marquee>./wheel/Jurassic Park ULTIMATE Pro 1.05.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Skeleton Warriors.fpt</path>
+		<name>Skeleton Warriors</name>
+		<desc>Flipper Skeleton Warriors</desc>
+		<image>./mixart/Skeleton Warriors.png</image>
+		<video>./snap/Skeleton Warriors.mp4</video>
+		<marquee>./wheel/Skeleton Warriors.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpaceInvadersSEv1.fpt</path>
+		<name>Space Invaders SE</name>
+		<desc>Flipper SpaceInvadersSEv1</desc>
+		<image>./mixart/SpaceInvadersSEv1.png</image>
+		<video>./snap/SpaceInvadersSEv1.mp4</video>
+		<marquee>./wheel/SpaceInvadersSEv1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./American Pinball FULL HD.fpt</path>
+		<name>American Pinball</name>
+		<desc>Flipper American Pinball FULL HD</desc>
+		<image>./mixart/American Pinball FULL HD.png</image>
+		<video>./snap/American Pinball FULL HD.mp4</video>
+		<marquee>./wheel/American Pinball FULL HD.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spiderman (Gottlieb 1980).fpt</path>
+		<name>Spiderman (Gottlieb 1980)</name>
+		<desc>Flipper Spiderman (Gottlieb 1980)</desc>
+		<image>./mixart/Spiderman (Gottlieb 1980).png</image>
+		<video>./snap/Spiderman (Gottlieb 1980).mp4</video>
+		<marquee>./wheel/Spiderman (Gottlieb 1980).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TRON Legacy ULTIMATE 1.13.fpt</path>
+		<name>TRON Legacy ULTIMATE 1.13</name>
+		<desc>Flipper TRON Legacy ULTIMATE 1.13</desc>
+		<image>./mixart/TRON Legacy ULTIMATE 1.13.jpg</image>
+		<video>./snap/TRON Legacy ULTIMATE 1.13.mp4</video>
+		<marquee>./wheel/TRON Legacy ULTIMATE 1.13.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Light Cycle Arena.fpt</path>
+		<name>Tron Light Cycle Arena</name>
+		<desc>Flipper Tron Light Cycle Arena</desc>
+		<image>./mixart/Tron Light Cycle Arena.png</image>
+		<video>./snap/Tron Light Cycle Arena.mp4</video>
+		<marquee>./wheel/Tron Light Cycle Arena.png</marquee>
+		<rating>4</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron.fpt</path>
+		<name>Tron</name>
+		<desc>Flipper Tron</desc>
+		<image>./mixart/Tron.png</image>
+		<video>./snap/Tron.mp4</video>
+		<marquee>./wheel/Tron.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GREMLINS MOD 2.0.fpt</path>
+		<name>Gremlins</name>
+		<desc>Flipper GREMLINS MOD 2.0</desc>
+		<image>./mixart/GREMLINS MOD 2.0.png</image>
+		<video>./snap/GREMLINS MOD 2.0.mp4</video>
+		<marquee>./wheel/GREMLINS MOD 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Return_of_KingKong_1.0.fpt</path>
+		<name>Return of KingKong</name>
+		<desc>Flipper Return of KingKong</desc>
+		<image>./mixart/Return_of_KingKong_1.0.png</image>
+		<video>./snap/Return_of_KingKong_1.0.mp4</video>
+		<marquee>./wheel/Return_of_KingKong_1.0.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20210101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./300 Maresa FULL HD.fpt</path>
+		<name>300 Maresa</name>
+		<desc>Flipper 300 Maresa FULL HD</desc>
+		<image>./mixart/300 Maresa FULL HD.png</image>
+		<video>./snap/300 Maresa FULL HD.mp4</video>
+		<marquee>./wheel/300 Maresa FULL HD.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Amigo.fpt</path>
+		<name>Amigo</name>
+		<desc>Flipper Amigo</desc>
+		<image>./mixart/Amigo.png</image>
+		<video>./snap/Amigo.mp4</video>
+		<marquee>./wheel/Amigo.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Angelsanddemons.fpt</path>
+		<name>Angels and Demons</name>
+		<desc>Flipper Angels and Demons</desc>
+		<image>./mixart/Angelsanddemons.png</image>
+		<video>./snap/Angelsanddemons.mp4</video>
+		<marquee>./wheel/Angelsanddemons.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ArmadasDisciple.fpt</path>
+		<name>Armada's Disciple</name>
+		<desc>Flipper Armada's Disciple</desc>
+		<image>./mixart/ArmadasDisciple.png</image>
+		<video>./snap/ArmadasDisciple.mp4</video>
+		<marquee>./wheel/ArmadasDisciple.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Asteroid_Annie_v1_0_hd.fpt</path>
+		<name>Asteroid Annie</name>
+		<desc>Flipper Asteroid_Annie_v1_0_hd</desc>
+		<image>./mixart/Asteroid_Annie_v1_0_hd.png</image>
+		<video>./snap/Asteroid_Annie_v1_0_hd.mp4</video>
+		<marquee>./wheel/Asteroid_Annie_v1_0_hd.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ATLANTIS.fpt</path>
+		<name>ATLANTIS</name>
+		<desc>Flipper ATLANTIS</desc>
+		<image>./mixart/ATLANTIS.png</image>
+		<video>./snap/ATLANTIS.mp4</video>
+		<marquee>./wheel/ATLANTIS.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BadCats.fpt</path>
+		<name>BadCats</name>
+		<desc>Flipper BadCats</desc>
+		<image>./mixart/BadCats.png</image>
+		<video>./snap/BadCats.mp4</video>
+		<marquee>./wheel/BadCats.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Baseball.fpt</path>
+		<name>Baseball</name>
+		<desc>Flipper Baseball</desc>
+		<image>./mixart/Baseball.png</image>
+		<video>./snap/Baseball.mp4</video>
+		<marquee>./wheel/Baseball.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battle_of_the_Planets_UE_v1.0.fpt</path>
+		<name>Battle_of_the_Planets_UE_v1.0</name>
+		<desc>Flipper Battle_of_the_Planets_UE_v1.0</desc>
+		<image>./mixart/Battle_of_the_Planets_UE_v1.0.png</image>
+		<video>./snap/Battle_of_the_Planets_UE_v1.0.mp4</video>
+		<marquee>./wheel/Battle_of_the_Planets_UE_v1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BillionDollarGameShow.fpt</path>
+		<name>BillionDollarGameShow</name>
+		<desc>Flipper BillionDollarGameShow</desc>
+		<image>./mixart/BillionDollarGameShow.png</image>
+		<video>./snap/BillionDollarGameShow.mp4</video>
+		<marquee>./wheel/BillionDollarGameShow.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BlackOut_v11.fpt</path>
+		<name>BlackOut</name>
+		<desc>Flipper BlackOut_v11</desc>
+		<image>./mixart/BlackOut_v11.png</image>
+		<video>./snap/BlackOut_v11.mp4</video>
+		<marquee>./wheel/BlackOut_v11.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BUCCANEER-CPM.fpt</path>
+		<name>BUCCANEER-CPM</name>
+		<desc>Flipper BUCCANEER-CPM</desc>
+		<image>./mixart/BUCCANEER-CPM.png</image>
+		<video>./snap/BUCCANEER-CPM.mp4</video>
+		<marquee>./wheel/BUCCANEER-CPM.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bugs Bunny (3.0).fpt</path>
+		<name>Bugs Bunny</name>
+		<desc>Flipper Bugs Bunny (3.0)</desc>
+		<image>./mixart/Bugs Bunny (3.0).png</image>
+		<video>./snap/Bugs Bunny (3.0).mp4</video>
+		<marquee>./wheel/Bugs Bunny (3.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Canasta 86 v 1.0.fpt</path>
+		<name>Canasta '86</name>
+		<desc>Flipper Canasta '86 v 1.0</desc>
+		<image>./mixart/Canasta 86 v 1.0.png</image>
+		<video>./snap/Canasta 86 v 1.0.mp4</video>
+		<marquee>./wheel/Canasta 86 v 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./circus 2.0.fpt</path>
+		<name>Circus</name>
+		<desc>Flipper circus 2.0</desc>
+		<image>./mixart/circus 2.0.png</image>
+		<video>./snap/circus 2.0.mp4</video>
+		<marquee>./wheel/circus 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cover Girl (Keeney '47).fpt</path>
+		<name>Cover Girl (Keeney 1947)</name>
+		<desc>Flipper Cover Girl (Keeney '47)</desc>
+		<image>./mixart/Cover Girl (Keeney '47).png</image>
+		<video>./snap/Cover Girl (Keeney '47).mp4</video>
+		<marquee>./wheel/Cover Girl (Keeney '47).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DarkRider20.fpt</path>
+		<name>DarkRider20</name>
+		<desc>Flipper DarkRider20</desc>
+		<image>./mixart/DarkRider20.png</image>
+		<video>./snap/DarkRider20.mp4</video>
+		<marquee>./wheel/DarkRider20.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon (Gottlieb 1978).fpt</path>
+		<name>Dragon (Gottlieb 1978)</name>
+		<desc>Flipper Dragon (Gottlieb 1978)</desc>
+		<image>./mixart/Dragon (Gottlieb 1978).png</image>
+		<video>./snap/Dragon (Gottlieb 1978).mp4</video>
+		<marquee>./wheel/Dragon (Gottlieb 1978).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FirePowerTribute.fpt</path>
+		<name>FirePower Tribute</name>
+		<desc>Flipper FirePower Tribute</desc>
+		<image>./mixart/FirePowerTribute.png</image>
+		<video>./snap/FirePowerTribute.mp4</video>
+		<marquee>./wheel/FirePowerTribute.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Frontier 320.fpt</path>
+		<name>Frontier 320</name>
+		<desc>Flipper Frontier 320</desc>
+		<image>./mixart/Frontier 320.png</image>
+		<video>./snap/Frontier 320.mp4</video>
+		<marquee>./wheel/Frontier 320.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hanna Barbera Cartoon's.fpt</path>
+		<name>Hanna Barbera Cartoon's</name>
+		<desc>Flipper Hanna Barbera Cartoon's</desc>
+		<image>./mixart/Hanna Barbera Cartoon's.jpg</image>
+		<video>./snap/Hanna Barbera Cartoon's.mp4</video>
+		<marquee>./wheel/Hanna Barbera Cartoon's.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Little Queen.fpt</path>
+		<name>Little Queen</name>
+		<desc>Flipper Little Queen</desc>
+		<image>./mixart/Little Queen.png</image>
+		<video>./snap/Little Queen.mp4</video>
+		<marquee>./wheel/Little Queen.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nitro Ground Shaker (Bally 1980).fpt</path>
+		<name>Nitro Ground Shaker (Bally 1980)</name>
+		<desc>Flipper Nitro Ground Shaker (Bally 1980)</desc>
+		<image>./mixart/Nitro Ground Shaker (Bally 1980).png</image>
+		<video>./snap/Nitro Ground Shaker (Bally 1980).mp4</video>
+		<marquee>./wheel/Nitro Ground Shaker (Bally 1980).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rock Star (Gottlieb 1978).fpt</path>
+		<name>Rock Star (Gottlieb 1978)</name>
+		<desc>Flipper Rock Star (Gottlieb 1978)</desc>
+		<image>./mixart/Rock Star (Gottlieb 1978).png</image>
+		<video>./snap/Rock Star (Gottlieb 1978).mp4</video>
+		<marquee>./wheel/Rock Star (Gottlieb 1978).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ROLLER DISCO 2.1.fpt</path>
+		<name>ROLLER DISCO 2.1</name>
+		<desc>Flipper ROLLER DISCO 2.1</desc>
+		<image>./mixart/ROLLER DISCO 2.1.png</image>
+		<video>./snap/ROLLER DISCO 2.1.mp4</video>
+		<marquee>./wheel/ROLLER DISCO 2.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./scorpion 2.1.fpt</path>
+		<name>Scorpion (Williams 1980)</name>
+		<desc>Flipper Scorpion (Williams 1980)</desc>
+		<image>./mixart/scorpion 2.1.png</image>
+		<video>./snap/scorpion 2.1.mp4</video>
+		<marquee>./wheel/scorpion 2.1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ShipAhoy (Gottlieb 1976).fpt</path>
+		<name>ShipAhoy (Gottlieb 1976)</name>
+		<desc>Flipper ShipAhoy (Gottlieb 1976)</desc>
+		<image>./mixart/ShipAhoy (Gottlieb 1976).png</image>
+		<video>./snap/ShipAhoy (Gottlieb 1976).mp4</video>
+		<marquee>./wheel/ShipAhoy (Gottlieb 1976).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sinbad_V120.fpt</path>
+		<name>Sinbad</name>
+		<desc>Flipper Sinbad_V120</desc>
+		<image>./mixart/Sinbad_V120.png</image>
+		<video>./snap/Sinbad_V120.mp4</video>
+		<marquee>./wheel/Sinbad_V120.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpaceRider_v1b.fpt</path>
+		<name>Space Rider</name>
+		<desc>Flipper SpaceRider_v1b</desc>
+		<image>./mixart/SpaceRider_v1b.png</image>
+		<video>./snap/SpaceRider_v1b.mp4</video>
+		<marquee>./wheel/SpaceRider_v1b.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Irresponsible Captain Tylor BAM Edition.fpt</path>
+		<name>The Irresponsible Captain Tylor</name>
+		<desc>Flipper The Irresponsible Captain Tylor BAM Edition</desc>
+		<image>./mixart/The Irresponsible Captain Tylor BAM Edition.png</image>
+		<video>./snap/The Irresponsible Captain Tylor BAM Edition.mp4</video>
+		<marquee>./wheel/The Irresponsible Captain Tylor BAM Edition.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Torch (Gottlieb 1980).fpt</path>
+		<name>Torch (Gottlieb 1980)</name>
+		<desc>Flipper Torch (Gottlieb 1980)</desc>
+		<image>./mixart/Torch (Gottlieb 1980).png</image>
+		<video>./snap/Torch (Gottlieb 1980).mp4</video>
+		<marquee>./wheel/Torch (Gottlieb 1980).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Twin gain EuroFlip RECEL.fpt</path>
+		<name>Twin Gain</name>
+		<desc>Flipper Twin gain EuroFlip RECEL</desc>
+		<image>./mixart/Twin gain EuroFlip RECEL.png</image>
+		<video>./snap/Twin gain EuroFlip RECEL.mp4</video>
+		<marquee>./wheel/Twin gain EuroFlip RECEL.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
+		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
+		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
+		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<releasedate>20210101T000000</releasedate>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Zombies Ate My Neighbors.fpt</path>
+		<name>Zombies Ate My Neighbors</name>
+		<desc>Flipper Zombies Ate My Neighbors</desc>
+		<image>./mixart/Zombies Ate My Neighbors.png</image>
+		<video>./snap/Zombies Ate My Neighbors.mp4</video>
+		<marquee>./wheel/Zombies Ate My Neighbors.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro</name>
+		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
+		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elvis Stern.fpt</path>
+		<name>Elvis Stern</name>
+		<desc>Flipper Elvis Stern</desc>
+		<image>./mixart/Elvis Stern.png</image>
+		<video>./snap/Elvis Stern.mp4</video>
+		<marquee>./wheel/Elvis Stern.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Legacy (STERN) ULTIMATE 1.01.fpt</path>
+		<name>Tron Legacy (STERN) ULTIMATE 1.01</name>
+		<desc>Flipper Tron Legacy (STERN) ULTIMATE</desc>
+		<image>./mixart/Tron Legacy (STERN) ULTIMATE 1.01.jpg</image>
+		<video>./snap/Tron Legacy (STERN) ULTIMATE 1.01.mp4</video>
+		<marquee>./wheel/Tron Legacy (STERN) ULTIMATE 1.01.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Oblivion Movie.fpt</path>
+		<name>Oblivion Movie</name>
+		<desc>Flipper Oblivion Movie</desc>
+		<image>./mixart/Oblivion Movie.png</image>
+		<video>./snap/Oblivion Movie.mp4</video>
+		<marquee>./wheel/Oblivion Movie.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WALLACE and GROMIT.fpt</path>
+		<name>WALLACE and GROMIT</name>
+		<desc>Flipper WALLACE and GROMIT</desc>
+		<image>./mixart/WALLACE and GROMIT.png</image>
+		<video>./snap/WALLACE and GROMIT.mp4</video>
+		<marquee>./wheel/WALLACE and GROMIT.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BTTF ULTIMATE Pro 1.03.fpt</path>
+		<name>BTTF ULTIMATE Pro 1.03</name>
+		<desc>Flipper BTTF ULTIMATE Pro 1.03</desc>
+		<image>./mixart/BTTF ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/BTTF ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/BTTF ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CONTRA.fpt</path>
+		<name>CONTRA</name>
+		<desc>Flipper CONTRA</desc>
+		<image>./mixart/CONTRA.png</image>
+		<video>./snap/CONTRA.mp4</video>
+		<marquee>./wheel/CONTRA.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pink Floyd.fpt</path>
+		<name>Pink Floyd Mod 2.6</name>
+		<desc>Flipper Pink Floyd</desc>
+		<image>./mixart/Pink Floyd.png</image>
+		<video>./snap/Pink Floyd.mp4</video>
+		<marquee>./wheel/Pink Floyd.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Robocop ULTIMATE Pro 1.03.fpt</path>
+		<name>Robocop ULTIMATE Pro 1.03</name>
+		<desc>Flipper Robocop ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Robocop ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Robocop ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Robocop ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Disco Fever.fpt</path>
+		<name>Disco Fever</name>
+		<desc>Flipper Disco Fever</desc>
+		<image>./mixart/Disco Fever.png</image>
+		<video>./snap/Disco Fever.mp4</video>
+		<marquee>./wheel/Disco Fever.jpg</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./F-14 Tomcat ULTIMATE Pro 1.01.fpt</path>
+		<name>F-14 Tomcat ULTIMATE Pro 1.01</name>
+		<desc>Flipper F-14 Tomcat ULTIMATE Pro 1.01</desc>
+		<image>./mixart/F-14 Tomcat ULTIMATE Pro 1.01.jpg</image>
+		<video>./snap/F-14 Tomcat ULTIMATE Pro 1.01.mp4</video>
+		<marquee>./wheel/F-14 Tomcat ULTIMATE Pro 1.01.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./007 Casino Royale (Original) (1.1).fpt</path>
+		<name>007 Casino Royale (Original) (1.1)</name>
+		<desc>Flipper 007 Casino Royale (Original) (1.1)</desc>
+		<image>./mixart/007 Casino Royale (Original) (1.1).jpg</image>
+		<video>./snap/007 Casino Royale (Original) (1.1).mp4</video>
+		<marquee>./wheel/007 Casino Royale (Original) (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./1 Player Pinball Action.fpt</path>
+		<name>1 Player Pinball Action</name>
+		<desc>Flipper 1 Player Pinball Action</desc>
+		<image>./mixart/1 Player Pinball Action.png</image>
+		<video>./snap/1 Player Pinball Action.mp4</video>
+		<marquee>./wheel/1 Player Pinball Action.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Medieval Castle 1.0.fpt</path>
+		<name>Medieval Castle 1.0</name>
+		<desc>Flipper Medieval Castle 1.0</desc>
+		<image>./mixart/Medieval Castle 1.0.png</image>
+		<video>./snap/Medieval Castle 1.0.mp4</video>
+		<marquee>./wheel/Medieval Castle 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unkown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wizard of OZ.fpt</path>
+		<name>Wizard of OZ</name>
+		<desc>Flipper Wizard of OZ</desc>
+		<image>./mixart/Wizard of OZ.png</image>
+		<video>./snap/Wizard of OZ.mp4</video>
+		<marquee>./wheel/Wizard of OZ.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SMZ Flying.fpt</path>
+		<name>SMZ Flying</name>
+		<desc>Flipper SMZ Flying</desc>
+		<image>./mixart/SMZ Flying.jpg</image>
+		<video>./snap/SMZ Flying.mp4</video>
+		<marquee>./wheel/SMZ Flying.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SteelWheel.fpt</path>
+		<name>SteelWheel</name>
+		<desc>Flipper SteelWheel</desc>
+		<image>./mixart/SteelWheel.jpg</image>
+		<video>./snap/SteelWheel.mp4</video>
+		<marquee>./wheel/SteelWheel.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./War of the Worlds 1.0.fpt</path>
+		<name>War of the Worlds 1.0</name>
+		<desc>Flipper War of the Worlds 1.0</desc>
+		<image>./mixart/War of the Worlds 1.0.jpg</image>
+		<video>./snap/War of the Worlds 1.0.mp4</video>
+		<marquee>./wheel/War of the Worlds 1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./StarTrek_V100.fpt</path>
+		<name>Star Trek (Bally)</name>
+		<desc>Flipper StarTrek_V100</desc>
+		<image>./mixart/StarTrek_V100.jpg</image>
+		<video>./snap/StarTrek_V100.mp4</video>
+		<marquee>./wheel/StarTrek_V100.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./cyborgirl.fpt</path>
+		<name>Cyborgirl</name>
+		<desc>Flipper cyborgirl</desc>
+		<image>./mixart/cyborgirl.jpg</image>
+		<video>./snap/cyborgirl.mp4</video>
+		<marquee>./wheel/cyborgirl.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MadMAG1.11FP.fpt</path>
+		<name>Mad MAG</name>
+		<desc>Flipper MadMAG1.11FP</desc>
+		<image>./mixart/MadMAG1.11FP.jpg</image>
+		<video>./snap/MadMAG1.11FP.mp4</video>
+		<marquee>./wheel/MadMAG1.11FP.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mission Impossible 1.0.fpt</path>
+		<name>Mission Impossible 1.0</name>
+		<desc>Flipper Mission Impossible 1.0</desc>
+		<image>./mixart/Mission Impossible 1.0.jpg</image>
+		<video>./snap/Mission Impossible 1.0.mp4</video>
+		<marquee>./wheel/Mission Impossible 1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./OZZY and RANDYv1.0.fpt</path>
+		<name>OZZY and RANDYv1.0</name>
+		<desc>Flipper OZZY and RANDYv1.0</desc>
+		<image>./mixart/OZZY and RANDYv1.0.jpg</image>
+		<video>./snap/OZZY and RANDYv1.0.mp4</video>
+		<marquee>./wheel/OZZY and RANDYv1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroactive 1.2 (sphere 2006).fpt</path>
+		<name>Retroactive 1.2</name>
+		<desc>Flipper Retroactive 1.2 (sphere 2006)</desc>
+		<image>./mixart/Retroactive 1.2 (sphere 2006).jpg</image>
+		<video>./snap/Retroactive 1.2 (sphere 2006).mp4</video>
+		<marquee>./wheel/Retroactive 1.2 (sphere 2006).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tom Jones Pinball.fpt</path>
+		<name>Tom Jones Pinball</name>
+		<desc>Flipper Tom Jones Pinball</desc>
+		<image>./mixart/Tom Jones Pinball.png</image>
+		<video>./snap/Tom Jones Pinball.mp4</video>
+		<marquee>./wheel/Tom Jones Pinball.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Unreal Tournament (DOPE) (1.4beta).fpt</path>
+		<name>Unreal Tournament</name>
+		<desc>Flipper Unreal Tournament (DOPE) (1.4beta)</desc>
+		<image>./mixart/Unreal Tournament (DOPE) (1.4beta).jpg</image>
+		<video>./snap/Unreal Tournament (DOPE) (1.4beta).mp4</video>
+		<marquee>./wheel/Unreal Tournament (DOPE) (1.4beta).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Turtles.fpt</path>
+		<name>TMNT</name>
+		<desc>Flipper Ninja Turtles</desc>
+		<image>./mixart/Turtles.png</image>
+		<video>./snap/Turtles.mp4</video>
+		<marquee>./wheel/Turtles.png</marquee>
+		<rating>3</rating>
+		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja Turtles.fpt</path>
+		<name>Ninja Turtles</name>
+		<desc>Flipper Ninja Turtles</desc>
+		<image>./mixart/Ninja Turtles.jpg</image>
+		<video>./snap/Ninja Turtles.mp4</video>
+		<marquee>./wheel/Ninja Turtles.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shmithz Space Invaders 2.fpt</path>
+		<name>Space Invaders II</name>
+		<desc>Flipper Shmithz Space Invaders 2</desc>
+		<image>./mixart/Shmithz Space Invaders 2.jpg</image>
+		<video>./snap/Shmithz Space Invaders 2.mp4</video>
+		<marquee>./wheel/Shmithz Space Invaders 2.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Paranoids1_0.fpt</path>
+		<name>Space Paranoids</name>
+		<desc>Flipper Space Paranoids1_0</desc>
+		<image>./mixart/Space Paranoids1_0.png</image>
+		<video>./snap/Space Paranoids1_0.mp4</video>
+		<marquee>./wheel/Space Paranoids1_0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Iron Man ULTIMATE Pro 1.04.fpt</path>
+		<name>Iron Man ULTIMATE Pro 1.04</name>
+		<desc>Flipper Iron Man ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Iron Man ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Iron Man ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Iron Man ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mr. Bean v1.0.fpt</path>
+		<name>Mr. Bean</name>
+		<desc>Flipper Mr. Bean v1.0</desc>
+		<image>./mixart/Mr. Bean v1.0.png</image>
+		<video>./snap/Mr. Bean v1.0.mp4</video>
+		<marquee>./wheel/Mr. Bean v1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stepmania Pinball.fpt</path>
+		<name>Stepmania Pinball</name>
+		<desc>Flipper Stepmania Pinball</desc>
+		<image>./mixart/Stepmania Pinball.png</image>
+		<video>./snap/Stepmania Pinball.mp4</video>
+		<marquee>./wheel/Stepmania Pinball.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Phantasm_v1.0.fpt</path>
+		<name>Phantasm_v1.0</name>
+		<desc>Flipper Phantasm_v1.0</desc>
+		<image>./mixart/Phantasm_v1.0.jpg</image>
+		<video>./snap/Phantasm_v1.0.mp4</video>
+		<marquee>./wheel/Phantasm_v1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TrickOrTreat ZED.fpt</path>
+		<name>TrickOrTreat</name>
+		<desc>Flipper TrickOrTreat ZED</desc>
+		<image>./mixart/TrickOrTreat ZED.png</image>
+		<video>./snap/TrickOrTreat ZED.mp4</video>
+		<marquee>./wheel/TrickOrTreat ZED.png</marquee>
+		<rating>3</rating>
+		<releasedate>20171231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./xmen.fpt</path>
+		<name>X-Men</name>
+		<desc>Flipper X-men</desc>
+		<image>./mixart/xmen.png</image>
+		<video>./snap/xmen.mp4</video>
+		<marquee>./wheel/xmen.png</marquee>
+		<rating>3</rating>
+		<releasedate>20171231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Roadhouse.fpt</path>
+		<name>Roadhouse</name>
+		<desc>Flipper Roadhouse</desc>
+		<image>./mixart/Roadhouse.png</image>
+		<video>./snap/Roadhouse.mp4</video>
+		<marquee>./wheel/Roadhouse.png</marquee>
+		<rating>1</rating>
+		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WarLord.fpt</path>
+		<name>WarLord</name>
+		<desc>Flipper WarLord tribute to Atari game</desc>
+		<image>./mixart/WarLord.png</image>
+		<video>./snap/WarLord.mp4</video>
+		<marquee>./wheel/WarLord.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jaws ULTIMATE Pro 1.08.fpt</path>
+		<name>Jaws ULTIMATE Pro 1.08</name>
+		<desc>Flipper Jaws ULTIMATE Pro 1.08</desc>
+		<image>./mixart/Jaws ULTIMATE Pro 1.08.jpg</image>
+		<video>./snap/Jaws ULTIMATE Pro 1.08.mp4</video>
+		<marquee>./wheel/Jaws ULTIMATE Pro 1.08.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania Symphony of the Night (Original) (2015) (1.1).fpt</path>
+		<name>Castlevania Symphony of the Night (Original) (2015) (1.1)</name>
+		<desc>Flipper Castlevania Symphony of the Night (Original) (2015) (1.1)</desc>
+		<image>./mixart/Castlevania Symphony of the Night (Original) (2015) (1.1).jpg</image>
+		<video>./snap/Castlevania Symphony of the Night (Original) (2015) (1.1).mp4</video>
+		<marquee>./wheel/Castlevania Symphony of the Night (Original) (2015) (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./heavy metal meltdown_night_1_1(Macemod).fpt</path>
+		<name>Heavy Metal Meltdown</name>
+		<desc>Flipper heavy metal meltdown_night_1_1(Macemod)</desc>
+		<image>./mixart/heavy metal meltdown_night_1_1(Macemod).png</image>
+		<video>./snap/heavy metal meltdown_night_1_1(Macemod).mp4</video>
+		<marquee>./wheel/heavy metal meltdown_night_1_1(Macemod).png</marquee>
+		<rating>3</rating>
+		<releasedate>19721231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
+		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
+		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Avatar Collector's Edition 1.05.fpt</path>
+		<name>Avatar Collector's Edition 1.05</name>
+		<desc>Flipper Avatar Collector's Edition</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Doctor Who BETA.fpt</path>
+		<name>Doctor Who BETA</name>
+		<desc>Flipper Doctor Who</desc>
+		<image>./mixart/Doctor Who BETA.png</image>
+		<video>./snap/Doctor Who BETA.mp4</video>
+		<marquee>./wheel/Doctor Who BETA.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dokken.fpt</path>
+		<name>Dokken</name>
+		<desc>Flipper Dokken Music Band</desc>
+		<image>./mixart/Dokken.png</image>
+		<video>./snap/Dokken.mp4</video>
+		<marquee>./wheel/Dokken.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c).fpt</path>
+		<name>Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c)</name>
+		<desc>Flipper Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c)</desc>
+		<image>./mixart/Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c).jpg</image>
+		<video>./snap/Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c).mp4</video>
+		<marquee>./wheel/Batman Joker Edition (Stern) (2015) (Ultimatum) (1.04c).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ghostbusters.fpt</path>
+		<name>Ghost Busters</name>
+		<desc>Flipper ghostbusters</desc>
+		<image>./mixart/ghostbusters.png</image>
+		<video>./snap/ghostbusters.mp4</video>
+		<marquee>./wheel/ghostbusters.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Partyland.fpt</path>
+		<name>Pinball Fantasies Party Land</name>
+		<desc>Flipper Pinball Fantasies Party Land</desc>
+		<image>./mixart/Partyland.jpg</image>
+		<video>./snap/Partyland.mp4</video>
+		<marquee>./wheel/Partyland.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rocket Derby.fpt</path>
+		<name>Rocket Derby</name>
+		<desc>Flipper Rocket Derby</desc>
+		<image>./mixart/Rocket Derby.png</image>
+		<video>./snap/Rocket Derby.mp4</video>
+		<marquee>./wheel/Rocket Derby.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).fpt</path>
+		<name>Jaws - Bigger Boat Edition (PupEdition, FizX)</name>
+		<desc>Flipper Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).jpg</image>
+		<video>./snap/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).mp4</video>
+		<marquee>./wheel/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Junkyard Cats - Bam Edition (1.3 - PinEvent V2 - FizX).fpt</path>
+		<name>Junkyard Cats (PupEdition, FizX)</name>
+		<desc>Flipper Junkyard Cats - Bam Edition (1.3 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Junkyard Cats - Bam Edition 1.1.jpg</image>
+		<video>./snap/Junkyard Cats - Bam Edition 1.1.mp4</video>
+		<marquee>./wheel/Junkyard Cats - Bam Edition 1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Junkyard Cats - Bam Edition (1.4 - PinEvent V2, FizX).fpt</path>
+		<name>Junkyard Cats (PupEdition, FizX)</name>
+		<desc>Flipper Junkyard Cats - Bam Edition (1.4 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Junkyard Cats - Bam Edition 1.1.jpg</image>
+		<video>./snap/Junkyard Cats - Bam Edition 1.1.mp4</video>
+		<marquee>./wheel/Junkyard Cats - Bam Edition 1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink - BAM Edition (1.5 - PinEvent V2, FizX).fpt</path>
+		<name>Blue Vs Pink (PupEdition, FizX)</name>
+		<desc>Flipper Blue Vs Pink - BAM Edition (1.5 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Die Hard (Original) (Physics 2.5).fpt</path>
+		<name>Die Hard (Original) (Physics 2.5)</name>
+		<desc>Flipper Die Hard (Original) (Physics 2.5)</desc>
+		<image>./mixart/Die Hard (Original) (Physics 2.5).jpg</image>
+		<video>./snap/Die Hard (Original) (Physics 2.5).mp4</video>
+		<marquee>./wheel/Die Hard (Original) (Physics 2.5).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HomeAlone 2_V1.0.fpt</path>
+		<name>HomeAlone 2</name>
+		<desc>Flipper HomeAlone 2</desc>
+		<image>./mixart/HomeAlone 2_V1.0.jpg</image>
+		<video>./snap/HomeAlone 2_V1.0.mp4</video>
+		<marquee>./wheel/HomeAlone 2_V1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SILENT NIGHT DEADLY NIGHT.fpt</path>
+		<name>SILENT NIGHT DEADLY NIGHT</name>
+		<desc>Flipper SILENT NIGHT DEADLY NIGHT</desc>
+		<image>./mixart/SILENT NIGHT DEADLY NIGHT.png</image>
+		<video>./snap/SILENT NIGHT DEADLY NIGHT.mp4</video>
+		<marquee>./wheel/SILENT NIGHT DEADLY NIGHT.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jipar-SPACE INVADERS ARCADE.fpt</path>
+		<name>SPACE INVADERS ARCADE</name>
+		<desc>Flipper Jipar-SPACE INVADERS ARCADE</desc>
+		<image>./mixart/Jipar-SPACE INVADERS ARCADE.png</image>
+		<video>./snap/Jipar-SPACE INVADERS ARCADE.mp4</video>
+		<marquee>./wheel/Jipar-SPACE INVADERS ARCADE.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Legend of Zelda.fpt</path>
+		<name>Legend of Zelda</name>
+		<desc>Flipper Legend of Zelda</desc>
+		<image>./mixart/Legend of Zelda.png</image>
+		<video>./snap/Legend of Zelda.mp4</video>
+		<marquee>./wheel/Legend of Zelda.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lostboys.fpt</path>
+		<name>The Lost Boys</name>
+		<desc>Flipper The Lost Boys</desc>
+		<image>./mixart/Lostboys.png</image>
+		<video>./snap/Lostboys.mp4</video>
+		<marquee>./wheel/Lostboys.png</marquee>
+		<rating>3</rating>
+		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Cadet (3.00).fpt</path>
+		<name>Space Cadet</name>
+		<desc>Flipper Space Cadet (3.00)</desc>
+		<image>./mixart/Space Cadet (3.00).png</image>
+		<video>./snap/Space Cadet (3.00).mp4</video>
+		<marquee>./wheel/Space Cadet (3.00).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Warriors, The (stavmone)(1.0).fpt</path>
+		<name>The Warriors</name>
+		<desc>Flipper Warriors, The (stavmone)(1.0)</desc>
+		<image>./mixart/Warriors, The (stavmone)(1.0).png</image>
+		<video>./snap/Warriors, The (stavmone)(1.0).mp4</video>
+		<marquee>./wheel/Warriors, The (stavmone)(1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BTTF.fpt</path>
+		<name>Back to the Future</name>
+		<desc>Flipper BTTF 2.0</desc>
+		<image>./mixart/BTTF.png</image>
+		<video>./snap/BTTF.mp4</video>
+		<marquee>./wheel/BTTF.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX).fpt</path>
+		<name>Halloween - Big Bloody Mike (PupEdition, FizX)</name>
+		<desc>Flipper Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperAndroid_v2.00.fpt</path>
+		<name>Super Android</name>
+		<desc>Flipper SuperAndroid_v2.00</desc>
+		<image>./mixart/SuperAndroid_v2.00.png</image>
+		<video>./snap/SuperAndroid_v2.00.mp4</video>
+		<marquee>./wheel/SuperAndroid_v2.00.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Terminator 2 Skynet.fpt</path>
+		<name>Terminator 2 Skynet</name>
+		<desc>Flipper Terminator 2 Skynet</desc>
+		<image>./mixart/Terminator 2 Skynet.png</image>
+		<video>./snap/Terminator 2 Skynet.mp4</video>
+		<marquee>./wheel/Terminator 2 Skynet.png</marquee>
+		<rating>4</rating>
+		<releasedate>1992</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid 5.fpt</path>
+		<name>Metroid 5</name>
+		<desc>Flipper Metroid 5</desc>
+		<image>./mixart/Metroid 4.png</image>
+		<video>./snap/Metroid 4.mp4</video>
+		<marquee>./wheel/Metroid 4.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman (Atari 1979) Full HD.fpt</path>
+		<name>Superman (Atari 1979) HD</name>
+		<desc>Flipper Superman (Atari 1979) Full HD</desc>
+		<image>./mixart/Superman (Atari 1979) Full HD.png</image>
+		<video>./snap/Superman (Atari 1979) Full HD.mp4</video>
+		<marquee>./wheel/Superman (Atari 1979) Full HD.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Knight Rider Phys 2_5.fpt</path>
+		<name>Knight Rider Phys 2_5</name>
+		<desc>Flipper Knight Rider</desc>
+		<image>./mixart/Knight Rider Phys 2_5.png</image>
+		<video>./snap/Knight Rider Phys 2_5.mp4</video>
+		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe (p2.5) (Mastered Edition).fpt</path>
+		<name>Masters of the Universe (p2.5) (Mastered Edition)</name>
+		<desc>Flipper Masters of the Universe (p2.5) (Mastered Edition)</desc>
+		<image>./mixart/Masters of the Universe (p2.5) (Mastered Edition).png</image>
+		<video>./snap/Masters of the Universe (p2.5) (Mastered Edition).mp4</video>
+		<marquee>./wheel/Masters of the Universe (p2.5) (Mastered Edition).png</marquee>
+		<releasedate>20170101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Microsoft Pinball.fpt</path>
+		<name>Microsoft Pinball</name>
+		<desc>Flipper Microsoft Pinball</desc>
+		<image>./mixart/Microsoft Pinball.png</image>
+		<video>./snap/Microsoft Pinball.mp4</video>
+		<marquee>./wheel/Microsoft Pinball.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman 1.03.fpt</path>
+		<name>Superman 1.03</name>
+		<desc>Flipper Superman</desc>
+		<image>./mixart/Superman 1.03.png</image>
+		<video>./snap/Superman 1.03.mp4</video>
+		<marquee>./wheel/Superman 1.03.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Matrix 2.0.fpt</path>
+		<name>The Matrix 2.0</name>
+		<desc>Flipper The Matrix</desc>
+		<image>./mixart/The Matrix 2.0.png</image>
+		<video>./snap/The Matrix 2.0.mp4</video>
+		<marquee>./wheel/The Matrix 2.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink - BAM Edition (1.4 - PinEvent V2 - FizX).fpt</path>
+		<name>Blue Vs Pink (PupEdition, FizX)</name>
+		<desc>Flipper Blue Vs Pink - BAM Edition (1.4 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania.fpt</path>
+		<name>Sonic Pinball Mania (PupEdition, FizX)</name>
+		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods + FizX</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Avatar 2.2.fpt</path>
+		<name>Avatar (PupEdition, FizX)</name>
+		<desc>Flipper Avatar (Mini PupEdition + FizX) 2.2</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar 2.2.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./F-14 Tomcat - AfterBurner (1.2 - PinEvent V2, FizX).fpt</path>
+		<name>F-14 Tomcat - AfterBurner (PupEdition, FizX)</name>
+		<desc>Flipper F-14 Tomcat - AfterBurner (1.2 - PinEvent V2, FizX)</desc>
+		<image>./mixart/F-14 Tomcat - AfterBurner (1.2 - PinEvent V2, FizX).jpg</image>
+		<video>./snap/F-14 Tomcat - AfterBurner (1.2 - PinEvent V2, FizX).mp4</video>
+		<marquee>./wheel/F-14 Tomcat - AfterBurner (1.2 - PinEvent V2, FizX).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Megaman.fpt</path>
+		<name>Megaman (FizX)</name>
+		<desc>Flipper Megaman (2.0) with FizX</desc>
+		<image>./mixart/Megaman.png</image>
+		<video>./snap/Megaman.mp4</video>
+		<marquee>./wheel/Megaman.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
+		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
+		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
+		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<rating>4</rating>
+		<releasedate>2022</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX).fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro - (Galactic Edition) (PupEdition, FizX)</name>
+		<desc>Flipper Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).jpg</image>
+		<video>./snap/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).mp4</video>
+		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ASTROBLAST.fpt</path>
+		<name>ASTROBLAST</name>
+		<desc>Flipper ASTROBLAST</desc>
+		<image>./mixart/ASTROBLAST.png</image>
+		<video>./snap/ASTROBLAST.mp4</video>
+		<marquee>./wheel/ASTROBLAST.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+</gameList>

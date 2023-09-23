@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="46772">
+		<path>./initdv3e.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<image>./mixart/initdv3e-image.png</image>
+		<video>./snap/initdv3e-video.mp4</video>
+		<marquee>./wheel/initdv3e-marquee.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Initial D</family>
+		<players>2</players>
+		<md5>3b2c79cbbd179fd22b8ce6fab48a369f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>016E990C810854ED0D30FC9770745A13</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224204" />
+	</game>
+	<game>
+		<path>./kingrt66.zip</path>
+		<name>The King of Route 66</name>
+		<desc>The King of Route 66 is an arcade style 18-Wheeler driving game. The game takes place on the famous Route 66, a highway that runs through America from Illinois to California. This game features a story mode in which the Evil Tornado Corporation has taken over all the trucking jobs along Route 66. You play a hero trucker who challenges Tornado drivers all along the route and puts them in their place by getting your cargo to the destination first. This game mode, called the King of Route 66, plays mostly like a sequel to 18 Wheeler. The next game mode is called the Queen of Route 66. In this mode have to you race around open areas and collect gems before time runs out. There are other game modes as well. The Route 66 Challenge has you performing various stunts with your truck. The Rival Chase is a straightforward race similar to King mode. Vs. Battle is a two player mode.</desc>
+		<image>./mixart/kingrt66-image.png</image>
+		<video>./snap/kingrt66-video.mp4</video>
+		<marquee>./wheel/kingrt66-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Course</genre>
+		<players>1</players>
+		<md5>b3d6510959ba9c6ce66e0adccb244297</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1519DF025AA0DA00E4EE08FC45E75994</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224212" />
+		<scrap name="HfsDB" date="20221020T224432" />
+	</game>
+	<game>
+		<path>./soulsurf.zip</path>
+		<name>Soul Surfer</name>
+		<desc>Soul Surfer was produced by Sega in 2002. An interactive surfing game where the player uses a real surfboard to have his or her character ride large on-screen waves.</desc>
+		<image>./mixart/soulsurf-image.jpg</image>
+		<video>./snap/soulsurf-video.mp4</video>
+		<marquee>./wheel/soulsurf-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Sega Rosso</developer>
+		<publisher>Sega</publisher>
+		<genre>Sport, Surfing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>93A84449DC9079C9A2D439729F13FC94</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224219" />
+		<scrap name="HfsDB" date="20221020T224556" />
+	</game>
+	<game>
+		<path>./vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./mixart/vf4tuned-image.jpg</image>
+		<video>./snap/vf4tuned-video.mp4</video>
+		<marquee>./wheel/vf4tuned-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<genre>Combat</genre>
+		<players>1</players>
+		<md5>9c3f452daf1166721d19360e90da36c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2F6E012750F71DDE934A1F8ADFDA8A6E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224222" />
+		<scrap name="HfsDB" date="20221020T224409" />
+	</game>
+	<game>
+		<path>./wldrider.zip</path>
+		<name>Wild Riders</name>
+		<desc>A motorcycle chase game. The player assumes the role of a biker gang member who is trying to escape from the police and avoid capture. Runs on the Sega "NAOMI 2" hardware. Even if titlescreen says 2000, Wild Riders was released in March 2001 in Japan. It was presented at the February 2001 AOU (Arcade Operators Union) in Japan.</desc>
+		<image>./mixart/wldrider-image.png</image>
+		<video>./snap/wldrider-video.mp4</video>
+		<marquee>./wheel/wldrider-marquee.png</marquee>
+		<rating>4</rating>
+		<releasedate>20010101T000000</releasedate>
+		<genre>Course</genre>
+		<players>1</players>
+		<md5>5445e5d703f5ac7e3a98f544a2d627ff</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4F47983AC54499D795AFD45260A1CFFC</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224237" />
+		<scrap name="HfsDB" date="20221020T224323" />
+	</game>
+	<game id="46730">
+		<path>./clubk2k3.zip</path>
+		<name>Club Kart: European Session</name>
+		<desc>This European version of "Club Kart" including different courses.</desc>
+		<image>./mixart/clubk2k3-image.png</image>
+		<video>./snap/clubk2k3-video.mp4</video>
+		<marquee>./wheel/clubk2k3-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Club Kart</family>
+		<players>2</players>
+		<md5>5cfa10537855f7bb2c39ad7168ef3149</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C5ADE9364CDEB444212A9EDF14150B46</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224156" />
+	</game>
+	<game id="44011">
+		<path>./vstrik3.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./mixart/vstrik3-image.png</image>
+		<video>./snap/vstrik3-video.mp4</video>
+		<marquee>./wheel/vstrik3-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>2</players>
+		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224230" />
+	</game>
+	<game id="46719">
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./mixart/beachspi-image.png</image>
+		<video>./snap/beachspi-video.mp4</video>
+		<marquee>./wheel/beachspi-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1</players>
+		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224149" />
+	</game>
+</gameList>

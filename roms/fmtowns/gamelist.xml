@@ -1,0 +1,1477 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="362539">
+		<path>./Death Brade (Japan).cd</path>
+		<name>Death Brade</name>
+		<desc>Mutant Fighter is a versus fighting game with several stand-out features. With the exception of Hercules, playable characters have no names: they either represent a warrior class (Fighter, Amazoness), or are popular mythological beings (Minotaur, Beast, Dragon, and Golem). The game has two modes: single-player, in which the player selects a fighter and competes against computer-controlled opponents in a strict order, and two-player mode, where both players can choose their characters. Unlike most versus fighting games, the battles take place on a square arena instead of the usual horizontal screens. Wrestling moves (such as grappling) are widely utilized. Special energy can be accumulated and then unleashed as powerful attacks.</desc>
+		<image>./mixart/Death Brade (Japan).png</image>
+		<video>./snap/Death Brade (Japan).mp4</video>
+		<marquee>./wheel/Death Brade (Japan).png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230323T222703" />
+	</game>
+	<game id="362716">
+		<path>./Secret of Monkey Island, The (Japan) (En,Ja).cd</path>
+		<name>Secret of Monkey Island, The</name>
+		<image>./mixart/Secret of Monkey Island, The (Japan) (En,Ja).png</image>
+		<video>./snap/Secret of Monkey Island, The (Japan) (En,Ja).mp4</video>
+		<marquee>./wheel/Secret of Monkey Island, The (Japan) (En,Ja).png</marquee>
+		<family>Monkey Island</family>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230324T111538" />
+	</game>
+	<game id="363526">
+		<path>./Angel (Japan).cd</path>
+		<name>Angel</name>
+		<image>./mixart/Angel (Japan).png</image>
+		<marquee>./wheel/Angel (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230325T210341" />
+	</game>
+	<game id="362482">
+		<path>./4D Boxing.chd</path>
+		<name>4D Boxing</name>
+		<desc>4-D Boxing leaves behind any pretences of being a pure arcade game based on boxing and aims to recreate the sport in full detail. The graphics engine allows for multiple camera angles and viewpoints, and considerably detailed visuals. These required more advanced hardware than was common at the time, but a stick-figure mode was included as a compromise. The moves on offer include all the uppercuts and hooks of a real fight, and the players are designed to move realistically to implement them. 
+
+You progress through the game by taking on a succession of increasingly difficult fighters and get to train your boxer in between. Advanced action replays are included as well, so you can review all that happened.</desc>
+		<image>./mixart/4D Boxing.png</image>
+		<video>./snap/4D Boxing.mp4</video>
+		<marquee>./wheel/4D Boxing.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Distinctive</developer>
+		<publisher>Electronic Arts Victor</publisher>
+		<genre>Sports / Boxing</genre>
+		<players>1</players>
+		<md5>e96144247dc76a0f4d63277c59f4bbc1</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111439" />
+	</game>
+	<game id="33489">
+		<path>./4D Sports Driving.chd</path>
+		<name>4D Sports Driving</name>
+		<desc>4D Sports Driving is a 3D car racing simulation. The game contains a variety of cars, courses, and opponents to choose from. The game provides unusual stunt objects including loops, corkscrews and jumps. It is possible to watch races in instant replay from different camera angles. A track editor is included as well.</desc>
+		<image>./mixart/4D Sports Driving.png</image>
+		<video>./snap/4D Sports Driving.mp4</video>
+		<marquee>./wheel/4D Sports Driving.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Distinctive Software</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<md5>6c59ab2f9c446f24c2fc9db770a88f00</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210028" />
+	</game>
+	<game id="362878">
+		<path>./4D Tennis.chd</path>
+		<name>4D Tennis</name>
+		<desc>Being part of Mindscape's 4D Sports game series, this program tries to realistically reproduce the game of tennis. Just like all the other games from the series, 4D Sports Tennis offers "true four-dimensional gameplay" by letting the player access advanced replay features.
+
+The game is based on simple, untextured 3D polygon graphics, providing not only a standard fixed camera and freely positionable views, but also a very unique first-person view, in which the player does see nothing of his own character except for the racket, and the view is always following the ball.
+
+Other features include dozens of practice missions, a career mode with the possibility to create a customized player, and a multiplayer mode for 2 players on one PC.</desc>
+		<image>./mixart/4D Tennis.png</image>
+		<video>./snap/4D Tennis.mp4</video>
+		<marquee>./wheel/4D Tennis.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Distinctive</developer>
+		<publisher>Electronic Arts Victor</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+		<md5>3a92a8cc9dcf1f9f62dbaab830ee8255</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111443" />
+	</game>
+	<game id="362665">
+		<path>./Advantage Tennis.chd</path>
+		<name>Advantage Tennis</name>
+		<desc>Advantage Tennis is a tennis simulation played with 2D characters in a 3D simulated court. The camera zooms and pans in to follow the action. There are training, season and exhibition modes. The season mode allows playing against a variety of competitors and in different courts around the world.</desc>
+		<image>./mixart/Advantage Tennis.png</image>
+		<video>./snap/Advantage Tennis.mp4</video>
+		<marquee>./wheel/Advantage Tennis.png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111439" />
+	</game>
+	<game id="362395">
+		<path>./After Burner.chd</path>
+		<name>After Burner</name>
+		<desc>After Burner II is an updated re-release of After Burner. Besides extra levels, a few new enemies, a few touches at the soundtrack and more disposable missiles, the biggest addition is the ability to slow down or speed up manually. The rest of the gameplay remains identical.
+
+Despite being called After Burner, most ports to home computers and consoles are based on this version. The NES, Amiga and Commodore 64 received two different ports with significant technical differences. This entry documents the original ports and the second ones can be found under the following entries: NES and Amiga / C64.</desc>
+		<image>./mixart/After Burner.png</image>
+		<video>./snap/After Burner.mp4</video>
+		<marquee>./wheel/After Burner.png</marquee>
+		<releasedate>19870119T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>CSK Research Institute</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111446" />
+	</game>
+	<game id="362599">
+		<path>./Alone in the Dark.chd</path>
+		<name>Alone in the Dark</name>
+		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies, and giant worms are among the foes who are after you, and you must somehow escape. 
+
+Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items, and monsters are rendered as 3D models. 
+
+To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons. 
+
+Weapons come in handy since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
+		<image>./mixart/Alone in the Dark.png</image>
+		<video>./snap/Alone in the Dark.mp4</video>
+		<marquee>./wheel/Alone in the Dark.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Arrow Micro-Techs</publisher>
+		<genre>Action</genre>
+		<md5>85e47d92fd529c64ef4f7e09d84cae5c</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111443" />
+	</game>
+	<game id="167503">
+		<path>./Amaranth III (Japan).cd</path>
+		<name>Amaranth 3</name>
+		<desc>Amaranth III directly continues the story of the  second game. The knight Lyann Fremdes and his lovely companion, the elf Din, the heroes of the game, head to the city of Dematria, where Din is met with joy; there is even an article about her magical healing powers in a local newspaper. All goes well till the heroes decide to visit the city Magnelia. A hostile army invades the train station and massacres people. Looks like Lyann and Din have to hide for the time being, before they can think of a secure way to stop the enemies - which is anything but easy, since the enemy seems to possess advanced technology...
+
+Amaranth III differs from its  predecessors in several ways. It has a more modern setting, with steam-punk elements. The gameplay system has been re-vamped, becoming closer to a strategy RPG than to an action RPG. As before, the battles feature free movement, but it is turn-based now, with action points for each characters; the character can act as long as he/she still have action points left. There is a "Vigour" system that keeps track of characters' stamina; once the vigour is lowered, the character begins to lose hit points. Using special items and resting in inns restores vigour. 
+
+The game also makes a step towards strategy RPGs by focusing less on exploration and more on pre-set, story-dictated battles. However, the small number of controllable characters and the ability to explore prevents it from being a full-fledged strategy RPG.</desc>
+		<image>./mixart/Amaranth III (Japan).png</image>
+		<video>./snap/Amaranth III (Japan).mp4</video>
+		<marquee>./wheel/Amaranth III (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940114T000000</releasedate>
+		<developer>Fuga System Corp.</developer>
+		<publisher>Fuga System Corp.</publisher>
+		<genre>Role playing games / Japanese RPG</genre>
+		<family>Amaranth</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210251" />
+	</game>
+	<game id="362668">
+		<path>./awesome.chd</path>
+		<name>AWESOME</name>
+		<desc>Awesome is a multi-section space-based game. The plot involves an attempt to get across a harsh galaxy despite not having the funds or firepower to make it. 
+
+To reach each planet the player has to progress through numerous action sections, starting with some overhead-view shooting of rocks which break into progressively smaller blocks, a scanner tells the player roughly where they are located. This is followed by an into the screen shoot-out against an enemy flying backwards and forwards, and then the final approach to the trading centre, which involves the player progressing on foot from an overhead view, and sees contact with the enemies lose time rather than energy – the player has 3 attempts to get there in time.
+
+Once the player reaches the planet, a trading aspect comes into play. Strategic purchase of the right equipment to boost the ship, as well as extra shields and firepower (which can be balanced depending on the next level).</desc>
+		<image>./mixart/awesome.png</image>
+		<video>./snap/awesome.mp4</video>
+		<marquee>./wheel/awesome.png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>Reflections Interactive</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111447" />
+	</game>
+	<game id="362617">
+		<path>./Azure (Japan).cd</path>
+		<name>Azure</name>
+		<desc>Azure is a crosshair style shoot 'em up game, developed and published by Family Soft, which was released in Japan in 1993.</desc>
+		<image>./mixart/Azure (Japan).jpg</image>
+		<video>./snap/Azure (Japan).mp4</video>
+		<marquee>./wheel/Azure (Japan).png</marquee>
+		<releasedate>1993</releasedate>
+		<developer>Family Soft</developer>
+		<publisher>Family Soft</publisher>
+		<genre>Shooter</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210444" />
+	</game>
+	<game id="362233">
+		<path>./battle chess (japan) (en,ja).chd</path>
+		<name>Battle Chess</name>
+		<desc>Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured. You can also play in 2D without animation. 
+
+The game's opening library includes 30,000 different moves, ensuring a variety of games will unfold across the 10 skill levels. 
+
+Multi-player support can be extended to modem and/or serial port play.</desc>
+		<image>./mixart/battle chess (japan) (en,ja).png</image>
+		<video>./snap/Battle Chess (japan) (en,ja).mp4</video>
+		<marquee>./wheel/Battle Chess (japan) (en,ja).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>Electronic Arts</publisher>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210525" />
+	</game>
+	<game id="362620">
+		<path>./Bomberman - Panic Bomber.chd</path>
+		<name>Bomberman - Panic Bomber</name>
+		<desc>Panic Bomber is a  falling block puzzle game, somewhat reminiscent of  Puyo Puyo games: instead of  Tetris-like abstract blocks, little colored heads are falling down and must be arranged in rows of three (vertically or horizontally), by rotating them and matching them with other heads of the same color. In this case, the heads clearly belong to the titular character of the  Bomberman series.
+
+The game has similar gameplay and opponents as in the  handheld version; Bomberman automatically advances on a "world map", defeating opponents in falling block contests in a linear fashion. However, this is only one part of the game, the story mode. Two additional modes are: a versus mode, which allows multiplayer gameplay of up to five players, and a timed challenge mode. In the latter, the player has to complete specific falling block-related tasks before the time runs out.</desc>
+		<image>./mixart/Bomberman - Panic Bomber.png</image>
+		<video>./snap/Bomberman - Panic Bomber.mp4</video>
+		<marquee>./wheel/Bomberman - Panic Bomber.png</marquee>
+		<rating>0</rating>
+		<releasedate>19950119T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>ASCII</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bomberman</family>
+		<md5>f27ab5b9c75fdd2d6a6343aaa080e246</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210605" />
+	</game>
+	<game id="363448">
+		<path>./bubble bobble.chd</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...
+
+Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms.</desc>
+		<image>./mixart/bubble bobble.png</image>
+		<video>./snap/bubble bobble.mp4</video>
+		<marquee>./wheel/bubble bobble.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Ving</publisher>
+		<genre>Platform</genre>
+		<family>Bubble Bobble</family>
+		<players>2</players>
+		<md5>cc8992c0f814ffaf6fcd4807612327d5</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111454" />
+	</game>
+	<game id="363367">
+		<path>./Burai (Japan).cd</path>
+		<name>Burai</name>
+		<desc>The evil god Daar was defeated long time ago. The difference races of Kypros could co-exist in peace. But Daar had followers, among them a powerful warrior named Bido. He intends to resurrect Daar and attack the king of Kypros. His minions attack three strongest knights who serve the king. But before he died, one of the knights released eight magical pearls. Each pearl can choose a hero, and eight heroes together would be able to stop Bido. Those heroes live in different places and belong to different races - humans,  dragons, lizard-men, dog-like wosshus. Among them there are simple fighters, a thief, a powerful sorcerer. But they all know - the future of Kypros lies in their hands...
+
+Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and towns, random enemies, first-person turn-based battles, party management, etc. Its stand-out feature is the ability to play as eight different heroes. Each hero starts in a different part of the game world. The characters have different abilities and spells at their disposal, but overall follow the same gameplay template. The intro sequence presents the heroes in a particular order (starting with the thief Hayate, who was caught and thrown into prison), but the player can choose to start as any of the eight heroes.</desc>
+		<image>./mixart/Burai (Japan).png</image>
+		<video>./snap/Burai (Japan).mp4</video>
+		<marquee>./wheel/Burai (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900119T000000</releasedate>
+		<developer>Riverhill Soft</developer>
+		<publisher>Riverhill Soft</publisher>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210657" />
+	</game>
+	<game id="362956">
+		<path>./Castles (Japan) (En,Ja).cd</path>
+		<name>Castles</name>
+		<desc>Build a series of castles to gain dominion over all the land. You'll have to make decisions that will affect your favor with the Church, nobles, and peasants. Keep a strong military and a large workforce while watching the level of your treasury.</desc>
+		<image>./mixart/Castles (Japan) (En,Ja).png</image>
+		<video>./snap/Castles (Japan) (En,Ja).mp4</video>
+		<marquee>./wheel/Castles (Japan) (En,Ja).png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>Quicksilver Software</developer>
+		<publisher>Victor Musical Industries</publisher>
+		<genre>Simulation</genre>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111455" />
+	</game>
+	<game id="362371">
+		<path>./CG Syndicate Vol  1 - Lisa Northpoint (Japan) (En,Ja).cd</path>
+		<name>CG Syndicate Vol. 1 : Lisa Northpoint</name>
+		<desc>FMV - Virtual chic playing tricks on ya</desc>
+		<image>./mixart/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).jpg</image>
+		<video>./snap/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).mp4</video>
+		<marquee>./wheel/CG Syndicate vol. 1 Lisa Northpoint.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910325T193304</releasedate>
+		<developer>R-Key</developer>
+		<publisher>R-Key</publisher>
+		<genre>Action / Adventure</genre>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T210737" />
+	</game>
+	<game>
+		<path>./Chaos Strikes Back (Japan).chd</path>
+		<name>Dungeon Master: Chaos Strikes Back (Japan)</name>
+		<desc>The Dark Lord returns in the sequel to the award-winning Dungeon Master. Using 4 player characters created in the "Prison" (or importing your own champions from Dungeon Master), you will have to face Lord Chaos again with a challenge: to destroy 4 pieces of Corbum ore before it shatters the universe!</desc>
+		<image>./mixart/Chaos Strikes Back (Japan).png</image>
+		<video>./snap/Chaos Strikes Back (Japan).mp4</video>
+		<marquee>./wheel/Chaos Strikes Back (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19911231T200000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>Victor</publisher>
+		<genre>Role-PLaying</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T113345" />
+	</game>
+	<game>
+		<path>./Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).cd</path>
+		<name>Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan)</name>
+		<desc>Interactive slideshow cover girls from the 80's ...</desc>
+		<image>./mixart/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).jpg</image>
+		<video>./snap/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).mp4</video>
+		<marquee>./wheel/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910325T195144</releasedate>
+		<developer>Cosmopolitan</developer>
+		<publisher>Cosmopolitan</publisher>
+		<genre>Adult</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T113345" />
+	</game>
+	<game id="363034">
+		<path>./dead force.chd</path>
+		<name>Shinseiki Kouboushi - Dead Force</name>
+		<desc>In the middle of the continent of Lorelei lies the Karma mountain range, separating two cultures. To the East is the peaceful, rural Canaan federation. To the West is Dardila, the land of monks. The peaceful days of these nations were over when a meteor fell on Dardila, gradually turning the monks evil. A war erupted, and Dardilan forces overrun Canaan. Marion, the crown prince of Canaan, has just turned fourteen, and has to deal with the tremendous responsibility of commanding his army and winning the war. Dead Force is a tactical role-playing game. The entire game consists of large-scale battles between armies.</desc>
+		<image>./mixart/dead force.png</image>
+		<video>./snap/Dead Force.mp4</video>
+		<marquee>./wheel/Dead Force.png</marquee>
+		<rating>0</rating>
+		<releasedate>19951231T200000</releasedate>
+		<developer>Fuga Systems</developer>
+		<publisher>Fuga Systems</publisher>
+		<genre>Role-PLaying</genre>
+		<md5>956381b9eef87a53da813b692763f837</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T214040" />
+	</game>
+	<game id="362998">
+		<path>./Dragon Knight III (Japan).cd</path>
+		<name>Dragon Knight III</name>
+		<desc>Knights of Xentar is a sequel to Dragon Knight II, and is the only Dragon Knight game that was released outside of Japan. The player controls a young warrior named Desmond (Takeru in the Japanese version). After liberating Strawberry Fields from an evil curse in his previous adventure, Desmond finds himself in a situation unworthy of his heroic status: robbers have taken all his possessions, including his magic sword, and even his clothes! So the first task for the unsuccessful hero will be to get some money. Luckily, the mayor has an assignment for the hero, for which he is also willing to pay. Desmond accepts the assignment without knowing what it will lead to - traveling all over the world, fighting fearsome enemies, encounter beautiful women, and solving a mystery that will also reveal the secret of his own true identity. The game is a humorous RPG with erotic content. The gameplay is quite different from that of the previous game.</desc>
+		<image>./mixart/Dragon Knight III (Japan).png</image>
+		<video>./snap/Dragon Knight III (Japan).mp4</video>
+		<marquee>./wheel/Dragon Knight III (Japan).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Elf</developer>
+		<publisher>Elf</publisher>
+		<genre>Adult</genre>
+		<family>Dragon Knight</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211041" />
+	</game>
+	<game id="362194">
+		<path>./Drakkhen.chd</path>
+		<name>Drakkhen</name>
+		<desc>The prophecy has been fulfilled. The world shall be ruled by the dragons. On an island far away, their lords prepare for the conquest of the lands. There is only one hope for mankind. The emperor sends out four heroes -- warriors and magicians -- to solve the puzzle of tears and prevent the invasion of the Drakkhen.
+
+Drakkhen is a role-playing game with a visual presentation that combines 3D landscapes and 2D interiors. The player's party will travel overland on a flat terrain made up of vectors, on which 2D objects are zoomed (The same type of engine was later used in Eternam). The player will encounter monsters and fight them in real-time combat, and discover the palaces of the dragon lords. Indoors, the player has to find a way through the maze of chambers, solving puzzles and defeating the minions of the Drakkhen. Party members are depicted in four status windows on the left side of the screen, thus allowing to see their current status and equipment at once.</desc>
+		<image>./mixart/Drakkhen.png</image>
+		<video>./snap/Drakkhen.mp4</video>
+		<marquee>./wheel/Drakkhen.png</marquee>
+		<releasedate>19900119T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Role playing games</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111500" />
+	</game>
+	<game id="363844">
+		<path>./Dungeon Master II - Skullkeep.chd</path>
+		<name>Dungeon Master 2 - Skullkeep</name>
+		<desc>Chaos Strikes Back was a semi-sequel to seminal RPG Dungeon Master, but a true sequel came several years later. The game fuses real-time battles with puzzle solving and travelling, although the game now auto-maps. Rain and magic usage effects are incorporated into the engine. The first part of the game is spent above ground, visiting villages with shops and temples, and trawling through forests.</desc>
+		<image>./mixart/Dungeon Master II - Skullkeep.png</image>
+		<video>./snap/Dungeon Master II - Skullkeep.mp4</video>
+		<marquee>./wheel/Dungeon Master II - Skullkeep.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940119T000000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>Victor Entertainment</publisher>
+		<md5>40d3a9852099042c7bc3cd0573f5d96c</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211228" />
+	</game>
+	<game id="362197">
+		<path>./Dungeon Master.chd</path>
+		<name>Dungeon Master</name>
+		<desc>Dungeon Master is a role-playing game where the player selects four adventurers and descend into the depths of the dungeon.  The gameplay is reminiscent of the 3D dungeon crawl type of role-playing games popularized by Wizardry and The Bard's Tale.  However, unlike these games, Dungeon Master features real-time combat, which requires the player to click on the opponent in order to execute an attack. Another notable aspect of the game is its growth system: instead of gathering experience points and leveling up, characters improve by repeatedly using the same action. Spellcasting involves selecting and combining symbols, which can be arranged as rune sequences. The game also allows the player to directly interact with objects in the game world through a point-and-click interface.</desc>
+		<image>./mixart/Dungeon Master.png</image>
+		<video>./snap/Dungeon Master.mp4</video>
+		<marquee>./wheel/Dungeon Master.png</marquee>
+		<releasedate>19890119T000000</releasedate>
+		<developer>FTL - Faster Than Light</developer>
+		<publisher>Fujitsu</publisher>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111503" />
+	</game>
+	<game id="362779">
+		<path>./Evolution (Japan).cd</path>
+		<name>Evolution</name>
+		<desc>Evolution is an arcade style action game with six levels where you need to evolve from an amoeba to a human. Each level is a different stage in evolution with it's own unique goals. The first level is the amoeba stage where you need to eat all the DNA on the screen while avoiding the spores, microbes, and antibodies that are trying to stop you. The second level is the tadpole stage. The tadpole needs to eat three flies to move on to the next stage while avoiding the very hungry fish. Next is the rodent stage, where you need to eat five blocks of cheese while avoiding the snakes. In level four you need to guide a beaver across alligator infested waters to retrieve sticks and build a dam. The fifth level is the gorilla stage, where your gorilla has to use coconuts to fight off monkeys that are trying to steal its orange stash. And finally is the human stage, where you have to use a laser gun to fight off mutants that are trying to take over the earth.</desc>
+		<image>./mixart/Evolution (Japan).png</image>
+		<video>./snap/Evolution (Japan).mp4</video>
+		<marquee>./wheel/Evolution (Japan).png</marquee>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sydney Development Corp.</developer>
+		<publisher>Sydney Development Corp.</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111505" />
+	</game>
+	<game id="363211">
+		<path>./Eye of the Beholder II.chd</path>
+		<name>Eye of the Beholder 2 - The Legend of Darkmoon</name>
+		<desc>The Archmage Khelben summons the Heroes of Waterdeep, slayers of the Beholder Xanathar, for another mission. Strange things are happening in the forests near Waterdeep, centered around the Temple Darkmoon. People have been disappearing and shallow graves containing human remains have been found. Khelben teleports the party to the forests near Darkmoon so they may find out what kind of evil is working in the towers of the temple. Eye of the Beholder II: The Legend of Darkmoon is, like its predecessor, a first-person dungeon-crawling role-playing game based on the second edition of AD&amp;D rules.</desc>
+		<image>./mixart/Eye of the Beholder II.png</image>
+		<video>./snap/Eye of the Beholder II.mp4</video>
+		<marquee>./wheel/Eye of the Beholder II.png</marquee>
+		<rating>0</rating>
+		<releasedate>19931231T200000</releasedate>
+		<developer>Westwood</developer>
+		<publisher>Arrow Micro-Techs</publisher>
+		<genre>Role-Playing</genre>
+		<family>Eye of the Beholder</family>
+		<md5>51029c075828dbe66e255fe61b88e164</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211319" />
+	</game>
+	<game id="363076">
+		<path>./F29 Retaliator.chd</path>
+		<name>F29 Retaliator</name>
+		<desc>This flight simulator puts you in the cockpit of either the F-22 or the fictional F-29.
+
+Choose from four campaigns with increasing difficulty: a training campaign in Arizona plus real war campaigns in the Pacific, the Middle East and in Europe.
+
+Each campaign includes a variety of missions involving both dogfights and air-to-ground attacks.</desc>
+		<image>./mixart/F29 Retaliator.png</image>
+		<video>./snap/F29 Retaliator.mp4</video>
+		<marquee>./wheel/F29 Retaliator.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Digital Image Design</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Simulation</genre>
+		<md5>66c0149bd97b8be96e0719235c91585f</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211423" />
+	</game>
+	<game id="362329">
+		<path>./Final Blow (Japan).cd</path>
+		<name>Final Blow</name>
+		<desc>Final Blow is an action game based around the sport of boxing. You can play the fighters in a sequence of knock-out competitions, (the computer versions also include a round-robin league). Rounds last one minute, with a short break in between them. As in the real sport, your aim is to knock your opponent down for 10 seconds, by gradually weakening him with a series of punches. You can block punches, to avoid them inflicting damage onto you. The ring is of a limited size, so players can be cornered, although the referee will intervene to break the boxers up if they become entangled in a stalemate position.
+
+The Genesis version is not to be confused with the Master System game of the same name, which is entirely different.</desc>
+		<image>./mixart/Final Blow (Japan).png</image>
+		<video>./snap/Final Blow (Japan).mp4</video>
+		<marquee>./wheel/Final Blow (Japan).png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Ving</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111509" />
+	</game>
+	<game id="14291">
+		<path>./flashback.chd</path>
+		<name>Flashback</name>
+		<desc>Flashback is a platform action adventure. You navigate Conrad over the platforms, performing various moves. You can simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend yourself, you shoot enemies with your gun and also use various objects (such as stones) to harm or to distract them.</desc>
+		<image>./mixart/flashback.png</image>
+		<video>./snap/flashback.mp4</video>
+		<marquee>./wheel/flashback.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Delphine Software International</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211559" />
+	</game>
+	<game id="362020">
+		<path>./Galaxy Force II.chd</path>
+		<name>Galaxy Force II</name>
+		<desc>Galaxy Force II is an expanded version of Galaxy Force. It adds two additional levels, the old levels are revised (expanded and re-balanced) and the four missiles can be fired with a single button press.
+
+You are strapped into a spaceship to take on six dangerous settings, ranging from a pleasant garden to hostile fire and tough ice. You will have to fly freely before cutting through tunnels and canyons, and finally destroying an alien base. Your energy read out starts at 1200 and decreases as shots hit you, or you make contact with a wall or blockage. You have infinite cannons and guided missiles to help you along. You can get regular energy recharges and power upgrades, by shooting and then collecting their carrier pods.</desc>
+		<image>./mixart/Galaxy Force II.png</image>
+		<video>./snap/Galaxy Force II.mp4</video>
+		<marquee>./wheel/Galaxy Force II.png</marquee>
+		<releasedate>19910119T000000</releasedate>
+		<developer>Sega Software R&amp;D Dept. 1</developer>
+		<publisher>CSK Research Institute Corp.</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111507" />
+	</game>
+	<game id="363214">
+		<path>./Galaxy Wars - Regional Power II (Japan).cd</path>
+		<name>Galaxy Wars - Regional Power II</name>
+		<desc>Space strategic battles with other spaceships.</desc>
+		<image>./mixart/Galaxy Wars - Regional Power II (Japan).png</image>
+		<video>./snap/Galaxy Wars - Regional Power II (Japan).mp4</video>
+		<marquee>./wheel/Galaxy Wars - Regional Power II (Japan).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19920325T200132</releasedate>
+		<developer>Cosmos</developer>
+		<publisher>Cosmos</publisher>
+		<genre>Strategy</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211620" />
+	</game>
+	<game id="362206">
+		<path>./genocide 2 - genocide square (japan).chd</path>
+		<name>Genocide^2 - Genocide Square</name>
+		<desc>Genocide Square includes re-mastered versions of two games, Genocide and Genocide 2. The second game contains minor differences compared to the original, primarily in enemy design. The first game, however, has undergone more significant gameplay-related changes. The difficulty level has been reduced, and the powerful capsule weapon Betty is available to the protagonist from the beginning (as opposed to mid-game in the original release).</desc>
+		<image>./mixart/genocide 2 - genocide square (japan).png</image>
+		<video>./snap/genocide 2 - genocide square (japan).mp4</video>
+		<marquee>./wheel/genocide 2 - genocide square (japan).png</marquee>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Zoom</developer>
+		<publisher>Zoom</publisher>
+		<genre>Compilation</genre>
+		<md5>ab54534620175c93de0be3452c1a0c2f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111512" />
+	</game>
+	<game id="362785">
+		<path>./GunBlaze (Japan).cd</path>
+		<name>GunBlaze</name>
+		<desc>The events of this game take place in London, in the second half of the 19th century. Mark Flint is a young private detective. One day he sees several men assault a young girl near his apartment. He saves the girl, only to discover that he has seen her face already on a wanted poster. But the girl (whose name is Jewel) explains that she is being hunted by the mysterious society of Rosenkreuz. Her father was a great scientist who knew how to make items out of pure ether; his zeppelin was attacked, and the Rosenkreuz are after the ether-made necklace Jewel is wearing. Mark, Jewel, and their friends have to find a way to defeat the Rosenkreuz and their leader, the ambitious Irene, who won't stop until the entire world is under her control...
+
+GunBlaze plays like a story-driven Japanese RPG, with the real-world setting adding some unusual gameplay elements. Most of the game takes place in urban locations (such as the city of London); instead of a world map, there is a city map with locations marked on it. Despite the fantasy elements, the game tries to keep the realistic setting without supernatural or sci-fi themes - for example, there are no magic spells or any equivalent powers. The heroes fight with guns, for which they have to buy bullets, and which require re-loading during combat.
+
+Otherwise, GunBlaze preserves traditional Japanese RPG gameplay elements such as linear plot progression, simple character development system (leveling up), random enemies, turn-based battle engine, etc.
+
+Despite the historical European setting, GunBlaze has typically Japanese manga/anime-style character design. The game has nudity and sexual content, though it can be considered softcore.</desc>
+		<image>./mixart/GunBlaze (Japan).png</image>
+		<video>./snap/GunBlaze (Japan).mp4</video>
+		<marquee>./wheel/GunBlaze (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940119T000000</releasedate>
+		<developer>Active Software</developer>
+		<publisher>Active Software</publisher>
+		<genre>Adventure</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211726" />
+	</game>
+	<game id="47436">
+		<path>./hishouzame.chd</path>
+		<name>Hishouzame Flying Shark</name>
+		<desc>Also known as Sky Shark, is a top-down shooter similar to Raiden. You start off with four lives and three bombs. With that (you can get more lives at certain point intervals, and more bombs can be found), you, the "Sky Shark" of your squadron, blast through five levels of enemy-infested battlefields with as many as six gun upgrades (Aside from the bombs and the gun upgrade, there are no other weapons to be found at all). Includes three difficulty levels and two-player support.</desc>
+		<image>./mixart/hishouzame.png</image>
+		<video>./snap/hishouzame.mp4</video>
+		<marquee>./wheel/hishouzame.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211828" />
+	</game>
+	<game id="363118">
+		<path>./image fight.chd</path>
+		<name>ImageFight</name>
+		<desc>A mysterious alien life form is spreading across the galaxy, trying to conquer the world. It took control of the moon base and is threatening to descend on the Earth. The humans have sent the most advanced fighter jet to oppose the aliens: the OF-1. The OF-1  has the ability to change speed at any time and equip different weapons and pods. OF-1 is humanity's last hope!
+
+ImageFight is a top-down vertically scrolling space shooter. On every level there will be enemy ships, turrets, robots, and other machines shooting projectiles or trying to ram you. But there are also power-ups scattered around in small green containers. You must destroy these containers before you can obtain the power-up. Those power-ups include pods that add extra attack power or speed, new kinds of weapons, the ability to fire in different directions, etc.</desc>
+		<image>./mixart/image fight.png</image>
+		<video>./snap/image fight.mp4</video>
+		<marquee>./wheel/image fight.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Ving</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111516" />
+	</game>
+	<game id="362518">
+		<path>./Incredible Machine, The (Japan).cd</path>
+		<name>Incredible Machine, The</name>
+		<desc>Puzzle and incredible machine game by Sierra, solve problems by using gravity and gadgets to solve simple to complex problems.</desc>
+		<image>./mixart/Incredible Machine, The (Japan).png</image>
+		<video>./snap/Incredible Machine, The (Japan).mp4</video>
+		<marquee>./wheel/Incredible Machine, The (Japan).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910325T201912</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T211928" />
+	</game>
+	<game id="363619">
+		<path>./indiana jones and the fate of atlantis.chd</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<image>./mixart/indiana jones and the fate of atlantis.png</image>
+		<video>./snap/indiana jones and the fate of atlantis.mp4</video>
+		<marquee>./wheel/indiana jones and the fate of atlantis.png</marquee>
+		<family>Indiana Jones</family>
+		<md5>5a8871e6603dca992710ac1e1f4ab8dc</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111515" />
+	</game>
+	<game id="362392">
+		<path>./indiana jones and the last crusade (japan) (en,ja).chd</path>
+		<name>Indiana Jones and the Last Crusade</name>
+		<desc>It is 1938 and adventurer Indiana Jones is joined by his father on this quest, preventing Adolf Hitler from capturing the Holy Grail. He will have to deal with Nazi guards, the Luftwaffe and enemy spies as he tries to stop the tyrannical Nazi leader.
+
+The Graphic Adventure uses the same SCUMM gameplay system as the previous Maniac Mansion. Most of the screen is used for a visual rendition of the current scene. At the bottom of the screen are words, which can be clicked on using the mouse to activate their functions. For example, objects can be picked up, used, pushed or pulled, and turned on and off. Most locations are from the movie, but some further scenes are added.
+
+In keeping with Indiana's action-man persona, the game also features pure action scenes. Unlike most Lucasfilm adventures, you can die.</desc>
+		<image>./mixart/indiana jones and the last crusade (japan) (en,ja).png</image>
+		<video>./snap/indiana jones and the last crusade (japan) (en,ja).mp4</video>
+		<marquee>./wheel/indiana jones and the last crusade (japan) (en,ja).png</marquee>
+		<releasedate>19900701T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Adventure / Graphics</genre>
+		<family>Indiana Jones</family>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111517" />
+	</game>
+	<game id="362671">
+		<path>./infestation.chd</path>
+		<name>Infestation - Chinmoku no Wakusei</name>
+		<desc>The Alpha 2 research colony on Xelos has been invaded by aliens, wiping out the crew and laying 167 of their eggs, all waiting to hatch into a lethal alien infestation. The game is viewed in 3D from Solar's perspective, with a full HUD built into his helmet showing direction, health and supplies. Other HUDs also allow you to check whether the current air is breathable (you have limited oxygen), as well as one built into your Jetpack. There are two movement modes, one of which allows you to pan the view and the other allows you to shoot.</desc>
+		<image>./mixart/infestation.png</image>
+		<video>./snap/Infestation.mp4</video>
+		<marquee>./wheel/infestation.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Victor</publisher>
+		<genre>Shooter / 1st person</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212039" />
+	</game>
+	<game id="363622">
+		<path>./king's quest v.chd</path>
+		<name>King's Quest V - Absence Makes the Heart Go Yonder!</name>
+		<desc>On a beautiful sunny day, King Graham of Daventry decides to take a stroll in the woods surrounding his castle. When he returns, he discovers with horror that his home, Daventry Castle, has completely disappeared! Graham is at a loss, and wonders how this could have happened, when a talking owl named Cedric appears. He tells him that he saw the whole thing, and that an evil wizard named Mordack whisked the entire castle away, along with Graham's family in it. Cedric offers to take him to his homeland, Serenia, where his master, the wizard Crispin resides. Surely Crispin will be able to help King Graham rescue his family from Mordack's clutches. King's Quest V: Absence Makes the Heart Go Yonder is an adventure game, and the first from Sierra to use a point-and-click mouse interface. Rather than typing commands on a keyboard to interact with the game world and use the arrow keys to walk around, King's Quest V instead simplifies all actions down to base commands. To access the different cursors, the player can move the mouse to the top of the screen, revealing a hidden menu with each of the different actions, as well as game options and the inventory bag. By clicking the "Walk" cursor on the screen, Graham will walk as close as he can to the appropriate area. Clicking the "Eye" cursor on items will provide a description, the same as typing "Look at".</desc>
+		<image>./mixart/king's quest v.png</image>
+		<video>./snap/King's Quest V.mp4</video>
+		<marquee>./wheel/king's quest v.png</marquee>
+		<rating>4</rating>
+		<releasedate>19911231T200000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
+		<family>King's Quest</family>
+		<md5>be42d8e01cb999f9036d91514377b748</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212136" />
+	</game>
+	<game>
+		<path>./ku2++.chd</path>
+		<name>ku2++</name>
+		<desc>Ku2++ is a Shoot-'Em-Up game, developed and published by Panther Software, which was released in Japan in 1993</desc>
+		<image>./mixart/ku2++.jpg</image>
+		<video>./snap/KU 2++.mp4</video>
+		<marquee>./wheel/KU 2++.png</marquee>
+		<rating>0</rating>
+		<releasedate>19931231T200000</releasedate>
+		<developer>Panther</developer>
+		<publisher>Panther</publisher>
+		<genre>Action, Shooter</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T113347" />
+	</game>
+	<game id="363628">
+		<path>./Kyuukyoku Tiger (Japan).cd</path>
+		<name>Kyuukyoku Tiger</name>
+		<desc>Also known as Twin Cobra, is a vertically scrolling shoot-em-up. You pilot the TC-17 Twin Cobra assault helicopter to fight the forces of Commander Anziga, the myopic leader of the nation of Kaban. Your job is to fly into Kaban and take out the entire military base of Commander Anziga. You will fight small helicopters, tanks and stationary guns, defeat the large helicopters to get power-ups. By picking up colored icons (blue, yellow, red or green) you can change to different weapon types. Blue is a forward spread shot, yellow is a four-way shot, red is a wide forward laser shot and green is a continuous forward laser shot. At the end of each section, you land on a carrier ship and count up your bonuses.</desc>
+		<image>./mixart/Kyuukyoku Tiger (Japan).png</image>
+		<video>./snap/Kyuukyoku Tiger (Japan).mp4</video>
+		<marquee>./wheel/Kyuukyoku Tiger (Japan).png</marquee>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Ving</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111519" />
+	</game>
+	<game id="362401">
+		<path>./last survivor (japan).chd</path>
+		<name>Last Survivor</name>
+		<desc>Last Survivor is one of the earliest 3D third-person shooters, it involves players traversing a maze shooting at opponents. The game consists of 20 levels and the goal is to collect four keys and then head towards the exit. There are 7 other human characters running around, in addition to various non-human enemies. Keys can be obtained by killing other players while non-human enemies drop gold, which can be used in the shop to purchase stronger weapons and armor as well as increase the player's moving speed or regain health.
+
+The player's character is rendered as a black wireframe and is viewed from behind. The screen is divided into halves (vertical split-screen), with two players being able to play on the same screen. Up to four arcade cabinets could be linked up, allowing eight players altogether, making it one of the first shooters with a network multiplayer deathmatch mode.
+The FM Towns port supports 4-players via serial crossover cable, or 2-players via direct dial modem.</desc>
+		<image>./mixart/last survivor (japan).png</image>
+		<video>./snap/last survivor (japan).mp4</video>
+		<marquee>./wheel/last survivor (japan).png</marquee>
+		<releasedate>19901116T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>CSK</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111519" />
+	</game>
+	<game id="363235">
+		<path>./lemmings 2 - the tribes.chd</path>
+		<name>Lemmings 2 - The Tribes</name>
+		<desc>The sequel to one of the most famous games ever now has a much more significant plot. The Lemmings have split into 12 distinct tribes, each of which has their own landscape and their own cultural identity - they include Egyptian, Circus and Highland. However, Lemming Island is now in danger, and you must complete 10 levels for each tribe in order for them to reunite and reassemble the Talisman from the 12 pieces.
+
+Across the 120 levels there are over 60 skills, although no more than 10 are in use on each screen. The Classic tribe has the ones form the original and is perhaps the best option for first-time players.</desc>
+		<image>./mixart/lemmings 2 - the tribes.png</image>
+		<video>./snap/Lemmings 2 - The Tribes.mp4</video>
+		<marquee>./wheel/lemmings 2 - the tribes.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Lemmings</family>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212502" />
+	</game>
+	<game id="363901">
+		<path>./lemmings.chd</path>
+		<name>Lemmings</name>
+		<desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately, these levels include steep drops, gaps in the ground, barriers, and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom is a selection of functions that can be assigned to a Lemming, including climbing, floating, and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+		<image>./mixart/lemmings.png</image>
+		<video>./snap/lemmings.mp4</video>
+		<marquee>./wheel/lemmings.png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Lemmings</family>
+		<md5>aaf5712283eeda362d37740f094b4ec7</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111521" />
+	</game>
+	<game id="363832">
+		<path>./Mad Stalker - FullMetalForce (Japan).cd</path>
+		<name>Mad Stalker - FullMetalForce</name>
+		<desc>Mad Stalker is a side-scrolling mecha-themed brawler in which the player controls a character piloting a giant mecha (Slave Gear), fighting hostile robots unleashed upon the city by an evil mastermind. The player can choose between three playable characters: Chico Rodrigues, Richard Winston, and Eve Lurdia, each piloting their own version of a Slave Gear, distinguished by visual appearance as well as balancing of strength and speed. The game consists of six linear stages in which the protagonist has to eliminate all enemies on screen before advancing, typically facing a boss enemy at the end of a stage. All the enemies in the game are mechas. Player-controlled robots fight with fists or swords (Winston's mecha); they can also jump, kick, as well as grab and throw opponents. The game also includes a single or two-player versus fighting mode in which players can choose to control the protagonists or enemy mechas.</desc>
+		<image>./mixart/Mad Stalker - FullMetalForce (Japan).png</image>
+		<video>./snap/Mad Stalker - FullMetalForce (Japan).mp4</video>
+		<marquee>./wheel/Mad Stalker - FullMetalForce (Japan).png</marquee>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Fill in Café</developer>
+		<publisher>Family Soft</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111525" />
+	</game>
+	<game id="362464">
+		<path>./marble madness (japan).chd</path>
+		<name>Marble Madness</name>
+		<desc>The idea of this arcade game is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<image>./mixart/marble madness (japan).png</image>
+		<video>./snap/marble madness (japan).mp4</video>
+		<marquee>./wheel/marble madness (japan).png</marquee>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Home Data</developer>
+		<publisher>Home Data</publisher>
+		<genre>Action / Labyrinth</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111524" />
+	</game>
+	<game id="363394">
+		<path>./mega lo mania.chd</path>
+		<name>Mega lo Mania</name>
+		<desc>First you choose one out of four different characters to represent you, Scarlet (red army), Oberon (yellow army), Caesar (green army), or Madcap (blue army). The game is split into 10 levels - the first 9 are groups of 3 territories which can be completed in any order, while the final 'Mother of All Battles' has its own surprises. 
+
+Land is mostly of sand, grass or ice. You start with 100 men and you can use whatever quantity you find necessary on each island. The rest men left will go to another level with another new 100. In the second half of the game you can freeze men to save them for the Mother of All Battles.
+ 
+Once you select your island and place for your HQ, you must do some research for better weapons and defences. On the roof of your buildings you can put protectors like archers, gunmen, boiling oil men, and later on even laser turrets. If you send a team of unarmed men into an unoccupied square, they will build an additional base there, with larger armies completing this more quickly.
+
+Later on higher levels, you'll also build mines and factories, as you'll need to dig a certain material for higher level weapons, depending on whether the area you're on is rich with a certain material or not. With each next level, you'll start from a higher technology level and be able to progress to one higher level up than at the previous level.
+
+If there is more than just one enemy, you can make an alliance until you crush the other one - three of you can form an alliance against fourth enemy. For what its worth, a certain numeric level of defence is always stronger from the same level of attacker, and men that are not armed (conscripts) can only kill enemy soldiers, not destroy or attack enemy fort.
+
+The main thing as always in strategy games is to be the sole survivor and lead your men to victory, experimenting on vicious technologies, equipping your men, making perfect soldiers out of them, produce shields, weapons, planes... to dominate the world and crush your opponents. 
+
+You can do the battling only in a certain quadrant, but don't be long as your men will automatically start building the fort, and it will be at the bottom of age level and you'll need to invent everything for that one again.</desc>
+		<image>./mixart/mega lo mania.png</image>
+		<video>./snap/Mega Lo Mania.mp4</video>
+		<marquee>./wheel/mega lo mania.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930119T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Imagineer</publisher>
+		<md5>77096747144628591f00bdee23920856</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212636" />
+	</game>
+	<game id="363028">
+		<path>./MegaMorph (Japan).cd</path>
+		<name>MegaMorph</name>
+		<desc>In the future, remains of a mysterious, highly advanced ancient civilization were discovered in a cave on a deserted planet. A unique material was found there, which could spontaneously change shape and morph into complete products by itself. Humans were able to harvest the technology, but an accident destroyed the source. The player takes the role of a pilot who must venture to dangerous areas of space in order to discover possible additional sources of the material.
+
+MegaMorph is a third-person perspective arcade-style shooter, similar in concept and gameplay to Microcosm and Novastorm. The backgrounds consists entirely out of full-motion video sequences. Forward movement is on rails, but the player can move the craft in four directions. The craft can defend itself with regular fire with unlimited ammunition, or drop a limited supply of missiles. Stages typically culminate with boss battles.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/MegaMorph (Japan).png</image>
+		<video>./snap/MegaMorph (Japan).mp4</video>
+		<marquee>./wheel/MegaMorph (Japan).png</marquee>
+		<releasedate>19940119T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Action</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212705" />
+	</game>
+	<game id="362428">
+		<path>./microcosm (japan) (rev a).chd</path>
+		<name>Microcosm</name>
+		<desc>In the year 2051, two mega corporations battle it out for supremacy over an overcrowded, overpolluted planet.  CyberTech Industries, the dominant company on the planet, is being challenged by Axiom, who blames the former for their president's death.  To gain revenge, they secretly inject CyberTech's president, Anton Korsby, with a virus that threatens to take over his body, and ultimately destroy himself and CyberTech. Your mission is to enter Korsby's body, destroy the virus, and defeat the organism that controls his brain.
+
+Microcosm is a 3D action shooter that takes place entirely within the human body. The concept was inspired by the 1966 movie Fantastic Voyage. The player pilots his way through various parts of the anatomy, blasting virii and enemy ships while collecting power-ups and a faster, stronger craft. The goal of the game is to eventually reach the brain to stop Grey M, the entity that controls Korsby's body.
+
+Microcosm makes heavy use of full-motion video and features high-resolution fractal graphics (to simulate the walls of veins and arteries), digital music, and sound effects.</desc>
+		<image>./mixart/microcosm (japan) (rev a).png</image>
+		<video>./snap/microcosm (japan) (rev a).mp4</video>
+		<marquee>./wheel/microcosm (japan) (rev a).png</marquee>
+		<releasedate>19930119T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Fujitsu</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111530" />
+	</game>
+	<game id="200036">
+		<path>./mixed-up mother goose.chd</path>
+		<name>Mixed-Up Mother Goose</name>
+		<desc>This is a totally rewritten version of the original Mixed-Up Mother Goose, featuring enhanced MIDI soundtrack, VGA graphics, complete digitized speech along with improved animations and a few other goodies.
+
+This VGA remake is the third and most extensive remake of the game. Not only does it feature brand new VGA graphics, but also a new interface, and the rhymes were given voices, each of them being sung separately. Also an in-game map of the land was added, if the player should ever feel lost in the nursery rhyme world.
+
+The VGA release was made both for floppy and multimedia CD-ROM. The floppy and CD-ROM versions are not completely identical, with the main difference being that CD version features full digital speech, whereas the floppy version only the rhymes were digitally recorded. Finally in 1995 it was again remade as Mixed-Up Mother Goose Deluxe, featuring SVGA graphics.</desc>
+		<image>./mixart/mixed-up mother goose.png</image>
+		<video>./snap/mixed-up mother goose.mp4</video>
+		<marquee>./wheel/mixed-up mother goose.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<md5>c2e3d2fc440b1e10250d2041d6d9d235</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T212844" />
+	</game>
+	<game id="363166">
+		<path>./Monkey Island 2 - LeChuck's Revenge.chd</path>
+		<name>Monkey Island 2 - LeChuck's Revenge</name>
+		<image>./mixart/Monkey Island 2 - LeChuck's Revenge.png</image>
+		<video>./snap/Monkey Island 2 - LeChuck's Revenge.mp4</video>
+		<marquee>./wheel/Monkey Island 2 - LeChuck's Revenge.png</marquee>
+		<family>Monkey Island</family>
+		<md5>f3faf6089dd6a96e5669ae2dd8620fc6</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111532" />
+	</game>
+	<game id="362542">
+		<path>./Operation Wolf (Japan).chd</path>
+		<name>Operation Wolf</name>
+		<desc>You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. 
+It is a "rail-shooter", where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades.  Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds.
+You'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, ... Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough.
+Bosses appear at the end of some levels, and each has a specific weakness you need to exploit.</desc>
+		<image>./mixart/Operation Wolf (Japan).png</image>
+		<video>./snap/Operation Wolf (Japan).mp4</video>
+		<marquee>./wheel/Operation Wolf (Japan).png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Ving</publisher>
+		<genre>Shooter</genre>
+		<family>Operation Wolf</family>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111533" />
+	</game>
+	<game id="363253">
+		<path>./Prince of Persia 2.chd</path>
+		<name>Prince of Persia 2 - The Shadow &amp;amp; The Flame</name>
+		<desc>After having defeated the evil Grand Vizier Jaffar, the brave Prince claimed just one reward: the hand of the beautiful daughter of the Persian Sultan. However, as the Prince approached the palace, his appearance suddenly turned into that of a beggar. Someone who looked just like the Prince ordered to throw him out. It turns out that Jaffar is alive and back for vengeance. Banished from the palace, the unfortunately Prince must travel to faraway lands and find a way to defeat the villain.</desc>
+		<image>./mixart/Prince of Persia 2.png</image>
+		<video>./snap/Prince of Persia 2.mp4</video>
+		<marquee>./wheel/Prince of Persia 2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19941231T200000</releasedate>
+		<developer>Borderbun</developer>
+		<publisher>Interprog</publisher>
+		<genre>Action, Platform</genre>
+		<family>Prince of Persia</family>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213020" />
+	</game>
+	<game>
+		<path>./Prince of Persia.chd</path>
+		<name>Prince of Persia</name>
+		<desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place. Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platform genre.</desc>
+		<image>./mixart/Prince of Persia.jpg</image>
+		<video>./snap/Prince of Persia.mp4</video>
+		<marquee>./wheel/Prince of Persia.png</marquee>
+		<rating>0</rating>
+		<releasedate>19921231T200000</releasedate>
+		<developer>Riverhill</developer>
+		<publisher>Riverhill</publisher>
+		<genre>Action, Platform</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T113349" />
+	</game>
+	<game id="362047">
+		<path>./Pu-Li-Ru-La.chd</path>
+		<name>Pu-Li-Ru-La</name>
+		<desc>PuLiRuLa takes place in Radishland, a land where time is kept correctly flowing with a time key. However, "a bad man appeared and stole the time key to stop the time flow. The towns were attacked one by one, the time flow was stopped and they received damage", as the English translation explains. Zac and Mel, the playable characters, are requested by an old man to defend their town. The old man also gives the children a "magic stick" to fight with</desc>
+		<image>./mixart/Pu-Li-Ru-La.png</image>
+		<video>./snap/Pu-Li-Ru-La.mp4</video>
+		<marquee>./wheel/Pu-Li-Ru-La.png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111533" />
+	</game>
+	<game id="362269">
+		<path>./Puyo Puyo (Japan).cd</path>
+		<name>Puyo Puyo</name>
+		<desc>Puyo Puyo is a falling pieces puzzle, with basic similarities to Tetris. Pairs of puyos (monsters from Compile's RPG series Madō Monogatari)
+fall down from the top into a cylinder. They can be moved left or right, rotated in either direction and made to drop faster. The goal is to get four puyos of the same color touching each other horizontally or vertically. Doing so removes them from the field. Making groups of larger than four, several at the same time or creating chain reactions nets more points. The game ends once the stacked puyos reach the top of the cylinder.
+
+The game offers an endless single-player mode, a two-player mode (first player to fill their cylinder loses) and a mission mode. Mission mode presents the player with a number of pre-filled playing fields with a preset task, like making a minimum number of puyos disappear in one move, or removing all puyos of a certain color.</desc>
+		<image>./mixart/Puyo Puyo (Japan).png</image>
+		<video>./snap/Puyo Puyo (Japan).mp4</video>
+		<marquee>./wheel/Puyo Puyo (Japan).png</marquee>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Tokuma Shoten Intermedia</publisher>
+		<genre>Puzzle-Game / Fall</genre>
+		<family>Puyo Puyo</family>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111534" />
+	</game>
+	<game id="363985">
+		<path>./RAC Rally.chd</path>
+		<name>RAC Rally</name>
+		<desc>This is the first game in the Rally Championship series. Network Q RAC Rally, as well as other titles, gives you an opportunity to participate in a long-running British rally championship. To do so, you can choose one of the five cars: Toyota Celica, Ford Escort, Lancia Delta HF Integrale, Mitsubishi Lancer Evolution and Subaru Impreza. The only customizable thing here is the tire type. Controlling your vehicle is rather easy and driving model isn't complex, however, you can damage your vehicle and end your race before reaching the finish line.</desc>
+		<image>./mixart/RAC Rally.png</image>
+		<video>./snap/RAC Rally.mp4</video>
+		<marquee>./wheel/RAC Rally.png</marquee>
+		<md5>e864f80f505597e4aa7a16bec0c5be93</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111534" />
+	</game>
+	<game id="362461">
+		<path>./Raiden Trad [Raiden Densetsu].chd</path>
+		<name>Raiden Densetsu - Raiden Trad</name>
+		<desc>In the year 2090, Earth is invaded by extra-terrestrials. The World Alliance of Nations has developed a supersonic attack fighter, Raiden, to defend the Earth. A pilot must take control of the experimental fighter to destroy the alien warships that just happen to look like odd variations of typical military tanks and planes with gadgets attached to them. Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scrolling shooter, based on an arcade game of the same title. It features two forms of weapon upgrades and two types of missiles (normal or homing). You start the game with several bombs which you can use to destroy most enemies on the screen to get yourself out of a jam. Each level ends with a large boss or bosses.</desc>
+		<image>./mixart/Raiden Trad [Raiden Densetsu].png</image>
+		<video>./snap/Raiden Trad [Raiden Densetsu].mp4</video>
+		<marquee>./wheel/Raiden Trad [Raiden Densetsu].png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Raiden</family>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213154" />
+	</game>
+	<game id="497">
+		<path>./Rainbow Islands Extra.chd</path>
+		<name>Rainbow Islands Extra</name>
+		<desc>Rainbow Islands Extra is a conversion of the classic Taito coin-op Rainbow Islands. Included on the cartridge are conversions of both the original game and the reworked "Extra Version", in which the stages and bosses have been rearranged to be more challenging. As with the other versions, the game is set in the titular Rainbow Islands, where the two boys Bub and Bob (no longer small dragons as in Bubble Bobble) must free the islands from the evil monsters who have overrun them, by using the magical power of rainbows! In addition to both the Original and Extra modes, the game also includes three difficulty levels.</desc>
+		<image>./mixart/Rainbow Islands Extra.png</image>
+		<video>./snap/Rainbow Islands Extra.mp4</video>
+		<marquee>./wheel/Rainbow Islands Extra.png</marquee>
+		<releasedate>19901005T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213239" />
+	</game>
+	<game id="362806">
+		<path>./Rayxanber.chd</path>
+		<name>Rayxanber</name>
+		<desc>Rayxanber is a horizontally scrolling shooter in which the player controls an aircraft protecting the Earth from the evil alien Zoul Empire. The Zoul civilization is biomechanic, and their organic ships pose unseen threat to our planet. The game follows a traditional side-scrolling shoot-em-up template, and is similar to Gradius and R-Type. The player has to survive an onslaught of continuously appearing biomechanic ships and destroy large organic fortresses in boss battles. The player is also able to collect elemental power-ups which will change the properties of the ship's weapons.</desc>
+		<image>./mixart/Rayxanber.png</image>
+		<video>./snap/Rayxanber.mp4</video>
+		<marquee>./wheel/Rayxanber.png</marquee>
+		<releasedate>19900119T000000</releasedate>
+		<developer>Data West</developer>
+		<publisher>Data West</publisher>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111539" />
+	</game>
+	<game id="362116">
+		<path>./Shadow of the Beast - Mashou No Okite (Japan).chd</path>
+		<name>Shadow of the Beast - Mashou no Okite</name>
+		<desc>Shadow of the Beast is a side-scrolling platformer with a side-shooter elements (by the end). The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers that open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.</desc>
+		<image>./mixart/Shadow of the Beast - Mashou No Okite (Japan).png</image>
+		<video>./snap/Shadow of the Beast - Mashou No Okite (Japan).mp4</video>
+		<marquee>./wheel/Shadow of the Beast - Mashou No Okite (Japan).png</marquee>
+		<family>Shadow of the Beast</family>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111541" />
+	</game>
+	<game id="362113">
+		<path>./Shadow of the Beast II - Juushin no Jubaku (Japan).chd</path>
+		<name>Shadow of the Beast II : Juushin no Jubaku</name>
+		<desc>Essentially a side-on scrolling beat 'em up in the vein of The Way of the Exploding Fist, but with an epic storyline and puzzles a-plenty. The introduction, now an Amiga classic, shows the Beast-mage stealing your infant sister and the purpose of the game is to rescue her back. On the way a variety of puzzles, sub-quests and really nasty monsters dog your every step.</desc>
+		<image>./mixart/Shadow of the Beast II - Juushin no Jubaku (Japan).png</image>
+		<video>./snap/Shadow of the Beast II - Juushin no Jubaku (Japan).mp4</video>
+		<marquee>./wheel/Shadow of the Beast II - Juushin no Jubaku (Japan).png</marquee>
+		<family>Shadow of the Beast</family>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111540" />
+	</game>
+	<game id="362341">
+		<path>./Sherlock Holmes - Consulting Detective (Japan) (En,Ja).cd</path>
+		<name>Sherlock Holmes - Consulting Detective</name>
+		<desc>In this game, the player is cast into the roles of Sherlock Holmes, the greatest fictional detective of all times, and his friend and partner Dr. Watson, as they have to investigate and successfully solve three criminal cases: The Mummy's Curse deals with the horrifying death of three men, which were apparently murdered by an ancient mummy; The Mystified Murderess involves a woman who has been convicted for murdering her beloved one, but cannot seem to recall anything of what had happened to her; The Tin Soldier concerns the murder of an old general, whose past must be investigated in order to find the killer.</desc>
+		<image>./mixart/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).jpg</image>
+		<video>./snap/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).mp4</video>
+		<marquee>./wheel/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).png</marquee>
+		<releasedate>19911201T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Adventure</genre>
+		<family>Sherlock Holmes</family>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111540" />
+	</game>
+	<game id="362200">
+		<path>./SimCity.chd</path>
+		<name>SimCity</name>
+		<desc>SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories, and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods, and fires are all emergency situations that must be dealt with to contain any damage.
+
+Successful mayoring will cause the small village to grow into a town, then a city, and finally a metropolis. As the city's size grows so do its needs. Commercial buildings may suddenly find that they need an airport to expand trade, or housing may find itself changing rapidly as vast amounts of people come and leave.</desc>
+		<image>./mixart/SimCity.png</image>
+		<video>./snap/SimCity.mp4</video>
+		<marquee>./wheel/SimCity.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Simulation</genre>
+		<family>SimCity</family>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111540" />
+	</game>
+	<game id="362290">
+		<path>./Splatterhouse (Japan).cd</path>
+		<name>Splatterhouse</name>
+		<desc>Splatterhouse is the first game in the series, but only the second game to appear on a home console (after Splatterhouse: Wanpaku Graffiti on the NES), which was later continued on the SEGA Genesis.
+
+Rick and his girlfriend Jennifer enter West Mansion (known as Splatterhouse) to study Dr. West's parapsychology teachings for a school project.  After a flash of lightning and a scream, Jennifer is gone, and Rick is left wearing the Terror Mask, which gives the wearer great strength.
+
+Rick must survive seven blood-soaked levels full of corpses, demons, and other disturbing creatures in this arcade side-scrolling beat-em-up. Several weapons are at Rick's disposal throughout the house, such as a meat cleaver, a two by four, and a shotgun. If Rick wants to find Jennifer alive, he must move quickly through the floors of the mansion.... as a happy reunion is not always guaranteed.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/Splatterhouse (Japan).png</image>
+		<video>./snap/Splatterhouse (Japan).mp4</video>
+		<marquee>./wheel/Splatterhouse (Japan).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Namco Limited</developer>
+		<publisher>Ving</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T113353" />
+	</game>
+	<game id="362410">
+		<path>./Super Street Fighter II - The New Challengers (Japan).cd</path>
+		<name>Super Street Fighter II : The New Challengers</name>
+		<desc>Super Street Fighter II is a sequel to Street Fighter II Turbo and Street Fighter II Champion Edition. The game features four new characters and stages, making a total of sixteen playable. It also features many multiplayer modes in addition to the single-player mode. Among those is the returning elimination group battle, where players compete for the title of the champion, and Point Battle, where the person with the most points wins. Newer modes include an eight-man double-elimination tournament and a Challenge mode, where players attempt to get the most points on a CPU opponent or beat them as fast as possible, trying to surpass records.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/Super Street Fighter II - The New Challengers (Japan).png</image>
+		<video>./snap/Super Street Fighter II - The New Challengers (Japan).mp4</video>
+		<marquee>./wheel/Super Street Fighter II - The New Challengers (Japan).png</marquee>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<family>Street Fighter</family>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111549" />
+	</game>
+	<game id="363847">
+		<path>./Syndicate (Japan).cd</path>
+		<name>Syndicate</name>
+		<desc>In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hitman) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
+
+The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real-time rather than turn-based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these, you direct a team of four agents as they move through the world shooting at anything that gets in their way.
+
+You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/Syndicate (Japan).png</image>
+		<video>./snap/Syndicate (Japan).mp4</video>
+		<marquee>./wheel/Syndicate (Japan).png</marquee>
+		<releasedate>19940119T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts Victor</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111548" />
+	</game>
+	<game id="362311">
+		<path>./Taito Chase HQ (Japan).chd</path>
+		<name>Taito Chase H.Q.</name>
+		<desc>As an undercover agent of Chase Headquarters, your job is to patrol the streets and track down five criminals. You are given a mission briefing before you start which gives information on the suspect and what car they drive. Then you drive across the city without crashing into other cars, and catch up with the criminal's car. To arrest the suspects, you must keep bumping into their car until it is no longer functional. And you have to do this under a strict time limit. You can't afford to crash into cars or buildings or you waste time getting on the road again. However, once you've caught up with your suspect, you are given more time. Your car is also equipped with turbo boosts, which you can use to gain extra speed if you are way behind the criminal. Each arrest is based on a "suspicion".</desc>
+		<image>./mixart/Taito Chase HQ (Japan).png</image>
+		<video>./snap/Taito Chase HQ (Japan).mp4</video>
+		<marquee>./wheel/Taito Chase HQ (Japan).png</marquee>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Ving</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111549" />
+	</game>
+	<game id="362212">
+		<path>./Tatsujin Oh.chd</path>
+		<name>Tatsujin-ou</name>
+		<desc>Volcanic eruptions have been occurring on a deserted planet somewhere in deep space for quite some time. Then, on a fateful day, they culminated in a gigantic explosion, and a terrifying creature appeared. It is the emperor of the Gidans, thought to be defeated in the last galactic war. Now, the threat is back: the Gidans army is quickly assembled, and in a short time they dominate the galaxy again. Only a handful of refugees escape to deliver the news to the astroport. A pilot navigating the HyperFighter One aircraft is sent to stop the Gidans once and for all. Also known as Truxton II, is a vertically scrolling shooter. The player-controlled aircraft has three basic weapons (distinguished by the colors of corresponding power-ups) and bombs at his disposal. The rest of the power-ups are also the same as in the first game: increasing the ship's speed, the amount of bombs, and the lives of the player characters. A special power-up can also summon two wingmen to fight alongside the hero. Beside the single-player mode, the game also includes co-op multiplayer.</desc>
+		<image>./mixart/Tatsujin Oh.png</image>
+		<video>./snap/Tatsujin Oh.mp4</video>
+		<marquee>./wheel/Tatsujin Oh.png</marquee>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Ving Co.</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213449" />
+	</game>
+	<game id="906">
+		<path>./The New Zealand Story.chd</path>
+		<name>New Zealand Story The</name>
+		<desc>One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook. 
+
+If Tiki doesn't rescue a kiwi in a limited amount of time, the devil will appear and try to kill her. When Tiki reaches the outskirts of each city, except Strait Cook, there is a boss waiting to meet Tiki, and kill her by using their own choice of weapons. Also making the rescue mission difficult are several nasties that attempt to throw their own weapons, like bombs and arrows, at her. To defeat these enemies, Tiki shoots at them using her crossbow and arrows. More often than not, when Tiki shoots at enemies, they will leave behind pieces of fruit that she can pick up for points. However, it is likely that Tiki may get other weapons or the letters E, X, T, E, N, and D. Collecting all these letters will result in an extra life, and as for the weapons, they include laser shots, bombs, and fireballs. 
+
+In some levels, a few areas are located further up than just left or right, and the only way that Tiki can go up is by snatching something off the enemy that gives her the ability to fly up. Other areas are underwater, and when Tiki goes underwater, her oxygen  meter decreases, so she has to rise up to the surface again to restore her oxygen levels. Apart from her own weapons, Tiki is able to squirt water at enemies if she gets to the top of the water.</desc>
+		<image>./mixart/The New Zealand Story.png</image>
+		<video>./snap/The New Zealand Story.mp4</video>
+		<marquee>./wheel/The New Zealand Story.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tecmagik</developer>
+		<publisher>Tecmagik</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>44c8a43aa8062b8bc59d21ddeec6191f</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213602" />
+	</game>
+	<game id="362716">
+		<path>./The Secret of Monkey Island.chd</path>
+		<name>Secret of Monkey Island The</name>
+		<image>./mixart/The Secret of Monkey Island.png</image>
+		<video>./snap/The Secret of Monkey Island.mp4</video>
+		<marquee>./wheel/The Secret of Monkey Island.png</marquee>
+		<family>Monkey Island</family>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T213838" />
+	</game>
+	<game id="362332">
+		<path>./Turbo OutRun (Japan).chd</path>
+		<name>Turbo OutRun</name>
+		<desc>The sequel to OutRun features similar basic gameplay to the original, with the action viewed from behind the car, and the challenge being to complete each stage within the time limit. Contact can cause the car to spin, slow down or even flip; in each case you will lose time. There are branching routes and a raft of new features: changed weather conditions, night racing, obstacles on the tracks, optional automatic gears, annoying police cars. There are 16 stages set across the US, gradually moving from east to west, all depicted differently visually. After every 4 levels, you go into a shop screen, with a choice of upgrades. As the title implies, you now have a turbo booster installed, which speeds up the car, although over-use can cause the engine to overheat, and it is not recharged until each shop section. You have 5 continues, and failure to complete the course within the time limit costs you one.</desc>
+		<image>./mixart/Turbo OutRun (Japan).png</image>
+		<video>./snap/Turbo OutRun (Japan).mp4</video>
+		<marquee>./wheel/Turbo OutRun (Japan).png</marquee>
+		<family>OutRun</family>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111553" />
+	</game>
+	<game id="363856">
+		<path>./ultima iv - quest of the avatar.chd</path>
+		<name>Ultima 4 - Quest of the Avatar</name>
+		<desc>Following the defeat of the evil triad in the previous three Ultima games, the world of Sosaria changed beyond recognition: continents rose and sank, and new cities were built, heralding the advent of a different civilization. Unified by the reign of the benevolent monarch Lord British, the new world was renamed Britannia. 
+
+Lord British wished to base people's well-being on the ethical principles of Truth, Love, and Courage, proclaiming the Eight Virtues (Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility) as the ideal everyone should strive for. The person who could accomplish full understanding and realization of these virtues would serve as a spiritual leader and a moral example for the inhabitants of Britannia; he alone would be able to obtain holy artifacts, descend into the Stygian Abyss, and access the Codex of Ultimate Wisdom. This person is the Avatar.</desc>
+		<image>./mixart/ultima iv - quest of the avatar.png</image>
+		<video>./snap/Ultima IV - Quest of the Avatar.mp4</video>
+		<marquee>./wheel/Ultima IV - Quest of the Avatar.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>5b322350a9b16c3b3a55805036452fb7</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T214141" />
+	</game>
+	<game id="362155">
+		<path>./ultima trilogy i-ii-iii.chd</path>
+		<name>Ultima Trilogy - 1, 2, 3</name>
+		<desc>The FM Towns version has re-vamped graphics: overworld and towns look on par with Ultima IV, while the detail in the dungeon graphics is close to the level of the fifth game (as opposed to simple vector lines in the other versions). It also has CD-quality music and new intros for each one of the games.
+
+This compilation contains:
+Ultima
+Ultima II: The Revenge of the Enchantress
+Exodus: Ultima III</desc>
+		<image>./mixart/ultima trilogy i-ii-iii.png</image>
+		<video>./snap/ultima trilogy i-ii-iii.mp4</video>
+		<marquee>./wheel/ultima trilogy i-ii-iii.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19901001T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>f69c8a989a569755156da492d645f4ab</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111554" />
+	</game>
+	<game id="363286">
+		<path>./ultima v - warriors of destiny.chd</path>
+		<name>Ultima 5 - Warriors of Destiny</name>
+		<desc>The Avatar, the embodiment of the Eight Virtues and the hero of Britannia, is called back to deal with a grave threat. 
+
+Lord British, the country's benevolent monarch, has disappeared, and a man named Blackthorn has usurped his throne. The tyrant rules the land by enforcing the virtues upon the will of the people, corrupting their meaning in the process. 
+
+His fundamentalist visions led him to create a police state, where failure to adhere to the virtues is punishable by death. Behind Blackthorn are the three Shadowlords, anti-thesis to the three principles of Truth, Love, and Courage. 
+
+The Avatar must understand their meaning and origins, find a way to defeat them, rescue Lord British, and restore the former ethical principles of Britannia.</desc>
+		<image>./mixart/ultima v - warriors of destiny.png</image>
+		<video>./snap/ultima v - warriors of destiny.mp4</video>
+		<marquee>./wheel/ultima v - warriors of destiny.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<md5>cd36b0fb48e910bd6e18a1f3c064c621</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111557" />
+	</game>
+	<game id="363289">
+		<path>./ultima vi - the false prophet.chd</path>
+		<name>Ultima 6 - The False Prophet</name>
+		<desc>Several years after having restored Lord British to his rightful position as the monarch of Britannia, the Avatar is captured by demon-like creatures and placed on a sacrificial altar. His friends Iolo, Shamino and Dupre appear just in time to save him. 
+
+In the Britannia castle, the Avatar learns that his abductors were gargoyles, a race of enigmatic creatures who have recently invaded Britannia and occupied the shrines of Virtue. 
+
+As the Avatar embarks on a quest to liberate Britannia, he begins to gain insight into the gargoyles' true motives, and realizes that it is his duty to achieve peace and understanding between the two races.</desc>
+		<image>./mixart/ultima vi - the false prophet.png</image>
+		<video>./snap/ultima vi - the false prophet.mp4</video>
+		<marquee>./wheel/ultima vi - the false prophet.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Fujitsu Limited</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111556" />
+	</game>
+	<game id="362149">
+		<path>./Viewpoint.chd</path>
+		<name>Viewpoint</name>
+		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
+
+One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
+		<image>./mixart/Viewpoint.png</image>
+		<video>./snap/Viewpoint.mp4</video>
+		<marquee>./wheel/Viewpoint.png</marquee>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Ving</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111557" />
+	</game>
+	<game id="33314">
+		<path>./Zak McKracken.chd</path>
+		<name>Zak McKracken and the Alien Mindbenders</name>
+		<desc>Zak McKracken is a tabloid reporter (and not a very good one at that).  Based upon a psychadelic dream, Zak one day realizes that something is wrong -- Space Aliens are dumbifying the general public through the telephone system.  Zak must stop this, but he can't do it alone.  After finding a magic crystal (or some sort of crystal), Zak manages to get the help of Anthropologist, Annie, and her friends, Melissa and Leslie.  Between the four characters (all of which you control), you can destroy the dumbifying devices and save the earth.  Not too bad for a tabloid reporter.</desc>
+		<image>./mixart/Zak McKracken.png</image>
+		<video>./snap/Zak McKracken.mp4</video>
+		<marquee>./wheel/Zak McKracken.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230325T214918" />
+		<scrap name="TheGamesDB" date="20230325T214325" />
+	</game>
+	<game id="362398">
+		<path>./After Burner III (Japan).cd</path>
+		<name>After Burner III</name>
+		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
+
+The title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
+
+Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/After Burner III (Japan).png</image>
+		<video>./snap/After Burner III (Japan).mp4</video>
+		<marquee>./wheel/After Burner III (Japan).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>CSK</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111439" />
+	</game>
+	<game id="362539">
+		<path>./death brade (japan).chd</path>
+		<name>Death Brade</name>
+		<desc>Mutant Fighter is a versus fighting game with several stand-out features. With the exception of Hercules, playable characters have no names: they either represent a warrior class (Fighter, Amazoness), or are popular mythological beings (Minotaur, Beast, Dragon, and Golem). The game has two modes: single-player, in which the player selects a fighter and competes against computer-controlled opponents in a strict order, and two-player mode, where both players can choose their characters. Unlike most versus fighting games, the battles take place on a square arena instead of the usual horizontal screens. Wrestling moves (such as grappling) are widely utilized. Special energy can be accumulated and then unleashed as powerful attacks.</desc>
+		<image>./mixart/death brade (japan).png</image>
+		<video>./snap/death brade (japan).mp4</video>
+		<marquee>./wheel/death brade (japan).png</marquee>
+		<releasedate>19920119T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111500" />
+	</game>
+	<game id="362452">
+		<path>./Loom (Japan).chd</path>
+		<name>Loom</name>
+		<desc>Loom is an adventure game that sets itself apart from other titles in the genre through its unique gameplay system: the player character does not carry items around, but rather manipulates objects through the use of spells (called "drafts" in the game). The drafts themselves are woven by playing magical notes on a special instrument called "distaff". All the puzzles in the game are solved by learning and correctly applying these drafts. 
+
+Each draft is a sequence of four notes within one octave. The player learns new drafts by exploring the environment and interacting with it through a simple point-and-click interface. Once a draft has been learned, it may be applied in a different situation in order to solve a problem. Drafts range from simple general actions (such as opening) to more specific and complex commands, e.g. turning straw into gold. Drafts can also be "reversed", i.e. played backwards, in order to execute the opposite action (for example, closing something instead of opening). As the game progresses Bobbin learns to play higher notes on the distaff, allowing him to access more drafts.</desc>
+		<image>./mixart/Loom (Japan).png</image>
+		<video>./snap/Loom (Japan).mp4</video>
+		<marquee>./wheel/Loom (Japan).png</marquee>
+		<releasedate>19910119T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Adventure</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T111522" />
+	</game>
+</gameList>

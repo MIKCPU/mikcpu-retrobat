@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./txmenpx.cmd</path>
+		<name>X-Men Project-X</name>
+		<desc>Tiger Electronics presents X-Men Project-X</desc>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<image>./mixart/txmenpx.png</image>
+		<video>./snap/txmenpx.mp4</video>
+		<marquee>./wheel/txmenpx.png</marquee>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./taltbeast.cmd</path>
+		<name>Altered Beast</name>
+		<desc>Tiger Electronics presents Altered Beast</desc>
+		<image>./mixart/taltbeast.png</image>
+		<video>./snap/taltbeast.mp4</video>
+		<marquee>./wheel/taltbeast.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tapollo13.cmd</path>
+		<name>Apollo 13</name>
+		<desc>Tiger Electronics presents Apollo 13</desc>
+		<image>./mixart/tapollo13.png</image>
+		<video>./snap/tapollo13.mp4</video>
+		<marquee>./wheel/tapollo13.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbatfor.cmd</path>
+		<name>Batman Forever</name>
+		<desc>Tiger Electronics presents Batman Forever</desc>
+		<image>./mixart/tbatfor.png</image>
+		<video>./snap/tbatfor.mp4</video>
+		<marquee>./wheel/tbatfor.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbttf.cmd</path>
+		<name>Back to the Future</name>
+		<desc>Tiger Electronics presents Back to the Future</desc>
+		<image>./mixart/tbttf.png</image>
+		<video>./snap/tbttf.mp4</video>
+		<marquee>./wheel/tbttf.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tdennis.cmd</path>
+		<name>Dennis the Menace</name>
+		<desc>Tiger Electronics presents Dennis the Menace</desc>
+		<image>./mixart/tdennis.png</image>
+		<video>./snap/tdennis.mp4</video>
+		<marquee>./wheel/tdennis.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tdummies.cmd</path>
+		<name>The Crash Dummies</name>
+		<desc>Tiger Electronics presents The Crash Dummies</desc>
+		<image>./mixart/tdummies.png</image>
+		<video>./snap/tdummies.mp4</video>
+		<marquee>./wheel/tdummies.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tflash.cmd</path>
+		<name>The Flash</name>
+		<desc>Tiger Electronics presents The Flash</desc>
+		<image>./mixart/tflash.png</image>
+		<video>./snap/tflash.mp4</video>
+		<marquee>./wheel/tflash.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./thalone2.cmd</path>
+		<name>Home Alone 2</name>
+		<desc>Tiger Electronics presents Home Alone 2</desc>
+		<image>./mixart/thalone2.png</image>
+		<video>./snap/thalone2.mp4</video>
+		<marquee>./wheel/thalone2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./thook.cmd</path>
+		<name>Hook</name>
+		<desc>Tiger Electronics presents Hook</desc>
+		<image>./mixart/thook.png</image>
+		<video>./snap/thook.mp4</video>
+		<marquee>./wheel/thook.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tjpark.cmd</path>
+		<name>Jurassic Park</name>
+		<desc>Tiger Electronics presents Jurassic Park</desc>
+		<image>./mixart/tjpark.png</image>
+		<video>./snap/tjpark.mp4</video>
+		<marquee>./wheel/tjpark.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tkarnov.cmd</path>
+		<name>Karnov</name>
+		<desc>Tiger Electronics presents Karnov</desc>
+		<image>./mixart/tkarnov.png</image>
+		<video>./snap/tkarnov.mp4</video>
+		<marquee>./wheel/tkarnov.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tnmarebc.cmd</path>
+		<name>The Nightmare Before Christmas</name>
+		<desc>Tiger Electronics presents The Nightmare Before Christmas</desc>
+		<image>./mixart/tnmarebc.png</image>
+		<video>./snap/tnmarebc.mp4</video>
+		<marquee>./wheel/tnmarebc.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./topaliens.cmd</path>
+		<name>Operation Aliens</name>
+		<desc>Tiger Electronics presents Operation Aliens</desc>
+		<image>./mixart/topaliens.png</image>
+		<video>./snap/topaliens.mp4</video>
+		<marquee>./wheel/topaliens.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./trobocop3.cmd</path>
+		<name>Robocop 3</name>
+		<desc>Tiger Electronics presents Robocop 3</desc>
+		<image>./mixart/trobocop3.png</image>
+		<video>./snap/trobocop3.mp4</video>
+		<marquee>./wheel/trobocop3.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tshadow.cmd</path>
+		<name>Shadow</name>
+		<desc>Tiger Electronics presents Shadow</desc>
+		<image>./mixart/tshadow.png</image>
+		<video>./snap/tshadow.mp4</video>
+		<marquee>./wheel/tshadow.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsharr2.cmd</path>
+		<name>Space Harrier 2</name>
+		<desc>Tiger Electronics presents Space Harrier 2</desc>
+		<image>./mixart/tsharr2.png</image>
+		<video>./snap/tsharr2.mp4</video>
+		<marquee>./wheel/tsharr2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsjam.cmd</path>
+		<name>Space Jam</name>
+		<desc>Tiger Electronics presents Space Jam</desc>
+		<image>./mixart/tsjam.png</image>
+		<video>./snap/tsjam.mp4</video>
+		<marquee>./wheel/tsjam.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tskelwarr.cmd</path>
+		<name>Skeleton Warriors</name>
+		<desc>Tiger Electronics presents Skeleton Warriors</desc>
+		<image>./mixart/tskelwarr.png</image>
+		<video>./snap/tskelwarr.mp4</video>
+		<marquee>./wheel/tskelwarr.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsonic2.cmd</path>
+		<name>Sonic The Hedghog 2</name>
+		<desc>Tiger Electronics presents Sonic The Hedghog 2</desc>
+		<image>./mixart/tsonic2.png</image>
+		<video>./snap/tsonic2.mp4</video>
+		<marquee>./wheel/tsonic2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tspidman.cmd</path>
+		<name>Spiderman</name>
+		<desc>Tiger Electronics presents Spiderman</desc>
+		<image>./mixart/tspidman.png</image>
+		<video>./snap/tspidman.mp4</video>
+		<marquee>./wheel/tspidman.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tstrider.cmd</path>
+		<name>Strider</name>
+		<desc>Tiger Electronics presents Strider</desc>
+		<image>./mixart/tstrider.png</image>
+		<video>./snap/tstrider.mp4</video>
+		<marquee>./wheel/tstrider.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tswampt.cmd</path>
+		<name>Swamp Thing</name>
+		<desc>Tiger Electronics presents Swamp Thing</desc>
+		<image>./mixart/tswampt.png</image>
+		<video>./snap/tswampt.mp4</video>
+		<marquee>./wheel/tswampt.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tvindictr.cmd</path>
+		<name>Vindicator</name>
+		<desc>Tiger Electronics presents Vindicator</desc>
+		<image>./mixart/tvindictr.png</image>
+		<video>./snap/tvindictr.mp4</video>
+		<marquee>./wheel/tvindictr.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./taddams.cmd</path>
+		<name>Addams Family</name>
+		<desc>Tiger Electronics presents Addams Family</desc>
+		<image>./mixart/taddams.png</image>
+		<video>./snap/taddams.mp4</video>
+		<marquee>./wheel/taddams.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbatmana.cmd</path>
+		<name>Batman Animated Series</name>
+		<desc>Tiger Electronics presents Batman Animated Series</desc>
+		<image>./mixart/tbatmana.png</image>
+		<video>./snap/tbatmana.mp4</video>
+		<marquee>./wheel/tbatmana.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbtoads.cmd</path>
+		<name>Battle Toads</name>
+		<desc>Tiger Electronics presents Battle Toads</desc>
+		<image>./mixart/tbtoads.png</image>
+		<video>./snap/tbtoads.mp4</video>
+		<marquee>./wheel/tbtoads.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tddragon.cmd</path>
+		<name>Double Dragon</name>
+		<desc>Tiger Electronics presents Double Dragon</desc>
+		<image>./mixart/tddragon.png</image>
+		<video>./snap/tddragon.mp4</video>
+		<marquee>./wheel/tddragon.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tgaunt.cmd</path>
+		<name>Gauntlet</name>
+		<desc>Tiger Electronics presents Gauntlet</desc>
+		<image>./mixart/tgaunt.png</image>
+		<video>./snap/tgaunt.mp4</video>
+		<marquee>./wheel/tgaunt.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tgoldeye.cmd</path>
+		<name>Golden Eye 007</name>
+		<desc>Tiger Electronics presents Golden Eye 007</desc>
+		<image>./mixart/tgoldeye.png</image>
+		<video>./snap/tgoldeye.mp4</video>
+		<marquee>./wheel/tgoldeye.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tgoldnaxe.cmd</path>
+		<name>Golden Axe</name>
+		<desc>Tiger Electronics presents Golden Axe</desc>
+		<image>./mixart/tgoldnaxe.png</image>
+		<video>./snap/tgoldnaxe.mp4</video>
+		<marquee>./wheel/tgoldnaxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./thalone.cmd</path>
+		<name>Home Alone</name>
+		<desc>Tiger Electronics presents Home Alone</desc>
+		<image>./mixart/thalone.png</image>
+		<video>./snap/thalone.mp4</video>
+		<marquee>./wheel/thalone.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tjdredd.cmd</path>
+		<name>Judge Dredd</name>
+		<desc>Tiger Electronics presents Judge Dredd</desc>
+		<image>./mixart/tjdredd.png</image>
+		<video>./snap/tjdredd.mp4</video>
+		<marquee>./wheel/tjdredd.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tkazaam.cmd</path>
+		<name>Kazaam</name>
+		<desc>Tiger Electronics presents Kazaam</desc>
+		<image>./mixart/tkazaam.png</image>
+		<video>./snap/tkazaam.mp4</video>
+		<marquee>./wheel/tkazaam.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tmchammer.cmd</path>
+		<name>MC Hammer</name>
+		<desc>Tiger Electronics presents MC Hammer</desc>
+		<image>./mixart/tmchammer.png</image>
+		<video>./snap/tmchammer.mp4</video>
+		<marquee>./wheel/tmchammer.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsddragon.cmd</path>
+		<name>Super Double Dragon</name>
+		<desc>Tiger Electronics presents Super Double Dragon</desc>
+		<image>./mixart/tsddragon.png</image>
+		<video>./snap/tsddragon.mp4</video>
+		<marquee>./wheel/tsddragon.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsf2010.cmd</path>
+		<name>Street Fighter 2010</name>
+		<desc>Tiger Electronics presents Street Fighter 2010</desc>
+		<image>./mixart/tsf2010.png</image>
+		<video>./snap/tsf2010.mp4</video>
+		<marquee>./wheel/tsf2010.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsfight2.cmd</path>
+		<name>Street Fighter 2</name>
+		<desc>Tiger Electronics presents Street Fighter 2</desc>
+		<image>./mixart/tsfight2.png</image>
+		<video>./snap/tsfight2.mp4</video>
+		<marquee>./wheel/tsfight2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tsonic.cmd</path>
+		<name>Sonic</name>
+		<desc>Tiger Electronics presents Sonic</desc>
+		<image>./mixart/tsonic.png</image>
+		<video>./snap/tsonic.mp4</video>
+		<marquee>./wheel/tsonic.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ttransf2.cmd</path>
+		<name>Transformers Generation 2</name>
+		<desc>Tiger Electronics presents Transformers Generation 2</desc>
+		<image>./mixart/ttransf2.png</image>
+		<video>./snap/ttransf2.mp4</video>
+		<marquee>./wheel/ttransf2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./twworld.cmd</path>
+		<name>Waynes World</name>
+		<desc>Tiger Electronics presents Waynes World</desc>
+		<image>./mixart/twworld.png</image>
+		<video>./snap/twworld.mp4</video>
+		<marquee>./wheel/twworld.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tmkombat.cmd</path>
+		<name>Mortal Kombat</name>
+		<desc>Tiger Electronics presents Mortal Kombat</desc>
+		<image>./mixart/tmkombat.png</image>
+		<video>./snap/tmkombat.mp4</video>
+		<marquee>./wheel/tmkombat.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbatman.cmd</path>
+		<name>Batman</name>
+		<desc>Tiger Electronics presents Batman</desc>
+		<image>./mixart/tbatman.png</image>
+		<video>./snap/tbatman.mp4</video>
+		<marquee>./wheel/tbatman.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./txmen.cmd</path>
+		<name>X-Men</name>
+		<desc>Tiger Electronics presents X-Men</desc>
+		<image>./mixart/txmen.png</image>
+		<video>./snap/txmen.mp4</video>
+		<marquee>./wheel/txmen.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+</gameList>

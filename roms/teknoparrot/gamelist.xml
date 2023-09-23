@@ -1,0 +1,2127 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./FNFSB.parrot</path>
+		<name>The Fast and the Furious Super Bikes</name>
+		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious Super Bikes.png</image>
+		<video>./snap/The Fast and the Furious Super Bikes.mp4</video>
+		<marquee>./wheel/The Fast and the Furious Super Bikes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FNFSB2.parrot</path>
+		<name>Super Bikes 2</name>
+		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
+		<image>./mixart/Super Bikes 2.png</image>
+		<video>./snap/Super Bikes 2.mp4</video>
+		<marquee>./wheel/Super Bikes 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./OG.parrot</path>
+		<name>Operation G.H.O.S.T.</name>
+		<desc>Sega's realistic tactical arcade light gun shooter is back. Operation G.H.O.S.T. puts players in the shoes of highly trained special force agents. They must use precision shooting and quick reactions to complete the mission whilst using some of the brand new tools at their disposal! As well as new weapons, gadgets and equipment, Operation Ghost features a full coloured LED monitor surround which is synced with the in game action. This, combined with a gun mounted speaker, as well as the return of the popular challenge sections, provides a game play experience that will really immerse players in to the intense world of the G.H.O.S.T.'s.</desc>
+		<image>./mixart/Operation G.H.O.S.T.png</image>
+		<video>./snap/Operation G.H.O.S.T.mp4</video>
+		<marquee>./wheel/Operation G.H.O.S.T.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ElevatorAction.parrot</path>
+		<name>Elevator Action</name>
+		<desc>The player assumes the role of a spy who infiltrates a building filled with elevators. He must collect secret documents from the building and traverse the 30 levels of the building using an increasingly complex series of elevators. The player is pursued by enemy agents who appear from behind closed doors. The player must outwit them via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems are so complex that some puzzle-solving skills are needed.</desc>
+		<image>./mixart/Elevator Action.png</image>
+		<video>./snap/Elevator Action.mp4</video>
+		<marquee>./wheel/Elevator Action.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160101T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RastanSaga.parrot</path>
+		<name>Rastan Saga</name>
+		<desc>A barbarian's adventure across varying terrain while encountering an assortment of mythological creatures and weapons. Pick up bonus items to increase your characters health or protection against attack, but beware of the cursed items.</desc>
+		<image>./mixart/Rastan Saga.png</image>
+		<video>./snap/Rastan Saga.mp4</video>
+		<marquee>./wheel/Rastan Saga.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160101T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SpaceInvaders.parrot</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon.</desc>
+		<image>./mixart/Space Invaders.png</image>
+		<video>./snap/Space Invaders.mp4</video>
+		<marquee>./wheel/Space Invaders.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<publisher>NESiCAxLive</publisher>
+		<genre>Action / Attack</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mballblitz.parrot</path>
+		<name>Super Monkey Ball Ticket Blitz</name>
+		<desc>Super Monkey Ball: Ticket Blitz is an arcade game released as part of the Super Monkey Ball series. It is a redemption game, in which progressing through levels will give the users tickets (hence "Ticket Blitz") which would then be traded in for prizes.</desc>
+		<image>./mixart/Super Monkey Ball Ticket Blitz.png</image>
+		<video>./snap/Super Monkey Ball Ticket Blitz.mp4</video>
+		<marquee>./wheel/Super Monkey Ball Ticket Blitz.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./HOTDSD.parrot</path>
+		<name>House of the Dead: Scarlet Dawn</name>
+		<desc>**PATREON REQUIRED VIA TEKNOPARROT** PLAY FROM PC-GAMES FOR WINDOWS** House of the Dead: Scarlet Dawn is the fifth arcade game in the House of the Dead series. It takes place in 2006, between the events of The House of the Dead 4 and The House of the Dead III. The game's story follows AMS agents Kate Green and Ryan Taylor who infiltrate Scarecrow Manor just as a horde of bioengineered creatures attack. From then on they have to fight their way to safety while exploring the mansion and uncovering who is behind the outbreak. Like in previous games in the series, the player uses a gun controller to shoot enemies as they appear on the screen. Each creature has a weak spot that deals extra damage when hit. In addition to the monsters, there are also civilians that have to be avoided. The player also has to keep track of the partner who at any time might need to be rescued. Failure to do so before time runs out leads to a life penalty. A new feature to the series is the introduction of quick-time events in which the player needs to quickly shoot a specific target. Reloading is automatic but can also be done manually by pointing outside the screen. In addition to the main machine gun, the player can choose two more items (shotgun, grenade, rocket launcher, etc.) ahead of each level. In the Japanese version, items are bought with coins which are awarded for successful actions such as critical shots, collectibles obtained and saved civilians while in the international versions items can be chosen freely. Another Japan-exclusive feature is the use of Aime cards. They are used for storing progress, keeping collected coins, completing achievements, checking high scores and taking part in national leaderboards. Part of the Aime functionality is also a level system where players earn experience for each stage completed and are rewarded with coins for every level up. The game has two game modes: normal mode and master mode. The normal mode is for first time players and includes assistance events. The master mode is for advanced players and has stronger and faster enemies.</desc>
+		<image>./mixart/House of the Dead-Scarlet Dawn.jpg</image>
+		<video>./snap/House of the Dead-Scarlet Dawn.mp4</video>
+		<marquee>./wheel/House of the Dead-Scarlet Dawn.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VF5B.parrot</path>
+		<name>Virtua Fighter 5</name>
+		<image>./mixart/VF5B.png</image>
+		<marquee>./wheel/VF5B.png</marquee>
+		<video>./snap/VF5B.mp4</video>
+		<rating>0.6</rating>
+		<desc>Fighting game released in 2005 for the SEGA Lindbergh Yellow arcade platform.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SEGA Lindbergh Yellow</developer>
+		<publisher>SEGA Lindbergh Yellow</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Aleste.parrot</path>
+		<name>ALESTE</name>
+		<desc>Shoot 'Em Up game released in 2021 for the SEGA ALLS arcade platform.</desc>
+		<image>./mixart/Aleste.png</image>
+		<video>./snap/Aleste.mp4</video>
+		<marquee>./wheel/Aleste.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>SEGA ALLS</developer>
+		<publisher>SEGA ALLS</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ArcanaHeart2Nesica.parrot</path>
+		<name>Arcana Heart 2 for NESiCAxLive</name>
+		<desc>Fighting game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/ArcanaHeart2Nesica.png</image>
+		<video>./snap/ArcanaHeart2Nesica.mp4</video>
+		<marquee>./wheel/ArcanaHeart2Nesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BlazingAngels.parrot</path>
+		<name>Blazing Angels</name>
+		<desc>Experience the greatest air battles of World War II in famous locations from across the globe in Blazing Angels: Squadrons of WWII. Whether it's the Battle of Britain, the attack on Pearl Harbor, or the fierce fighting for the deserts of North Africa, you and your squadron of Blazing Angels will turn the tide of war. Command three separate A.I.-wingmen and make use of their special abilities to both attack and defend their squadron leader. During the course of the twenty mission campaign, you and your squad grow together as an ace fighting force through the entire length of WWII. Fly in close to Germany's industrial terrain for a bombing raid, strafe the islands of the Pacific, or emerge from the cloud cover over London and engage the enemy. The environment is so real you'll feel like you're the pilot in a famous WWII movie.</desc>
+		<image>./mixart/BlazingAngels.png</image>
+		<video>./snap/BlazingAngels.mp4</video>
+		<marquee>./wheel/BlazingAngels.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Global-VR PC</developer>
+		<publisher>Global-VR PC</publisher>
+		<genre>Flying</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./PokkenTournament.parrot</path>
+		<name>Pokkén Tournament</name>
+		<desc>Battle Pokémon like never before in all-new, action-packed arena fights! Perform vivid Pokémon moves in all their glory with button combinations through an intuitive fighting system to unleash devastating attacks upon your opponent to become the Pokkén Tournament champion!Learn various fighting styles of Pokémon such as Pikachu, Charizard, Lucario, and more. Any fan will be able to learn and execute signature Pokémon moves with a press of a button. Turn the tide of battle by calling upon support Pokémon to assist, and unleash devastating attacks to KO your opponent. Battles await, and it’s up to you to claim the title of Pokkén Tournament champion!</desc>
+		<image>./mixart/PokkenTournament.png</image>
+		<video>./snap/PokkenTournament.mp4</video>
+		<marquee>./wheel/PokkenTournament.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Namco ES3B</developer>
+		<publisher>Namco ES3B</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BBCF.parrot</path>
+		<name>BlazBlue: Central Fiction</name>
+		<desc>BlazBlue: Central Fiction is the newest installment in the storied BlazBlue franchise and stands alone as the pinnacle of next gen 2D fighters! Like a well-timed 2D punch, BlazBlue: Central Fiction bashes massive amounts of content and innovation into one slick title that hits hard and keeps the pummeling steady!</desc>
+		<image>./mixart/BBCF.png</image>
+		<video>./snap/BBCF.mp4</video>
+		<marquee>./wheel/BBCF.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./AquapazzaAquaplusDreamMatch.parrot</path>
+		<name>Aquapazza: Aquaplus Dream Match</name>
+		<desc>Aquapazza: Aquaplus Dream Match (??????? ?????????????) is a 2011 2D arcade fighting game developed by Examu. It is a joint collaboration between Aquaplus and Leaf, who developed all the titles and featured characters. The "Dream Match" in the title references the characters of the game coming together from various Aquaplus titles, including Utawarerumono, Tears to Tiara, and To Heart.</desc>
+		<image>./mixart/AquapazzaAquaplusDreamMatch.png</image>
+		<video>./snap/AquapazzaAquaplusDreamMatch.mp4</video>
+		<marquee>./wheel/AquapazzaAquaplusDreamMatch.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BattleFantasia.parrot</path>
+		<name>Battle Fantasia</name>
+		<desc>Battle Fantasia, a fighting game set in a world of swords and sorcery! Designed with a system that is easy to learn but difficult to master, Battle Fantasia is fun for casual and expert gamers! Twenty-four storylines are brought to life with incredible graphics and twelve fully-voiced characters.</desc>
+		<image>./mixart/BattleFantasia.png</image>
+		<video>./snap/BattleFantasia.mp4</video>
+		<marquee>./wheel/BattleFantasia.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BladeArcus.parrot</path>
+		<name>Blade Arcus</name>
+		<desc>Fighting game released in 2014 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/BladeArcus.png</image>
+		<video>./snap/BladeArcus.mp4</video>
+		<marquee>./wheel/BladeArcus.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BladeStrangers.parrot</path>
+		<name>Blade Strangers</name>
+		<desc>A malevolent force known only as Lina is devouring data from a vast, interdimensional network of servers overseen by sentient computers called ”motes.” In desperation, the motes summon heroes from a variety of parallel game worlds to face off against each other in one-on-one combat. The tournament victor has the potential to be awakened as the Blade Stranger—the savior who can vanquish Lina and protect the motes from further harm!</desc>
+		<image>./mixart/BladeStrangers.png</image>
+		<video>./snap/BladeStrangers.mp4</video>
+		<marquee>./wheel/BladeStrangers.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180101T000000</releasedate>
+		<developer>SEGA ALL.Net MULTI Ver.2</developer>
+		<publisher>SEGA ALL.Net MULTI Ver.2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Cars.parrot</path>
+		<name>Cars</name>
+		<desc>Racing game released in 2013 for the Raw Thrills PC arcade platform.</desc>
+		<image>./mixart/Cars.png</image>
+		<video>./snap/Cars.mp4</video>
+		<marquee>./wheel/Cars.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Raw Thrills PC</developer>
+		<publisher>Raw Thrills PC</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./CrimzonClover.parrot</path>
+		<name>Crimzon Clover for NESiCAxLive</name>
+		<desc>Crimzon Clover: World Ignition is a 2D vertically-scrolling shoot'em up in the manic shooter/bullet hell/danmaku style, similar to DoDonPachi. The player chooses one from three fighter jets (with different colors, speed and power), flies forward, shoot enemies, and avoids bullets. The player's ship's hitbox is very small, as in most bullet hell games.  The jet has main weapons and several other options to shoot. There is a 'lock' ability that introduces a slow mode and homing missiles and 'break' that launches a powerful energy wave and invincibility for a short time. The player must collect stars that will raise the Break Meter. The game has four modes: Boost, Original, Unlimited and Time Attack, and two difficulty settings: Arcade and Novice.</desc>
+		<image>./mixart/CrimzonClover.png</image>
+		<video>./snap/CrimzonClover.mp4</video>
+		<marquee>./wheel/CrimzonClover.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./GGXX.parrot</path>
+		<name>Guilty Gear XX Accent Core Plus R</name>
+		<desc>Fighting game released in 2012 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/GGXX.png</image>
+		<video>./snap/GGXX.mp4</video>
+		<marquee>./wheel/GGXX.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./HyperStreetFighterII.parrot</path>
+		<name>Hyper Street Fighter II - The Anniversary Edition for NESiCAxLive</name>
+		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
+		<image>./mixart/HyperStreetFighterII.png</image>
+		<video>./snap/HyperStreetFighterII.mp4</video>
+		<marquee>./wheel/HyperStreetFighterII.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./KingofFightersXII.parrot</path>
+		<name>King of Fighters XII, The</name>
+		<desc>The twelveth installment in the series forgoes the Atomiswave hardware to Taito's Type X2. It is also planned to be the first overhaul to the series since The King of Fighters '96. Every character's old sprite will be dropped and replace with fully redrawn high definition sprites. The game will also returns to it's traditional team based gameplay rather than the previous KOFs tag team.</desc>
+		<image>./mixart/KingofFightersXII.png</image>
+		<video>./snap/KingofFightersXII.mp4</video>
+		<marquee>./wheel/KingofFightersXII.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RumbleFish2Nesica.parrot</path>
+		<name>Rumble Fish 2 for NESiCAxLive, The</name>
+		<desc>The Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+
+The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+
+Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./mixart/RumbleFish2Nesica.png</image>
+		<video>./snap/RumbleFish2Nesica.mp4</video>
+		<marquee>./wheel/RumbleFish2Nesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SpaceInvaders.parrot</path>
+		<name>Space Invaders for NESiCAxLive</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon.</desc>
+		<image>./mixart/SpaceInvaders.png</image>
+		<video>./snap/SpaceInvaders.mp4</video>
+		<marquee>./wheel/SpaceInvaders.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./StreetFighterIII3rdStrike.parrot</path>
+		<name>Street Fighter III: 3rd Strike - Fight for the Future for NESiCAxLive</name>
+		<desc>3rd Strike increased the character roster by adding five new characters, notably including the legendary Chun-Li. New characters Remy, Makoto, Q, and Twelve were also added, bringing the total number of playable fighters to twenty. Also re-introduced was the fan-favourite 'Destroy the Car' bonus stage. 
+
+One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry, also known as the 'Red Parry', which allows players to parry during guard stun, providing the timing is correct. Another new feature is after-match player evaluations in which the winner of a two-person match is graded in Offense, Defence, Tech and Extra. In single-player Arcade mode the player will always be evaluated, even in event of a loss. The grades range from E (lowest) to MSF, or Master Street Fighter (highest).</desc>
+		<image>./mixart/StreetFighterIII3rdStrike.png</image>
+		<video>./snap/StreetFighterIII3rdStrike.mp4</video>
+		<marquee>./wheel/StreetFighterIII3rdStrike.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./StreetFighterZero3.parrot</path>
+		<name>Street Fighter Zero 3 for NESiCAxLive</name>
+		<desc>Fighting game released in 2014 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/StreetFighterZero3.png</image>
+		<video>./snap/StreetFighterZero3.mp4</video>
+		<marquee>./wheel/StreetFighterZero3.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SuperStreetFighterIVArcadeEditionVer2012.parrot</path>
+		<name>Super Street Fighter IV: Arcade Edition Ver. 2012</name>
+		<desc>Fighting game released in 2012 for the Taito Type X2 arcade platform.</desc>
+		<image>./mixart/SuperStreetFighterIVArcadeEditionVer2012.png</image>
+		<video>./snap/SuperStreetFighterIVArcadeEditionVer2012.mp4</video>
+		<marquee>./wheel/SuperStreetFighterIVArcadeEditionVer2012.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./UltraStreetFighterIV.parrot</path>
+		<name>Ultra Street Fighter IV</name>
+		<desc>The world's greatest fighting game evolves to a whole new level with Ultra Street Fighter IV. Continuing the tradition of excellence for which the series is known, five new characters and six new scenarios have been added for more punching, as well as rebalanced gameplay and original modes.</desc>
+		<image>./mixart/UltraStreetFighterIV.png</image>
+		<video>./snap/UltraStreetFighterIV.mp4</video>
+		<marquee>./wheel/UltraStreetFighterIV.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./UnderNightInBirthExeLatest.parrot</path>
+		<name>Under Night In-Birth Exe:Late</name>
+		<desc>Fighting game released in 2012 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/UnderNightInBirthExeLatest.png</image>
+		<video>./snap/UnderNightInBirthExeLatest.mp4</video>
+		<marquee>./wheel/UnderNightInBirthExeLatest.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VampireSavior.parrot</path>
+		<name>Vampire Savior: The Lord of Vampire for NESiCAxLive</name>
+		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
+		<image>./mixart/VampireSavior.png</image>
+		<video>./snap/VampireSavior.mp4</video>
+		<marquee>./wheel/VampireSavior.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./AkaiKatanaShinNesica.parrot</path>
+		<name>Akai Katana Shin for NESiCAxLive</name>
+		<desc>Shoot 'Em Up game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/AkaiKatanaShinNesica.png</image>
+		<video>./snap/AkaiKatanaShinNesica.mp4</video>
+		<marquee>./wheel/AkaiKatanaShinNesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ArcanaHeart3Nesica.parrot</path>
+		<name>Arcana Heart 3: LOVE MAX SixStarS!!!!!!</name>
+		<desc>Fighting game released in 2013 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/ArcanaHeart3Nesica.png</image>
+		<video>./snap/ArcanaHeart3Nesica.mp4</video>
+		<marquee>./wheel/ArcanaHeart3Nesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BBCP.parrot</path>
+		<name>BlazBlue: Chronophantasma</name>
+		<desc>Fighting game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/BBCP.png</image>
+		<video>./snap/BBCP.mp4</video>
+		<marquee>./wheel/BBCP.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./BlazBlueCalaminityTrigger.parrot</path>
+		<name>BlazBlue: Calamity Trigger</name>
+		<desc>BlazBlue: Calamity Trigger is a 2D fighting game with 12 characters, each with unique personalities, fighting styles and advantages. During the story mode every character has its own story which is told with dialogue between fights. During some of those dialogues the player has to choose between answers which influences the story's ending. Additionally there is a arcade mode (fighting against all characters in a row), score attack and a multiplayer mode.
+
+The fighting system utilizes the usual fighting game options: there are weak, middle and strong attacks. Certain button combinations result in special, character specific attacks. If the player manages to hurt his opponent (or gets hit) a special energy bar fills up. If it is full he can unleash an especially powerful attack. There also is a stamina bar which decreases while blocking: when it is empty the character takes extra damage.</desc>
+		<image>./mixart/BlazBlueCalaminityTrigger.png</image>
+		<video>./snap/BlazBlueCalaminityTrigger.mp4</video>
+		<marquee>./wheel/BlazBlueCalaminityTrigger.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ArcadeLove.parrot</path>
+		<name>Ge-Sen Love: Plus Pengo!</name>
+		<desc>Compilation game released in 2012 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/ArcadeLove.png</image>
+		<video>./snap/ArcadeLove.mp4</video>
+		<marquee>./wheel/ArcadeLove.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Compilation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BlazBlueCalaminityTrigger.parrot</path>
+		<name>BlazBlue: Calamity Trigger</name>
+		<desc>BlazBlue: Calamity Trigger is a 2D fighting game with 12 characters, each with unique personalities, fighting styles and advantages. During the story mode every character has its own story which is told with dialogue between fights. During some of those dialogues the player has to choose between answers which influences the story's ending. Additionally there is a arcade mode (fighting against all characters in a row), score attack and a multiplayer mode.
+
+The fighting system utilizes the usual fighting game options: there are weak, middle and strong attacks. Certain button combinations result in special, character specific attacks. If the player manages to hurt his opponent (or gets hit) a special energy bar fills up. If it is full he can unleash an especially powerful attack. There also is a stamina bar which decreases while blocking: when it is empty the character takes extra damage.</desc>
+		<image>./mixart/BlazBlueCalaminityTrigger.png</image>
+		<video>./snap/BlazBlueCalaminityTrigger.mp4</video>
+		<marquee>./wheel/BlazBlueCalaminityTrigger.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ChaosCodeNSOC103.parrot</path>
+		<name>Chaos Code: New Sign of Catastrophe v1.03.00</name>
+		<desc>The game uses a standard 8-way lever and four button (weak punch, weak kick, strong punch, strong kick) system. Characters can be customized prior to the fight, such as selecting two "edit special moves" from four possibilities to go along with the character's built-in attacks. Players can also select between "run" and "step" modes, placing the focus respectively on speed and technical play. The game makes use of a couple of systems that can quickly change the flow of battle:
+
+Destruction Chaos: A high level super move that, if successfully connects, can eliminate half of the opponent's life gauge.
+
+Exceed Chaos: Place the character into a special status which removes limitations on combos.</desc>
+		<image>./mixart/ChaosCodeNSOC103.png</image>
+		<video>./snap/ChaosCodeNSOC103.mp4</video>
+		<marquee>./wheel/ChaosCodeNSOC103.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ChaseHQ2.parrot</path>
+		<name>Chase H.Q. 2</name>
+		<desc>Chase H.Q. 2 is an upgraded version of the original classic 80's arcade racing game "Chase H.Q.". Like previous installments, the gameplay of Chase H.Q. 2 involves the player assuming the role of a police officer, with the sole purpose of chasing down criminals and stopping them in their tracks. Chase H.Q. 2 will also include several new features, such as the ability to pick up nitrous which gives you an extra advantage, and the inclusion of a lifelike Nancy character who offers guidance in English to help the player catch the bad guys.</desc>
+		<image>./mixart/ChaseHQ2.png</image>
+		<video>./snap/ChaseHQ2.mp4</video>
+		<marquee>./wheel/ChaseHQ2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./CottonRnR.parrot</path>
+		<name>Cotton Rock'n'Roll</name>
+		<desc>Shoot 'Em Up game released in 2021 for the SEGA ALLS arcade platform.</desc>
+		<image>./mixart/CottonRnR.png</image>
+		<video>./snap/CottonRnR.mp4</video>
+		<marquee>./wheel/CottonRnR.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>SEGA ALLS</developer>
+		<publisher>SEGA ALLS</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./D1GP.parrot</path>
+		<name>D1GP Arcade</name>
+		<desc>Racing game released in 2007 for the Taito Type X2 arcade platform.</desc>
+		<image>./mixart/D1GP.png</image>
+		<video>./snap/D1GP.mp4</video>
+		<marquee>./wheel/D1GP.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DaemonBrideExboard.parrot</path>
+		<name>Daemon Bride</name>
+		<desc>Fighting game released in 2009 for the Examu eX-Board arcade platform.</desc>
+		<image>./mixart/DaemonBrideExboard.png</image>
+		<video>./snap/DaemonBrideExboard.mp4</video>
+		<marquee>./wheel/DaemonBrideExboard.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Examu eX-Board</developer>
+		<publisher>Examu eX-Board</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DoNotFallRunforYourDrink.parrot</path>
+		<name>Do Not Fall: Run For Your Drink</name>
+		<desc>Do Not Fall is an intense and thrilling action-platform game. Playing as a fearless adventurer who lives inside a special vending machine, you will go through seven different adventure worlds to collect enough ingredients to produce and dispense the drink for the machine!
+
+It might sound and look easy, but player will need to prove their reflex is quick enough to avoid disappearing tiles, obstacles, and traps along the way. The player will do whatever it takes to avoid being knocked off or drop from the surface!
+
+Multiplayer is also available if you want to take your skills to challenge other players in different multiplayer game mode. So gather your friends and start an awesome battle to see who will be the king “on”the floor.</desc>
+		<image>./mixart/DoNotFallRunforYourDrink.png</image>
+		<video>./snap/DoNotFallRunforYourDrink.mp4</video>
+		<marquee>./wheel/DoNotFallRunforYourDrink.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ElevatorAction.parrot</path>
+		<name>Elevator Action for NESiCAxLive</name>
+		<desc>The player assumes the role of a spy who infiltrates a building filled with elevators. He must collect secret documents from the building and traverse the 30 levels of the building using an increasingly complex series of elevators. The player is pursued by enemy agents who appear from behind closed doors. The player must outwit them via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems are so complex that some puzzle-solving skills are needed.</desc>
+		<image>./mixart/ElevatorAction.png</image>
+		<video>./snap/ElevatorAction.mp4</video>
+		<marquee>./wheel/ElevatorAction.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./EnEinsPerfektewelt.parrot</path>
+		<name>En-Eins Perfektewelt for NESiCAxLive</name>
+		<desc>* To customize keys , right click and run Controlls + General Settings</desc>
+		<image>./mixart/EnEinsPerfektewelt.png</image>
+		<video>./snap/EnEinsPerfektewelt.mp4</video>
+		<marquee>./wheel/EnEinsPerfektewelt.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FightingClimaxIgnition.parrot</path>
+		<name>Fighting Climax Ignition</name>
+		<desc>Fighting game released in 2015 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/FightingClimaxIgnition.png</image>
+		<video>./snap/FightingClimaxIgnition.mp4</video>
+		<marquee>./wheel/FightingClimaxIgnition.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FrenzyExpress.parrot</path>
+		<name>Frenzy Express</name>
+		<desc>Racing game released in 2001 for the Uniana PC Based arcade platform.</desc>
+		<image>./mixart/FrenzyExpress.png</image>
+		<video>./snap/FrenzyExpress.mp4</video>
+		<marquee>./wheel/FrenzyExpress.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Uniana PC Based</developer>
+		<publisher>Uniana PC Based</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GGXrdSIGN.parrot</path>
+		<name>Guilty Gear Xrd -SIGN-</name>
+		<desc>Fighting game released in 2014 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/GGXrdSIGN.png</image>
+		<video>./snap/GGXrdSIGN.mp4</video>
+		<marquee>./wheel/GGXrdSIGN.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Homura.parrot</path>
+		<name>Homura for NESiCAxLive</name>
+		<desc>Homura is a vertical scroll shooting game where players are situated in a civil war as the hero and must confront the warring State's generals who have super human abilities. Apart from the shooting attack, players can also partake in sword fights and must defeat their enemy to finish the war.</desc>
+		<image>./mixart/Homura.png</image>
+		<video>./snap/Homura.mp4</video>
+		<marquee>./wheel/Homura.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ID5.parrot</path>
+		<name>Initial D: Arcade Stage 5</name>
+		<desc>Initial D Arcade Stage 4 (イニシャルD アーケード ステージ 4) is a racing game developed by Sega. It is the sequel to Initial D Arcade Stage Ver.3. This version has been heavily updated compared to its predecessors. The game underwent location testing from October 21, 2006 to October 30, 2006 in game centers in Tokyo, Osaka, and Aomori, Japan, and was released on February 21, 2007. The international version was released in July 2007 which is named Initial D 4. Outside of a limited release of Arcade Stage 8 Infinity in 2014, this is the last installment of the series to be officially released in Western countries.[1]</desc>
+		<image>./mixart/ID5.png</image>
+		<video>./snap/ID5.mp4</video>
+		<marquee>./wheel/ID5.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>SEGA Lindbergh Yellow</developer>
+		<publisher>SEGA Lindbergh Yellow</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ID7.parrot</path>
+		<name>Initial D: Arcade Stage 7 Double Ace Cross</name>
+		<desc>Racing game released in 2012 for the SEGA RingEdge arcade platform.</desc>
+		<image>./mixart/ID7.png</image>
+		<video>./snap/ID7.mp4</video>
+		<marquee>./wheel/ID7.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>SEGA RingEdge</developer>
+		<publisher>SEGA RingEdge</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ID8.parrot</path>
+		<name>Initial D: Arcade Stage 8 Infinity</name>
+		<desc>Racing game released in 2014 for the SEGA RingEdge arcade platform.</desc>
+		<image>./mixart/ID8.png</image>
+		<video>./snap/ID8.mp4</video>
+		<marquee>./wheel/ID8.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>SEGA RingEdge</developer>
+		<publisher>SEGA RingEdge</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Ikaruga.parrot</path>
+		<name>Ikaruga for NESiCAxLive</name>
+		<desc>Ikaruga is a shoot-em-up arcade game which brings a perfect blend of classic arcade shooting and original gameplay. The player's ship can switch between two different 'polarities': White and Dark. The Dark polarity can absorb dark colored enemy bullets while the White polarity can absorb white-colored enemy bullets. If the player kills 3 enemies of the same color in a row, a combo is built up that adds to the score.</desc>
+		<image>./mixart/Ikaruga.png</image>
+		<video>./snap/Ikaruga.mp4</video>
+		<marquee>./wheel/Ikaruga.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KingofFighters98UnlimitedMatch.parrot</path>
+		<name>King of Fighters '98 Ultimate Match, The</name>
+		<desc>After “KOF '98”, often praised by the fans as the best installment in the “KOF” series, and “KOF ’98 UM” 10 years later, “KOF ’98” returns now in an ultimate and final version with King of Fighters '98: Ultimate Match Final Edition.</desc>
+		<image>./mixart/KingofFighters98UnlimitedMatch.png</image>
+		<video>./snap/KingofFighters98UnlimitedMatch.mp4</video>
+		<marquee>./wheel/KingofFighters98UnlimitedMatch.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Taito Type X</developer>
+		<publisher>Taito Type X</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KODrive.parrot</path>
+		<name>K.O. Drive</name>
+		<desc>Racing game released in Unreleased for the SEGA RingWide arcade platform.</desc>
+		<image>./mixart/KODrive.png</image>
+		<video>./snap/KODrive.mp4</video>
+		<marquee>./wheel/KODrive.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>UnreleasedT000000</releasedate>
+		<developer>SEGA RingWide</developer>
+		<publisher>SEGA RingWide</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Koihime.parrot</path>
+		<name>Koihime Enbu</name>
+		<desc>Based on the Koihime Musou visual novel, Koihime Enbu features a reimagining of the Romance of Three Kingdoms where the majority of characters are girls. Originally an arcade fighting game, Koihime Enbu draws upon this pedigree to offer players accessible and exciting mechanics that will draw in beginner and veteran players alike.
+
+Koihime Enbu is an ground based fighting game. Anyone can enjoy it from a beginner to a skilled fighting game veteran. Fighting game veterans will relish the tight controls and fast combat, providing the possibility for huge combos and devastating counters. Explore the Fatal Counter system that creates additional combo opportunities. With almost every attack being punishable, Koihime Enbu strives to provide a cleaner and more precise fighting experience.</desc>
+		<image>./mixart/Koihime.png</image>
+		<video>./snap/Koihime.mp4</video>
+		<marquee>./wheel/Koihime.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./NitroplusBlasterz.parrot</path>
+		<name>Nitro+ Blasterz: Heroines Infinite Duel</name>
+		<desc>The greatest heroines of the Nitroplus visual novels come together in a battle royale! Choose from 12 core characters (plus two DLC characters), bring any two of 20 partners, and build up your Power Gauge to unleash your awe-inspiring Lethal Blaze! 
+
+When an ancient evil awakens, blurring the boundaries between worlds, she brings together the mightiest champions from across the multiverse. As they struggle to comprehend her strange realm, she presents them all with a challenge: Fight to prove that their worlds are worthy to go on living. 
+
+Though the champions come from wildly different backgrounds, with a variety of strengths and weaknesses, all of them share the same goal: Defeat all the others, prove themselves to be the strongest, and protect every last thing they hold dear.</desc>
+		<image>./mixart/NitroplusBlasterz.png</image>
+		<video>./snap/NitroplusBlasterz.mp4</video>
+		<marquee>./wheel/NitroplusBlasterz.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Persona4U.parrot</path>
+		<name>P4UU: Persona 4 The Ultimax Ultra Suplex Hold</name>
+		<desc>Fighting game released in 2013 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/Persona4U.png</image>
+		<video>./snap/Persona4U.mp4</video>
+		<marquee>./wheel/Persona4U.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./PhantomBreaker.parrot</path>
+		<name>Phantom Breaker: Another Code</name>
+		<desc>Fighting game released in 2013 for the SEGA RingEdge 2 arcade platform.</desc>
+		<image>./mixart/PhantomBreaker.png</image>
+		<video>./snap/PhantomBreaker.mp4</video>
+		<marquee>./wheel/PhantomBreaker.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>SEGA RingEdge 2</developer>
+		<publisher>SEGA RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./PuzzleBobble.parrot</path>
+		<name>Puzzle Bobble for NESiCAxLive</name>
+		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
+		<image>./mixart/PuzzleBobble.png</image>
+		<video>./snap/PuzzleBobble.mp4</video>
+		<marquee>./wheel/PuzzleBobble.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RadikalBikers.parrot</path>
+		<name>Radikal Bikers</name>
+		<desc>A game set in a Mediterranean environment in which, for the first time, players have the chance to show off their motor-cycle skills in a typically Italian urban setting. The game is a competition between two pizza delivery couriers in a race to see who can deliver their pizza first. The urban circuit allows interaction with all kinds of elements: cars, vans, windows, fences, people, etc. To help you complete your mission, you can collect icons giving you more speed, power or time. Hidden shortcuts help you gain valuable seconds.
+
+You must choose from four pizza couriers each with his or her own particular abilities. There are three game levels: Margherita (easy), Capricciosa (medium) &amp; Diavolo (difficult). There are four different races at each level which allow you to show the other biker who has the most skill, daring and ability.</desc>
+		<image>./mixart/RadikalBikers.png</image>
+		<video>./snap/RadikalBikers.mp4</video>
+		<marquee>./wheel/RadikalBikers.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gaelco PC Based (Atari License)</developer>
+		<publisher>Gaelco PC Based (Atari License)</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RollingGunner.parrot</path>
+		<name>Rolling Gunner</name>
+		<desc>Shoot 'Em Up game released in 2021 for the SEGA ALLS arcade platform.</desc>
+		<image>./mixart/RollingGunner.png</image>
+		<video>./snap/RollingGunner.mp4</video>
+		<marquee>./wheel/RollingGunner.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>SEGA ALLS</developer>
+		<publisher>SEGA ALLS</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./segartv.parrot</path>
+		<name>SEGA Race TV</name>
+		<desc>Sega Race TV is a racer with a distinctly American theme.</desc>
+		<image>./mixart/segartv.png</image>
+		<video>./snap/segartv.mp4</video>
+		<marquee>./wheel/segartv.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA Lindbergh Yellow</developer>
+		<publisher>SEGA Lindbergh Yellow</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SenkoNoRondeDuoNesica.parrot</path>
+		<name>Senko no Ronde: DUO - Dis-United Order for NESiCAxLive</name>
+		<desc>Senko no Ronde 2 is a unique mix of fighting game and bullet hell shooter in which players pilot powerful armed robots called Rounders and do battle in futuristic arenas.
+
+Set in the far future where Earth has been rendered uninhabitable due to a catastrophe known as the Great Disaster and humans have migrated to colonies orbiting Mars and the Moon. Eight years after a terrorist attack causes deep shifts in the balance of power, various factions of the ruling confederation clash in an epic tale of political intrigue.
+
+Play through each character's storyline in the arcade mode, compete online and off with other players in fast-paced battles, mastering the various weaponry and the all powerful B.O.S.S. mode! Even dive into the back story of Senko no Ronde Duo: the choice is yours!</desc>
+		<image>./mixart/SenkoNoRondeDuoNesica.png</image>
+		<video>./snap/SenkoNoRondeDuoNesica.mp4</video>
+		<marquee>./wheel/SenkoNoRondeDuoNesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SpicaAdventure.parrot</path>
+		<name>Spica Adventure</name>
+		<desc>Spica Adventure is a 2-D action game featuring a littel girl with a parasol. The game has 28 stages of nine areas (2 stage + 1 boss stage).</desc>
+		<image>./mixart/SpicaAdventure.png</image>
+		<video>./snap/SpicaAdventure.mp4</video>
+		<marquee>./wheel/SpicaAdventure.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Taito Type X</developer>
+		<publisher>Taito Type X</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SRC.parrot</path>
+		<name>SEGA Racing Classic</name>
+		<desc>Daytona USA is the holy grail of arcade racing - First launched in the 90's, this brand new entry brings Sega’s #1 racer screeching into the 21st century! SEGA Racing Classic features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era.</desc>
+		<image>./mixart/SRC.png</image>
+		<video>./snap/SRC.mp4</video>
+		<marquee>./wheel/SRC.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA RingWide</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SRG.parrot</path>
+		<name>Storm Racer G</name>
+		<desc>Racing game released in 2013 for the WAHLAP PC Based arcade platform.</desc>
+		<image>./mixart/SRG.png</image>
+		<video>./snap/SRG.mp4</video>
+		<marquee>./wheel/SRG.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20130101T000000</releasedate>
+		<developer>WAHLAP PC Based</developer>
+		<publisher>WAHLAP PC Based</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StarTrekVoyager.parrot</path>
+		<name>Star Trek Voyager</name>
+		<desc>Shooter game released in 2002 for the Team Play PC Based arcade platform.</desc>
+		<image>./mixart/StarTrekVoyager.png</image>
+		<video>./snap/StarTrekVoyager.mp4</video>
+		<marquee>./wheel/StarTrekVoyager.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Team Play PC Based</developer>
+		<publisher>Team Play PC Based</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StreetFighterIV.parrot</path>
+		<name>Street Fighter IV</name>
+		<desc>Fighting game released in 2008 for the Taito Type X2 arcade platform.</desc>
+		<image>./mixart/StreetFighterIV.png</image>
+		<video>./snap/StreetFighterIV.mp4</video>
+		<marquee>./wheel/StreetFighterIV.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./abc.parrot</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax is a sequel to the long-running After Burner series. Just like the previous games players command an aircraft from a third-person view, engaging enemies, dodging enemy fire and rockets and navigating through canyons and narrow passages. Gameplay requires quick reflexes and is arcade-like in design. The iconic F-14 Super Tomcat of the previous games has been replaced by a F-14D Super Tomcat with the addition of two new aircraft, F/A-18E Super Hornet and F-15E Strike Eagle. In the standard EX arcade mode there is a branching mission path with various objectives. Sometimes enemies need to be engaged, while other times friendly fighters help along, stealth must be used, or a specific target needs to be pursued and taken out. There are two main weapons: regular cannon fire for close distances and rockets that can only be used when they are locked on. There is also a Climax gauge that can be activated when it is full.</desc>
+		<image>./mixart/After Burner Climax.png</image>
+		<video>./snap/After Burner Climax.mp4</video>
+		<marquee>./wheel/After Burner Climax.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Flying, Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNF.parrot</path>
+		<name>Fast and the Furious, The</name>
+		<desc>The Fast and the Furious is an arcade game based on the first film of the franchise. However, the vehicles used in 2Fast 2Furious are featured in the game as well. It was developed and published by Raw Thrills. They can be viewed as a spiritual successor to the Cruis'n series, as they contain many similar elements and were both designed by Eugene Jarvis. The original arcade game was even ported to the Wii under the name Cruis'n, with all elements of the film license removed. The Fast and the Furious brings the movie to life with: 12 action-packed tracks 17 tricked-out rides A cardless ID system that lets players build their own custom car collection!</desc>
+		<image>./mixart/The Fast and the Furious.png</image>
+		<video>./snap/The Fast and the Furious.mp4</video>
+		<marquee>./wheel/The Fast and the Furious.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona3.parrot</path>
+		<name>Daytona 3 / Daytona Championship</name>
+		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
+		<image>./mixart/Daytona 3.png</image>
+		<video>./snap/Daytona 3.mp4</video>
+		<marquee>./wheel/Daytona 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DirtyDrivin.parrot</path>
+		<name>Dirty Drivin</name>
+		<desc>Dirty Drivin'™ is a high energy combat racing game that combines classic arcade ingredients. We've got insane custom vehicles, devastating and devious weapons, epic environments sprinkled liberally with power-ups and a reckless disregard for the rules of the road. All of which boils down to a deliciously sweet ride.</desc>
+		<image>./mixart/Dirty Drivin.png</image>
+		<video>./snap/Dirty Drivin.mp4</video>
+		<marquee>./wheel/Dirty Drivin.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DOA5.parrot</path>
+		<name>Dead or Alive 5 Ultimate Arcade</name>
+		<desc>Dead or Alive 5 Ultimate (abbreviated to DOA5 Ultimate or just DOA5U) is a fighting game in the Dead or Alive series, developed by Team Ninja, and released by Tecmo Koei for the PlayStation 3 and Xbox 360 in September 2013. It was followed by an arcade edition later in 2013. It is the first arcade game to be released by Koei Tecmo since Dead or Alive 2 Millenium in 2000. DOA5 Ultimate is an expanded edition of 2012's Dead or Alive 5, incorporating some features from the PlayStation Vita's Dead or Alive 5 Plus as well as additional content, including five characters that are new or returning to the series (including two Ninja Gaiden characters), a comprehensive story mode, as well as gameplay system tweaks and expansions, many of them in the online multiplayer tag team mode (including an introduction of two-on-two tag team battles). The game received generally favorable reviews. A free-to-play cut version of DOA5 Ultimate, titled Dead or Alive 5 Ultimate: Core Fighters, was released on the PlayStation Store alongside the retail game. The arcade edition Dead or Alive 5 Ultimate: Arcade was released on 24 December 2013, distributed by Sega. Ultimate was followed by Dead or Alive 5 Last Round in 2015.</desc>
+		<image>./mixart/Dead or Alive 5 Ultimate Arcade.png</image>
+		<video>./snap/Dead or Alive 5 Ultimate Arcade.mp4</video>
+		<marquee>./wheel/Dead or Alive 5 Ultimate Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FightingClimax.parrot</path>
+		<name>Fighting Climax</name>
+		<desc>Get ready for a dream duel of epic proportions in Dengeki Bunko: Fighting Climax, a 2D fighting game featuring an all-star cast of popular characters from Dengeki Bunko novels set against Sega-themed worlds. Developed by Ecole and French Bread, this mash up features a fighting system that is both easily understood yet complex in depth catering to veterans and newcomers alike.</desc>
+		<image>./mixart/Fighting Climax.png</image>
+		<video>./snap/Fighting Climax.mp4</video>
+		<marquee>./wheel/Fighting Climax.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GtiClub3.parrot</path>
+		<name>GTI Club Supermini Festa!</name>
+		<desc>GTI Club Supermini Festa! shifts its way onto Arcade! Staying true to the original racing frenzy of the award-winning arcade game, players will race through the cityscapes of France, the UK, Italy, USA and Japan. Speed through tight bends and back roads of the urban sprawl, up steep mountainous roads and caves. Tackle a wide variety of driving conditions in the ultimate race to the finish! Features • Journey through 5 stages and 15+ courses: Race through open cities, tackle oncoming traffic and pedestrians, and journey through high mountainous roads (locations include France, UK, Italy, USA, Japan) to uncover new routes and secret courses.</desc>
+		<image>./mixart/GTI Club Supermini Festa.png</image>
+		<video>./snap/GTI Club Supermini Festa.mp4</video>
+		<marquee>./wheel/GTI Club Supermini Festa.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./H2Overdrive.parrot</path>
+		<name>H2Overdrive</name>
+		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
+		<image>./mixart/H2Overdrive.png</image>
+		<video>./snap/H2Overdrive.mp4</video>
+		<marquee>./wheel/H2Overdrive.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./JusticeLeague.parrot</path>
+		<name>Justice League : Heroes United</name>
+		<desc>Justice League Heroes United is an arcade game based on the Justice League comic book.</desc>
+		<image>./mixart/JusticeLeague.png</image>
+		<video>./snap/JusticeLeague.mp4</video>
+		<marquee>./wheel/JusticeLeague.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<publisher>Global VR</publisher>
+		<genre>Beat-'Em-Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./YugiohDT6U.parrot</path>
+		<name>Yugioh 5DS Duel Terminal 6 USA</name>
+		<desc>Card game released in 2012 for the Konami PC arcade platform.</desc>
+		<image>./mixart/YugiohDT6U.png</image>
+		<video>./snap/YugiohDT6U.mp4</video>
+		<marquee>./wheel/YugiohDT6U.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Konami PC</developer>
+		<publisher>Konami PC</publisher>
+		<genre>Card</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KingofFightersMaximumImpactRegulationA.parrot</path>
+		<name>The King of Fighters: Maximum Impact Regulation A</name>
+		<desc>KOF: Maximum Impact Regulation A was released for the Taito Type X2 arcade system in July 2007. It is the only arcade release made for the KOF: MI series and has the inclusion of Ash Crimson, Blue Mary, Makoto Mizoguchi from Fighter's History, and newcomer Xiao Lon, who is a Hizoku Assassin like her brother, Duo Lon, into its character roster. Regulation "A" is a remake of Maximum Impact 2, but with the classic 3 on 3 gameplay added from the 2D KOF series added in hopes of winning over the series fanbase as well as new players. Regulation "A" does not feature a story mode. Despite the addition of four new characters, Armor Ralf has been removed, as have several stages, as well as the story and challenge modes from Maximum Impact 2. In addition, all of the characters have lost half of their outfits in both normal and alternate types. Some new music, including songs from the original Maximum Impact and Sengoku 3, have been added, in addition to new alternate versions of stages and a new level for Makoto Mizoguchi.</desc>
+		<image>./mixart/KOF - Maximum Impact Regulation A.png</image>
+		<video>./snap/KOF - Maximum Impact Regulation A.mp4</video>
+		<marquee>./wheel/KOF - Maximum Impact Regulation A.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./LGJ.parrot</path>
+		<name>Let's Go Jungle: Lost on the Island of Spice</name>
+		<desc>Let's Go Jungle: Lost on the Island of Spice. The game follows the story of Beth and her bumbling tour guide, Zack. While out on a boat tour around the island, pirates being chased by sharks crash into their boat and try to commandeer it. The two are thrown overboard and wash ashore on a tropical island, where the local wildlife has gone crazy. Beth and Zack must work together if they hope to escape the island. The game follows many of the same conventions as the original games, mixing arcade shooting with Press X to Not Die segments with a few control tweaks.</desc>
+		<image>./mixart/Let_s Go Jungle! Lost on the Island of Spice.png</image>
+		<video>./snap/Let_s Go Jungle! Lost on the Island of Spice.mp4</video>
+		<marquee>./wheel/Let_s Go Jungle! Lost on the Island of Spice.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./LostLand.parrot</path>
+		<name>Lost Land Adventure</name>
+		<desc>Shooter game released in 2014 for the Namco ES3X arcade platform.</desc>
+		<image>./mixart/LostLand.png</image>
+		<video>./snap/LostLand.mp4</video>
+		<marquee>./wheel/LostLand.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Namco ES3X</developer>
+		<publisher>Namco ES3X</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./LuigisMansion.parrot</path>
+		<name>Luigi's Mansion Arcade</name>
+		<desc>Luigi's Mansion Arcade (named Luigi Mansion Arcade in Japanese) is an arcade game based off of Luigi's Mansion: Dark Moon for the Nintendo 3DS. Developed by Capcom and published by Sega under the license from Nintendo, it is the fifth game to feature Luigi as the main character, and it is also one of the few Nintendo-based arcade games released in the current generation. It is an on-rails light gun game with a vacuum controller and support for two players.</desc>
+		<image>./mixart/Luigi_s Mansion Arcade.png</image>
+		<video>./snap/Luigi_s Mansion Arcade.mp4</video>
+		<marquee>./wheel/Luigi_s Mansion Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MS.parrot</path>
+		<name>Sonic Storm aka MachStorm</name>
+		<desc>Mach Storm is an arcade game developed by Bandai Namco. It utilizes assets from other Ace Combat games released near the same time, and is one of the first international arcade games to use a modified Namco System N2 "P.O.D." display. Parts of its gameplay are taken from Mobile Suit Gundam: Bonds of the Battlefield, which also used the N2 P.O.D. system. Mach Storm was released in December 2013 in Japan, and available internationally by February 2014.</desc>
+		<image>./mixart/MachStorm.png</image>
+		<video>./snap/MachStorm.mp4</video>
+		<marquee>./wheel/MachStorm.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Flying</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Persona4A.parrot</path>
+		<name>P4U: Persona 4 The Ultimate in Mayonaka Arena</name>
+		<desc>Fighting game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/Persona4A.png</image>
+		<video>./snap/Persona4A.mp4</video>
+		<marquee>./wheel/Persona4A.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SSASR.parrot</path>
+		<name>Sonic SEGA All-Stars Racing</name>
+		<desc>Sonic and Sega All-Stars Racing is a racing game developed by Sumo Digital. It stars characters from a wide range of Sega games, similar to the previously released Sega Superstars Tennis, also by Sumo Digital. Unlike Sega Superstars Tennis, Sonic &amp; Sega All-Stars Racing is more skewed towards the Sonic the Hedgehog franchise, with roughly half the tracks based on the series and appoximately one third of the characters.</desc>
+		<image>./mixart/Sonic Sega All-Stars Racing Arcade.png</image>
+		<video>./snap/Sonic Sega All-Stars Racing Arcade.mp4</video>
+		<marquee>./wheel/Sonic Sega All-Stars Racing Arcade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./TokyoCop.parrot</path>
+		<name>Tokyo Cop</name>
+		<desc>Tokyo Cop: Special Police Reinforcement is an arcade racing game where the player takes the role of one of four police agents at the Neo Koban Police Station and has to clear the streets of Tokyo from dangerous criminals. The game consists of more than 48 missions covering four of Tokyo's districts: Ginza, Hibiya, Shinjuku and Shibuya. To gain promotion the player has to catch a number of criminals within a time limit. Not succeeding with this can instead lead to the player being demoted. To arrest a criminal the player has to move his car along side the criminal and hit it. Most of the time one hit is enough but for some of the tougher opponents multiple hits will be needed. There are in total nine cars to drive and each has their own characteristics that makes them more or less suitable for pursuing the various criminals.</desc>
+		<image>./mixart/Tokyo Cop.png</image>
+		<video>./snap/Tokyo Cop.mp4</video>
+		<marquee>./wheel/Tokyo Cop.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031201T000000</releasedate>
+		<developer>JapanMade</developer>
+		<publisher>JapanMade</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./TroubleWitchesNesica.parrot</path>
+		<name>Trouble Witches AC for NESiCAxLive</name>
+		<desc>Shoot 'Em Up game released in 2012 for the NESiCA arcade platform.</desc>
+		<image>./mixart/TroubleWitchesNesica.png</image>
+		<video>./snap/TroubleWitchesNesica.mp4</video>
+		<marquee>./wheel/TroubleWitchesNesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>NESiCA</developer>
+		<publisher>NESiCA</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Umifresh.parrot</path>
+		<name>Umihara Kawase Fresh! For AC</name>
+		<desc>Large, explorable town expands in all directions as the story unfolds and you gain access to new areasMore than 75 unique quests, each replayable in Time Attack mode, plus unlockable Challenge questsCollect dozens of unique ingredients and use them to prepare many different recipes, resulting in consumable items that can grant temporary power-upsA whole town filled with charming, human-like animal characters, many of whom provide information, directions, advice, items, recipes and additional quests to undertakeMore than 50 unique enemies, some of which can be captured and used as ingredients in special recipes, plus boss charactersPurchase ingredients from the Shop, or visit the Library to read about the items you’ve found and the enemies you’ve facedUnlockable alternate playable characters</desc>
+		<image>./mixart/Umifresh.png</image>
+		<video>./snap/Umifresh.mp4</video>
+		<marquee>./wheel/Umifresh.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>SEGA ALLS</developer>
+		<publisher>SEGA ALLS</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VF5C.parrot</path>
+		<name>Virtua Fighter 5</name>
+		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
+		<image>./mixart/Virtua Fighter 5.png</image>
+		<video>./snap/Virtua Fighter 5.mp4</video>
+		<marquee>./wheel/Virtua Fighter 5.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./WackyRaces.parrot</path>
+		<name>Wacky Races</name>
+		<desc>For those who can remember the cartoon series, this will be a blast from the past. Choose from all your favourite characters including Peter Perfect, Penelope Pitstop and, of course, Dick Dastardly and Muttley, and wind your way through cartoon like environments in the familiar vehicles of each character. Simply get to the end of the race first to open up new tracks, and use weapons to pick off the rest of the cast, and aid your progress.</desc>
+		<image>./mixart/WackyRaces.png</image>
+		<video>./snap/WackyRaces.mp4</video>
+		<marquee>./wheel/WackyRaces.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Taito Type X2</developer>
+		<publisher>Taito Type X2</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./WMMT5DXPlus.parrot</path>
+		<name>Wangan Midnight Maximum Tune 5DX+</name>
+		<desc>Racing game released in 2017 for the Namco ES3B arcade platform.</desc>
+		<image>./mixart/WMMT5DXPlus.png</image>
+		<video>./snap/WMMT5DXPlus.mp4</video>
+		<marquee>./wheel/WMMT5DXPlus.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20170101T000000</releasedate>
+		<developer>Namco ES3B</developer>
+		<publisher>Namco ES3B</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SnoCross.parrot</path>
+		<name>Winter X Games SnoCross</name>
+		<desc>SnoCross is the latest racer from Raw Thrills. SnoCross has 6 snowmobile racers, 6 killer sleds, and insane custom upgrades. Plus travel the world by riding on 7 intense tracks in France, Antarctica, China, Alaska, Washington D.C., Moscow and Colorado. This game is officially licensed from ESPN and racers are able to perform the same sick tricks as seen in the X Games. Huge airtime gives you even more time to try crazy tricks. Throw snowballs at your opponents to battle for the lead.</desc>
+		<image>./mixart/Winter X Games SnoCross.png</image>
+		<video>./snap/Winter X Games SnoCross.mp4</video>
+		<marquee>./wheel/Winter X Games SnoCross.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Rawl Thrills</publisher>
+		<genre>Racing</genre>
+		<players>8</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KingofFightersXIIIClimax.parrot</path>
+		<name>The King of Fighters XIII Climax</name>
+		<desc>The King of Fighters XIII was released for PlayStation 3 late last year. Since then, SNK Playmore has collected, with much affection, suggestions and complaints from the fans about the game. From the PS3 release through April 2012, the company has been launching frequent updates based on their research to improve the game and make the title experience more accurate to the public's expectations. New characters have been added, the company has better balanced the game, removed some infinite combos that should not exist, among other improvements. Anyway, SNK Playmore, with a lot of sweat, had managed to finish the job, The King of Fighters XIII had stayed exactly as the gamers wanted. However, there was an issue that troubled the company. Originally the game was released for Arcade, and only after a time ported to the PS3. With the updates made, it was noted that the home version had gotten much better than the original version, making KOFXIII outdated in Arcade. Thinking about it, the company decided to do the reverse. If Arcade had given life to the game's home port, The King of Fighters XIII had to go back to Arcade and showcase all of its improvements, bringing back the glory of the franchise. With this premise is born The King of Fighters XIII Climax, made available a few days ago in Japan, bringing everything the version for PlayStation 3 has. Unfortunately, SNK distributor Atlus in the west has not revealed whether there are plans for the launch of KOFXIII Climax in the Arcades here.</desc>
+		<image>./mixart/KingofFightersXIIIClimax.png</image>
+		<video>./snap/KingofFightersXIIIClimax.mp4</video>
+		<marquee>./wheel/KingofFightersXIIIClimax.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20120426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DariusBurst.parrot</path>
+		<name>Dariusburst: Another Chronicle</name>
+		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
+		<image>./mixart/Dariusburst Another Chronicle.png</image>
+		<video>./snap/Dariusburst Another Chronicle.mp4</video>
+		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Pyramide</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./R-Tuned.parrot</path>
+		<name>R-Tuned : Ultimate Street Racing</name>
+		<desc>Racing game released in 2008 for the SEGA Lindbergh Yellow arcade platform.</desc>
+		<image>./mixart/R-Tuned.png</image>
+		<video>./snap/R-Tuned.mp4</video>
+		<marquee>./wheel/R-Tuned.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>SEGA Lindbergh Yellow</developer>
+		<publisher>SEGA Lindbergh Yellow</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RaidenIVNesica.parrot</path>
+		<name>Raiden IV for NESiCAxLive</name>
+		<desc>Shoot 'Em Up game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/RaidenIVNesica.png</image>
+		<video>./snap/RaidenIVNesica.mp4</video>
+		<marquee>./wheel/RaidenIVNesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SchoolOfRagnarok.parrot</path>
+		<name>School of Ragnarok</name>
+		<desc>Fighting game released in 2015 for the Taito Type X3 arcade platform.</desc>
+		<image>./mixart/SchoolOfRagnarok.png</image>
+		<video>./snap/SchoolOfRagnarok.mp4</video>
+		<marquee>./wheel/SchoolOfRagnarok.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Taito Type X3</developer>
+		<publisher>Taito Type X3</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StraniaTheStellaMachina.parrot</path>
+		<name>Strania -The Stella Machina-</name>
+		<desc>Japanese boutique game studio G.rev Classic
+
+This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade games. Players will need to make strategic decisions quickly in this fast-paced, exhilarating shooter. Accompanied by a catchy soundtrack and featuring dramatic visual effects, G.rev proudly presents Strani</desc>
+		<image>./mixart/StraniaTheStellaMachina.png</image>
+		<video>./snap/StraniaTheStellaMachina.mp4</video>
+		<marquee>./wheel/StraniaTheStellaMachina.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StreetFighterVTypeArcade.parrot</path>
+		<name>Street Fighter V: Type Arcade</name>
+		<desc>Fighting game released in 2019 for the Taito Type X4 arcade platform.</desc>
+		<image>./mixart/StreetFighterVTypeArcade.png</image>
+		<video>./snap/StreetFighterVTypeArcade.mp4</video>
+		<marquee>./wheel/StreetFighterVTypeArcade.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Taito Type X4</developer>
+		<publisher>Taito Type X4</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SWDC.parrot</path>
+		<name>Sega World Drivers Championship</name>
+		<desc>Racing game released in 2018 for the SEGA ALLS arcade platform.</desc>
+		<image>./mixart/SWDC.png</image>
+		<video>./snap/SWDC.mp4</video>
+		<marquee>./wheel/SWDC.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180101T000000</releasedate>
+		<developer>SEGA ALLS</developer>
+		<publisher>SEGA ALLS</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Tekken7FR.parrot</path>
+		<name>Tekken 7 Fated Retribution</name>
+		<desc>Tekken 7 is a fighting game developed and published by Bandai Namco Entertainment. It is the seventh canonical installment in the Tekken series (ninth overall main title) following Tekken Tag Tournament 2, also it is the final chapter of The Mishima Saga Story and was the first to make use of the Unreal Engine. Tekken 7 had a limited arcade release in March 2015.</desc>
+		<image>./mixart/Tekken 7 Fated Retribution.png</image>
+		<video>./snap/Tekken 7 Fated Retribution.mp4</video>
+		<marquee>./wheel/Tekken 7 Fated Retribution.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./UDX.parrot</path>
+		<name>Under Defeat HD+</name>
+		<desc>Under Defeat is a shoot 'em up arcade game by G.rev. The game takes place in an alternate reality based on World War II, and, in a controversial twist, players control German-speaking characters (under the banner of "the Empire"), fighting against enemies ("the Union") that speak English and possess weapons patterned after those of both real-life Allied and Axis powers.</desc>
+		<image>./mixart/Under Defeat HD+.png</image>
+		<video>./snap/Under Defeat HD+.mp4</video>
+		<marquee>./wheel/Under Defeat HD+.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VirtuaRLimit.parrot</path>
+		<name>Valve Limit R</name>
+		<desc>Racing game released in 2004 for the Taito Type X arcade platform.</desc>
+		<image>./mixart/VirtuaRLimit.png</image>
+		<video>./snap/VirtuaRLimit.mp4</video>
+		<marquee>./wheel/VirtuaRLimit.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Taito Type X</developer>
+		<publisher>Taito Type X</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VT4.parrot</path>
+		<name>Virtua Tennis 4</name>
+		<desc>Sports game released in 2011 for the SEGA RingEdge arcade platform.</desc>
+		<image>./mixart/VT4.png</image>
+		<video>./snap/VT4.mp4</video>
+		<marquee>./wheel/VT4.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>SEGA RingEdge</developer>
+		<publisher>SEGA RingEdge</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./2Spicy.parrot</path>
+		<name>Too Spicy</name>
+		<desc>2 Spicy is a cover based third person shooter made for arcades. The game is built around one-on-one fights between two players and is controlled with light guns and pedals. Pointing the gun at the screen allows the player to fire at the enemy while pointing away from the screen causes the player character to hide behind a cover such as an oil drum or a pillar. Moving between different covers is done by stepping on one of two pedals, causing the character to move either left or right. Stepping on a pedal twice allows the player to do jump shots when aiming at the screen and a dodge when aiming away. Aiming on the enemy for a certain amount of time causes the camera to zoom in and the player's attack power will be increased and it is possible to do a head shot for a large amount of damage.</desc>
+		<image>./mixart/Too Spicy.png</image>
+		<video>./snap/Too Spicy.mp4</video>
+		<marquee>./wheel/Too Spicy.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GG.parrot</path>
+		<name>Sega Golden Gun</name>
+		<desc>Sega Golden Gun is a light gun game released by Sega in 2010 for Sega RingWide hardware. It was developed by Sega of China, by the same team responsible for the The House of the Dead series. Many of the game's assets, including the engine itself, were ported directly from The House of the Dead 4.</desc>
+		<image>./mixart/Sega Golden Gun.png</image>
+		<video>./snap/Sega Golden Gun.mp4</video>
+		<marquee>./wheel/Sega Golden Gun.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./LGI.parrot</path>
+		<name>Let's Go Island: Lost on the Island of Tropics</name>
+		<desc>Let's Go Island: Lost On the Island of Tropics is a Sega arcade game that was released in the mid-2011. It's a sequel to Let's Go Jungle!: Lost on the Island of Spice. Taking place on a Pacific island, the protagonists are a goofball New Zealander guide called Zack and a nerdy Canadian girl called Beth. While on a tour, their tour boat collides with another boat with a small group of pirates landing on the boat and are being chased by sharks after landing in the sea, there the captain is killed by a giant squid. But they manage to escape from it, they must go to the airport in order to get off the island, when they get airport the pilot demands to "to show them what they have" mistaken them for the pirates. But the plane gets attacked by a giant queen bee.</desc>
+		<image>./mixart/Let_s Go Island_ Lost on the Island of Tropics.png</image>
+		<video>./snap/Let_s Go Island_ Lost on the Island of Tropics.mp4</video>
+		<marquee>./wheel/Let_s Go Island_ Lost on the Island of Tropics.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./OG.parrot</path>
+		<name>Operation G.H.O.S.T.</name>
+		<desc>Sega's realistic tactical arcade light gun shooter is back. Operation G.H.O.S.T. puts players in the shoes of highly trained special force agents. They must use precision shooting and quick reactions to complete the mission whilst using some of the brand new tools at their disposal! As well as new weapons, gadgets and equipment, Operation Ghost features a full coloured LED monitor surround which is synced with the in game action. This, combined with a gun mounted speaker, as well as the return of the popular challenge sections, provides a game play experience that will really immerse players in to the intense world of the G.H.O.S.T.'s.</desc>
+		<image>./mixart/OG.png</image>
+		<video>./snap/OG.mp4</video>
+		<marquee>./wheel/OG.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>SEGA RingWide</developer>
+		<publisher>SEGA RingWide</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SDR.parrot</path>
+		<name>Dream Raiders</name>
+		<desc>Dive into a dream world of adventures! Climb on board this beautifully modelled dream machine and be transported to a new level of excitement. Choose your dream ride and raid as many treasures as you can whilst fending off attacks by strange and incredible enemies with your Dream Blasters. Successfully complete your raid and be carried off into new realms in thrilling bonus stages. Nine unique dream experiences await you in this fantastic new deluxe game from Sega. Ride a dragon, pilot a UFO, get on horseback or put on your super suits and head for the skies! Dream Raiders features an exciting mix of exhilarating experiences that everyone will enjoy. The combination of intense motion, wind, sound and visuals combine to give players an arcade experience like none other!</desc>
+		<image>./mixart/Dream Raiders.png</image>
+		<video>./snap/Dream Raiders.mp4</video>
+		<marquee>./wheel/Dream Raiders.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SilentHill.parrot</path>
+		<name>Silent Hill: The Arcade</name>
+		<desc>Silent Hill: The Arcade is an arcade game spin off of the survival horror video game series Silent Hill developed by Konami. The Arcade was first revealed at the 2007 Japan Arcade Operator's Union trade show by Konami. Being a rail shooter, Silent Hill: The Arcade is a large departure from the normal survival horror mechanics of the main series. The game deals with two characters, Eric and Tina, who have entered the town of Silent Hill and must battle monsters while uncovering the mystery behind Eric's nightmares about a girl and a steamship. The gameplay is similar to the House of the Dead series in which players use light guns to aim and shoot at enemies.Shooting away from the screen reloads the player's gun</desc>
+		<image>./mixart/SilentHill.png</image>
+		<video>./snap/SilentHill.mp4</video>
+		<marquee>./wheel/SilentHill.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Konami PC Based</developer>
+		<publisher>Konami PC Based</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./TC5.parrot</path>
+		<name>Time Crisis 5</name>
+		<desc>Shooter game released in 2015 for the Namco ES3X arcade platform.</desc>
+		<image>./mixart/TC5.png</image>
+		<video>./snap/TC5.mp4</video>
+		<marquee>./wheel/TC5.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Namco ES3X</developer>
+		<publisher>Namco ES3X</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MKDX.parrot</path>
+		<name>Mario Kart: Arcade GP DX</name>
+		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
+		<image>./mixart/Mario Kart Arcade GP DX.png</image>
+		<video>./snap/Mario Kart Arcade GP DX.mp4</video>
+		<marquee>./wheel/Mario Kart Arcade GP DX.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GRID.parrot</path>
+		<name>GRID</name>
+		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
+		<image>./mixart/GRID.png</image>
+		<video>./snap/GRID.mp4</video>
+		<marquee>./wheel/GRID.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Sega Europa-R</developer>
+		<publisher>Sega Europa-R</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>Fast and the Furious SuperCars, The</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSB.parrot</path>
+		<name>Fast and the Furious Super Bikes, The</name>
+		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/FNFSB.png</image>
+		<video>./snap/FNFSB.mp4</video>
+		<marquee>./wheel/FNFSB.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Raw Thrills PC Based</developer>
+		<publisher>Raw Thrills PC Based</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MeltyBloodRE2.parrot</path>
+		<name>Melty Blood</name>
+		<desc>Fighting game released in 2011 for the Sega RingEdge 2 arcade platform.</desc>
+		<image>./mixart/MeltyBloodRE2.png</image>
+		<video>./snap/MeltyBloodRE2.mp4</video>
+		<marquee>./wheel/MeltyBloodRE2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Sega RingEdge 2</developer>
+		<publisher>Sega RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RaidenIIINesica.parrot</path>
+		<name>Raiden III for NESiCAxLive</name>
+		<desc>Shoot 'Em Up game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/RaidenIIINesica.png</image>
+		<video>./snap/RaidenIIINesica.mp4</video>
+		<marquee>./wheel/RaidenIIINesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FarCryParadiseLost.parrot</path>
+		<name>Far Cry Paradise Lost</name>
+		<desc>The game takes full advantage of the Wii Remote and its Nunchuk attachment. For example, the player can make the character jump by lifting the nunchuk. Weapons are aimed by pointing the Wii Remote at the screen, and melee attacks are carried out by making a slashing motion with it. The zoom on sniper rifles will similarly be controlled by moving the Wii Remote towards the television. Split screen Chaos mode (standard deathmatch) is included.</desc>
+		<image>./mixart/FarCryParadiseLost.png</image>
+		<video>./snap/FarCryParadiseLost.mp4</video>
+		<marquee>./wheel/FarCryParadiseLost.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Global VR PC Based</developer>
+		<publisher>Global VR PC Based</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SR3.parrot</path>
+		<name>Sega Rally 3</name>
+		<desc>Sega Rally 3 is a 2008 arcade racing game developed by Sega Racing Studio for Sega Europa-R arcade hardware. It is a direct sequel to Sega Rally 2 and was developed simultaneously with Sega Rally Revo. During development, it went under the codename of Super Challenge.</desc>
+		<image>./mixart/Sega Rally 3.png</image>
+		<video>./snap/Sega Rally 3.mp4</video>
+		<marquee>./wheel/Sega Rally 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Transformers.parrot</path>
+		<name>Transformers - Human Alliance</name>
+		<desc>Sega's action adventure game, TRANSFORMERS Human Alliance, partners players with one of three of the movie's stars, Optimus Prime, Bumblebee or Sideswipe. Players must battle their way across America, Africa and Europe destroying the Decepticons before they find the All Spark, a material capable of bringing any mechanical or electronic object to life.</desc>
+		<image>./mixart/Transformers - Human Alliance.png</image>
+		<video>./snap/Transformers - Human Alliance.mp4</video>
+		<marquee>./wheel/Transformers - Human Alliance.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nameco</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./AliensExtermination.parrot</path>
+		<name>Aliens: Extermination</name>
+		<desc>It’s been years since the Colonial Marines left planet LV-426 and the Alien population behind. It’s time to go back to finish off the Alien monsters… and more! The world seems familiar, but the scenario is not. Since the Marine’s last visit, the “Wheland Yutan Corporation”, reprogrammed an army of synthetic humans to stop anything from getting in the way from the Company’s development of their deadly Bio Weapons. It’s not as simple as just killing Mother Alien any more.</desc>
+		<image>./mixart/AliensExtermination.png</image>
+		<video>./snap/AliensExtermination.mp4</video>
+		<marquee>./wheel/AliensExtermination.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Global VR</developer>
+		<genre>1st Person Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./CaladriusAC.parrot</path>
+		<name>Caladrius AC</name>
+		<desc>Caladrius (カラドリウス, Karadoriusu) is a scrolling shooter developed and published by MOSS, first released in April 25, 2013 for the Xbox 360 in Japan. It was later released digitally in North America and Europe on September 4, 2015. After its console debut, Caladrius was ported to arcades under the name Caladrius AC, adding extra game modes and supporting Sega's ALL.Net system.</desc>
+		<image>./mixart/Caladrius AC.png</image>
+		<video>./snap/Caladrius AC.mp4</video>
+		<marquee>./wheel/Caladrius AC.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Moss</developer>
+		<publisher>H2 Interactive</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./HOTD4.parrot</path>
+		<name>The House of the Dead 4</name>
+		<desc>The House of the Dead 4 is an arcade game that takes place shortly after The House of the Dead 4 for up to two players working cooperatively. Kate Green from the original game teams up with G to deal with another zombie infestation. This leads them to the Magician, a boss character from the first two games in the series. Next to the Magician, Justice is another boss character encountered in the game. Just like the original title the player holds an uzi gun to attack the zombies from a first-person perspective. There are two large screens, the seats can shake and air is blown when taking damage. As a rail shooter movement is done automatically, the player only aims and shoots. Some sections of the game are done on foot and others in a vehicle. There are also moments where a branching path can be chosen and there are various cut-scenes shown from a third-person perspective. Entirely new for the series is the addition for a green life bar near the bottom of the screen, allowing for multiple hits, taking damage, before the game is over.</desc>
+		<image>./mixart/The House of the Dead 4.png</image>
+		<video>./snap/The House of the Dead 4.mp4</video>
+		<marquee>./wheel/The House of the Dead 4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Rambo.parrot</path>
+		<name>Rambo</name>
+		<desc>Rambo: is a gun shooting game based on the worldwide hit, "Rambo" series, following Rambo's history of rage; "First Blood- Protecting His Dignity", "Rambo: First Blood Part 2- Protecting POW's" and "Rambo 3- Protecting His Best Friend". In order to fully express the world Rambo creates, the game incorporates computer graphics and real movie pictures, and the woofer sound effect will give the player the cinematic feeling while playing.
+
+Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopters and become the ultimate warrior Rambo. The realistic look and feel of the machine gun along with the recoil action will give the player a true action experience as if they are actually in the movie. There are various types of enemies so the player is challenged to decipher which weapon will cause the most damage. The attack gauge above the enemies will allow players to know which enemies will attack, for when the gauge is full they will shoot. Identify the enemy and defeat them instantly!</desc>
+		<image>./mixart/Rambo.png</image>
+		<video>./snap/Rambo.mp4</video>
+		<marquee>./wheel/Rambo.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./TetrisTheGrandMaster3TerrorInstinct.parrot</path>
+		<name>Tetris The Grand Master 3 - Terror Instinct</name>
+		<desc>Tetris: The Grand Master 3 Terror Instinct introduced several play mechanics to Tetris game play which can be seen today in its sequels and many other Tetris implementations. The basic game play of TGM is similar to that of other Tetris games. The player must move and rotate Tetromino-shaped pieces falling into a well to form horizontal lines, which will then be cleared. During game play, the game automatically gives ranks to the player according to his/her score, starting from 9 all the way up to GM (Grand Master).</desc>
+		<image>./mixart/Tetris The Grand Master 3 - Terror Instinct.png</image>
+		<video>./snap/Tetris The Grand Master 3 - Terror Instinct.mp4</video>
+		<marquee>./wheel/Tetris The Grand Master 3 - Terror Instinct.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arika</developer>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Batman.parrot</path>
+		<name>Batman</name>
+		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
+		<image>./mixart/Batman.png</image>
+		<video>./snap/Batman.mp4</video>
+		<marquee>./wheel/Batman.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving-Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KingofFightersSkyStage.parrot</path>
+		<name>The King of Fighters: Sky Stage</name>
+		<desc>KOF Sky Stage is an arcade vertical shooting game with King of Fighters characters. In order to rescue fighters trapped in Orochi's dimensional prison, these heroes have been given the ability to fly through the skies and use their abilities to shoot down various demons and wraiths.</desc>
+		<image>./mixart/KOF Sky Stage.png</image>
+		<video>./snap/KOF Sky Stage.mp4</video>
+		<marquee>./wheel/KOF Sky Stage.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./or2spdlx.parrot</path>
+		<name>Outrun 2 Special Tours Deluxe</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/Outrun 2 SP SDX.png</image>
+		<video>./snap/Outrun 2 SP SDX.mp4</video>
+		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSB2.parrot</path>
+		<name>Fast and the Furios Super Bikes 2, The</name>
+		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
+		<image>./mixart/FNFSB2.png</image>
+		<video>./snap/FNFSB2.mp4</video>
+		<marquee>./wheel/FNFSB2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Raw Thrills PC Based</developer>
+		<publisher>Raw Thrills PC Based</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BattleGear4.parrot</path>
+		<name>Battle Gear 4</name>
+		<desc>Racing game released in 2005 for the Taito Type X+ arcade platform.</desc>
+		<image>./mixart/BattleGear4.png</image>
+		<video>./snap/BattleGear4.mp4</video>
+		<marquee>./wheel/BattleGear4.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Taito Type X+</developer>
+		<publisher>Taito Type X+</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RastanSaga.parrot</path>
+		<name>Rastan Saga for NESiCAxLive</name>
+		<desc>A barbarian's adventure across varying terrain while encountering an assortment of mythological creatures and weapons. Pick up bonus items to increase your characters health or protection against attack, but beware of the cursed items.</desc>
+		<image>./mixart/RastanSaga.png</image>
+		<video>./snap/RastanSaga.mp4</video>
+		<marquee>./wheel/RastanSaga.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StarWars.parrot</path>
+		<name>Star Wars Battle Pod</name>
+		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+</gameList>
