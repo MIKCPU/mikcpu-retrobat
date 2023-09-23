@@ -1,0 +1,41 @@
+# Number of lightguns (Choose 1 or 2. Default is 1.)
+$nr_lightguns = 1
+
+# Lightgun/mouse driver (dinput or raw, raw required for 2 lightguns. Default is raw.)
+# Setting nr_lightguns to 2 will force use of "raw" input driver and vice-versa.
+$lightgun_driver = 'dinput'
+
+# Using at least one Sinden lightgun? Can be mixed e.g. with Wiimote in Mode 2 / other lightguns but requires Sinden overlay. ( y / n . Default is n.)
+$sinden = 'n'
+
+# You can change the Sinden Overlay.
+# Find new overlays in SindenLightgunWindowsSoftwareV1.08\Borders\RetroArchBorders , copy both .cfg and .png files.
+$overlay = 'V:\_tools\mikcpu-retrobat-master\lightgun\RetroArchBorders\SindenBorderWhiteThin_Wide.cfg'
+
+# You can change keys associated to Start / Select.
+# Dolphinbar Wiimote in Mode 2 can be used in DInput or RawInput jointly with other lightgun devices. Select = 'escape' / Start = 'enter'
+# Dolphinbar Wiimote in Mode 4 using RetroBat's WiimoteGun supports DInput only. Select = 'rctrl' / Start = 'enter'
+
+# You can find further keymap examples in the "Keyboard input" section of https://github.com/libretro/RetroArch/blob/master/retroarch.cfg 
+# Change accordingly to your lightgun mapped keys, or change in your lightgun software when available to match the configured values.
+
+# Default is the keymap for Dolphinbar Wiimote in Mode 2, Select = 'escape' / Start = 'enter'.
+# Due to potential device enumeration issues we map all lightguns with the same key mappings.
+
+$gun_select = 'escape'
+$gun_start = 'enter'
+
+# Adjust mouse index as required for your setup.
+# For troubleshooting mouse indexes can be displayed by starting Retroarch with logging enabled and input_driver="raw" in retroarch.cfg
+# Default is index 0 for Player 1, index 1 for Player 2.
+$player1_mouse_index = '0'
+$player2_mouse_index = '1'
+
+# Display/hide lightgun crosshairs.
+# Feature not applicable to the following Retroarch cores : 
+# 4DO (3do), FB Alpha 2012 (arcade), MAME (arcade), MAME 2016 (arcade), PUAE (amiga)
+
+# Recommended to display crosshairs for troublehooting, decide later to show/hide based on preference.
+# Default is 'y'.
+
+$show_crosshair = 'y'
